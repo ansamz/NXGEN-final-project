@@ -1,15 +1,15 @@
-# Project Name
+# Swiss Hospital Assistant
 
 example image:
 
 
-![alternative text](reports/img/pic01.jpg)
+![alternative text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzH-O7qsG29l9Gv7t6i26QRsf2mvvIqB40A&usqp=CAU)
 
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
+We enable medical practitioners to place the right services, at the right location. Some regions will need more attention from Cardiologists. Other, from Gynecologists. Knowing which diseases affect the population enables you to place the right medical cabinet at the right place. In this project, we will model the disease distribution for any region in Switzerland. We will also show which hospitals are qualified at treating it and whihc places require further medical staff and equipment.
 
 ### Partner
 * [Name of Partner organization/Government department etc..]
@@ -21,25 +21,16 @@ The purpose of this project is ________. (Describe the main goals of the project
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
-* Predictive Modeling
-* etc.
+* Data cleaning and processing
 
 ### Technologies
-* R
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
-
-## Project Description
-(Provide more detailed overview of the project.
-Talk a bit about your data sources and what questions and hypothesis you are exploring.
-What specific data analysis/visualization and modelling work are you using to solve the
-problem? What blockers and challenges are you facing?
-Feel free to number or bullet point things here)
+* geojson
+* plotly, seaborn, matplotlib
+* Pandas, numpy, google colab
+* Regular Expressions
+* DeepL api for translations
+* streamlit
 
 ## Getting Started
 
@@ -64,9 +55,5 @@ create another "setup.md" file and link to it here*
 
 ## Contributing Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])**
-
-#### Other Members:
-
- - [Full Name](https://github.com/[github handle])
- - [Full Name](https://github.com/[github handle])
+ - [Zuzana Dostalova](https://github.com/zuzanadostalova)
+ - [Ansam Zedan](https://github.com/ansamz)
