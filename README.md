@@ -1,6 +1,5 @@
 # Swiss Hospital Assistant
 
-example image:
 
 
 ![alternative text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzH-O7qsG29l9Gv7t6i26QRsf2mvvIqB40A&usqp=CAU)
