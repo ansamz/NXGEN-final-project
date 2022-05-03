@@ -39,7 +39,7 @@ Our workflow included three vital steps: collecting real-world data from various
 
 For example, the graph below contains the following information: the number of patients per hospital according to the disease category, the city and canton where the hospital is located, and the population number. In our app, you can hover over cities to display more information:
 
-![alternative text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzH-O7qsG29l9Gv7t6i26QRsf2mvvIqB40A&usqp=CAU)
+![alternative text](/screenshot/Screenshot_20220503_102849.png)
 
 Additional information about the most prevalent diseases per region, birth rates, specialized medical equipment, and staff members was added as well.
 In the future, we are hoping that this data will help build an app designated for patients to help them find the best and nearest medical facility to treat their illness. Furthermore, it could help in creating an algorithm to analyze and rate the quality of hospitals based on many features of the data provided, i.e., mortality, transferring patients to a different hospital due to lack of specialized doctors or equipment, length of stay at the hospital, and so on and so forth. 
