@@ -46,6 +46,16 @@ In the future, we are hoping that this data will help build an app designated fo
 This app will improve the quality of medical treatment, especially in the peripheral areas, and hopefully increase the availability of medical equipment.
 
 
+## Data
+
+1. [Medical Statistics of swiss hospitals](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/tabellen.assetdetail.20044205.html)
+2. [Ouality indicators, contains metadata as well](https://www.bag.admin.ch/bag/de/home/zahlen-und-statistiken/zahlen-fakten-zu-spitaelern/qualitaetsindikatoren-der-schweizer-akutspitaeler/qualitaetsindikatoren-dokumentation.html)
+3. [Swiss Hospitals](https://www.bag.admin.ch/bag/de/home/zahlen-und-statistiken/zahlen-fakten-zu-spitaelern/kennzahlen-der-schweizer-spitaeler.html)
+4. [Medical data according to age group](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/tabellen.assetdetail.20044114.html)
+5. [Birth rates in Switzerland](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/tabellen.assetdetail.21826833.html)
+6. [C section rates in Switzerland](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/tabellen.assetdetail.20044115.html)
+7. [Hospitalization according to canton](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/tabellen.assetdetail.20044061.html)
+
 
 ## Getting Started
 
