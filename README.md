@@ -29,6 +29,24 @@ We enable medical practitioners to place the right services, at the right locati
 * DeepL api for translations
 * streamlit
 
+## Project Description 
+
+The objective of this project was to create an application which can analyze patient distribution in specific cantons to help Swiss hospitals improve their treatment options. Moreover, we provide further information concerning the number of patients in various disease groups in these hospitals and the service they provide.
+The project was carried out in collaboration with NXGEN Medical Services, a startup company that specializes in data collection, machine learning, and predictive analysis. 
+Our workflow included three vital steps: collecting real-world data from various sources, processing them, and uploading them to the company database. The cleaning process was the most challenging and important one for many reasons. The data we acquired contained information in German, French, and Italian, so the first step was to use deep learning to translate them to English. The next step was to extract information from a source which contained multiple types of inputs in one column without a distinct pattern. All these steps were implemented in a pipeline with the aim to allow an easy insertion of future data into the company database. This way, the app can remain up to date with the latest datasets provided. Furthermore, we analyzed the data at hand using statistical tools, visualization, and machine learning. These tools were the essential components of the interactive app we created on Streamlit to make the data we extracted accessible and easy for the hospitals to use.
+
+[Streamlit link:](https://share.streamlit.io/ansamz/hospitals-and-diseases-in-switzerland/main/notebooks/AZ-streamlit.py)
+
+For example, the graph below contains the following information: the number of patients per hospital according to the disease category, the city and canton where the hospital is located, and the population number. In our app, you can hover over cities to display more information:
+
+![alternative text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzH-O7qsG29l9Gv7t6i26QRsf2mvvIqB40A&usqp=CAU)
+
+Additional information about the most prevalent diseases per region, birth rates, specialized medical equipment, and staff members was added as well.
+In the future, we are hoping that this data will help build an app designated for patients to help them find the best and nearest medical facility to treat their illness. Furthermore, it could help in creating an algorithm to analyze and rate the quality of hospitals based on many features of the data provided, i.e., mortality, transferring patients to a different hospital due to lack of specialized doctors or equipment, length of stay at the hospital, and so on and so forth. 
+This app will improve the quality of medical treatment, especially in the peripheral areas, and hopefully increase the availability of medical equipment.
+
+
+
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
