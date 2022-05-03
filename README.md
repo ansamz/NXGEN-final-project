@@ -8,7 +8,7 @@
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-We enable medical practitioners to place the right services, at the right location. Some regions will need more attention from Cardiologists. Other, from Gynecologists. Knowing which diseases affect the population enables you to place the right medical cabinet at the right place. In this project, we will model the disease distribution for any region in Switzerland. We will also show which hospitals are qualified at treating it and whihc places require further medical staff and equipment.
+We enable medical practitioners to place the right services, at the right location. Some regions will need more attention from Cardiologists. Other, from Gynecologists. Knowing which diseases affect the population enables you to place the right medical cabinet at the right place. In this project, we will model the disease distribution for any region in Switzerland. We will also show which hospitals are qualified at treating it and which places require further medical staff and equipment.
 
 ### Partner
 * [Name of Partner organization/Government department etc..]
