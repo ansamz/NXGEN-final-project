@@ -1,0 +1,154 @@
+;city;canton_english;canton_name;hospital
+0;Genève;Geneva;Genève;Les Hôpitaux Universitaires de Genève HUG
+2;Bern;Bern;Bern;Insel Gruppe AG (universitär)
+3;Lausanne;Vaud;Vaud;CHUV Centre Hospitalier Universitaire Vaudois
+6;Zürich; Zurich;Zürich;Universitätsspital Zürich
+7;Basel; Basel-city;Basel-stadt;Universitätsspital Basel
+8;Luzern;Lucerne;Luzern;Luzerner Kantonsspital
+11;Lugano;Ticino;Ticino;EOC Ente ospedaliero cantonale
+18;St. Gallen; St. Gall;St. Gallen;Kantonsspital St. Gallen
+21;Solothurn; Solothurn;Solothurn;Solothurner Spitäler AG
+24;Aarau;Aargau;Aargau;Kantonsspital Aarau AG
+25;Winterthur;Zurich;Zürich;Kantonsspital Winterthur
+26;Bern;Bern;Bern;Lindenhofgruppe AG
+29;Sion;Valais;Valais;Hôpital du Valais Centre hospitalier du Valais Romand CHVR
+33;Frauenfeld;Thurgau;Thurgau;Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen
+35;Zürich;Zurich;Zürich;Stadtspital Triemli
+36;Liestal;Basel-country;Basel-Landschaft;Kantonsspital Baselland
+39;Fribourg;Fribourg;Fribourg;HFR
+44;Baden;Aargau;Aargau;Kantonsspital Baden AG
+45;La Chaux-de-Fonds;Neuchâtel;Neuchâtel;Réseau hospitalier neuchâtelois RHNe
+49;Montreux;Vaud;Vaud;Hôpital Riviera­Chablais Vaud-Valais
+55;Zürich; Zurich;Zürich;Klinik Hirslanden AG
+56;Bern;Bern;Bern;Hirslanden Bern AG
+57;Chur;Graubünden;Graubünden;Kantonsspital Graubünden
+58;Thun;Bern;Bern;Spital STS AG
+60;Bern;Bern;Bern;Insel Gruppe AG (nicht-universitär)
+65;Altstätten;St. Gall;St. Gallen;Spitalregion Rheintal Werdenberg Sarganserland
+68;Luzern;Lucerne;Luzern;Hirslanden Klinik St. Anna AG
+69;Yverdon-les-Bains;Vaud;Vaud;Etablissements Hospitaliers du Nord Vaudois (eHnv)
+74;Biel/Bienne;Bern;Bern;Spitalzentrum Biel AG
+75;Brig;Valais;Valais;Spital Wallis
+77;Morges;Vaud;Vaud;EHC Ensemble hospitalier de la Côte
+80;Schlieren;Zurich;Zürich;Spital Limmattal
+81;Basel;Basel-city;Basel-stadt;St. Claraspital
+82;Schaffhausen;Schaffhausen;Schaffhausen;Spitäler Schaffhausen
+83;Baar;Zug;Zug;Zuger Kantonsspital AG
+84;Burgdorf;Bern;Bern;Regionalspital Emmental AG
+86;Zollikerberg;Zurich;Zürich;Spital Zollikerberg
+87;Bülach;Zurich;Zürich;Spital Bülach AG
+88;Wetzikon ZH;Zurich;Zürich;GZO Spital Wetzikon
+89;Aarau;Aargau;Aargau;Hirslanden Klinik Aarau
+90;Uster;Zurich;Zürich;Spital Uster
+91;Horgen;Zurich;Zürich;See­Spital
+93;Frutigen;Bern;Bern;Spitäler Frutigen Meiringen Interlaken AG
+95;Zürich;Zurich;Zürich;Stadtspital Waid
+96;Delémont;Jura;Jura;Hôpital du Jura
+99;Langenthal;Bern;Bern;SRO AG
+100;Rheinfelden;Aargau;Aargau;Gesundheitszentrum Fricktal
+101;Wil ;St. Gall;St. Gallen;Spitalregion Fürstenland Toggenburg
+103;Lausanne;Vaud;Vaud;Hirslanden Lausanne SA
+104;Männedorf;Zurich;Zürich;Spital Männedorf AG
+105;Nyon;Vaud;Vaud;Groupement Hospitalier de lOuest Lémanique (GHOL) SA
+107;Basel;Basel-city;Basel-stadt;Bethesda Spital AG
+108;Muri ;Aargau;Aargau;Stiftung Spital Muri
+109;Lugano;Ticino;Ticino;Clinica Luganese Moncucco SA
+110;Meyrin;Geneva;Genève;Hôpital de la Tour
+111;Herisau;Appenzell Ausserrhoden;Appenzell Ausserrhoden;Spitalverbund Appenzell Ausserrhoden
+112;Schwyz;Schwyz;Schwyz;Spital Schwyz
+113;Biel/Bienne;Bern;Bern;Hirslanden Klinik Linde AG
+114;Lachen ;Schwyz;Schwyz;Spital Lachen
+115;Zürich;Zurich;Zürich;Klinik Im Park
+116;St-Imier;Bern;Bern;Hôpital du Jura bernois SA
+120;Sarnen;Obwalden;Obwalden;Kantonsspital Obwalden
+121;St. Gallen;St Gall;St. Gallen;Hirslanden Klinik Stephanshorn
+122;Fribourg;Fribourg;Fribourg;Hôpital Jules Daler
+123;Chêne-Bougeries;Geneva;Genève;Clinique des Grangettes SA
+124;Payerne;Vaud;Vaud;Hôpital Intercantonal de la Broye (HIB)
+126;Stans;Nidwalden;Nidwalden;Kantonsspital Nidwalden
+127;Uznach;St Gall;St. Gallen;Spital Linth
+128;Genève;Geneva;Genève;Clinique Générale­Beaulieu
+129;Glarus;Glarus;Glarus;Kantonsspital Glarus
+130;Lausanne;Vaud;Vaud;Clinique de La Source
+131;Zofingen;Aargau;Aargau;Spital Zofingen AG
+132;Leuggern;Aargau;Aargau;Asana Spital Leuggern AG
+133;Cham;Zug;Zug;Andreas Klinik
+134;Zürich;Zurich;Zürich;Privatklinik Bethanien
+135;Einsiedeln;Schwyz;Schwyz;Spital Einsiedeln
+136;Altdorf;Uri;Uri;Kantonsspital Uri
+137;Affoltern am Albis;Zurich;Zürich;Spital Affoltern
+138;Menziken;Aargau;Aargau;Asana Spital Menziken AG
+140;Locarno;Ticino;Ticino;Clinica Santa Chiara SA
+141;Lugano;Ticino;Ticino;Cardiocentro Ticino (CCT)
+142;Samedan;Graubünden;Graubünden;Spital Oberengadin
+143;Schiers;Graubünden;Graubünden;Flury Stiftung Spital Schiers
+144;Ilanz;Graubünden;Graubünden;Regionalspital Surselva AG
+145;Gümligen;Bern;Bern;Siloah AG
+146;Davos Platz;Graubünden;Graubünden;Spital Davos AG Akutabteilung
+148;La Chaux-de-Fonds;Neuchâtel;Neuchâtel;SMN
+149;Genolier;Vaud;Vaud;Clinique de Genolier
+150;Kreuzlingen;Thurgau;Thurgau;Herz­Neuro­Zentrum Bodensee AG
+151;Richterswil;Zurich;Zürich;Paracelsus­Spital Richterswil AG
+152;Moutier;Bern;Bern;Hôpital de Moutier SA
+153;Thusis;Graubünden;Graubünden;Spital Thusis
+154;Arlesheim;Basel-city;Basel-Landschaft;Klinik Arlesheim AG
+155;Scuol;Graubünden;Graubünden;Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa
+156;Appenzell;Appenzell Innerrhoden;Appenzell Innerrhoden;Kantonales Spital Appenzell
+157;Ste-Croix;Vaud;Vaud;Réseau Santé Balcon du Jura.vd (RSBJ)
+158;Poschiavo;Graubünden;Graubünden;Centro Sanitario Valposchiavo Ospedale San Sisto
+159;Château-dOex;Vaud;Vaud;Pôle santé du Pays-dEnhaut
+160;Savognin;Graubünden;Graubünden;Center da Sanadad Savognin SA
+161;Bern;Bern;Bern;Stiftung Diaconis Palliative Care
+162;Arlesheim;Basel-country;Basel-Landschaft;Hospiz im Park
+163;Sta. Maria V. M.;Graubünden;Graubünden;Center da Sanda Val Müstair Akutabteilung
+164;La Chaux-de-Fonds;Neuchâtel;Neuchâtel;Clinique Volta SA
+165;Promontogno;Graubünden;Graubünden;Centro Sanitario Bregaglia Reparto Acuto
+166;Zürich;Zurich;Zürich;Schulthess Klinik
+167;Basel;Basel-city;Basel-stadt;Merian Iselin Klinik
+168;Zürich;Zurich;Zürich;Universitätsklinik Balgrist
+169;Speicher;Appenzell Ausserrhoden;Appenzell Ausserrhoden;Berit Klinik AG
+171;Genève;Geneva;Genève;Clinique la Colline
+172;Münchenstein;Basel-country;Basel-Landschaft;Hirslanden Klinik Birshof
+175;St. Moritz;Graubünden;Graubünden;Klinik Gut St. Moritz AG
+177;Heiden;Appenzell Ausserrhoden;Appenzell Ausserrhoden;Hirslanden Klinik Am Rosenberg AG
+179;Kreuzlingen;Thurgau;Thurgau;Klinik Seeschau AG
+181;Zürich;Zurich;Zürich;Klinik Pyramide am See AG
+183;Zürich;Zurich;Zürich;Limmatklinik AG
+184;Clarens;Vaud;Vaud;Clinique CIC Riviera
+185;Muttenz;Basel-country;Basel-Landschaft;Praxisklinik Rennbahn AG
+186;Winterthur;Zurich;Zürich;Privatklinik Lindberg
+187;Bülach;Zurich;Zürich;Uroviva Klinik AG
+188;Thun;Bern;Bern;Klinik Hohmad AG
+189;Saxon;Valais;Valais;Clinique CIC Valais SA
+190;Meggen;Lucerne;Luzern;Hirslanden Klinik St. Anna AG Hirslanden Klinik Meggen
+191;Schaffhausen;Schaffhausen;Schaffhausen;Hirslanden Klinik Belair
+192;Lausanne;Vaud;Vaud;Clinique de Montchoisi
+193;Dielsdorf;Zurich;Zürich;Adus Medica AG
+194;Rapperswil-Jona;St Gall;St. Gallen;Rosenklinik AG
+195;Niederuzwil;St Gall;St. Gallen;Thurklinik AG
+196;Kreuzlingen;Thurgau;Thurgau;Venenklinik Bellevue AG
+197;Genève;Geneva;Genève;Clinique de la Plaine
+198;Conches;Valais;Valais;Nouvelle Clinique Vert­Pré
+199;Carouge ;Geneva;Genève;Clinique de Carouge
+200;Zollikon;Zurich;Zürich;Klinik Tiefenbrunnen AG
+201;Winterthur;Zurich;Zürich;Eulachklinik AG
+202;Oberkirch ;Lucerne;Luzern;Geburtshaus Terra Alta
+203;Bäretswil;Zurich;Zürich;Geburtshaus Zürcher Oberland AG
+204;Ostermundigen;Bern;Bern;Geburtshaus Luna AG
+205;Zürich;Zurich;Zürich;Geburtshaus Delphys
+206;St. Gallen;St Gall;St. Gallen;Geburtshaus St.Gallen GmbH
+207;Othmarsingen;Aargau;Aargau;Geburtshus Storchenäscht AG
+208;Villars-sur-Glâne;Fribourg;Fribourg;Maison de Naissance le Petit Prince
+209;Genève;Geneva;Genève;Maison de naissance La Roseraie
+210;Basel;Basel-city;Basel-stadt;Matthea Geburtshaus
+211;Stans;Nidwalden;Nidwalden;Geburtshaus Stans
+212;Zweisimmen;Bern;Bern;Genossenschaft Geburtshaus Simmental-Saaneland Maternité Alpine
+213;Wittinsburg;Basel-country;Basel-Landschaft;Geburtshaus ambra GmbH
+214;Pratteln;Basel-country;Basel-Landschaft;Geburtshaus Tagmond GmbH
+215;Neuchâtel;Neuchâtel;Neuchâtel;Maison de Naissance Tilia Sàrl
+216;Vicques;Jura;Jura;Maison de naissance Les Cigognes
+217;Basel;Basel-city;Basel-stadt;Geburtshaus Basel
+218;Arlesheim;Basel-country;Basel-Landschaft;Ita Wegman Geburtshaus
+219;Zürich;Zurich;Zürich;Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung
+221;Basel;Basel-city;Basel-stadt;Universitäts­Kinderspital beider Basel (UKBB)
+222;St. Gallen;St Gall;St. Gallen;Stiftung Ostschweizer Kinderspital
