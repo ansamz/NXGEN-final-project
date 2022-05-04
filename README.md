@@ -66,6 +66,8 @@ This app will improve the quality of medical treatment, especially in the periph
 4. AZ_read_txt_files: Merging, cleaning and wrangling 650 text files into a dataframe
 5. AZ_Diseases_and_birth_prediction_in_Switzerland: Linear regression to predict the number of patients in each disease group
 6. AZ_maps_and_plots: Plots and choropleth map plots
+7. Quality_indicator_exploratory_data_analysis: Number of patients across Swiss hospitals and cantons between 2014 and 2019, 
+
 
 
 ## Contributing Members
