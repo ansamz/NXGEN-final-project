@@ -1,0 +1,17 @@
+
+	D1_08_V Anteil Verlegungen bei HD Pneumonie, Alter >19, ohne Tumor oder Mukoviszidose, Direktaufnahmen // Transferts avec DP pneumonie, âge >19, sans tumeur ni mucoviscidose, admissions directes, pourcentage // Trasferimenti con DP polmonite, età >19, senza tumore o mucoviscidosi, ammissioni dirette, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	813	11397	7.133456	
+	2009	966	12349	7.822496	
+	2010	890	11875	7.494737	
+	2011	831	12414	6.694055	
+	2012	541	12560	4.307325	
+	2013	547	13171	4.153064	
+	2014	488	13262	3.679686	
+	2015	643	15830	4.061908	
+	2016	626	15111	4.142678	
+	2017	618	16566	3.730532	
+	2018	617	17989	3.429874	
+	2019	648	17346	3.735732	

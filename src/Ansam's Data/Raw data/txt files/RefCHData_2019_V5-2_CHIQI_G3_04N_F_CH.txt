@@ -1,0 +1,17 @@
+
+	G3_04N_F Hysterektomie bei gutartigen Erkrankungen ohne Endometriose (Alter >49) // Hystérectomie pour affections bénignes sans endométriose (âge >49) // Isterectomia per malattie benigne senza endometriosi (età >49)
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	3421	
+	2009	3807	
+	2010	3800	
+	2011	3694	
+	2012	3689	
+	2013	3477	
+	2014	3382	
+	2015	3360	
+	2016	3307	
+	2017	3192	
+	2018	3216	
+	2019	3133	

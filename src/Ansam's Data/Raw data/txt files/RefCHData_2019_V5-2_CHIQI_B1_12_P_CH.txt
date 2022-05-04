@@ -1,0 +1,17 @@
+
+	B1_12_P Anteil Schlaganfall n.n.bez. (ICD­10 I64, Alter >19) // Accident vasculaire cérébral, sans précision (CIM­10 I64, âge >19), pourcentage // Colpo apoplettico, non altrimenti specificato (ICD­10 I64, età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	1794	11449	15.66949	
+	2009	1634	11803	13.84394	
+	2010	1598	13305	12.01052	
+	2011	1390	13960	9.95702	
+	2012	1184	14726	8.040201	
+	2013	1148	15307	7.499837	
+	2014	910	15442	5.893019	
+	2015	858	16464	5.21137	
+	2016	716	17281	4.143279	
+	2017	709	17837	3.974884	
+	2018	778	18429	4.221607	
+	2019	781	19043	4.101245	

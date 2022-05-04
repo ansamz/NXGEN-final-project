@@ -1,0 +1,17 @@
+
+	H4_03_M Prostata­TUR bei gutartigen Erkrankungen, Mortalität // RTU de la prostate pour affections bénignes, mortalité // TUR della prostata per malattie benigne, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	7	7435	0.09414929	
+	2009	7	7291	0.09600878	
+	2010	4	7063	0.05663316	
+	2011	4	6796	0.05885815	
+	2012	10	6709	0.1490535	
+	2013	6	7066	0.08491367	
+	2014	9	7503	0.119952	
+	2015	3	7127	0.04209345	
+	2016	4	7083	0.05647325	
+	2017	5	6970	0.07173601	
+	2018	3	7215	0.04158004	
+	2019	8	7345	0.1089176	

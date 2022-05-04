@@ -1,0 +1,16 @@
+
+	F3_03_M OP an Becken­/Beinarterien bei Ruheschmerz (Fontaine III), Mortalität // OP des artères du bassin/des jambes en cas de douleurs au repos (Fontaine III), mortalité // OP alle arterie del bacino/delle gambe in caso di dolore a riposo (Fontaine III), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2009	0	24	0	
+	2010	2	66	3.030303	
+	2011	0	168	0	
+	2012	3	187	1.604278	
+	2013	1	180	0.5555556	
+	2014	2	148	1.351351	
+	2015	4	184	2.173913	
+	2016	7	207	3.381643	
+	2017	1	171	0.5847953	
+	2018	5	171	2.923977	
+	2019	3	169	1.775148	

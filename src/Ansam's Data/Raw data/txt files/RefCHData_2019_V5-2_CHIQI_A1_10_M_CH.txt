@@ -1,0 +1,17 @@
+
+	A1_10_M Transmuraler Herzinfarkt (Alter >19), Mortalität // Infarctus du myocarde transmural (âge >19), mortalité // Infarto transmurale (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	519	6965	7.451543	
+	2009	436	6791	6.420262	
+	2010	469	7378	6.356736	
+	2011	462	7159	6.453415	
+	2012	476	7160	6.648045	
+	2013	483	7125	6.778947	
+	2014	429	7104	6.038851	
+	2015	453	6959	6.509556	
+	2016	462	7299	6.329634	
+	2017	466	7282	6.399341	
+	2018	444	7158	6.20285	
+	2019	454	7352	6.17519	

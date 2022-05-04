@@ -1,0 +1,17 @@
+
+	F2_06_M Aortenaneurysma rupturiert, mit OP, Mortalität // Anévrisme de l'aorte avec rupture, avec OP, mortalité // Aneurisma aortico con lacerazione, con OP, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	35	135	25.92593	
+	2009	19	109	17.43119	
+	2010	37	169	21.89349	
+	2011	37	149	24.83221	
+	2012	43	183	23.49727	
+	2013	43	183	23.49727	
+	2014	48	193	24.87047	
+	2015	50	183	27.3224	
+	2016	52	212	24.5283	
+	2017	42	163	25.76687	
+	2018	58	197	29.44162	
+	2019	40	191	20.94241	

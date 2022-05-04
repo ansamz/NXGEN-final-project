@@ -1,0 +1,17 @@
+
+	H1_05N_F Nephrektomien insgesamt bei bösartigen Neubildungen der Niere // Total des néphrectomies en cas de tumeurs malignes du rein // Nefrectomie per tumori maligni del rene, totale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	881	
+	2009	848	
+	2010	898	
+	2011	921	
+	2012	985	
+	2013	970	
+	2014	1017	
+	2015	988	
+	2016	1088	
+	2017	1031	
+	2018	1073	
+	2019	1114	

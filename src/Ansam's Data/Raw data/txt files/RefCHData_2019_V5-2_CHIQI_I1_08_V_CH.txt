@@ -1,0 +1,14 @@
+
+	I1_08_V Anteil Verlegungen bei Hüft­Endoprothesen­Erstimplantation bei Koxarthrose und chronischer Arthritis // Transferts avec première implantation d'endoprothèse de hanche en cas de coxarthrose et arthrite chronique, pourcentage // Trasferimenti con prima applicazione dell'endoprotesi dell'anca in caso di coxartrosi e artrite cronica, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2011	535	16422	3.257825	
+	2012	249	16563	1.503351	
+	2013	120	16340	0.7343941	
+	2014	159	16724	0.9507295	
+	2015	158	17047	0.9268493	
+	2016	118	17882	0.6598814	
+	2017	113	17866	0.6324863	
+	2018	90	17765	0.5066141	
+	2019	93	18103	0.513727	

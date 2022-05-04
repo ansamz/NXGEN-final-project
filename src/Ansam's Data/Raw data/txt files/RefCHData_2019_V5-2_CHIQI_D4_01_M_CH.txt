@@ -1,0 +1,17 @@
+
+	D4_01_M Resektionen von Lunge oder Bronchien insgesamt, Mortalität // Total des résections pulmonaires ou bronchiques, mortalité // Resezioni di polmone o bronchi, totale, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	63	2274	2.770449	
+	2009	63	2253	2.796272	
+	2010	64	2516	2.54372	
+	2011	69	2634	2.61959	
+	2012	55	2847	1.931858	
+	2013	77	2935	2.623509	
+	2014	67	3100	2.16129	
+	2015	57	3195	1.784038	
+	2016	65	3384	1.920804	
+	2017	61	3407	1.790431	
+	2018	69	3452	1.998841	
+	2019	57	3631	1.569815	

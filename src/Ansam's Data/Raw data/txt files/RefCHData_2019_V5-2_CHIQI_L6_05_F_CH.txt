@@ -1,0 +1,9 @@
+
+	L6_05_F Transfusion von peripheren hämatopoetischen Stammzellen, autogen // Transfusion de cellules souches hématopoïétiques périphériques, autogène // Trasfusione di cellule staminali ematopoietiche periferiche, autogeno
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2016	457	
+	2017	469	
+	2018	507	
+	2019	566	

@@ -1,0 +1,17 @@
+
+	E2_01_X Herniotomie ohne OP am Darm, Aufenthaltsdauer // Herniotomie sans OP de l'intestin, durée de séjour // Erniotomia senza OP all'intestino, durata della degenza
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	StayCH	CasesCH	pCH	
+	2008	72240	22349	3.232359	
+	2009	69567	22424	3.102346	
+	2010	67231	22368	3.005678	
+	2011	65711	22830	2.878274	
+	2012	67605	23387	2.890709	
+	2013	67899	24017	2.827122	
+	2014	69015	24600	2.805488	
+	2015	68691	24763	2.773937	
+	2016	68860	25148	2.73819	
+	2017	67197	25655	2.619256	
+	2018	62372	24050	2.59343	
+	2019	55628	20389	2.728334	

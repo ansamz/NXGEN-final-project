@@ -1,0 +1,17 @@
+
+	G4_04_M Bösartige Neubildungen der Ovarien mit Ovariektomie, Mortalität // Tumeurs malignes des ovaires avec ovariectomie, mortalité // Tumori maligni delle ovaie con ovariectomia, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	7	604	1.15894	
+	2009	10	616	1.623377	
+	2010	7	611	1.145663	
+	2011	12	603	1.99005	
+	2012	8	662	1.208459	
+	2013	8	640	1.25	
+	2014	11	671	1.639344	
+	2015	6	678	0.8849558	
+	2016	8	667	1.1994	
+	2017	3	641	0.4680187	
+	2018	5	635	0.7874016	
+	2019	3	678	0.4424779	

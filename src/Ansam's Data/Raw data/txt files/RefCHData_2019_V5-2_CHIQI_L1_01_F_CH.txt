@@ -1,0 +1,17 @@
+
+	L1_01_F Herz­ und Herz­Lungen­Transplantation insgesamt // Total des transplantations cardiaques et transplantations combinées cœur­poumons // Trapianti di cuore e trapianti combinati cuore­polmone, totale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	30	
+	2009	30	
+	2010	34	
+	2011	31	
+	2012	42	
+	2013	32	
+	2014	36	
+	2015	37	
+	2016	42	
+	2017	41	
+	2018	47	
+	2019	45	

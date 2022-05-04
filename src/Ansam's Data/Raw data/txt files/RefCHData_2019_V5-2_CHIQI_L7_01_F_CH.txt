@@ -1,0 +1,9 @@
+
+	L7_01_F Hypertherme intraperitoneale Chemotherapie [HIPEC] // Chimiothérapie intrapéritonéale hyperthermique [HIPEC] // Chemioipertermia intraperitoneale [HIPEC]
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2016	90	
+	2017	120	
+	2018	127	
+	2019	111	

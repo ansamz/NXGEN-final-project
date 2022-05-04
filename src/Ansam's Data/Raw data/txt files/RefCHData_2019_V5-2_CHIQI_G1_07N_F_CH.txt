@@ -1,0 +1,17 @@
+
+	G1_07N_F Risikoarme Geburt, Alter >34 // Accouchements à faible risque, âge >34 // Parti a basso rischio, età >34
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	17441	
+	2009	17474	
+	2010	17785	
+	2011	18013	
+	2012	18435	
+	2013	18859	
+	2014	19772	
+	2015	20355	
+	2016	21034	
+	2017	21403	
+	2018	21946	
+	2019	21889	

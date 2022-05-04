@@ -1,0 +1,17 @@
+
+	G2_03_F Neugeborene <500 g // Nouveau­nés <500 g // Neonati <500 g
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	56	
+	2009	86	
+	2010	82	
+	2011	47	
+	2012	49	
+	2013	65	
+	2014	89	
+	2015	80	
+	2016	92	
+	2017	57	
+	2018	65	
+	2019	80	

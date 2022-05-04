@@ -1,0 +1,17 @@
+
+	A1_03_M HD Herzinfarkt, Alter 45-64, Mortalität // DP infarctus du myocarde, âge 45-64, mortalité // DP infarto miocardico, età 45-64, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	117	4613	2.53631	
+	2009	109	5011	2.175215	
+	2010	92	5774	1.593349	
+	2011	101	5765	1.751951	
+	2012	127	5852	2.170198	
+	2013	125	5717	2.186461	
+	2014	101	6118	1.650866	
+	2015	107	6108	1.751801	
+	2016	106	6309	1.680139	
+	2017	107	6325	1.6917	
+	2018	106	6312	1.679341	
+	2019	103	6205	1.659952	

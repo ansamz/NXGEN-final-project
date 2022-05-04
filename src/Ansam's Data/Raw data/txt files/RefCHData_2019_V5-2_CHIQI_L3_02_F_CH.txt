@@ -1,0 +1,14 @@
+
+	L3_02_F Lebertransplantation, komplett // Transplantation hépatique, foie entier // Trapianto di fegato, organo intero
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2011	74	
+	2012	97	
+	2013	86	
+	2014	101	
+	2015	110	
+	2016	97	
+	2017	114	
+	2018	132	
+	2019	146	

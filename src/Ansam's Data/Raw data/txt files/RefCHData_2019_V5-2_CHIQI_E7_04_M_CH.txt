@@ -1,0 +1,17 @@
+
+	E7_04_M Andere lokale/kleinere Eingriffe am Pankreas (Alter >19), Mortalität // Autres interventions locales / plus petites sur le pancréas (âge >19), mortalité // Altri interventi chirurgici locali/più lievi al pancreas (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	12	147	8.163265	
+	2009	18	144	12.5	
+	2010	10	133	7.518797	
+	2011	10	124	8.064516	
+	2012	4	109	3.669725	
+	2013	12	179	6.703911	
+	2014	15	198	7.575758	
+	2015	14	218	6.422018	
+	2016	19	258	7.364341	
+	2017	17	259	6.563707	
+	2018	18	279	6.451613	
+	2019	18	281	6.405694	

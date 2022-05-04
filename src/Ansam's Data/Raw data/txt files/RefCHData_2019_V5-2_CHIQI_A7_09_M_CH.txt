@@ -1,0 +1,14 @@
+
+	A7_09_M Minimalinvasive Implantation einer Aortenklappe endovaskulär, Mortalität // Implantation mini­invasive de valve aortique par voie endovasculaire, mortalité // Applicazione minimamente invasiva di valvola aortica endovascolare, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	19	363	5.23416	
+	2012	21	523	4.015296	
+	2013	27	657	4.109589	
+	2014	37	937	3.948773	
+	2015	34	1228	2.76873	
+	2016	39	1500	2.6	
+	2017	34	1546	2.199224	
+	2018	46	1706	2.696366	
+	2019	20	1877	1.06553	

@@ -1,0 +1,17 @@
+
+	G6_01_F Suspensions-OP und Plastiken im Bereich des Beckenbodens insgesamt // Total des OP de suspension et plasties du plancher pelvien // OP di sospensione e plastiche nella regione del pavimento pelvico, totale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	6995	
+	2009	7014	
+	2010	6992	
+	2011	7189	
+	2012	7449	
+	2013	6922	
+	2014	6776	
+	2015	6577	
+	2016	6259	
+	2017	6159	
+	2018	6180	
+	2019	5660	

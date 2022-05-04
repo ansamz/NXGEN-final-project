@@ -1,0 +1,14 @@
+
+	L5_03_F Nierentransplantation, allogen, Leichenniere // Transplantation rénale, allogénique, rein d'un cadavre // Trapianto di rene, allogenico, rene da un cadavere
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2011	159	
+	2012	156	
+	2013	151	
+	2014	143	
+	2015	188	
+	2016	189	
+	2017	211	
+	2018	227	
+	2019	208	

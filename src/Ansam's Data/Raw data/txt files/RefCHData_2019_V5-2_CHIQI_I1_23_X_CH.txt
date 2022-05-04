@@ -1,0 +1,14 @@
+
+	I1_23_X Hüft­Endoprothesen­Erstimplantation bei Koxarthrose und chronischer Arthritis ohne Frührehabilitation, Aufenthaltsdauer // Première implantation d'endoprothèse de hanche en cas de coxarthrose et arthrite chronique sans rééducation précoce, durée de séjour // Prima applicazione dell'endoprotesi dell'anca in caso di coxartrosi e artrite cronica senza riabilitazione precoce, durata della degenza
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	StayCH	CasesCH	pCH	
+	2011	148015	16445	9.000608	
+	2012	139531	16533	8.439545	
+	2013	134749	16311	8.261235	
+	2014	132504	16675	7.946267	
+	2015	127110	16993	7.480139	
+	2016	127845	17812	7.177465	
+	2017	120115	17802	6.747276	
+	2018	111769	17657	6.330011	
+	2019	106327	17990	5.910339	

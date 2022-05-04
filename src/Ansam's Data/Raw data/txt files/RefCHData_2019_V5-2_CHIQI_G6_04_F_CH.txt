@@ -1,0 +1,17 @@
+
+	G6_04_F OP im Bereich des Beckenbodens bei anderer Diagnose // Interventions sur le plancher pelvien pour autre diagnostic // OP nella regione del pavimento pelvico per altra diagnosi
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	550	
+	2009	473	
+	2010	373	
+	2011	279	
+	2012	272	
+	2013	230	
+	2014	217	
+	2015	219	
+	2016	220	
+	2017	163	
+	2018	176	
+	2019	161	

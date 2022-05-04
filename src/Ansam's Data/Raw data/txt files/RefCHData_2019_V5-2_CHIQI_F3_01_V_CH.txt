@@ -1,0 +1,17 @@
+
+	F3_01_V Anteil Verlegungen bei OP an Becken­/Beinarterien insgesamt // Transferts avec total des OP des artères du bassin/des jambes, pourcentage // Trasferimenti con OP alle arterie del bacino/delle gambe totale, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	131	1226	10.68515	
+	2009	127	1281	9.91413	
+	2010	119	1240	9.596774	
+	2011	229	2946	7.773252	
+	2012	165	3055	5.400982	
+	2013	135	3039	4.442251	
+	2014	143	3060	4.673203	
+	2015	133	3183	4.178448	
+	2016	160	3182	5.028284	
+	2017	164	3253	5.0415	
+	2018	132	3169	4.165352	
+	2019	168	3319	5.061766	

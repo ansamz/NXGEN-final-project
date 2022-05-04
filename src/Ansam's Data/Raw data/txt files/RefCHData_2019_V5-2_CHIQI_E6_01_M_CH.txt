@@ -1,0 +1,17 @@
+
+	E6_01_M Komplexe Eingriffe am Ösophagus, Mortalität // Interventions complexes de l'œsophage, mortalité // Interventi complessi sull'esofago, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	11	263	4.18251	
+	2009	20	261	7.662835	
+	2010	18	282	6.382979	
+	2011	15	300	5	
+	2012	14	298	4.697987	
+	2013	29	347	8.357349	
+	2014	23	347	6.628242	
+	2015	20	335	5.970149	
+	2016	18	340	5.294118	
+	2017	17	321	5.29595	
+	2018	8	344	2.325581	
+	2019	18	361	4.98615	

@@ -1,0 +1,17 @@
+
+	B1_20N_F HD Schlaganfall (Alter >19), Zuverlegungen // DP accident vasculaire cérébral (âge >19), transféré d'un autre hôpital // DP colpo apoplettico (età >19), trasferito da un altro ospedale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	1191	
+	2009	1391	
+	2010	2573	
+	2011	3046	
+	2012	3140	
+	2013	3104	
+	2014	3108	
+	2015	3466	
+	2016	3721	
+	2017	3410	
+	2018	3233	
+	2019	3407	

@@ -1,0 +1,17 @@
+
+	A2_05_M HD Herzinsuffizienz, Alter >84, Mortalität // DP insuffisance cardiaque, âge >84, mortalité // DP insufficienza cardiaca, età >84, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	548	4304	12.73234	
+	2009	556	4420	12.57919	
+	2010	632	4962	12.7368	
+	2011	655	5360	12.22015	
+	2012	706	5580	12.65233	
+	2013	787	6328	12.43679	
+	2014	790	6612	11.94797	
+	2015	863	7026	12.28295	
+	2016	868	7787	11.14678	
+	2017	863	7893	10.93374	
+	2018	896	8295	10.80169	
+	2019	935	9344	10.00642	

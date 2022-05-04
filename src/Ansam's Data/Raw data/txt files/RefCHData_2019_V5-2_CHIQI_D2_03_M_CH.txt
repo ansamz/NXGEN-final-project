@@ -1,0 +1,16 @@
+
+	D2_03_M COPD ohne Tumor mit FEV1 35-49% (Alter >19), Mortalität // BPCO sans tumeur avec VEF1 35-49 % (âge >19), mortalité // BPCO senza tumore con VEMS1 35-49 % (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2009	15	625	2.4	
+	2010	20	1179	1.696353	
+	2011	39	1339	2.912621	
+	2012	52	1710	3.040936	
+	2013	58	1972	2.941176	
+	2014	67	2101	3.188958	
+	2015	67	2420	2.768595	
+	2016	74	2484	2.979066	
+	2017	81	2745	2.95082	
+	2018	75	2786	2.692032	
+	2019	77	3040	2.532895	

@@ -1,0 +1,17 @@
+
+	I3_03_M Schenkelhalsfraktur, Alter 60-69, Mortalität // Fractures du col du fémur, âge 60-69, mortalité // Frattura del collo del femore, età 60-69, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	9	512	1.757812	
+	2009	7	511	1.369863	
+	2010	13	609	2.134647	
+	2011	4	653	0.6125574	
+	2012	9	614	1.465798	
+	2013	7	599	1.168614	
+	2014	5	600	0.8333333	
+	2015	6	646	0.9287926	
+	2016	9	617	1.458671	
+	2017	5	645	0.7751938	
+	2018	1	600	0.1666667	
+	2019	2	647	0.309119	

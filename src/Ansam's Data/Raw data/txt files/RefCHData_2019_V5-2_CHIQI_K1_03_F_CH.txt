@@ -1,0 +1,17 @@
+
+	K1_03_F Stationäre Behandlungen wegen HD Psoriasis // Traitements hospitaliers en cas de DP psoriasis // Cure ospedaliere in caso di DP psoriasi
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	220	
+	2009	234	
+	2010	213	
+	2011	209	
+	2012	203	
+	2013	190	
+	2014	205	
+	2015	223	
+	2016	208	
+	2017	228	
+	2018	194	
+	2019	216	

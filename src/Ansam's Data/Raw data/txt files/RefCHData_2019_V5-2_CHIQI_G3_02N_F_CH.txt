@@ -1,0 +1,17 @@
+
+	G3_02N_F Hysterektomien, ohne Plastik // Hystérectomies, sans plastie // Isterectomie, senza plastica
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	9117	
+	2009	9988	
+	2010	9892	
+	2011	9789	
+	2012	9735	
+	2013	9755	
+	2014	9779	
+	2015	9650	
+	2016	9639	
+	2017	9283	
+	2018	9386	
+	2019	9427	

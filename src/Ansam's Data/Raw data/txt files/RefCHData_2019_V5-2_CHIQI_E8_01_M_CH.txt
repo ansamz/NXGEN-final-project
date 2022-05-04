@@ -1,0 +1,17 @@
+
+	E8_01_M Bariatrische Chirurgie, Mortalität // Chirurgie bariatrique, mortalité // Chirurgia bariatrica, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	1	845	0.1183432	
+	2009	3	857	0.3500583	
+	2010	1	801	0.1248439	
+	2011	2	1663	0.1202646	
+	2012	2	1180	0.1694915	
+	2013	0	1138	0	
+	2014	1	1073	0.09319664	
+	2015	2	4066	0.04918839	
+	2016	2	4619	0.04329942	
+	2017	4	4620	0.08658009	
+	2018	0	4652	0	
+	2019	7	4497	0.1556593	

@@ -1,0 +1,17 @@
+
+	B3_01_F HD bösartige Neubildungen des Gehirns oder der Hirnhäute // DP tumeurs malignes de l'encéphale ou des méninges cérébrales // DP tumori maligni del cervello o delle meningi
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	1220	
+	2009	1641	
+	2010	1795	
+	2011	1891	
+	2012	1823	
+	2013	1786	
+	2014	1773	
+	2015	1850	
+	2016	2102	
+	2017	2223	
+	2018	2187	
+	2019	2306	

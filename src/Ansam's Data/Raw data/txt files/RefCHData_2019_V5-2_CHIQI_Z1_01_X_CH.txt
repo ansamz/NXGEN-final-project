@@ -1,0 +1,17 @@
+
+	Z1_01_X Tonsillektomie, ohne Tumor, Aufenthaltsdauer // Amygdalectomie, sans tumeur, durée de séjour // Tonsillectomia, senza tumore, durata della degenza
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	StayCH	CasesCH	pCH	
+	2008	23520	8794	2.674551	
+	2009	21735	8335	2.607678	
+	2010	21227	8037	2.64116	
+	2011	18973	7584	2.501714	
+	2012	18936	7585	2.496506	
+	2013	19893	8001	2.486314	
+	2014	20864	8137	2.56409	
+	2015	20223	7807	2.590368	
+	2016	20239	7857	2.57592	
+	2017	19068	7465	2.55432	
+	2018	19072	7239	2.634618	
+	2019	18417	7331	2.512208	

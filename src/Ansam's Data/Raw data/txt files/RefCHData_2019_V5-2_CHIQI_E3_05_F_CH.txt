@@ -1,0 +1,17 @@
+
+	E3_05_F Resektion der Schilddrüse bei gutartiger Erkrankung der Schilddrüse // Résections thyroïdiennes pour affections bénignes de la thyroïde // Resezione della tiroide per malattie benigne della tiroide
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	2219	
+	2009	2265	
+	2010	2414	
+	2011	2532	
+	2012	2624	
+	2013	2582	
+	2014	2727	
+	2015	2616	
+	2016	2717	
+	2017	2602	
+	2018	2627	
+	2019	2703	

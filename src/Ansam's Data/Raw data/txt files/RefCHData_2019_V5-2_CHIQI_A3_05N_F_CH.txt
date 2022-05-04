@@ -1,0 +1,17 @@
+
+	A3_05N_F Katheter der Koronargefässe ohne HD Herzinfarkt ohne OP am Herzen (Alter >19) // Cathétérisme des vaisseaux coronaires sans DP infarctus du myocarde sans OP du cœur (âge >19) // Catetere dei vasi coronarici senza DP infarto miocardico senza OP al cuore (età >19)
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	22620	
+	2009	22069	
+	2010	24101	
+	2011	23181	
+	2012	21118	
+	2013	20994	
+	2014	22564	
+	2015	22537	
+	2016	23753	
+	2017	23532	
+	2018	23493	
+	2019	23679	

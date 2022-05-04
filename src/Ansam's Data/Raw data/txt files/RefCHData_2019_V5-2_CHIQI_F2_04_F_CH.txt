@@ -1,0 +1,17 @@
+
+	F2_04_F Resektion/Ersatz der thorakalen/thorakoabdominalen Aorta (ohne klappentragende Prothesen) // Résection/remplacement de l'aorte thoracique/thoraco­abdominale (sans prothèse vasculaire avec valve) // Resezione/sostituzione dell'aorta toracica/toracicoaddominale (senza protesi valvolare)
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	88	
+	2009	117	
+	2010	155	
+	2011	694	
+	2012	808	
+	2013	863	
+	2014	818	
+	2015	846	
+	2016	887	
+	2017	1001	
+	2018	950	
+	2019	985	

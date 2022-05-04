@@ -1,0 +1,17 @@
+
+	A7_12_V Anteil Verlegungen bei OP nur an Koronargefässen ohne HD Herzinfarkt (Alter >19) // Transferts avec OP des vaisseaux coronaires uniquement, sans DP infarctus du myocarde (âge >19), pourcentage // Trasferimenti con OP solo ai vasi coronarici senza DP infarto miocardico (età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	249	2076	11.99422	
+	2009	185	1913	9.670674	
+	2010	220	1924	11.43451	
+	2011	186	1996	9.318637	
+	2012	144	1977	7.283763	
+	2013	124	1927	6.434873	
+	2014	119	2028	5.86785	
+	2015	83	1786	4.647256	
+	2016	95	1865	5.093834	
+	2017	39	1832	2.128821	
+	2018	31	1783	1.738643	
+	2019	46	1680	2.738095	

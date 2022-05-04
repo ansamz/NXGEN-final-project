@@ -1,0 +1,17 @@
+
+	D4_05_M Pleurektomie, Mortalität // Pleurectomie, mortalité // Pleurectomia, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	44	745	5.90604	
+	2009	37	700	5.285714	
+	2010	39	738	5.284553	
+	2011	48	727	6.602476	
+	2012	49	775	6.322581	
+	2013	55	772	7.124352	
+	2014	52	824	6.31068	
+	2015	57	868	6.56682	
+	2016	44	928	4.741379	
+	2017	55	929	5.920344	
+	2018	47	1008	4.662698	
+	2019	47	1012	4.644269	

@@ -1,0 +1,17 @@
+
+	I2_14_M Andere OP an der Wirbelsäule oder am Rückenmark, Mortalität // Autres OP de la colonne vertébrale ou de la moelle épinière, mortalité // Altre OP alla colonna vertebrale o al midollo spinale, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	82	11097	0.7389385	
+	2009	72	12164	0.5919106	
+	2010	104	12570	0.8273667	
+	2011	105	8568	1.22549	
+	2012	101	6945	1.454284	
+	2013	98	5809	1.687037	
+	2014	84	5478	1.533406	
+	2015	94	5314	1.768912	
+	2016	79	4958	1.593384	
+	2017	83	4952	1.67609	
+	2018	56	4982	1.124047	
+	2019	80	8131	0.9838888	

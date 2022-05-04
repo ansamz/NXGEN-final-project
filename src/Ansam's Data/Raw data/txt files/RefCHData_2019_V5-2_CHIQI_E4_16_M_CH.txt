@@ -1,0 +1,9 @@
+
+	E4_16_M Tiefe anteriore Rektumresektionen mit Anastomoseninsuffizienz, Mortalität // Résections antérieures profondes du rectum avec insuffisance anastomosique, mortalité // Resezione anteriore bassa del retto con deiscenza anastomotica, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2016	3	69	4.347826	
+	2017	4	66	6.060606	
+	2018	2	64	3.125	
+	2019	3	66	4.545455	

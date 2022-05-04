@@ -1,0 +1,10 @@
+
+	I1_19_M Knie­Endoprothesen­Wechsel, ohne Frakturen oder Infektionen, Sonderprothese, Mortalität // Changement d'endoprothèse de genou, sans fractures ou infections, prothèse spéciale, mortalité // Sostituzione dell'endoprotesi del ginocchio, senza fratture o infezioni, protesi speciale, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2015	0	45	0	
+	2016	0	90	0	
+	2017	1	72	1.388889	
+	2018	0	91	0	
+	2019	0	125	0	

@@ -1,0 +1,17 @@
+
+	A1_12_X HD Herzinfarkt (Alter >19) ohne Frührehabilitation, Aufenthaltsdauer // DP infarctus du myocarde (âge >19) sans rééducation précoce, durée de séjour // DP infarto miocardico (età >19) senza riabilitazione precoce, durata della degenza
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	StayCH	CasesCH	pCH	
+	2008	83850	12801	6.55027	
+	2009	82896	13544	6.120496	
+	2010	95723	15379	6.224267	
+	2011	96467	16163	5.968385	
+	2012	97320	15958	6.098509	
+	2013	97373	16019	6.078594	
+	2014	101055	16632	6.075938	
+	2015	97414	16977	5.737998	
+	2016	99973	17572	5.689335	
+	2017	98401	17513	5.61874	
+	2018	94498	17524	5.39249	
+	2019	93683	17674	5.300611	

@@ -1,0 +1,17 @@
+
+	I2_03_F OP an der Wirbelsäule und am Rückenmark, ohne isolierte lokale Schmerztherapie // OP de la colonne vertébrale et de la moelle épinière, sans traitement local des douleurs isolé // OP alla colonna vertebrale e al midollo spinale, senza terapia locale del dolore isolata
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	19666	
+	2009	20805	
+	2010	21732	
+	2011	27820	
+	2012	26882	
+	2013	28177	
+	2014	29119	
+	2015	29997	
+	2016	30206	
+	2017	30220	
+	2018	31015	
+	2019	31648	

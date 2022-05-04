@@ -1,0 +1,17 @@
+
+	F5_07_M PTA iliacal/an Becken­/Beinarterien bei anderen Diagnosen oder OP an Aorta, Mortalität // ATP des artères iliaques/du bassin/des jambes en cas d'autre diagnostic ou d'une OP de l'aorte, mortalité // PTA di arterie iliache/del bacino/delle gambe in caso di altre diagnosi o di OP aortica, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	97	6504	1.49139	
+	2009	105	2611	4.021448	
+	2010	88	2480	3.548387	
+	2011	90	2772	3.246753	
+	2012	132	3236	4.07911	
+	2013	156	3437	4.538842	
+	2014	139	3706	3.750675	
+	2015	152	3882	3.915507	
+	2016	183	4202	4.355069	
+	2017	168	4482	3.748327	
+	2018	189	4682	4.036736	
+	2019	195	5264	3.704407	

@@ -1,0 +1,17 @@
+
+	H4_02_P Anteil Prostata­TUR mit Komplikationen // RTU de la prostate avec complications, pourcentage // TUR della prostata con complicazioni, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	112	9334	1.199914	
+	2009	124	9273	1.337216	
+	2010	139	9179	1.514326	
+	2011	153	8950	1.709497	
+	2012	166	8969	1.850819	
+	2013	189	9304	2.031384	
+	2014	205	9810	2.089704	
+	2015	217	9390	2.310969	
+	2016	199	9404	2.116121	
+	2017	247	9182	2.690046	
+	2018	296	9403	3.147932	
+	2019	245	9732	2.517468	

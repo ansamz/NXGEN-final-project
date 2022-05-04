@@ -1,0 +1,1503 @@
+,hospital,city,canton_name,main_code,disease_group,number_of_cases_2014_2019
+0,Adus Medica AG, Dielsdorf,Zürich,E,Diseases of the abdominal organs,1266
+1,Adus Medica AG, Dielsdorf,Zürich,F,Vascular Diseases,2
+2,Adus Medica AG, Dielsdorf,Zürich,G,Gynecology and obstetrics,31
+3,Adus Medica AG, Dielsdorf,Zürich,H,Diseases of the urinary tract and male genitalia,4
+4,Adus Medica AG, Dielsdorf,Zürich,I,"Diseases of the bones, joints, connective tissues",131
+5,Adus Medica AG, Dielsdorf,Zürich,J,Complex conditions,2
+6,Andreas Klinik, Cham,Zug,A,Cardiac diseases,458
+7,Andreas Klinik, Cham,Zug,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",191
+8,Andreas Klinik, Cham,Zug,C,Geriatric Medicine,40
+9,Andreas Klinik, Cham,Zug,D,Lung diseases,662
+10,Andreas Klinik, Cham,Zug,E,Diseases of the abdominal organs,2882
+11,Andreas Klinik, Cham,Zug,F,Vascular Diseases,21
+12,Andreas Klinik, Cham,Zug,G,Gynecology and obstetrics,14035
+13,Andreas Klinik, Cham,Zug,H,Diseases of the urinary tract and male genitalia,798
+14,Andreas Klinik, Cham,Zug,I,"Diseases of the bones, joints, connective tissues",8635
+15,Andreas Klinik, Cham,Zug,J,Complex conditions,234
+16,Andreas Klinik, Cham,Zug,K,Skin disorders,6
+17,Asana Spital Leuggern AG, Leuggern,Aargau,A,Cardiac diseases,1095
+18,Asana Spital Leuggern AG, Leuggern,Aargau,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",342
+19,Asana Spital Leuggern AG, Leuggern,Aargau,C,Geriatric Medicine,19
+20,Asana Spital Leuggern AG, Leuggern,Aargau,D,Lung diseases,1965
+21,Asana Spital Leuggern AG, Leuggern,Aargau,E,Diseases of the abdominal organs,1733
+22,Asana Spital Leuggern AG, Leuggern,Aargau,F,Vascular Diseases,34
+23,Asana Spital Leuggern AG, Leuggern,Aargau,G,Gynecology and obstetrics,13746
+24,Asana Spital Leuggern AG, Leuggern,Aargau,H,Diseases of the urinary tract and male genitalia,1145
+25,Asana Spital Leuggern AG, Leuggern,Aargau,I,"Diseases of the bones, joints, connective tissues",2503
+26,Asana Spital Leuggern AG, Leuggern,Aargau,J,Complex conditions,193
+27,Asana Spital Leuggern AG, Leuggern,Aargau,K,Skin disorders,17
+28,Asana Spital Menziken AG, Menziken,Aargau,A,Cardiac diseases,2112
+29,Asana Spital Menziken AG, Menziken,Aargau,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",650
+30,Asana Spital Menziken AG, Menziken,Aargau,C,Geriatric Medicine,26
+31,Asana Spital Menziken AG, Menziken,Aargau,D,Lung diseases,4313
+32,Asana Spital Menziken AG, Menziken,Aargau,E,Diseases of the abdominal organs,1373
+33,Asana Spital Menziken AG, Menziken,Aargau,F,Vascular Diseases,46
+34,Asana Spital Menziken AG, Menziken,Aargau,G,Gynecology and obstetrics,2909
+35,Asana Spital Menziken AG, Menziken,Aargau,H,Diseases of the urinary tract and male genitalia,1313
+36,Asana Spital Menziken AG, Menziken,Aargau,I,"Diseases of the bones, joints, connective tissues",1437
+37,Asana Spital Menziken AG, Menziken,Aargau,J,Complex conditions,1053
+38,Asana Spital Menziken AG, Menziken,Aargau,K,Skin disorders,31
+39,Berit Klinik AG, Speicher,Appenzell Ausserrhoden,A,Cardiac diseases,21
+40,Berit Klinik AG, Speicher,Appenzell Ausserrhoden,C,Geriatric Medicine,41
+41,Berit Klinik AG, Speicher,Appenzell Ausserrhoden,D,Lung diseases,4
+42,Berit Klinik AG, Speicher,Appenzell Ausserrhoden,E,Diseases of the abdominal organs,90
+43,Berit Klinik AG, Speicher,Appenzell Ausserrhoden,F,Vascular Diseases,20
+44,Berit Klinik AG, Speicher,Appenzell Ausserrhoden,G,Gynecology and obstetrics,90
+45,Berit Klinik AG, Speicher,Appenzell Ausserrhoden,I,"Diseases of the bones, joints, connective tissues",6047
+46,Berit Klinik AG, Speicher,Appenzell Ausserrhoden,J,Complex conditions,50
+47,Berit Klinik AG, Speicher,Appenzell Ausserrhoden,K,Skin disorders,5
+48,Bethesda Spital AG, Basel,Basel-stadt,A,Cardiac diseases,243
+49,Bethesda Spital AG, Basel,Basel-stadt,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",43
+50,Bethesda Spital AG, Basel,Basel-stadt,C,Geriatric Medicine,47
+51,Bethesda Spital AG, Basel,Basel-stadt,D,Lung diseases,292
+52,Bethesda Spital AG, Basel,Basel-stadt,E,Diseases of the abdominal organs,1238
+53,Bethesda Spital AG, Basel,Basel-stadt,F,Vascular Diseases,9
+54,Bethesda Spital AG, Basel,Basel-stadt,G,Gynecology and obstetrics,45201
+55,Bethesda Spital AG, Basel,Basel-stadt,H,Diseases of the urinary tract and male genitalia,593
+56,Bethesda Spital AG, Basel,Basel-stadt,I,"Diseases of the bones, joints, connective tissues",12249
+57,Bethesda Spital AG, Basel,Basel-stadt,J,Complex conditions,169
+58,Bethesda Spital AG, Basel,Basel-stadt,K,Skin disorders,35
+59,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,A,Cardiac diseases,82536
+60,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",29756
+61,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,C,Geriatric Medicine,3174
+62,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,D,Lung diseases,28293
+63,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,E,Diseases of the abdominal organs,15260
+64,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,F,Vascular Diseases,15705
+65,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,G,Gynecology and obstetrics,70942
+66,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,H,Diseases of the urinary tract and male genitalia,7440
+67,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,I,"Diseases of the bones, joints, connective tissues",19579
+68,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,J,Complex conditions,36641
+69,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,K,Skin disorders,1035
+70,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,L,Highly specialized medicine,2196
+71,CHUV Centre Hospitalier Universitaire Vaudois, Lausanne,Vaud,M,Palliative Medicine,523
+72,Cardiocentro Ticino (CCT), Lugano,Ticino,A,Cardiac diseases,78430
+73,Cardiocentro Ticino (CCT), Lugano,Ticino,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",27
+74,Cardiocentro Ticino (CCT), Lugano,Ticino,C,Geriatric Medicine,216
+75,Cardiocentro Ticino (CCT), Lugano,Ticino,D,Lung diseases,89
+76,Cardiocentro Ticino (CCT), Lugano,Ticino,E,Diseases of the abdominal organs,23
+77,Cardiocentro Ticino (CCT), Lugano,Ticino,F,Vascular Diseases,867
+78,Cardiocentro Ticino (CCT), Lugano,Ticino,H,Diseases of the urinary tract and male genitalia,2
+79,Cardiocentro Ticino (CCT), Lugano,Ticino,I,"Diseases of the bones, joints, connective tissues",6
+80,Cardiocentro Ticino (CCT), Lugano,Ticino,J,Complex conditions,3454
+81,Cardiocentro Ticino (CCT), Lugano,Ticino,L,Highly specialized medicine,6
+82,Center da Sanadad Savognin SA, Savognin,Grisons,A,Cardiac diseases,362
+83,Center da Sanadad Savognin SA, Savognin,Grisons,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",176
+84,Center da Sanadad Savognin SA, Savognin,Grisons,C,Geriatric Medicine,13
+85,Center da Sanadad Savognin SA, Savognin,Grisons,D,Lung diseases,797
+86,Center da Sanadad Savognin SA, Savognin,Grisons,E,Diseases of the abdominal organs,94
+87,Center da Sanadad Savognin SA, Savognin,Grisons,F,Vascular Diseases,7
+88,Center da Sanadad Savognin SA, Savognin,Grisons,G,Gynecology and obstetrics,139
+89,Center da Sanadad Savognin SA, Savognin,Grisons,H,Diseases of the urinary tract and male genitalia,26
+90,Center da Sanadad Savognin SA, Savognin,Grisons,I,"Diseases of the bones, joints, connective tissues",125
+91,Center da Sanadad Savognin SA, Savognin,Grisons,J,Complex conditions,108
+92,Center da Sanadad Savognin SA, Savognin,Grisons,K,Skin disorders,7
+93,Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa, Scuol,Grisons,A,Cardiac diseases,614
+94,Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa, Scuol,Grisons,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",433
+95,Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa, Scuol,Grisons,C,Geriatric Medicine,26
+96,Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa, Scuol,Grisons,D,Lung diseases,729
+97,Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa, Scuol,Grisons,E,Diseases of the abdominal organs,450
+98,Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa, Scuol,Grisons,F,Vascular Diseases,8
+99,Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa, Scuol,Grisons,G,Gynecology and obstetrics,1189
+100,Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa, Scuol,Grisons,H,Diseases of the urinary tract and male genitalia,58
+101,Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa, Scuol,Grisons,I,"Diseases of the bones, joints, connective tissues",884
+102,Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa, Scuol,Grisons,J,Complex conditions,279
+103,Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa, Scuol,Grisons,K,Skin disorders,17
+104,Center da Sanda Engiadina Bassa Ospidal dEngiadina Bassa, Scuol,Grisons,M,Palliative Medicine,2
+105,Center da Sanda Val Müstair Akutabteilung, Sta. Maria V. M.,Graubünden,A,Cardiac diseases,127
+106,Center da Sanda Val Müstair Akutabteilung, Sta. Maria V. M.,Graubünden,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",61
+107,Center da Sanda Val Müstair Akutabteilung, Sta. Maria V. M.,Graubünden,C,Geriatric Medicine,3
+108,Center da Sanda Val Müstair Akutabteilung, Sta. Maria V. M.,Graubünden,D,Lung diseases,197
+109,Center da Sanda Val Müstair Akutabteilung, Sta. Maria V. M.,Graubünden,E,Diseases of the abdominal organs,11
+110,Center da Sanda Val Müstair Akutabteilung, Sta. Maria V. M.,Graubünden,G,Gynecology and obstetrics,2
+111,Center da Sanda Val Müstair Akutabteilung, Sta. Maria V. M.,Graubünden,H,Diseases of the urinary tract and male genitalia,6
+112,Center da Sanda Val Müstair Akutabteilung, Sta. Maria V. M.,Graubünden,I,"Diseases of the bones, joints, connective tissues",64
+113,Center da Sanda Val Müstair Akutabteilung, Sta. Maria V. M.,Graubünden,J,Complex conditions,57
+114,Center da Sanda Val Müstair Akutabteilung, Sta. Maria V. M.,Graubünden,K,Skin disorders,2
+115,Centro Sanitario Bregaglia Reparto Acuto, Promontogno,Grisons,A,Cardiac diseases,38
+116,Centro Sanitario Bregaglia Reparto Acuto, Promontogno,Grisons,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",27
+117,Centro Sanitario Bregaglia Reparto Acuto, Promontogno,Grisons,C,Geriatric Medicine,7
+118,Centro Sanitario Bregaglia Reparto Acuto, Promontogno,Grisons,D,Lung diseases,124
+119,Centro Sanitario Bregaglia Reparto Acuto, Promontogno,Grisons,E,Diseases of the abdominal organs,3
+120,Centro Sanitario Bregaglia Reparto Acuto, Promontogno,Grisons,H,Diseases of the urinary tract and male genitalia,4
+121,Centro Sanitario Bregaglia Reparto Acuto, Promontogno,Grisons,I,"Diseases of the bones, joints, connective tissues",8
+122,Centro Sanitario Bregaglia Reparto Acuto, Promontogno,Grisons,J,Complex conditions,12
+123,Centro Sanitario Valposchiavo Ospedale San Sisto, Poschiavo,Grisons,A,Cardiac diseases,610
+124,Centro Sanitario Valposchiavo Ospedale San Sisto, Poschiavo,Grisons,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",187
+125,Centro Sanitario Valposchiavo Ospedale San Sisto, Poschiavo,Grisons,C,Geriatric Medicine,24
+126,Centro Sanitario Valposchiavo Ospedale San Sisto, Poschiavo,Grisons,D,Lung diseases,587
+127,Centro Sanitario Valposchiavo Ospedale San Sisto, Poschiavo,Grisons,E,Diseases of the abdominal organs,109
+128,Centro Sanitario Valposchiavo Ospedale San Sisto, Poschiavo,Grisons,F,Vascular Diseases,10
+129,Centro Sanitario Valposchiavo Ospedale San Sisto, Poschiavo,Grisons,G,Gynecology and obstetrics,607
+130,Centro Sanitario Valposchiavo Ospedale San Sisto, Poschiavo,Grisons,H,Diseases of the urinary tract and male genitalia,35
+131,Centro Sanitario Valposchiavo Ospedale San Sisto, Poschiavo,Grisons,I,"Diseases of the bones, joints, connective tissues",191
+132,Centro Sanitario Valposchiavo Ospedale San Sisto, Poschiavo,Grisons,J,Complex conditions,98
+133,Centro Sanitario Valposchiavo Ospedale San Sisto, Poschiavo,Grisons,K,Skin disorders,1
+134,Clinica Luganese Moncucco SA, Lugano,Ticino,A,Cardiac diseases,2843
+135,Clinica Luganese Moncucco SA, Lugano,Ticino,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1091
+136,Clinica Luganese Moncucco SA, Lugano,Ticino,C,Geriatric Medicine,10153
+137,Clinica Luganese Moncucco SA, Lugano,Ticino,D,Lung diseases,8277
+138,Clinica Luganese Moncucco SA, Lugano,Ticino,E,Diseases of the abdominal organs,7796
+139,Clinica Luganese Moncucco SA, Lugano,Ticino,F,Vascular Diseases,710
+140,Clinica Luganese Moncucco SA, Lugano,Ticino,G,Gynecology and obstetrics,826
+141,Clinica Luganese Moncucco SA, Lugano,Ticino,H,Diseases of the urinary tract and male genitalia,5322
+142,Clinica Luganese Moncucco SA, Lugano,Ticino,I,"Diseases of the bones, joints, connective tissues",3541
+143,Clinica Luganese Moncucco SA, Lugano,Ticino,J,Complex conditions,2956
+144,Clinica Luganese Moncucco SA, Lugano,Ticino,K,Skin disorders,95
+145,Clinica Luganese Moncucco SA, Lugano,Ticino,M,Palliative Medicine,183
+146,Clinica Santa Chiara SA, Locarno,Ticino,A,Cardiac diseases,1712
+147,Clinica Santa Chiara SA, Locarno,Ticino,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",464
+148,Clinica Santa Chiara SA, Locarno,Ticino,C,Geriatric Medicine,88
+149,Clinica Santa Chiara SA, Locarno,Ticino,D,Lung diseases,2518
+150,Clinica Santa Chiara SA, Locarno,Ticino,E,Diseases of the abdominal organs,1550
+151,Clinica Santa Chiara SA, Locarno,Ticino,F,Vascular Diseases,117
+152,Clinica Santa Chiara SA, Locarno,Ticino,G,Gynecology and obstetrics,8241
+153,Clinica Santa Chiara SA, Locarno,Ticino,H,Diseases of the urinary tract and male genitalia,1006
+154,Clinica Santa Chiara SA, Locarno,Ticino,I,"Diseases of the bones, joints, connective tissues",2247
+155,Clinica Santa Chiara SA, Locarno,Ticino,J,Complex conditions,2933
+156,Clinica Santa Chiara SA, Locarno,Ticino,K,Skin disorders,41
+157,Clinique CIC Riviera, Clarens,Vaud,A,Cardiac diseases,1
+158,Clinique CIC Riviera, Clarens,Vaud,C,Geriatric Medicine,3
+159,Clinique CIC Riviera, Clarens,Vaud,E,Diseases of the abdominal organs,230
+160,Clinique CIC Riviera, Clarens,Vaud,G,Gynecology and obstetrics,561
+161,Clinique CIC Riviera, Clarens,Vaud,H,Diseases of the urinary tract and male genitalia,878
+162,Clinique CIC Riviera, Clarens,Vaud,I,"Diseases of the bones, joints, connective tissues",2714
+163,Clinique CIC Riviera, Clarens,Vaud,J,Complex conditions,2
+164,Clinique CIC Valais SA, Saxon,Valais,A,Cardiac diseases,1
+165,Clinique CIC Valais SA, Saxon,Valais,C,Geriatric Medicine,5
+166,Clinique CIC Valais SA, Saxon,Valais,E,Diseases of the abdominal organs,835
+167,Clinique CIC Valais SA, Saxon,Valais,F,Vascular Diseases,3
+168,Clinique CIC Valais SA, Saxon,Valais,G,Gynecology and obstetrics,88
+169,Clinique CIC Valais SA, Saxon,Valais,H,Diseases of the urinary tract and male genitalia,490
+170,Clinique CIC Valais SA, Saxon,Valais,I,"Diseases of the bones, joints, connective tissues",3630
+171,Clinique CIC Valais SA, Saxon,Valais,J,Complex conditions,8
+172,Clinique CIC Valais SA, Saxon,Valais,K,Skin disorders,2
+173,Clinique Générale­Beaulieu, Genève,Genève,A,Cardiac diseases,44
+174,Clinique Générale­Beaulieu, Genève,Genève,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",38
+175,Clinique Générale­Beaulieu, Genève,Genève,C,Geriatric Medicine,32
+176,Clinique Générale­Beaulieu, Genève,Genève,D,Lung diseases,272
+177,Clinique Générale­Beaulieu, Genève,Genève,E,Diseases of the abdominal organs,4764
+178,Clinique Générale­Beaulieu, Genève,Genève,F,Vascular Diseases,23
+179,Clinique Générale­Beaulieu, Genève,Genève,G,Gynecology and obstetrics,22027
+180,Clinique Générale­Beaulieu, Genève,Genève,H,Diseases of the urinary tract and male genitalia,4442
+181,Clinique Générale­Beaulieu, Genève,Genève,I,"Diseases of the bones, joints, connective tissues",4428
+182,Clinique Générale­Beaulieu, Genève,Genève,J,Complex conditions,86
+183,Clinique Générale­Beaulieu, Genève,Genève,K,Skin disorders,28
+184,Clinique Volta SA, La Chaux-de-Fonds,Neuchâtel,E,Diseases of the abdominal organs,8
+185,Clinique Volta SA, La Chaux-de-Fonds,Neuchâtel,G,Gynecology and obstetrics,71
+186,Clinique Volta SA, La Chaux-de-Fonds,Neuchâtel,I,"Diseases of the bones, joints, connective tissues",33
+187,Clinique de Carouge, Carouge ,Genève,A,Cardiac diseases,165
+188,Clinique de Carouge, Carouge ,Genève,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",3
+189,Clinique de Carouge, Carouge ,Genève,C,Geriatric Medicine,6
+190,Clinique de Carouge, Carouge ,Genève,D,Lung diseases,504
+191,Clinique de Carouge, Carouge ,Genève,E,Diseases of the abdominal organs,92
+192,Clinique de Carouge, Carouge ,Genève,F,Vascular Diseases,2
+193,Clinique de Carouge, Carouge ,Genève,G,Gynecology and obstetrics,331
+194,Clinique de Carouge, Carouge ,Genève,H,Diseases of the urinary tract and male genitalia,11
+195,Clinique de Carouge, Carouge ,Genève,I,"Diseases of the bones, joints, connective tissues",51
+196,Clinique de Carouge, Carouge ,Genève,J,Complex conditions,29
+197,Clinique de Carouge, Carouge ,Genève,K,Skin disorders,2
+198,Clinique de Carouge, Carouge ,Genève,L,Highly specialized medicine,2
+199,Clinique de Genolier, Genolier,Vaud,A,Cardiac diseases,4260
+200,Clinique de Genolier, Genolier,Vaud,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",149
+201,Clinique de Genolier, Genolier,Vaud,C,Geriatric Medicine,33
+202,Clinique de Genolier, Genolier,Vaud,D,Lung diseases,1058
+203,Clinique de Genolier, Genolier,Vaud,E,Diseases of the abdominal organs,1898
+204,Clinique de Genolier, Genolier,Vaud,F,Vascular Diseases,451
+205,Clinique de Genolier, Genolier,Vaud,G,Gynecology and obstetrics,3389
+206,Clinique de Genolier, Genolier,Vaud,H,Diseases of the urinary tract and male genitalia,1001
+207,Clinique de Genolier, Genolier,Vaud,I,"Diseases of the bones, joints, connective tissues",3205
+208,Clinique de Genolier, Genolier,Vaud,J,Complex conditions,199
+209,Clinique de Genolier, Genolier,Vaud,K,Skin disorders,34
+210,Clinique de La Source, Lausanne,Vaud,A,Cardiac diseases,8284
+211,Clinique de La Source, Lausanne,Vaud,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",142
+212,Clinique de La Source, Lausanne,Vaud,C,Geriatric Medicine,147
+213,Clinique de La Source, Lausanne,Vaud,D,Lung diseases,1030
+214,Clinique de La Source, Lausanne,Vaud,E,Diseases of the abdominal organs,6472
+215,Clinique de La Source, Lausanne,Vaud,F,Vascular Diseases,120
+216,Clinique de La Source, Lausanne,Vaud,G,Gynecology and obstetrics,13763
+217,Clinique de La Source, Lausanne,Vaud,H,Diseases of the urinary tract and male genitalia,3156
+218,Clinique de La Source, Lausanne,Vaud,I,"Diseases of the bones, joints, connective tissues",6410
+219,Clinique de La Source, Lausanne,Vaud,J,Complex conditions,1254
+220,Clinique de La Source, Lausanne,Vaud,K,Skin disorders,21
+221,Clinique de La Source, Lausanne,Vaud,L,Highly specialized medicine,5
+222,Clinique de Montchoisi, Lausanne,Vaud,A,Cardiac diseases,40
+223,Clinique de Montchoisi, Lausanne,Vaud,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",4
+224,Clinique de Montchoisi, Lausanne,Vaud,C,Geriatric Medicine,3
+225,Clinique de Montchoisi, Lausanne,Vaud,D,Lung diseases,117
+226,Clinique de Montchoisi, Lausanne,Vaud,E,Diseases of the abdominal organs,151
+227,Clinique de Montchoisi, Lausanne,Vaud,F,Vascular Diseases,2
+228,Clinique de Montchoisi, Lausanne,Vaud,G,Gynecology and obstetrics,943
+229,Clinique de Montchoisi, Lausanne,Vaud,H,Diseases of the urinary tract and male genitalia,2
+230,Clinique de Montchoisi, Lausanne,Vaud,I,"Diseases of the bones, joints, connective tissues",782
+231,Clinique de Montchoisi, Lausanne,Vaud,J,Complex conditions,32
+232,Clinique de Montchoisi, Lausanne,Vaud,K,Skin disorders,3
+233,Clinique de Montchoisi, Lausanne,Vaud,L,Highly specialized medicine,2
+234,Clinique de la Plaine, Genève,Genève,E,Diseases of the abdominal organs,2
+235,Clinique de la Plaine, Genève,Genève,G,Gynecology and obstetrics,259
+236,Clinique de la Plaine, Genève,Genève,I,"Diseases of the bones, joints, connective tissues",2
+237,Clinique des Grangettes SA, Chêne-Bougeries,Genève,A,Cardiac diseases,7244
+238,Clinique des Grangettes SA, Chêne-Bougeries,Genève,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",44
+239,Clinique des Grangettes SA, Chêne-Bougeries,Genève,C,Geriatric Medicine,17
+240,Clinique des Grangettes SA, Chêne-Bougeries,Genève,D,Lung diseases,1256
+241,Clinique des Grangettes SA, Chêne-Bougeries,Genève,E,Diseases of the abdominal organs,3821
+242,Clinique des Grangettes SA, Chêne-Bougeries,Genève,F,Vascular Diseases,1241
+243,Clinique des Grangettes SA, Chêne-Bougeries,Genève,G,Gynecology and obstetrics,27067
+244,Clinique des Grangettes SA, Chêne-Bougeries,Genève,H,Diseases of the urinary tract and male genitalia,2473
+245,Clinique des Grangettes SA, Chêne-Bougeries,Genève,I,"Diseases of the bones, joints, connective tissues",719
+246,Clinique des Grangettes SA, Chêne-Bougeries,Genève,J,Complex conditions,179
+247,Clinique des Grangettes SA, Chêne-Bougeries,Genève,K,Skin disorders,13
+248,Clinique la Colline, Genève,Genève,A,Cardiac diseases,553
+249,Clinique la Colline, Genève,Genève,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",79
+250,Clinique la Colline, Genève,Genève,C,Geriatric Medicine,68
+251,Clinique la Colline, Genève,Genève,D,Lung diseases,1346
+252,Clinique la Colline, Genève,Genève,E,Diseases of the abdominal organs,3136
+253,Clinique la Colline, Genève,Genève,F,Vascular Diseases,114
+254,Clinique la Colline, Genève,Genève,G,Gynecology and obstetrics,595
+255,Clinique la Colline, Genève,Genève,H,Diseases of the urinary tract and male genitalia,1182
+256,Clinique la Colline, Genève,Genève,I,"Diseases of the bones, joints, connective tissues",5498
+257,Clinique la Colline, Genève,Genève,J,Complex conditions,468
+258,Clinique la Colline, Genève,Genève,K,Skin disorders,8
+259,Clinique la Colline, Genève,Genève,L,Highly specialized medicine,1
+260,EHC Ensemble hospitalier de la Côte, Morges,Vaud,A,Cardiac diseases,10834
+261,EHC Ensemble hospitalier de la Côte, Morges,Vaud,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",3309
+262,EHC Ensemble hospitalier de la Côte, Morges,Vaud,C,Geriatric Medicine,6833
+263,EHC Ensemble hospitalier de la Côte, Morges,Vaud,D,Lung diseases,7110
+264,EHC Ensemble hospitalier de la Côte, Morges,Vaud,E,Diseases of the abdominal organs,4129
+265,EHC Ensemble hospitalier de la Côte, Morges,Vaud,F,Vascular Diseases,1968
+266,EHC Ensemble hospitalier de la Côte, Morges,Vaud,G,Gynecology and obstetrics,30573
+267,EHC Ensemble hospitalier de la Côte, Morges,Vaud,H,Diseases of the urinary tract and male genitalia,1869
+268,EHC Ensemble hospitalier de la Côte, Morges,Vaud,I,"Diseases of the bones, joints, connective tissues",5275
+269,EHC Ensemble hospitalier de la Côte, Morges,Vaud,J,Complex conditions,3581
+270,EHC Ensemble hospitalier de la Côte, Morges,Vaud,K,Skin disorders,101
+271,EHC Ensemble hospitalier de la Côte, Morges,Vaud,M,Palliative Medicine,843
+272,EOC Ente ospedaliero cantonale, Lugano,Ticino,A,Cardiac diseases,27492
+273,EOC Ente ospedaliero cantonale, Lugano,Ticino,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",23682
+274,EOC Ente ospedaliero cantonale, Lugano,Ticino,C,Geriatric Medicine,4967
+275,EOC Ente ospedaliero cantonale, Lugano,Ticino,D,Lung diseases,39125
+276,EOC Ente ospedaliero cantonale, Lugano,Ticino,E,Diseases of the abdominal organs,20649
+277,EOC Ente ospedaliero cantonale, Lugano,Ticino,F,Vascular Diseases,7444
+278,EOC Ente ospedaliero cantonale, Lugano,Ticino,G,Gynecology and obstetrics,46477
+279,EOC Ente ospedaliero cantonale, Lugano,Ticino,H,Diseases of the urinary tract and male genitalia,16076
+280,EOC Ente ospedaliero cantonale, Lugano,Ticino,I,"Diseases of the bones, joints, connective tissues",24069
+281,EOC Ente ospedaliero cantonale, Lugano,Ticino,J,Complex conditions,20002
+282,EOC Ente ospedaliero cantonale, Lugano,Ticino,K,Skin disorders,727
+283,EOC Ente ospedaliero cantonale, Lugano,Ticino,L,Highly specialized medicine,285
+284,EOC Ente ospedaliero cantonale, Lugano,Ticino,M,Palliative Medicine,1753
+285,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,A,Cardiac diseases,10720
+286,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",5453
+287,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,C,Geriatric Medicine,1136
+288,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,D,Lung diseases,10121
+289,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,E,Diseases of the abdominal organs,6076
+290,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,F,Vascular Diseases,131
+291,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,G,Gynecology and obstetrics,22387
+292,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,H,Diseases of the urinary tract and male genitalia,3048
+293,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,I,"Diseases of the bones, joints, connective tissues",10020
+294,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,J,Complex conditions,3405
+295,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,K,Skin disorders,67
+296,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,L,Highly specialized medicine,3
+297,Etablissements Hospitaliers du Nord Vaudois (eHnv), Yverdon-les-Bains,Vaud,M,Palliative Medicine,434
+298,Eulachklinik AG, Winterthur,Zürich,E,Diseases of the abdominal organs,1
+299,Eulachklinik AG, Winterthur,Zürich,G,Gynecology and obstetrics,9
+300,Flury Stiftung Spital Schiers, Schiers,Grisons,A,Cardiac diseases,1106
+301,Flury Stiftung Spital Schiers, Schiers,Grisons,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",401
+302,Flury Stiftung Spital Schiers, Schiers,Grisons,C,Geriatric Medicine,74
+303,Flury Stiftung Spital Schiers, Schiers,Grisons,D,Lung diseases,1458
+304,Flury Stiftung Spital Schiers, Schiers,Grisons,E,Diseases of the abdominal organs,1589
+305,Flury Stiftung Spital Schiers, Schiers,Grisons,F,Vascular Diseases,1807
+306,Flury Stiftung Spital Schiers, Schiers,Grisons,G,Gynecology and obstetrics,3150
+307,Flury Stiftung Spital Schiers, Schiers,Grisons,H,Diseases of the urinary tract and male genitalia,325
+308,Flury Stiftung Spital Schiers, Schiers,Grisons,I,"Diseases of the bones, joints, connective tissues",1717
+309,Flury Stiftung Spital Schiers, Schiers,Grisons,J,Complex conditions,298
+310,Flury Stiftung Spital Schiers, Schiers,Grisons,K,Skin disorders,14
+311,GZO Spital Wetzikon, Wetzikon ZH,Zürich,A,Cardiac diseases,10360
+312,GZO Spital Wetzikon, Wetzikon ZH,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",3519
+313,GZO Spital Wetzikon, Wetzikon ZH,Zürich,C,Geriatric Medicine,397
+314,GZO Spital Wetzikon, Wetzikon ZH,Zürich,D,Lung diseases,6170
+315,GZO Spital Wetzikon, Wetzikon ZH,Zürich,E,Diseases of the abdominal organs,8537
+316,GZO Spital Wetzikon, Wetzikon ZH,Zürich,F,Vascular Diseases,149
+317,GZO Spital Wetzikon, Wetzikon ZH,Zürich,G,Gynecology and obstetrics,21952
+318,GZO Spital Wetzikon, Wetzikon ZH,Zürich,H,Diseases of the urinary tract and male genitalia,3034
+319,GZO Spital Wetzikon, Wetzikon ZH,Zürich,I,"Diseases of the bones, joints, connective tissues",4069
+320,GZO Spital Wetzikon, Wetzikon ZH,Zürich,J,Complex conditions,5784
+321,GZO Spital Wetzikon, Wetzikon ZH,Zürich,K,Skin disorders,73
+322,GZO Spital Wetzikon, Wetzikon ZH,Zürich,M,Palliative Medicine,2
+323,Geburtshaus Basel, Basel,Basel-stadt,G,Gynecology and obstetrics,42
+324,Geburtshaus Delphys, Zürich,Zürich,A,Cardiac diseases,1
+325,Geburtshaus Delphys, Zürich,Zürich,E,Diseases of the abdominal organs,1
+326,Geburtshaus Delphys, Zürich,Zürich,G,Gynecology and obstetrics,2416
+327,Geburtshaus Luna AG, Ostermundigen,Bern,G,Gynecology and obstetrics,2207
+328,Geburtshaus St.Gallen GmbH, St. Gallen,St. Gallen,G,Gynecology and obstetrics,323
+329,Geburtshaus Stans, Stans,Nidwalden,G,Gynecology and obstetrics,927
+330,Geburtshaus Tagmond GmbH, Pratteln,Bassel-Landschaft,G,Gynecology and obstetrics,429
+331,Geburtshaus Terra Alta, Oberkirch ,Luzern,A,Cardiac diseases,2
+332,Geburtshaus Terra Alta, Oberkirch ,Luzern,G,Gynecology and obstetrics,3853
+333,Geburtshaus Terra Alta, Oberkirch ,Luzern,J,Complex conditions,1
+334,Geburtshaus Zürcher Oberland AG, Bäretswil,Zürich,G,Gynecology and obstetrics,3954
+335,Geburtshaus ambra GmbH, Wittinsburg,Bassel-Landschaft,G,Gynecology and obstetrics,686
+336,Geburtshus Storchenäscht AG, Othmarsingen,Aargau,G,Gynecology and obstetrics,1944
+337,Genossenschaft Geburtshaus Simmental-Saaneland Maternité Alpine, Zweisimmen,Bern,G,Gynecology and obstetrics,406
+338,Genossenschaft Geburtshaus Simmental-Saaneland Maternité Alpine, Zweisimmen,Bern,J,Complex conditions,1
+339,Gesundheitszentrum Fricktal,Rheinfelden,Aargau,A,Cardiac diseases,5490
+340,Gesundheitszentrum Fricktal,Rheinfelden,Aargau,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1884
+341,Gesundheitszentrum Fricktal,Rheinfelden,Aargau,C,Geriatric Medicine,3106
+342,Gesundheitszentrum Fricktal,Rheinfelden,Aargau,D,Lung diseases,5566
+343,Gesundheitszentrum Fricktal,Rheinfelden,Aargau,E,Diseases of the abdominal organs,5304
+344,Gesundheitszentrum Fricktal,Rheinfelden,Aargau,F,Vascular Diseases,111
+345,Gesundheitszentrum Fricktal,Rheinfelden,Aargau,G,Gynecology and obstetrics,17671
+346,Gesundheitszentrum Fricktal,Rheinfelden,Aargau,H,Diseases of the urinary tract and male genitalia,1306
+347,Gesundheitszentrum Fricktal,Rheinfelden,Aargau,I,"Diseases of the bones, joints, connective tissues",2766
+348,Gesundheitszentrum Fricktal,Rheinfelden,Aargau,J,Complex conditions,1501
+349,Gesundheitszentrum Fricktal,Rheinfelden,Aargau,K,Skin disorders,69
+350,Groupement Hospitalier de lOuest Lémanique (GHOL) SA, Nyon,Vaud,A,Cardiac diseases,5493
+351,Groupement Hospitalier de lOuest Lémanique (GHOL) SA, Nyon,Vaud,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",4253
+352,Groupement Hospitalier de lOuest Lémanique (GHOL) SA, Nyon,Vaud,C,Geriatric Medicine,840
+353,Groupement Hospitalier de lOuest Lémanique (GHOL) SA, Nyon,Vaud,D,Lung diseases,11861
+354,Groupement Hospitalier de lOuest Lémanique (GHOL) SA, Nyon,Vaud,E,Diseases of the abdominal organs,4851
+355,Groupement Hospitalier de lOuest Lémanique (GHOL) SA, Nyon,Vaud,F,Vascular Diseases,74
+356,Groupement Hospitalier de lOuest Lémanique (GHOL) SA, Nyon,Vaud,G,Gynecology and obstetrics,13704
+357,Groupement Hospitalier de lOuest Lémanique (GHOL) SA, Nyon,Vaud,H,Diseases of the urinary tract and male genitalia,2880
+358,Groupement Hospitalier de lOuest Lémanique (GHOL) SA, Nyon,Vaud,I,"Diseases of the bones, joints, connective tissues",3035
+359,Groupement Hospitalier de lOuest Lémanique (GHOL) SA, Nyon,Vaud,J,Complex conditions,3994
+360,Groupement Hospitalier de lOuest Lémanique (GHOL) SA, Nyon,Vaud,K,Skin disorders,27
+361,HFR, Fribourg,Fribourg,A,Cardiac diseases,42398
+362,HFR, Fribourg,Fribourg,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",14431
+363,HFR, Fribourg,Fribourg,C,Geriatric Medicine,7958
+364,HFR, Fribourg,Fribourg,D,Lung diseases,20199
+365,HFR, Fribourg,Fribourg,E,Diseases of the abdominal organs,9698
+366,HFR, Fribourg,Fribourg,F,Vascular Diseases,2874
+367,HFR, Fribourg,Fribourg,G,Gynecology and obstetrics,20292
+368,HFR, Fribourg,Fribourg,H,Diseases of the urinary tract and male genitalia,2562
+369,HFR, Fribourg,Fribourg,I,"Diseases of the bones, joints, connective tissues",11286
+370,HFR, Fribourg,Fribourg,J,Complex conditions,9894
+371,HFR, Fribourg,Fribourg,K,Skin disorders,200
+372,HFR, Fribourg,Fribourg,M,Palliative Medicine,1048
+373,Herz­Neuro­Zentrum Bodensee AG, Kreuzlingen,Thurgau,A,Cardiac diseases,37906
+374,Herz­Neuro­Zentrum Bodensee AG, Kreuzlingen,Thurgau,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",357
+375,Herz­Neuro­Zentrum Bodensee AG, Kreuzlingen,Thurgau,C,Geriatric Medicine,71
+376,Herz­Neuro­Zentrum Bodensee AG, Kreuzlingen,Thurgau,D,Lung diseases,31
+377,Herz­Neuro­Zentrum Bodensee AG, Kreuzlingen,Thurgau,E,Diseases of the abdominal organs,2
+378,Herz­Neuro­Zentrum Bodensee AG, Kreuzlingen,Thurgau,F,Vascular Diseases,293
+379,Herz­Neuro­Zentrum Bodensee AG, Kreuzlingen,Thurgau,I,"Diseases of the bones, joints, connective tissues",5295
+380,Herz­Neuro­Zentrum Bodensee AG, Kreuzlingen,Thurgau,J,Complex conditions,653
+381,Hirslanden Bern AG, Bern,Bern,A,Cardiac diseases,54735
+382,Hirslanden Bern AG, Bern,Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1110
+383,Hirslanden Bern AG, Bern,Bern,C,Geriatric Medicine,828
+384,Hirslanden Bern AG, Bern,Bern,D,Lung diseases,6392
+385,Hirslanden Bern AG, Bern,Bern,E,Diseases of the abdominal organs,22350
+386,Hirslanden Bern AG, Bern,Bern,F,Vascular Diseases,2895
+387,Hirslanden Bern AG, Bern,Bern,G,Gynecology and obstetrics,31212
+388,Hirslanden Bern AG, Bern,Bern,H,Diseases of the urinary tract and male genitalia,5908
+389,Hirslanden Bern AG, Bern,Bern,I,"Diseases of the bones, joints, connective tissues",28999
+390,Hirslanden Bern AG, Bern,Bern,J,Complex conditions,4316
+391,Hirslanden Bern AG, Bern,Bern,K,Skin disorders,63
+392,Hirslanden Bern AG, Bern,Bern,L,Highly specialized medicine,15
+393,Hirslanden Bern AG, Bern,Bern,M,Palliative Medicine,1
+394,Hirslanden Klinik Aarau, Aarau,Aargau,A,Cardiac diseases,31863
+395,Hirslanden Klinik Aarau, Aarau,Aargau,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",705
+396,Hirslanden Klinik Aarau, Aarau,Aargau,C,Geriatric Medicine,662
+397,Hirslanden Klinik Aarau, Aarau,Aargau,D,Lung diseases,2793
+398,Hirslanden Klinik Aarau, Aarau,Aargau,E,Diseases of the abdominal organs,9281
+399,Hirslanden Klinik Aarau, Aarau,Aargau,F,Vascular Diseases,6791
+400,Hirslanden Klinik Aarau, Aarau,Aargau,G,Gynecology and obstetrics,24037
+401,Hirslanden Klinik Aarau, Aarau,Aargau,H,Diseases of the urinary tract and male genitalia,4261
+402,Hirslanden Klinik Aarau, Aarau,Aargau,I,"Diseases of the bones, joints, connective tissues",12624
+403,Hirslanden Klinik Aarau, Aarau,Aargau,J,Complex conditions,3961
+404,Hirslanden Klinik Aarau, Aarau,Aargau,K,Skin disorders,57
+405,Hirslanden Klinik Aarau, Aarau,Aargau,M,Palliative Medicine,428
+406,Hirslanden Klinik Am Rosenberg AG, Heiden,Appenzell Ausserrhoden,A,Cardiac diseases,9
+407,Hirslanden Klinik Am Rosenberg AG, Heiden,Appenzell Ausserrhoden,C,Geriatric Medicine,11
+408,Hirslanden Klinik Am Rosenberg AG, Heiden,Appenzell Ausserrhoden,E,Diseases of the abdominal organs,57
+409,Hirslanden Klinik Am Rosenberg AG, Heiden,Appenzell Ausserrhoden,F,Vascular Diseases,6
+410,Hirslanden Klinik Am Rosenberg AG, Heiden,Appenzell Ausserrhoden,G,Gynecology and obstetrics,93
+411,Hirslanden Klinik Am Rosenberg AG, Heiden,Appenzell Ausserrhoden,I,"Diseases of the bones, joints, connective tissues",5088
+412,Hirslanden Klinik Am Rosenberg AG, Heiden,Appenzell Ausserrhoden,J,Complex conditions,28
+413,Hirslanden Klinik Am Rosenberg AG, Heiden,Appenzell Ausserrhoden,K,Skin disorders,6
+414,Hirslanden Klinik Belair, Schaffhausen,Schaffhausen,A,Cardiac diseases,4
+415,Hirslanden Klinik Belair, Schaffhausen,Schaffhausen,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1
+416,Hirslanden Klinik Belair, Schaffhausen,Schaffhausen,C,Geriatric Medicine,6
+417,Hirslanden Klinik Belair, Schaffhausen,Schaffhausen,D,Lung diseases,1
+418,Hirslanden Klinik Belair, Schaffhausen,Schaffhausen,E,Diseases of the abdominal organs,1725
+419,Hirslanden Klinik Belair, Schaffhausen,Schaffhausen,F,Vascular Diseases,4
+420,Hirslanden Klinik Belair, Schaffhausen,Schaffhausen,G,Gynecology and obstetrics,488
+421,Hirslanden Klinik Belair, Schaffhausen,Schaffhausen,H,Diseases of the urinary tract and male genitalia,268
+422,Hirslanden Klinik Belair, Schaffhausen,Schaffhausen,I,"Diseases of the bones, joints, connective tissues",3831
+423,Hirslanden Klinik Belair, Schaffhausen,Schaffhausen,J,Complex conditions,23
+424,Hirslanden Klinik Belair, Schaffhausen,Schaffhausen,K,Skin disorders,1
+425,Hirslanden Klinik Birshof, Münchenstein,Bassel-Landschaft,A,Cardiac diseases,15
+426,Hirslanden Klinik Birshof, Münchenstein,Bassel-Landschaft,C,Geriatric Medicine,20
+427,Hirslanden Klinik Birshof, Münchenstein,Bassel-Landschaft,D,Lung diseases,8
+428,Hirslanden Klinik Birshof, Münchenstein,Bassel-Landschaft,E,Diseases of the abdominal organs,494
+429,Hirslanden Klinik Birshof, Münchenstein,Bassel-Landschaft,F,Vascular Diseases,4
+430,Hirslanden Klinik Birshof, Münchenstein,Bassel-Landschaft,G,Gynecology and obstetrics,83
+431,Hirslanden Klinik Birshof, Münchenstein,Bassel-Landschaft,I,"Diseases of the bones, joints, connective tissues",5397
+432,Hirslanden Klinik Birshof, Münchenstein,Bassel-Landschaft,J,Complex conditions,49
+433,Hirslanden Klinik Birshof, Münchenstein,Bassel-Landschaft,K,Skin disorders,6
+434,Hirslanden Klinik Linde AG, Biel/Bienne,Bern,A,Cardiac diseases,894
+435,Hirslanden Klinik Linde AG, Biel/Bienne,Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",369
+436,Hirslanden Klinik Linde AG, Biel/Bienne,Bern,C,Geriatric Medicine,103
+437,Hirslanden Klinik Linde AG, Biel/Bienne,Bern,D,Lung diseases,1875
+438,Hirslanden Klinik Linde AG, Biel/Bienne,Bern,E,Diseases of the abdominal organs,6788
+439,Hirslanden Klinik Linde AG, Biel/Bienne,Bern,F,Vascular Diseases,3126
+440,Hirslanden Klinik Linde AG, Biel/Bienne,Bern,G,Gynecology and obstetrics,19460
+441,Hirslanden Klinik Linde AG, Biel/Bienne,Bern,H,Diseases of the urinary tract and male genitalia,990
+442,Hirslanden Klinik Linde AG, Biel/Bienne,Bern,I,"Diseases of the bones, joints, connective tissues",6099
+443,Hirslanden Klinik Linde AG, Biel/Bienne,Bern,J,Complex conditions,462
+444,Hirslanden Klinik Linde AG, Biel/Bienne,Bern,K,Skin disorders,105
+445,Hirslanden Klinik St. Anna AG, Luzern,Luzern,A,Cardiac diseases,24940
+446,Hirslanden Klinik St. Anna AG, Luzern,Luzern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",2981
+447,Hirslanden Klinik St. Anna AG, Luzern,Luzern,C,Geriatric Medicine,1425
+448,Hirslanden Klinik St. Anna AG, Luzern,Luzern,D,Lung diseases,5525
+449,Hirslanden Klinik St. Anna AG, Luzern,Luzern,E,Diseases of the abdominal organs,10379
+450,Hirslanden Klinik St. Anna AG, Luzern,Luzern,F,Vascular Diseases,3057
+451,Hirslanden Klinik St. Anna AG, Luzern,Luzern,G,Gynecology and obstetrics,22165
+452,Hirslanden Klinik St. Anna AG, Luzern,Luzern,H,Diseases of the urinary tract and male genitalia,5807
+453,Hirslanden Klinik St. Anna AG, Luzern,Luzern,I,"Diseases of the bones, joints, connective tissues",19494
+454,Hirslanden Klinik St. Anna AG, Luzern,Luzern,J,Complex conditions,4296
+455,Hirslanden Klinik St. Anna AG, Luzern,Luzern,K,Skin disorders,155
+456,Hirslanden Klinik St. Anna AG, Luzern,Luzern,L,Highly specialized medicine,2
+457,Hirslanden Klinik St. Anna AG, Luzern,Luzern,M,Palliative Medicine,1
+458,Hirslanden Klinik St. Anna AG Hirslanden Klinik Meggen, Meggen,Luzern,A,Cardiac diseases,1
+459,Hirslanden Klinik St. Anna AG Hirslanden Klinik Meggen, Meggen,Luzern,E,Diseases of the abdominal organs,598
+460,Hirslanden Klinik St. Anna AG Hirslanden Klinik Meggen, Meggen,Luzern,F,Vascular Diseases,3
+461,Hirslanden Klinik St. Anna AG Hirslanden Klinik Meggen, Meggen,Luzern,G,Gynecology and obstetrics,318
+462,Hirslanden Klinik St. Anna AG Hirslanden Klinik Meggen, Meggen,Luzern,I,"Diseases of the bones, joints, connective tissues",806
+463,Hirslanden Klinik St. Anna AG Hirslanden Klinik Meggen, Meggen,Luzern,J,Complex conditions,9
+464,Hirslanden Klinik St. Anna AG Hirslanden Klinik Meggen, Meggen,Luzern,K,Skin disorders,3
+465,Hirslanden Klinik Stephanshorn, St. Gallen,St. Gallen,A,Cardiac diseases,488
+466,Hirslanden Klinik Stephanshorn, St. Gallen,St. Gallen,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",160
+467,Hirslanden Klinik Stephanshorn, St. Gallen,St. Gallen,C,Geriatric Medicine,182
+468,Hirslanden Klinik Stephanshorn, St. Gallen,St. Gallen,D,Lung diseases,1171
+469,Hirslanden Klinik Stephanshorn, St. Gallen,St. Gallen,E,Diseases of the abdominal organs,9285
+470,Hirslanden Klinik Stephanshorn, St. Gallen,St. Gallen,F,Vascular Diseases,1350
+471,Hirslanden Klinik Stephanshorn, St. Gallen,St. Gallen,G,Gynecology and obstetrics,26067
+472,Hirslanden Klinik Stephanshorn, St. Gallen,St. Gallen,H,Diseases of the urinary tract and male genitalia,6745
+473,Hirslanden Klinik Stephanshorn, St. Gallen,St. Gallen,I,"Diseases of the bones, joints, connective tissues",11448
+474,Hirslanden Klinik Stephanshorn, St. Gallen,St. Gallen,J,Complex conditions,873
+475,Hirslanden Klinik Stephanshorn, St. Gallen,St. Gallen,K,Skin disorders,84
+476,Hirslanden Klinik Stephanshorn, St. Gallen,St. Gallen,L,Highly specialized medicine,4
+477,Hirslanden Lausanne SA, Lausanne,Vaud,A,Cardiac diseases,21825
+478,Hirslanden Lausanne SA, Lausanne,Vaud,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",154
+479,Hirslanden Lausanne SA, Lausanne,Vaud,C,Geriatric Medicine,143
+480,Hirslanden Lausanne SA, Lausanne,Vaud,D,Lung diseases,2289
+481,Hirslanden Lausanne SA, Lausanne,Vaud,E,Diseases of the abdominal organs,5224
+482,Hirslanden Lausanne SA, Lausanne,Vaud,F,Vascular Diseases,1768
+483,Hirslanden Lausanne SA, Lausanne,Vaud,G,Gynecology and obstetrics,17669
+484,Hirslanden Lausanne SA, Lausanne,Vaud,H,Diseases of the urinary tract and male genitalia,5384
+485,Hirslanden Lausanne SA, Lausanne,Vaud,I,"Diseases of the bones, joints, connective tissues",10120
+486,Hirslanden Lausanne SA, Lausanne,Vaud,J,Complex conditions,2075
+487,Hirslanden Lausanne SA, Lausanne,Vaud,K,Skin disorders,37
+488,Hirslanden Lausanne SA, Lausanne,Vaud,L,Highly specialized medicine,1
+489,Hirslanden Lausanne SA, Lausanne,Vaud,M,Palliative Medicine,2
+490,Hospiz im Park, Arlesheim,Bassel-Landschaft,A,Cardiac diseases,11
+491,Hospiz im Park, Arlesheim,Bassel-Landschaft,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",25
+492,Hospiz im Park, Arlesheim,Bassel-Landschaft,C,Geriatric Medicine,13
+493,Hospiz im Park, Arlesheim,Bassel-Landschaft,D,Lung diseases,36
+494,Hospiz im Park, Arlesheim,Bassel-Landschaft,E,Diseases of the abdominal organs,20
+495,Hospiz im Park, Arlesheim,Bassel-Landschaft,G,Gynecology and obstetrics,53
+496,Hospiz im Park, Arlesheim,Bassel-Landschaft,H,Diseases of the urinary tract and male genitalia,17
+497,Hospiz im Park, Arlesheim,Bassel-Landschaft,J,Complex conditions,3
+498,Hospiz im Park, Arlesheim,Bassel-Landschaft,K,Skin disorders,1
+499,Hospiz im Park, Arlesheim,Bassel-Landschaft,M,Palliative Medicine,281
+500,Hôpital Intercantonal de la Broye (HIB), Payerne,Vaud,A,Cardiac diseases,5832
+501,Hôpital Intercantonal de la Broye (HIB), Payerne,Vaud,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",2415
+502,Hôpital Intercantonal de la Broye (HIB), Payerne,Vaud,C,Geriatric Medicine,483
+503,Hôpital Intercantonal de la Broye (HIB), Payerne,Vaud,D,Lung diseases,6053
+504,Hôpital Intercantonal de la Broye (HIB), Payerne,Vaud,E,Diseases of the abdominal organs,2547
+505,Hôpital Intercantonal de la Broye (HIB), Payerne,Vaud,F,Vascular Diseases,70
+506,Hôpital Intercantonal de la Broye (HIB), Payerne,Vaud,G,Gynecology and obstetrics,11900
+507,Hôpital Intercantonal de la Broye (HIB), Payerne,Vaud,H,Diseases of the urinary tract and male genitalia,904
+508,Hôpital Intercantonal de la Broye (HIB), Payerne,Vaud,I,"Diseases of the bones, joints, connective tissues",2255
+509,Hôpital Intercantonal de la Broye (HIB), Payerne,Vaud,J,Complex conditions,2484
+510,Hôpital Intercantonal de la Broye (HIB), Payerne,Vaud,K,Skin disorders,70
+511,Hôpital Jules Daler, Fribourg,Fribourg,A,Cardiac diseases,51
+512,Hôpital Jules Daler, Fribourg,Fribourg,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1
+513,Hôpital Jules Daler, Fribourg,Fribourg,C,Geriatric Medicine,14
+514,Hôpital Jules Daler, Fribourg,Fribourg,D,Lung diseases,72
+515,Hôpital Jules Daler, Fribourg,Fribourg,E,Diseases of the abdominal organs,9359
+516,Hôpital Jules Daler, Fribourg,Fribourg,F,Vascular Diseases,522
+517,Hôpital Jules Daler, Fribourg,Fribourg,G,Gynecology and obstetrics,37844
+518,Hôpital Jules Daler, Fribourg,Fribourg,H,Diseases of the urinary tract and male genitalia,7996
+519,Hôpital Jules Daler, Fribourg,Fribourg,I,"Diseases of the bones, joints, connective tissues",37
+520,Hôpital Jules Daler, Fribourg,Fribourg,J,Complex conditions,99
+521,Hôpital Jules Daler, Fribourg,Fribourg,K,Skin disorders,12
+522,Hôpital Jules Daler, Fribourg,Fribourg,M,Palliative Medicine,1
+523,Hôpital Riviera­Chablais Vaud-Valais, Montreux,Vaud,A,Cardiac diseases,16677
+524,Hôpital Riviera­Chablais Vaud-Valais, Montreux,Vaud,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",7473
+525,Hôpital Riviera­Chablais Vaud-Valais, Montreux,Vaud,C,Geriatric Medicine,3302
+526,Hôpital Riviera­Chablais Vaud-Valais, Montreux,Vaud,D,Lung diseases,16811
+527,Hôpital Riviera­Chablais Vaud-Valais, Montreux,Vaud,E,Diseases of the abdominal organs,10564
+528,Hôpital Riviera­Chablais Vaud-Valais, Montreux,Vaud,F,Vascular Diseases,256
+529,Hôpital Riviera­Chablais Vaud-Valais, Montreux,Vaud,G,Gynecology and obstetrics,42187
+530,Hôpital Riviera­Chablais Vaud-Valais, Montreux,Vaud,H,Diseases of the urinary tract and male genitalia,4986
+531,Hôpital Riviera­Chablais Vaud-Valais, Montreux,Vaud,I,"Diseases of the bones, joints, connective tissues",8774
+532,Hôpital Riviera­Chablais Vaud-Valais, Montreux,Vaud,J,Complex conditions,7750
+533,Hôpital Riviera­Chablais Vaud-Valais, Montreux,Vaud,K,Skin disorders,147
+534,Hôpital Riviera­Chablais Vaud-Valais, Montreux,Vaud,M,Palliative Medicine,4
+535,Hôpital de Moutier SA, Moutier,Bern,A,Cardiac diseases,365
+536,Hôpital de Moutier SA, Moutier,Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",91
+537,Hôpital de Moutier SA, Moutier,Bern,C,Geriatric Medicine,90
+538,Hôpital de Moutier SA, Moutier,Bern,D,Lung diseases,389
+539,Hôpital de Moutier SA, Moutier,Bern,E,Diseases of the abdominal organs,156
+540,Hôpital de Moutier SA, Moutier,Bern,F,Vascular Diseases,2
+541,Hôpital de Moutier SA, Moutier,Bern,G,Gynecology and obstetrics,104
+542,Hôpital de Moutier SA, Moutier,Bern,H,Diseases of the urinary tract and male genitalia,51
+543,Hôpital de Moutier SA, Moutier,Bern,I,"Diseases of the bones, joints, connective tissues",198
+544,Hôpital de Moutier SA, Moutier,Bern,J,Complex conditions,188
+545,Hôpital de Moutier SA, Moutier,Bern,K,Skin disorders,3
+546,Hôpital de la Tour, Meyrin,Genève,A,Cardiac diseases,18050
+547,Hôpital de la Tour, Meyrin,Genève,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",377
+548,Hôpital de la Tour, Meyrin,Genève,C,Geriatric Medicine,171
+549,Hôpital de la Tour, Meyrin,Genève,D,Lung diseases,4110
+550,Hôpital de la Tour, Meyrin,Genève,E,Diseases of the abdominal organs,5246
+551,Hôpital de la Tour, Meyrin,Genève,F,Vascular Diseases,2260
+552,Hôpital de la Tour, Meyrin,Genève,G,Gynecology and obstetrics,13450
+553,Hôpital de la Tour, Meyrin,Genève,H,Diseases of the urinary tract and male genitalia,1957
+554,Hôpital de la Tour, Meyrin,Genève,I,"Diseases of the bones, joints, connective tissues",5399
+555,Hôpital de la Tour, Meyrin,Genève,J,Complex conditions,1962
+556,Hôpital de la Tour, Meyrin,Genève,K,Skin disorders,15
+557,Hôpital du Jura, Delémont,Jura,A,Cardiac diseases,8305
+558,Hôpital du Jura, Delémont,Jura,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",4528
+559,Hôpital du Jura, Delémont,Jura,C,Geriatric Medicine,1616
+560,Hôpital du Jura, Delémont,Jura,D,Lung diseases,5691
+561,Hôpital du Jura, Delémont,Jura,E,Diseases of the abdominal organs,3195
+562,Hôpital du Jura, Delémont,Jura,F,Vascular Diseases,202
+563,Hôpital du Jura, Delémont,Jura,G,Gynecology and obstetrics,12684
+564,Hôpital du Jura, Delémont,Jura,H,Diseases of the urinary tract and male genitalia,2345
+565,Hôpital du Jura, Delémont,Jura,I,"Diseases of the bones, joints, connective tissues",4443
+566,Hôpital du Jura, Delémont,Jura,J,Complex conditions,4526
+567,Hôpital du Jura, Delémont,Jura,K,Skin disorders,165
+568,Hôpital du Jura, Delémont,Jura,M,Palliative Medicine,22
+569,Hôpital du Jura bernois SA, St-Imier,Bern,A,Cardiac diseases,3978
+570,Hôpital du Jura bernois SA, St-Imier,Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1587
+571,Hôpital du Jura bernois SA, St-Imier,Bern,C,Geriatric Medicine,391
+572,Hôpital du Jura bernois SA, St-Imier,Bern,D,Lung diseases,4187
+573,Hôpital du Jura bernois SA, St-Imier,Bern,E,Diseases of the abdominal organs,2469
+574,Hôpital du Jura bernois SA, St-Imier,Bern,F,Vascular Diseases,260
+575,Hôpital du Jura bernois SA, St-Imier,Bern,G,Gynecology and obstetrics,10045
+576,Hôpital du Jura bernois SA, St-Imier,Bern,H,Diseases of the urinary tract and male genitalia,1370
+577,Hôpital du Jura bernois SA, St-Imier,Bern,I,"Diseases of the bones, joints, connective tissues",2378
+578,Hôpital du Jura bernois SA, St-Imier,Bern,J,Complex conditions,2266
+579,Hôpital du Jura bernois SA, St-Imier,Bern,K,Skin disorders,42
+580,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,A,Cardiac diseases,47148
+581,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",17397
+582,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,C,Geriatric Medicine,7675
+583,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,D,Lung diseases,20724
+584,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,E,Diseases of the abdominal organs,7664
+585,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,F,Vascular Diseases,6938
+586,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,G,Gynecology and obstetrics,39036
+587,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,H,Diseases of the urinary tract and male genitalia,7229
+588,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,I,"Diseases of the bones, joints, connective tissues",13306
+589,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,J,Complex conditions,11779
+590,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,K,Skin disorders,291
+591,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,L,Highly specialized medicine,1
+592,Hôpital du Valais Centre hospitalier du Valais Romand CHVR, Sion,Valais,M,Palliative Medicine,711
+593,Insel Gruppe AG (nicht-universitär), Bern, Bern,A,Cardiac diseases,24643
+594,Insel Gruppe AG (nicht-universitär), Bern, Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",15214
+595,Insel Gruppe AG (nicht-universitär), Bern, Bern,C,Geriatric Medicine,16004
+596,Insel Gruppe AG (nicht-universitär), Bern, Bern,D,Lung diseases,16613
+597,Insel Gruppe AG (nicht-universitär), Bern, Bern,E,Diseases of the abdominal organs,11280
+598,Insel Gruppe AG (nicht-universitär), Bern, Bern,F,Vascular Diseases,376
+599,Insel Gruppe AG (nicht-universitär), Bern, Bern,G,Gynecology and obstetrics,10579
+600,Insel Gruppe AG (nicht-universitär), Bern, Bern,H,Diseases of the urinary tract and male genitalia,1296
+601,Insel Gruppe AG (nicht-universitär), Bern, Bern,I,"Diseases of the bones, joints, connective tissues",16830
+602,Insel Gruppe AG (nicht-universitär), Bern, Bern,J,Complex conditions,8328
+603,Insel Gruppe AG (nicht-universitär), Bern, Bern,K,Skin disorders,69
+604,Insel Gruppe AG (nicht-universitär), Bern, Bern,M,Palliative Medicine,48
+605,Insel Gruppe AG (universitär), Bern,Bern,A,Cardiac diseases,168902
+606,Insel Gruppe AG (universitär), Bern,Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",52740
+607,Insel Gruppe AG (universitär), Bern,Bern,C,Geriatric Medicine,3973
+608,Insel Gruppe AG (universitär), Bern,Bern,D,Lung diseases,17701
+609,Insel Gruppe AG (universitär), Bern,Bern,E,Diseases of the abdominal organs,17913
+610,Insel Gruppe AG (universitär), Bern,Bern,F,Vascular Diseases,25911
+611,Insel Gruppe AG (universitär), Bern,Bern,G,Gynecology and obstetrics,48240
+612,Insel Gruppe AG (universitär), Bern,Bern,H,Diseases of the urinary tract and male genitalia,13646
+613,Insel Gruppe AG (universitär), Bern,Bern,I,"Diseases of the bones, joints, connective tissues",22466
+614,Insel Gruppe AG (universitär), Bern,Bern,J,Complex conditions,40272
+615,Insel Gruppe AG (universitär), Bern,Bern,K,Skin disorders,2121
+616,Insel Gruppe AG (universitär), Bern,Bern,L,Highly specialized medicine,3271
+617,Insel Gruppe AG (universitär), Bern,Bern,M,Palliative Medicine,2199
+618,Ita Wegman Geburtshaus, Arlesheim,Bassel-Landschaft,G,Gynecology and obstetrics,49
+619,Kantonales Spital Appenzell, Appenzell,Appenzell Innerrhoden,A,Cardiac diseases,391
+620,Kantonales Spital Appenzell, Appenzell,Appenzell Innerrhoden,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",192
+621,Kantonales Spital Appenzell, Appenzell,Appenzell Innerrhoden,C,Geriatric Medicine,16
+622,Kantonales Spital Appenzell, Appenzell,Appenzell Innerrhoden,D,Lung diseases,624
+623,Kantonales Spital Appenzell, Appenzell,Appenzell Innerrhoden,E,Diseases of the abdominal organs,331
+624,Kantonales Spital Appenzell, Appenzell,Appenzell Innerrhoden,F,Vascular Diseases,14
+625,Kantonales Spital Appenzell, Appenzell,Appenzell Innerrhoden,G,Gynecology and obstetrics,15
+626,Kantonales Spital Appenzell, Appenzell,Appenzell Innerrhoden,H,Diseases of the urinary tract and male genitalia,163
+627,Kantonales Spital Appenzell, Appenzell,Appenzell Innerrhoden,I,"Diseases of the bones, joints, connective tissues",739
+628,Kantonales Spital Appenzell, Appenzell,Appenzell Innerrhoden,J,Complex conditions,57
+629,Kantonales Spital Appenzell, Appenzell,Appenzell Innerrhoden,K,Skin disorders,4
+630,Kantonsspital Aarau AG, Aarau,Aargau,A,Cardiac diseases,60110
+631,Kantonsspital Aarau AG, Aarau,Aargau,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",30056
+632,Kantonsspital Aarau AG, Aarau,Aargau,C,Geriatric Medicine,1605
+633,Kantonsspital Aarau AG, Aarau,Aargau,D,Lung diseases,13542
+634,Kantonsspital Aarau AG, Aarau,Aargau,E,Diseases of the abdominal organs,12572
+635,Kantonsspital Aarau AG, Aarau,Aargau,F,Vascular Diseases,7657
+636,Kantonsspital Aarau AG, Aarau,Aargau,G,Gynecology and obstetrics,45357
+637,Kantonsspital Aarau AG, Aarau,Aargau,H,Diseases of the urinary tract and male genitalia,9486
+638,Kantonsspital Aarau AG, Aarau,Aargau,I,"Diseases of the bones, joints, connective tissues",16727
+639,Kantonsspital Aarau AG, Aarau,Aargau,J,Complex conditions,15140
+640,Kantonsspital Aarau AG, Aarau,Aargau,K,Skin disorders,470
+641,Kantonsspital Aarau AG, Aarau,Aargau,L,Highly specialized medicine,560
+642,Kantonsspital Baden AG, Baden,Aargau,A,Cardiac diseases,23066
+643,Kantonsspital Baden AG, Baden,Aargau,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",10823
+644,Kantonsspital Baden AG, Baden,Aargau,C,Geriatric Medicine,6631
+645,Kantonsspital Baden AG, Baden,Aargau,D,Lung diseases,12143
+646,Kantonsspital Baden AG, Baden,Aargau,E,Diseases of the abdominal organs,15259
+647,Kantonsspital Baden AG, Baden,Aargau,F,Vascular Diseases,3633
+648,Kantonsspital Baden AG, Baden,Aargau,G,Gynecology and obstetrics,41280
+649,Kantonsspital Baden AG, Baden,Aargau,H,Diseases of the urinary tract and male genitalia,7181
+650,Kantonsspital Baden AG, Baden,Aargau,I,"Diseases of the bones, joints, connective tissues",8903
+651,Kantonsspital Baden AG, Baden,Aargau,J,Complex conditions,8234
+652,Kantonsspital Baden AG, Baden,Aargau,K,Skin disorders,131
+653,Kantonsspital Baden AG, Baden,Aargau,M,Palliative Medicine,748
+654,Kantonsspital Baselland, Liestal,Bassel-Landschaft,A,Cardiac diseases,35153
+655,Kantonsspital Baselland, Liestal,Bassel-Landschaft,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",9420
+656,Kantonsspital Baselland, Liestal,Bassel-Landschaft,C,Geriatric Medicine,14047
+657,Kantonsspital Baselland, Liestal,Bassel-Landschaft,D,Lung diseases,21263
+658,Kantonsspital Baselland, Liestal,Bassel-Landschaft,E,Diseases of the abdominal organs,17180
+659,Kantonsspital Baselland, Liestal,Bassel-Landschaft,F,Vascular Diseases,5789
+660,Kantonsspital Baselland, Liestal,Bassel-Landschaft,G,Gynecology and obstetrics,19558
+661,Kantonsspital Baselland, Liestal,Bassel-Landschaft,H,Diseases of the urinary tract and male genitalia,10327
+662,Kantonsspital Baselland, Liestal,Bassel-Landschaft,I,"Diseases of the bones, joints, connective tissues",13223
+663,Kantonsspital Baselland, Liestal,Bassel-Landschaft,J,Complex conditions,11012
+664,Kantonsspital Baselland, Liestal,Bassel-Landschaft,K,Skin disorders,163
+665,Kantonsspital Baselland, Liestal,Bassel-Landschaft,L,Highly specialized medicine,3
+666,Kantonsspital Baselland, Liestal,Bassel-Landschaft,M,Palliative Medicine,4
+667,Kantonsspital Glarus, Glarus,Glarus,A,Cardiac diseases,4075
+668,Kantonsspital Glarus, Glarus,Glarus,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1898
+669,Kantonsspital Glarus, Glarus,Glarus,C,Geriatric Medicine,2199
+670,Kantonsspital Glarus, Glarus,Glarus,D,Lung diseases,2680
+671,Kantonsspital Glarus, Glarus,Glarus,E,Diseases of the abdominal organs,3267
+672,Kantonsspital Glarus, Glarus,Glarus,F,Vascular Diseases,327
+673,Kantonsspital Glarus, Glarus,Glarus,G,Gynecology and obstetrics,8961
+674,Kantonsspital Glarus, Glarus,Glarus,H,Diseases of the urinary tract and male genitalia,2000
+675,Kantonsspital Glarus, Glarus,Glarus,I,"Diseases of the bones, joints, connective tissues",3108
+676,Kantonsspital Glarus, Glarus,Glarus,J,Complex conditions,2780
+677,Kantonsspital Glarus, Glarus,Glarus,K,Skin disorders,28
+678,Kantonsspital Glarus, Glarus,Glarus,M,Palliative Medicine,195
+679,Kantonsspital Graubünden, Chur,Grisons,A,Cardiac diseases,34675
+680,Kantonsspital Graubünden, Chur,Grisons,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",7774
+681,Kantonsspital Graubünden, Chur,Grisons,C,Geriatric Medicine,5069
+682,Kantonsspital Graubünden, Chur,Grisons,D,Lung diseases,8714
+683,Kantonsspital Graubünden, Chur,Grisons,E,Diseases of the abdominal organs,10611
+684,Kantonsspital Graubünden, Chur,Grisons,F,Vascular Diseases,5652
+685,Kantonsspital Graubünden, Chur,Grisons,G,Gynecology and obstetrics,27973
+686,Kantonsspital Graubünden, Chur,Grisons,H,Diseases of the urinary tract and male genitalia,8668
+687,Kantonsspital Graubünden, Chur,Grisons,I,"Diseases of the bones, joints, connective tissues",10380
+688,Kantonsspital Graubünden, Chur,Grisons,J,Complex conditions,6780
+689,Kantonsspital Graubünden, Chur,Grisons,K,Skin disorders,218
+690,Kantonsspital Graubünden, Chur,Grisons,M,Palliative Medicine,2935
+691,Kantonsspital Nidwalden, Stans,Nidwalden,A,Cardiac diseases,5298
+692,Kantonsspital Nidwalden, Stans,Nidwalden,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1582
+693,Kantonsspital Nidwalden, Stans,Nidwalden,C,Geriatric Medicine,202
+694,Kantonsspital Nidwalden, Stans,Nidwalden,D,Lung diseases,2240
+695,Kantonsspital Nidwalden, Stans,Nidwalden,E,Diseases of the abdominal organs,4892
+696,Kantonsspital Nidwalden, Stans,Nidwalden,F,Vascular Diseases,87
+697,Kantonsspital Nidwalden, Stans,Nidwalden,G,Gynecology and obstetrics,11428
+698,Kantonsspital Nidwalden, Stans,Nidwalden,H,Diseases of the urinary tract and male genitalia,1148
+699,Kantonsspital Nidwalden, Stans,Nidwalden,I,"Diseases of the bones, joints, connective tissues",2552
+700,Kantonsspital Nidwalden, Stans,Nidwalden,J,Complex conditions,1578
+701,Kantonsspital Nidwalden, Stans,Nidwalden,K,Skin disorders,53
+702,Kantonsspital Obwalden, Sarnen,Obwalden,A,Cardiac diseases,3439
+703,Kantonsspital Obwalden, Sarnen,Obwalden,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1060
+704,Kantonsspital Obwalden, Sarnen,Obwalden,C,Geriatric Medicine,123
+705,Kantonsspital Obwalden, Sarnen,Obwalden,D,Lung diseases,1598
+706,Kantonsspital Obwalden, Sarnen,Obwalden,E,Diseases of the abdominal organs,1614
+707,Kantonsspital Obwalden, Sarnen,Obwalden,F,Vascular Diseases,43
+708,Kantonsspital Obwalden, Sarnen,Obwalden,G,Gynecology and obstetrics,5654
+709,Kantonsspital Obwalden, Sarnen,Obwalden,H,Diseases of the urinary tract and male genitalia,535
+710,Kantonsspital Obwalden, Sarnen,Obwalden,I,"Diseases of the bones, joints, connective tissues",2079
+711,Kantonsspital Obwalden, Sarnen,Obwalden,J,Complex conditions,1073
+712,Kantonsspital Obwalden, Sarnen,Obwalden,K,Skin disorders,21
+713,Kantonsspital St. Gallen, St. Gallen, St. Gallen,A,Cardiac diseases,79363
+714,Kantonsspital St. Gallen, St. Gallen, St. Gallen,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",28831
+715,Kantonsspital St. Gallen, St. Gallen, St. Gallen,C,Geriatric Medicine,2611
+716,Kantonsspital St. Gallen, St. Gallen, St. Gallen,D,Lung diseases,18816
+717,Kantonsspital St. Gallen, St. Gallen, St. Gallen,E,Diseases of the abdominal organs,28010
+718,Kantonsspital St. Gallen, St. Gallen, St. Gallen,F,Vascular Diseases,10980
+719,Kantonsspital St. Gallen, St. Gallen, St. Gallen,G,Gynecology and obstetrics,45043
+720,Kantonsspital St. Gallen, St. Gallen, St. Gallen,H,Diseases of the urinary tract and male genitalia,10687
+721,Kantonsspital St. Gallen, St. Gallen, St. Gallen,I,"Diseases of the bones, joints, connective tissues",23721
+722,Kantonsspital St. Gallen, St. Gallen, St. Gallen,J,Complex conditions,19770
+723,Kantonsspital St. Gallen, St. Gallen, St. Gallen,K,Skin disorders,583
+724,Kantonsspital St. Gallen, St. Gallen, St. Gallen,L,Highly specialized medicine,813
+725,Kantonsspital St. Gallen, St. Gallen, St. Gallen,M,Palliative Medicine,3326
+726,Kantonsspital Uri, Altdorf,Uri,A,Cardiac diseases,3792
+727,Kantonsspital Uri, Altdorf,Uri,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1464
+728,Kantonsspital Uri, Altdorf,Uri,C,Geriatric Medicine,347
+729,Kantonsspital Uri, Altdorf,Uri,D,Lung diseases,2078
+730,Kantonsspital Uri, Altdorf,Uri,E,Diseases of the abdominal organs,2069
+731,Kantonsspital Uri, Altdorf,Uri,F,Vascular Diseases,165
+732,Kantonsspital Uri, Altdorf,Uri,G,Gynecology and obstetrics,6495
+733,Kantonsspital Uri, Altdorf,Uri,H,Diseases of the urinary tract and male genitalia,958
+734,Kantonsspital Uri, Altdorf,Uri,I,"Diseases of the bones, joints, connective tissues",3981
+735,Kantonsspital Uri, Altdorf,Uri,J,Complex conditions,1110
+736,Kantonsspital Uri, Altdorf,Uri,K,Skin disorders,32
+737,Kantonsspital Winterthur, Winterthur,Zürich,A,Cardiac diseases,38049
+738,Kantonsspital Winterthur, Winterthur,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",11065
+739,Kantonsspital Winterthur, Winterthur,Zürich,C,Geriatric Medicine,6096
+740,Kantonsspital Winterthur, Winterthur,Zürich,D,Lung diseases,15753
+741,Kantonsspital Winterthur, Winterthur,Zürich,E,Diseases of the abdominal organs,19022
+742,Kantonsspital Winterthur, Winterthur,Zürich,F,Vascular Diseases,8868
+743,Kantonsspital Winterthur, Winterthur,Zürich,G,Gynecology and obstetrics,45142
+744,Kantonsspital Winterthur, Winterthur,Zürich,H,Diseases of the urinary tract and male genitalia,10851
+745,Kantonsspital Winterthur, Winterthur,Zürich,I,"Diseases of the bones, joints, connective tissues",17450
+746,Kantonsspital Winterthur, Winterthur,Zürich,J,Complex conditions,11228
+747,Kantonsspital Winterthur, Winterthur,Zürich,K,Skin disorders,234
+748,Kantonsspital Winterthur, Winterthur,Zürich,L,Highly specialized medicine,47
+749,Kantonsspital Winterthur, Winterthur,Zürich,M,Palliative Medicine,1838
+750,Klinik Arlesheim AG, Arlesheim,Bassel-Landschaft,A,Cardiac diseases,1415
+751,Klinik Arlesheim AG, Arlesheim,Bassel-Landschaft,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",366
+752,Klinik Arlesheim AG, Arlesheim,Bassel-Landschaft,C,Geriatric Medicine,81
+753,Klinik Arlesheim AG, Arlesheim,Bassel-Landschaft,D,Lung diseases,1938
+754,Klinik Arlesheim AG, Arlesheim,Bassel-Landschaft,E,Diseases of the abdominal organs,481
+755,Klinik Arlesheim AG, Arlesheim,Bassel-Landschaft,F,Vascular Diseases,2
+756,Klinik Arlesheim AG, Arlesheim,Bassel-Landschaft,G,Gynecology and obstetrics,1838
+757,Klinik Arlesheim AG, Arlesheim,Bassel-Landschaft,H,Diseases of the urinary tract and male genitalia,158
+758,Klinik Arlesheim AG, Arlesheim,Bassel-Landschaft,I,"Diseases of the bones, joints, connective tissues",296
+759,Klinik Arlesheim AG, Arlesheim,Bassel-Landschaft,J,Complex conditions,159
+760,Klinik Arlesheim AG, Arlesheim,Bassel-Landschaft,K,Skin disorders,63
+761,Klinik Arlesheim AG, Arlesheim,Bassel-Landschaft,M,Palliative Medicine,507
+762,Klinik Gut St. Moritz AG, St. Moritz,Graubünden,A,Cardiac diseases,24
+763,Klinik Gut St. Moritz AG, St. Moritz,Graubünden,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",13
+764,Klinik Gut St. Moritz AG, St. Moritz,Graubünden,C,Geriatric Medicine,21
+765,Klinik Gut St. Moritz AG, St. Moritz,Graubünden,E,Diseases of the abdominal organs,323
+766,Klinik Gut St. Moritz AG, St. Moritz,Graubünden,F,Vascular Diseases,12
+767,Klinik Gut St. Moritz AG, St. Moritz,Graubünden,G,Gynecology and obstetrics,3
+768,Klinik Gut St. Moritz AG, St. Moritz,Graubünden,H,Diseases of the urinary tract and male genitalia,1
+769,Klinik Gut St. Moritz AG, St. Moritz,Graubünden,I,"Diseases of the bones, joints, connective tissues",3499
+770,Klinik Gut St. Moritz AG, St. Moritz,Graubünden,J,Complex conditions,47
+771,Klinik Gut St. Moritz AG, St. Moritz,Graubünden,K,Skin disorders,1
+772,Klinik Hirslanden AG, Zürich, Zürich,A,Cardiac diseases,76565
+773,Klinik Hirslanden AG, Zürich, Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",8145
+774,Klinik Hirslanden AG, Zürich, Zürich,C,Geriatric Medicine,1158
+775,Klinik Hirslanden AG, Zürich, Zürich,D,Lung diseases,6851
+776,Klinik Hirslanden AG, Zürich, Zürich,E,Diseases of the abdominal organs,17183
+777,Klinik Hirslanden AG, Zürich, Zürich,F,Vascular Diseases,7192
+778,Klinik Hirslanden AG, Zürich, Zürich,G,Gynecology and obstetrics,37058
+779,Klinik Hirslanden AG, Zürich, Zürich,H,Diseases of the urinary tract and male genitalia,8782
+780,Klinik Hirslanden AG, Zürich, Zürich,I,"Diseases of the bones, joints, connective tissues",19740
+781,Klinik Hirslanden AG, Zürich, Zürich,J,Complex conditions,6100
+782,Klinik Hirslanden AG, Zürich, Zürich,K,Skin disorders,43
+783,Klinik Hirslanden AG, Zürich, Zürich,L,Highly specialized medicine,405
+784,Klinik Hohmad AG, Thun,Bern,A,Cardiac diseases,3
+785,Klinik Hohmad AG, Thun,Bern,C,Geriatric Medicine,2
+786,Klinik Hohmad AG, Thun,Bern,E,Diseases of the abdominal organs,2754
+787,Klinik Hohmad AG, Thun,Bern,F,Vascular Diseases,8
+788,Klinik Hohmad AG, Thun,Bern,G,Gynecology and obstetrics,27
+789,Klinik Hohmad AG, Thun,Bern,H,Diseases of the urinary tract and male genitalia,1135
+790,Klinik Hohmad AG, Thun,Bern,I,"Diseases of the bones, joints, connective tissues",1172
+791,Klinik Hohmad AG, Thun,Bern,K,Skin disorders,1
+792,Klinik Im Park, Zürich,Zürich,A,Cardiac diseases,33560
+793,Klinik Im Park, Zürich,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",209
+794,Klinik Im Park, Zürich,Zürich,C,Geriatric Medicine,358
+795,Klinik Im Park, Zürich,Zürich,D,Lung diseases,1129
+796,Klinik Im Park, Zürich,Zürich,E,Diseases of the abdominal organs,3988
+797,Klinik Im Park, Zürich,Zürich,F,Vascular Diseases,3513
+798,Klinik Im Park, Zürich,Zürich,G,Gynecology and obstetrics,16804
+799,Klinik Im Park, Zürich,Zürich,H,Diseases of the urinary tract and male genitalia,1824
+800,Klinik Im Park, Zürich,Zürich,I,"Diseases of the bones, joints, connective tissues",7243
+801,Klinik Im Park, Zürich,Zürich,J,Complex conditions,1591
+802,Klinik Im Park, Zürich,Zürich,K,Skin disorders,22
+803,Klinik Im Park, Zürich,Zürich,L,Highly specialized medicine,17
+804,Klinik Pyramide am See AG, Zürich,Zürich,A,Cardiac diseases,8
+805,Klinik Pyramide am See AG, Zürich,Zürich,C,Geriatric Medicine,3
+806,Klinik Pyramide am See AG, Zürich,Zürich,D,Lung diseases,1
+807,Klinik Pyramide am See AG, Zürich,Zürich,E,Diseases of the abdominal organs,780
+808,Klinik Pyramide am See AG, Zürich,Zürich,G,Gynecology and obstetrics,6857
+809,Klinik Pyramide am See AG, Zürich,Zürich,H,Diseases of the urinary tract and male genitalia,9
+810,Klinik Pyramide am See AG, Zürich,Zürich,I,"Diseases of the bones, joints, connective tissues",806
+811,Klinik Pyramide am See AG, Zürich,Zürich,J,Complex conditions,12
+812,Klinik Pyramide am See AG, Zürich,Zürich,K,Skin disorders,12
+813,Klinik Seeschau AG, Kreuzlingen,Thurgau,A,Cardiac diseases,7
+814,Klinik Seeschau AG, Kreuzlingen,Thurgau,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",7
+815,Klinik Seeschau AG, Kreuzlingen,Thurgau,C,Geriatric Medicine,10
+816,Klinik Seeschau AG, Kreuzlingen,Thurgau,E,Diseases of the abdominal organs,1512
+817,Klinik Seeschau AG, Kreuzlingen,Thurgau,F,Vascular Diseases,11
+818,Klinik Seeschau AG, Kreuzlingen,Thurgau,G,Gynecology and obstetrics,3087
+819,Klinik Seeschau AG, Kreuzlingen,Thurgau,H,Diseases of the urinary tract and male genitalia,2671
+820,Klinik Seeschau AG, Kreuzlingen,Thurgau,I,"Diseases of the bones, joints, connective tissues",2723
+821,Klinik Seeschau AG, Kreuzlingen,Thurgau,J,Complex conditions,77
+822,Klinik Seeschau AG, Kreuzlingen,Thurgau,K,Skin disorders,4
+823,Klinik Tiefenbrunnen AG, Zollikon,Zürich,E,Diseases of the abdominal organs,2
+824,Klinik Tiefenbrunnen AG, Zollikon,Zürich,G,Gynecology and obstetrics,253
+825,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,A,Cardiac diseases,77693
+826,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",41041
+827,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,C,Geriatric Medicine,6598
+828,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,D,Lung diseases,39905
+829,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,E,Diseases of the abdominal organs,25169
+830,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,F,Vascular Diseases,7652
+831,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,G,Gynecology and obstetrics,87714
+832,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,H,Diseases of the urinary tract and male genitalia,9346
+833,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,I,"Diseases of the bones, joints, connective tissues",25680
+834,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,J,Complex conditions,32471
+835,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,K,Skin disorders,772
+836,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,L,Highly specialized medicine,1913
+837,Les Hôpitaux Universitaires de Genève HUG, Genève,Genève,M,Palliative Medicine,4630
+838,Limmatklinik AG, Zürich,Zürich,A,Cardiac diseases,1
+839,Limmatklinik AG, Zürich,Zürich,C,Geriatric Medicine,1
+840,Limmatklinik AG, Zürich,Zürich,E,Diseases of the abdominal organs,96
+841,Limmatklinik AG, Zürich,Zürich,F,Vascular Diseases,4
+842,Limmatklinik AG, Zürich,Zürich,G,Gynecology and obstetrics,4855
+843,Limmatklinik AG, Zürich,Zürich,I,"Diseases of the bones, joints, connective tissues",36
+844,Limmatklinik AG, Zürich,Zürich,J,Complex conditions,8
+845,Limmatklinik AG, Zürich,Zürich,K,Skin disorders,3
+846,Lindenhofgruppe AG, Bern,Bern,A,Cardiac diseases,33173
+847,Lindenhofgruppe AG, Bern,Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",2011
+848,Lindenhofgruppe AG, Bern,Bern,C,Geriatric Medicine,1112
+849,Lindenhofgruppe AG, Bern,Bern,D,Lung diseases,12242
+850,Lindenhofgruppe AG, Bern,Bern,E,Diseases of the abdominal organs,21036
+851,Lindenhofgruppe AG, Bern,Bern,F,Vascular Diseases,8966
+852,Lindenhofgruppe AG, Bern,Bern,G,Gynecology and obstetrics,71986
+853,Lindenhofgruppe AG, Bern,Bern,H,Diseases of the urinary tract and male genitalia,10991
+854,Lindenhofgruppe AG, Bern,Bern,I,"Diseases of the bones, joints, connective tissues",38576
+855,Lindenhofgruppe AG, Bern,Bern,J,Complex conditions,5220
+856,Lindenhofgruppe AG, Bern,Bern,K,Skin disorders,92
+857,Lindenhofgruppe AG, Bern,Bern,L,Highly specialized medicine,3
+858,Lindenhofgruppe AG, Bern,Bern,M,Palliative Medicine,600
+859,Luzerner Kantonsspital,Luzern,Luzern,A,Cardiac diseases,72441
+860,Luzerner Kantonsspital,Luzern,Luzern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",24609
+861,Luzerner Kantonsspital,Luzern,Luzern,C,Geriatric Medicine,6006
+862,Luzerner Kantonsspital,Luzern,Luzern,D,Lung diseases,19225
+863,Luzerner Kantonsspital,Luzern,Luzern,E,Diseases of the abdominal organs,24566
+864,Luzerner Kantonsspital,Luzern,Luzern,F,Vascular Diseases,10579
+865,Luzerner Kantonsspital,Luzern,Luzern,G,Gynecology and obstetrics,79503
+866,Luzerner Kantonsspital,Luzern,Luzern,H,Diseases of the urinary tract and male genitalia,12295
+867,Luzerner Kantonsspital,Luzern,Luzern,I,"Diseases of the bones, joints, connective tissues",20139
+868,Luzerner Kantonsspital,Luzern,Luzern,J,Complex conditions,18451
+869,Luzerner Kantonsspital,Luzern,Luzern,K,Skin disorders,444
+870,Luzerner Kantonsspital,Luzern,Luzern,L,Highly specialized medicine,1
+871,Luzerner Kantonsspital,Luzern,Luzern,M,Palliative Medicine,975
+872,Maison de Naissance Tilia Sàrl, Neuchâtel,Neuchâtel,G,Gynecology and obstetrics,478
+873,Maison de Naissance le Petit Prince, Villars-sur-Glâne,F,G,Gynecology and obstetrics,1417
+874,Maison de naissance La Roseraie, Genève,Genève,G,Gynecology and obstetrics,1046
+875,Maison de naissance Les Cigognes, Vicques,Jura,G,Gynecology and obstetrics,267
+876,Matthea Geburtshaus, Basel,Basel-stadt,G,Gynecology and obstetrics,179
+877,Merian Iselin Klinik, Basel,Basel-stadt,A,Cardiac diseases,33
+878,Merian Iselin Klinik, Basel,Basel-stadt,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",8
+879,Merian Iselin Klinik, Basel,Basel-stadt,C,Geriatric Medicine,124
+880,Merian Iselin Klinik, Basel,Basel-stadt,D,Lung diseases,9
+881,Merian Iselin Klinik, Basel,Basel-stadt,E,Diseases of the abdominal organs,1332
+882,Merian Iselin Klinik, Basel,Basel-stadt,F,Vascular Diseases,1872
+883,Merian Iselin Klinik, Basel,Basel-stadt,G,Gynecology and obstetrics,1797
+884,Merian Iselin Klinik, Basel,Basel-stadt,H,Diseases of the urinary tract and male genitalia,4488
+885,Merian Iselin Klinik, Basel,Basel-stadt,I,"Diseases of the bones, joints, connective tissues",9709
+886,Merian Iselin Klinik, Basel,Basel-stadt,J,Complex conditions,111
+887,Merian Iselin Klinik, Basel,Basel-stadt,K,Skin disorders,13
+888,Nouvelle Clinique Vert­Pré, Conches,Valais,A,Cardiac diseases,2
+889,Nouvelle Clinique Vert­Pré, Conches,Valais,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1
+890,Nouvelle Clinique Vert­Pré, Conches,Valais,C,Geriatric Medicine,1
+891,Nouvelle Clinique Vert­Pré, Conches,Valais,D,Lung diseases,7
+892,Nouvelle Clinique Vert­Pré, Conches,Valais,E,Diseases of the abdominal organs,63
+893,Nouvelle Clinique Vert­Pré, Conches,Valais,G,Gynecology and obstetrics,183
+894,Nouvelle Clinique Vert­Pré, Conches,Valais,H,Diseases of the urinary tract and male genitalia,307
+895,Nouvelle Clinique Vert­Pré, Conches,Valais,I,"Diseases of the bones, joints, connective tissues",15
+896,Nouvelle Clinique Vert­Pré, Conches,Valais,J,Complex conditions,1
+897,Paracelsus­Spital Richterswil AG, Richterswil,Zürich,A,Cardiac diseases,462
+898,Paracelsus­Spital Richterswil AG, Richterswil,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",75
+899,Paracelsus­Spital Richterswil AG, Richterswil,Zürich,C,Geriatric Medicine,53
+900,Paracelsus­Spital Richterswil AG, Richterswil,Zürich,D,Lung diseases,822
+901,Paracelsus­Spital Richterswil AG, Richterswil,Zürich,E,Diseases of the abdominal organs,644
+902,Paracelsus­Spital Richterswil AG, Richterswil,Zürich,F,Vascular Diseases,3
+903,Paracelsus­Spital Richterswil AG, Richterswil,Zürich,G,Gynecology and obstetrics,11138
+904,Paracelsus­Spital Richterswil AG, Richterswil,Zürich,H,Diseases of the urinary tract and male genitalia,910
+905,Paracelsus­Spital Richterswil AG, Richterswil,Zürich,I,"Diseases of the bones, joints, connective tissues",338
+906,Paracelsus­Spital Richterswil AG, Richterswil,Zürich,J,Complex conditions,212
+907,Paracelsus­Spital Richterswil AG, Richterswil,Zürich,K,Skin disorders,21
+908,Paracelsus­Spital Richterswil AG, Richterswil,Zürich,M,Palliative Medicine,115
+909,Praxisklinik Rennbahn AG, Muttenz,Bassel-Landschaft,A,Cardiac diseases,3
+910,Praxisklinik Rennbahn AG, Muttenz,Bassel-Landschaft,E,Diseases of the abdominal organs,81
+911,Praxisklinik Rennbahn AG, Muttenz,Bassel-Landschaft,F,Vascular Diseases,1
+912,Praxisklinik Rennbahn AG, Muttenz,Bassel-Landschaft,G,Gynecology and obstetrics,3
+913,Praxisklinik Rennbahn AG, Muttenz,Bassel-Landschaft,I,"Diseases of the bones, joints, connective tissues",269
+914,Praxisklinik Rennbahn AG, Muttenz,Bassel-Landschaft,J,Complex conditions,86
+915,Privatklinik Bethanien, Zürich,Zürich,A,Cardiac diseases,549
+916,Privatklinik Bethanien, Zürich,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",28
+917,Privatklinik Bethanien, Zürich,Zürich,C,Geriatric Medicine,47
+918,Privatklinik Bethanien, Zürich,Zürich,D,Lung diseases,277
+919,Privatklinik Bethanien, Zürich,Zürich,E,Diseases of the abdominal organs,2536
+920,Privatklinik Bethanien, Zürich,Zürich,F,Vascular Diseases,590
+921,Privatklinik Bethanien, Zürich,Zürich,G,Gynecology and obstetrics,14264
+922,Privatklinik Bethanien, Zürich,Zürich,H,Diseases of the urinary tract and male genitalia,2409
+923,Privatklinik Bethanien, Zürich,Zürich,I,"Diseases of the bones, joints, connective tissues",4409
+924,Privatklinik Bethanien, Zürich,Zürich,J,Complex conditions,146
+925,Privatklinik Bethanien, Zürich,Zürich,K,Skin disorders,13
+926,Privatklinik Bethanien, Zürich,Zürich,L,Highly specialized medicine,3
+927,Privatklinik Lindberg, Winterthur,Zürich,A,Cardiac diseases,56
+928,Privatklinik Lindberg, Winterthur,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",22
+929,Privatklinik Lindberg, Winterthur,Zürich,C,Geriatric Medicine,21
+930,Privatklinik Lindberg, Winterthur,Zürich,D,Lung diseases,105
+931,Privatklinik Lindberg, Winterthur,Zürich,E,Diseases of the abdominal organs,1412
+932,Privatklinik Lindberg, Winterthur,Zürich,F,Vascular Diseases,4
+933,Privatklinik Lindberg, Winterthur,Zürich,G,Gynecology and obstetrics,2347
+934,Privatklinik Lindberg, Winterthur,Zürich,H,Diseases of the urinary tract and male genitalia,698
+935,Privatklinik Lindberg, Winterthur,Zürich,I,"Diseases of the bones, joints, connective tissues",3000
+936,Privatklinik Lindberg, Winterthur,Zürich,J,Complex conditions,75
+937,Privatklinik Lindberg, Winterthur,Zürich,K,Skin disorders,2
+938,Pôle santé du Pays-dEnhaut, Château-dOex,Vaud,A,Cardiac diseases,743
+939,Pôle santé du Pays-dEnhaut, Château-dOex,Vaud,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",409
+940,Pôle santé du Pays-dEnhaut, Château-dOex,Vaud,C,Geriatric Medicine,95
+941,Pôle santé du Pays-dEnhaut, Château-dOex,Vaud,D,Lung diseases,817
+942,Pôle santé du Pays-dEnhaut, Château-dOex,Vaud,E,Diseases of the abdominal organs,167
+943,Pôle santé du Pays-dEnhaut, Château-dOex,Vaud,F,Vascular Diseases,1
+944,Pôle santé du Pays-dEnhaut, Château-dOex,Vaud,G,Gynecology and obstetrics,88
+945,Pôle santé du Pays-dEnhaut, Château-dOex,Vaud,H,Diseases of the urinary tract and male genitalia,32
+946,Pôle santé du Pays-dEnhaut, Château-dOex,Vaud,I,"Diseases of the bones, joints, connective tissues",460
+947,Pôle santé du Pays-dEnhaut, Château-dOex,Vaud,J,Complex conditions,203
+948,Pôle santé du Pays-dEnhaut, Château-dOex,Vaud,K,Skin disorders,5
+949,Pôle santé du Pays-dEnhaut, Château-dOex,Vaud,M,Palliative Medicine,4
+950,Regionalspital Emmental AG, Burgdorf,Bern,A,Cardiac diseases,8229
+951,Regionalspital Emmental AG, Burgdorf,Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",3321
+952,Regionalspital Emmental AG, Burgdorf,Bern,C,Geriatric Medicine,1146
+953,Regionalspital Emmental AG, Burgdorf,Bern,D,Lung diseases,7644
+954,Regionalspital Emmental AG, Burgdorf,Bern,E,Diseases of the abdominal organs,7268
+955,Regionalspital Emmental AG, Burgdorf,Bern,F,Vascular Diseases,171
+956,Regionalspital Emmental AG, Burgdorf,Bern,G,Gynecology and obstetrics,13128
+957,Regionalspital Emmental AG, Burgdorf,Bern,H,Diseases of the urinary tract and male genitalia,3263
+958,Regionalspital Emmental AG, Burgdorf,Bern,I,"Diseases of the bones, joints, connective tissues",6146
+959,Regionalspital Emmental AG, Burgdorf,Bern,J,Complex conditions,6141
+960,Regionalspital Emmental AG, Burgdorf,Bern,K,Skin disorders,45
+961,Regionalspital Emmental AG, Burgdorf,Bern,M,Palliative Medicine,75
+962,Regionalspital Surselva AG, Ilanz,Grisons,A,Cardiac diseases,1392
+963,Regionalspital Surselva AG, Ilanz,Grisons,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",500
+964,Regionalspital Surselva AG, Ilanz,Grisons,C,Geriatric Medicine,82
+965,Regionalspital Surselva AG, Ilanz,Grisons,D,Lung diseases,1603
+966,Regionalspital Surselva AG, Ilanz,Grisons,E,Diseases of the abdominal organs,1333
+967,Regionalspital Surselva AG, Ilanz,Grisons,F,Vascular Diseases,27
+968,Regionalspital Surselva AG, Ilanz,Grisons,G,Gynecology and obstetrics,3249
+969,Regionalspital Surselva AG, Ilanz,Grisons,H,Diseases of the urinary tract and male genitalia,334
+970,Regionalspital Surselva AG, Ilanz,Grisons,I,"Diseases of the bones, joints, connective tissues",1672
+971,Regionalspital Surselva AG, Ilanz,Grisons,J,Complex conditions,365
+972,Regionalspital Surselva AG, Ilanz,Grisons,K,Skin disorders,14
+973,Rosenklinik AG, Rapperswil-Jona,St. Gallen,C,Geriatric Medicine,1
+974,Rosenklinik AG, Rapperswil-Jona,St. Gallen,E,Diseases of the abdominal organs,779
+975,Rosenklinik AG, Rapperswil-Jona,St. Gallen,F,Vascular Diseases,2
+976,Rosenklinik AG, Rapperswil-Jona,St. Gallen,G,Gynecology and obstetrics,3
+977,Rosenklinik AG, Rapperswil-Jona,St. Gallen,H,Diseases of the urinary tract and male genitalia,57
+978,Rosenklinik AG, Rapperswil-Jona,St. Gallen,I,"Diseases of the bones, joints, connective tissues",614
+979,Rosenklinik AG, Rapperswil-Jona,St. Gallen,J,Complex conditions,13
+980,Rosenklinik AG, Rapperswil-Jona,St. Gallen,K,Skin disorders,1
+981,Réseau Santé Balcon du Jura.vd (RSBJ), Ste-Croix,Vaud,A,Cardiac diseases,519
+982,Réseau Santé Balcon du Jura.vd (RSBJ), Ste-Croix,Vaud,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",188
+983,Réseau Santé Balcon du Jura.vd (RSBJ), Ste-Croix,Vaud,C,Geriatric Medicine,19
+984,Réseau Santé Balcon du Jura.vd (RSBJ), Ste-Croix,Vaud,D,Lung diseases,639
+985,Réseau Santé Balcon du Jura.vd (RSBJ), Ste-Croix,Vaud,E,Diseases of the abdominal organs,160
+986,Réseau Santé Balcon du Jura.vd (RSBJ), Ste-Croix,Vaud,G,Gynecology and obstetrics,210
+987,Réseau Santé Balcon du Jura.vd (RSBJ), Ste-Croix,Vaud,H,Diseases of the urinary tract and male genitalia,24
+988,Réseau Santé Balcon du Jura.vd (RSBJ), Ste-Croix,Vaud,I,"Diseases of the bones, joints, connective tissues",281
+989,Réseau Santé Balcon du Jura.vd (RSBJ), Ste-Croix,Vaud,J,Complex conditions,70
+990,Réseau Santé Balcon du Jura.vd (RSBJ), Ste-Croix,Vaud,K,Skin disorders,3
+991,Réseau hospitalier neuchâtelois RHNe, La Chaux-de-Fonds,Neuchâtel,A,Cardiac diseases,16893
+992,Réseau hospitalier neuchâtelois RHNe, La Chaux-de-Fonds,Neuchâtel,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",14339
+993,Réseau hospitalier neuchâtelois RHNe, La Chaux-de-Fonds,Neuchâtel,C,Geriatric Medicine,3785
+994,Réseau hospitalier neuchâtelois RHNe, La Chaux-de-Fonds,Neuchâtel,D,Lung diseases,13971
+995,Réseau hospitalier neuchâtelois RHNe, La Chaux-de-Fonds,Neuchâtel,E,Diseases of the abdominal organs,10585
+996,Réseau hospitalier neuchâtelois RHNe, La Chaux-de-Fonds,Neuchâtel,F,Vascular Diseases,2373
+997,Réseau hospitalier neuchâtelois RHNe, La Chaux-de-Fonds,Neuchâtel,G,Gynecology and obstetrics,34713
+998,Réseau hospitalier neuchâtelois RHNe, La Chaux-de-Fonds,Neuchâtel,H,Diseases of the urinary tract and male genitalia,4564
+999,Réseau hospitalier neuchâtelois RHNe, La Chaux-de-Fonds,Neuchâtel,I,"Diseases of the bones, joints, connective tissues",7373
+1000,Réseau hospitalier neuchâtelois RHNe, La Chaux-de-Fonds,Neuchâtel,J,Complex conditions,8799
+1001,Réseau hospitalier neuchâtelois RHNe, La Chaux-de-Fonds,Neuchâtel,K,Skin disorders,172
+1002,Réseau hospitalier neuchâtelois RHNe, La Chaux-de-Fonds,Neuchâtel,M,Palliative Medicine,510
+1003,SMN, La Chaux-de-Fonds,Neuchâtel,A,Cardiac diseases,1763
+1004,SMN, La Chaux-de-Fonds,Neuchâtel,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",214
+1005,SMN, La Chaux-de-Fonds,Neuchâtel,C,Geriatric Medicine,150
+1006,SMN, La Chaux-de-Fonds,Neuchâtel,D,Lung diseases,910
+1007,SMN, La Chaux-de-Fonds,Neuchâtel,E,Diseases of the abdominal organs,11074
+1008,SMN, La Chaux-de-Fonds,Neuchâtel,F,Vascular Diseases,481
+1009,SMN, La Chaux-de-Fonds,Neuchâtel,G,Gynecology and obstetrics,31532
+1010,SMN, La Chaux-de-Fonds,Neuchâtel,H,Diseases of the urinary tract and male genitalia,3323
+1011,SMN, La Chaux-de-Fonds,Neuchâtel,I,"Diseases of the bones, joints, connective tissues",30798
+1012,SMN, La Chaux-de-Fonds,Neuchâtel,J,Complex conditions,442
+1013,SMN, La Chaux-de-Fonds,Neuchâtel,K,Skin disorders,82
+1014,SMN, La Chaux-de-Fonds,Neuchâtel,M,Palliative Medicine,4
+1015,SRO AG, Langenthal,Bern,A,Cardiac diseases,7281
+1016,SRO AG, Langenthal,Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",3640
+1017,SRO AG, Langenthal,Bern,C,Geriatric Medicine,716
+1018,SRO AG, Langenthal,Bern,D,Lung diseases,5435
+1019,SRO AG, Langenthal,Bern,E,Diseases of the abdominal organs,5914
+1020,SRO AG, Langenthal,Bern,F,Vascular Diseases,236
+1021,SRO AG, Langenthal,Bern,G,Gynecology and obstetrics,14841
+1022,SRO AG, Langenthal,Bern,H,Diseases of the urinary tract and male genitalia,1387
+1023,SRO AG, Langenthal,Bern,I,"Diseases of the bones, joints, connective tissues",5705
+1024,SRO AG, Langenthal,Bern,J,Complex conditions,6511
+1025,SRO AG, Langenthal,Bern,K,Skin disorders,39
+1026,Schulthess Klinik, Zürich,Zürich,A,Cardiac diseases,30
+1027,Schulthess Klinik, Zürich,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",3
+1028,Schulthess Klinik, Zürich,Zürich,C,Geriatric Medicine,299
+1029,Schulthess Klinik, Zürich,Zürich,E,Diseases of the abdominal organs,114
+1030,Schulthess Klinik, Zürich,Zürich,F,Vascular Diseases,13
+1031,Schulthess Klinik, Zürich,Zürich,G,Gynecology and obstetrics,1
+1032,Schulthess Klinik, Zürich,Zürich,I,"Diseases of the bones, joints, connective tissues",28179
+1033,Schulthess Klinik, Zürich,Zürich,J,Complex conditions,134
+1034,Schulthess Klinik, Zürich,Zürich,K,Skin disorders,24
+1035,See­Spital, Horgen,Zürich,A,Cardiac diseases,4449
+1036,See­Spital, Horgen,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1860
+1037,See­Spital, Horgen,Zürich,C,Geriatric Medicine,4590
+1038,See­Spital, Horgen,Zürich,D,Lung diseases,5781
+1039,See­Spital, Horgen,Zürich,E,Diseases of the abdominal organs,7752
+1040,See­Spital, Horgen,Zürich,F,Vascular Diseases,778
+1041,See­Spital, Horgen,Zürich,G,Gynecology and obstetrics,18688
+1042,See­Spital, Horgen,Zürich,H,Diseases of the urinary tract and male genitalia,5636
+1043,See­Spital, Horgen,Zürich,I,"Diseases of the bones, joints, connective tissues",8492
+1044,See­Spital, Horgen,Zürich,J,Complex conditions,2867
+1045,See­Spital, Horgen,Zürich,K,Skin disorders,38
+1046,Siloah AG, Gümligen,Bern,A,Cardiac diseases,1065
+1047,Siloah AG, Gümligen,Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1280
+1048,Siloah AG, Gümligen,Bern,C,Geriatric Medicine,9215
+1049,Siloah AG, Gümligen,Bern,D,Lung diseases,1031
+1050,Siloah AG, Gümligen,Bern,E,Diseases of the abdominal organs,1461
+1051,Siloah AG, Gümligen,Bern,F,Vascular Diseases,31
+1052,Siloah AG, Gümligen,Bern,G,Gynecology and obstetrics,374
+1053,Siloah AG, Gümligen,Bern,H,Diseases of the urinary tract and male genitalia,1069
+1054,Siloah AG, Gümligen,Bern,I,"Diseases of the bones, joints, connective tissues",3193
+1055,Siloah AG, Gümligen,Bern,J,Complex conditions,345
+1056,Siloah AG, Gümligen,Bern,K,Skin disorders,6
+1057,Siloah AG, Gümligen,Bern,M,Palliative Medicine,193
+1058,Solothurner Spitäler AG, Solothurn, Solothurn,A,Cardiac diseases,40180
+1059,Solothurner Spitäler AG, Solothurn, Solothurn,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",13154
+1060,Solothurner Spitäler AG, Solothurn, Solothurn,C,Geriatric Medicine,12853
+1061,Solothurner Spitäler AG, Solothurn, Solothurn,D,Lung diseases,17977
+1062,Solothurner Spitäler AG, Solothurn, Solothurn,E,Diseases of the abdominal organs,18307
+1063,Solothurner Spitäler AG, Solothurn, Solothurn,F,Vascular Diseases,3123
+1064,Solothurner Spitäler AG, Solothurn, Solothurn,G,Gynecology and obstetrics,37687
+1065,Solothurner Spitäler AG, Solothurn, Solothurn,H,Diseases of the urinary tract and male genitalia,9928
+1066,Solothurner Spitäler AG, Solothurn, Solothurn,I,"Diseases of the bones, joints, connective tissues",19068
+1067,Solothurner Spitäler AG, Solothurn, Solothurn,J,Complex conditions,20792
+1068,Solothurner Spitäler AG, Solothurn, Solothurn,K,Skin disorders,271
+1069,Solothurner Spitäler AG, Solothurn, Solothurn,L,Highly specialized medicine,4
+1070,Solothurner Spitäler AG, Solothurn, Solothurn,M,Palliative Medicine,1201
+1071,Spital Affoltern, Affoltern am Albis,Zürich,A,Cardiac diseases,2024
+1072,Spital Affoltern, Affoltern am Albis,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",844
+1073,Spital Affoltern, Affoltern am Albis,Zürich,C,Geriatric Medicine,7095
+1074,Spital Affoltern, Affoltern am Albis,Zürich,D,Lung diseases,2516
+1075,Spital Affoltern, Affoltern am Albis,Zürich,E,Diseases of the abdominal organs,2227
+1076,Spital Affoltern, Affoltern am Albis,Zürich,F,Vascular Diseases,47
+1077,Spital Affoltern, Affoltern am Albis,Zürich,G,Gynecology and obstetrics,6723
+1078,Spital Affoltern, Affoltern am Albis,Zürich,H,Diseases of the urinary tract and male genitalia,694
+1079,Spital Affoltern, Affoltern am Albis,Zürich,I,"Diseases of the bones, joints, connective tissues",1963
+1080,Spital Affoltern, Affoltern am Albis,Zürich,J,Complex conditions,638
+1081,Spital Affoltern, Affoltern am Albis,Zürich,K,Skin disorders,41
+1082,Spital Affoltern, Affoltern am Albis,Zürich,M,Palliative Medicine,1652
+1083,Spital Bülach AG, Bülach,Zürich,A,Cardiac diseases,7864
+1084,Spital Bülach AG, Bülach,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",2836
+1085,Spital Bülach AG, Bülach,Zürich,C,Geriatric Medicine,3126
+1086,Spital Bülach AG, Bülach,Zürich,D,Lung diseases,5489
+1087,Spital Bülach AG, Bülach,Zürich,E,Diseases of the abdominal organs,7578
+1088,Spital Bülach AG, Bülach,Zürich,F,Vascular Diseases,480
+1089,Spital Bülach AG, Bülach,Zürich,G,Gynecology and obstetrics,29665
+1090,Spital Bülach AG, Bülach,Zürich,H,Diseases of the urinary tract and male genitalia,740
+1091,Spital Bülach AG, Bülach,Zürich,I,"Diseases of the bones, joints, connective tissues",4249
+1092,Spital Bülach AG, Bülach,Zürich,J,Complex conditions,4253
+1093,Spital Bülach AG, Bülach,Zürich,K,Skin disorders,34
+1094,Spital Bülach AG, Bülach,Zürich,M,Palliative Medicine,478
+1095,Spital Davos AG Akutabteilung, Davos Platz,Grisons,A,Cardiac diseases,1276
+1096,Spital Davos AG Akutabteilung, Davos Platz,Grisons,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",588
+1097,Spital Davos AG Akutabteilung, Davos Platz,Grisons,C,Geriatric Medicine,40
+1098,Spital Davos AG Akutabteilung, Davos Platz,Grisons,D,Lung diseases,1334
+1099,Spital Davos AG Akutabteilung, Davos Platz,Grisons,E,Diseases of the abdominal organs,575
+1100,Spital Davos AG Akutabteilung, Davos Platz,Grisons,F,Vascular Diseases,10
+1101,Spital Davos AG Akutabteilung, Davos Platz,Grisons,G,Gynecology and obstetrics,2588
+1102,Spital Davos AG Akutabteilung, Davos Platz,Grisons,H,Diseases of the urinary tract and male genitalia,167
+1103,Spital Davos AG Akutabteilung, Davos Platz,Grisons,I,"Diseases of the bones, joints, connective tissues",1415
+1104,Spital Davos AG Akutabteilung, Davos Platz,Grisons,J,Complex conditions,199
+1105,Spital Davos AG Akutabteilung, Davos Platz,Grisons,K,Skin disorders,12
+1106,Spital Davos AG Akutabteilung, Davos Platz,Grisons,M,Palliative Medicine,2
+1107,Spital Einsiedeln, Einsiedeln,Schwyz,A,Cardiac diseases,1851
+1108,Spital Einsiedeln, Einsiedeln,Schwyz,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",862
+1109,Spital Einsiedeln, Einsiedeln,Schwyz,C,Geriatric Medicine,359
+1110,Spital Einsiedeln, Einsiedeln,Schwyz,D,Lung diseases,1911
+1111,Spital Einsiedeln, Einsiedeln,Schwyz,E,Diseases of the abdominal organs,2208
+1112,Spital Einsiedeln, Einsiedeln,Schwyz,F,Vascular Diseases,28
+1113,Spital Einsiedeln, Einsiedeln,Schwyz,G,Gynecology and obstetrics,5738
+1114,Spital Einsiedeln, Einsiedeln,Schwyz,H,Diseases of the urinary tract and male genitalia,336
+1115,Spital Einsiedeln, Einsiedeln,Schwyz,I,"Diseases of the bones, joints, connective tissues",3289
+1116,Spital Einsiedeln, Einsiedeln,Schwyz,J,Complex conditions,725
+1117,Spital Einsiedeln, Einsiedeln,Schwyz,K,Skin disorders,13
+1118,Spital Einsiedeln, Einsiedeln,Schwyz,M,Palliative Medicine,9
+1119,Spital Lachen, Lachen ,Schwyz,A,Cardiac diseases,4762
+1120,Spital Lachen, Lachen ,Schwyz,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1736
+1121,Spital Lachen, Lachen ,Schwyz,C,Geriatric Medicine,648
+1122,Spital Lachen, Lachen ,Schwyz,D,Lung diseases,2551
+1123,Spital Lachen, Lachen ,Schwyz,E,Diseases of the abdominal organs,5774
+1124,Spital Lachen, Lachen ,Schwyz,F,Vascular Diseases,1334
+1125,Spital Lachen, Lachen ,Schwyz,G,Gynecology and obstetrics,9881
+1126,Spital Lachen, Lachen ,Schwyz,H,Diseases of the urinary tract and male genitalia,3169
+1127,Spital Lachen, Lachen ,Schwyz,I,"Diseases of the bones, joints, connective tissues",1899
+1128,Spital Lachen, Lachen ,Schwyz,J,Complex conditions,2565
+1129,Spital Lachen, Lachen ,Schwyz,K,Skin disorders,41
+1130,Spital Limmattal, Schlieren,Zürich,A,Cardiac diseases,5910
+1131,Spital Limmattal, Schlieren,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",3801
+1132,Spital Limmattal, Schlieren,Zürich,C,Geriatric Medicine,2086
+1133,Spital Limmattal, Schlieren,Zürich,D,Lung diseases,6539
+1134,Spital Limmattal, Schlieren,Zürich,E,Diseases of the abdominal organs,12673
+1135,Spital Limmattal, Schlieren,Zürich,F,Vascular Diseases,1310
+1136,Spital Limmattal, Schlieren,Zürich,G,Gynecology and obstetrics,23197
+1137,Spital Limmattal, Schlieren,Zürich,H,Diseases of the urinary tract and male genitalia,5993
+1138,Spital Limmattal, Schlieren,Zürich,I,"Diseases of the bones, joints, connective tissues",3368
+1139,Spital Limmattal, Schlieren,Zürich,J,Complex conditions,3306
+1140,Spital Limmattal, Schlieren,Zürich,K,Skin disorders,50
+1141,Spital Limmattal, Schlieren,Zürich,L,Highly specialized medicine,3
+1142,Spital Linth, Uznach,St. Gallen,A,Cardiac diseases,3795
+1143,Spital Linth, Uznach,St. Gallen,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1651
+1144,Spital Linth, Uznach,St. Gallen,C,Geriatric Medicine,6393
+1145,Spital Linth, Uznach,St. Gallen,D,Lung diseases,3532
+1146,Spital Linth, Uznach,St. Gallen,E,Diseases of the abdominal organs,3388
+1147,Spital Linth, Uznach,St. Gallen,F,Vascular Diseases,65
+1148,Spital Linth, Uznach,St. Gallen,G,Gynecology and obstetrics,9280
+1149,Spital Linth, Uznach,St. Gallen,H,Diseases of the urinary tract and male genitalia,1963
+1150,Spital Linth, Uznach,St. Gallen,I,"Diseases of the bones, joints, connective tissues",2167
+1151,Spital Linth, Uznach,St. Gallen,J,Complex conditions,743
+1152,Spital Linth, Uznach,St. Gallen,K,Skin disorders,51
+1153,Spital Männedorf AG, Männedorf,Zürich,A,Cardiac diseases,4432
+1154,Spital Männedorf AG, Männedorf,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",2208
+1155,Spital Männedorf AG, Männedorf,Zürich,C,Geriatric Medicine,3152
+1156,Spital Männedorf AG, Männedorf,Zürich,D,Lung diseases,4613
+1157,Spital Männedorf AG, Männedorf,Zürich,E,Diseases of the abdominal organs,7976
+1158,Spital Männedorf AG, Männedorf,Zürich,F,Vascular Diseases,352
+1159,Spital Männedorf AG, Männedorf,Zürich,G,Gynecology and obstetrics,13693
+1160,Spital Männedorf AG, Männedorf,Zürich,H,Diseases of the urinary tract and male genitalia,4501
+1161,Spital Männedorf AG, Männedorf,Zürich,I,"Diseases of the bones, joints, connective tissues",3620
+1162,Spital Männedorf AG, Männedorf,Zürich,J,Complex conditions,3334
+1163,Spital Männedorf AG, Männedorf,Zürich,K,Skin disorders,45
+1164,Spital Männedorf AG, Männedorf,Zürich,M,Palliative Medicine,570
+1165,Spital Oberengadin, Samedan,Grisons,A,Cardiac diseases,1498
+1166,Spital Oberengadin, Samedan,Grisons,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1055
+1167,Spital Oberengadin, Samedan,Grisons,C,Geriatric Medicine,99
+1168,Spital Oberengadin, Samedan,Grisons,D,Lung diseases,1663
+1169,Spital Oberengadin, Samedan,Grisons,E,Diseases of the abdominal organs,1516
+1170,Spital Oberengadin, Samedan,Grisons,F,Vascular Diseases,33
+1171,Spital Oberengadin, Samedan,Grisons,G,Gynecology and obstetrics,3514
+1172,Spital Oberengadin, Samedan,Grisons,H,Diseases of the urinary tract and male genitalia,517
+1173,Spital Oberengadin, Samedan,Grisons,I,"Diseases of the bones, joints, connective tissues",878
+1174,Spital Oberengadin, Samedan,Grisons,J,Complex conditions,688
+1175,Spital Oberengadin, Samedan,Grisons,K,Skin disorders,30
+1176,Spital STS AG, Thun, Bern,A,Cardiac diseases,10716
+1177,Spital STS AG, Thun, Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",5359
+1178,Spital STS AG, Thun, Bern,C,Geriatric Medicine,1387
+1179,Spital STS AG, Thun, Bern,D,Lung diseases,10506
+1180,Spital STS AG, Thun, Bern,E,Diseases of the abdominal organs,10839
+1181,Spital STS AG, Thun, Bern,F,Vascular Diseases,1798
+1182,Spital STS AG, Thun, Bern,G,Gynecology and obstetrics,28548
+1183,Spital STS AG, Thun, Bern,H,Diseases of the urinary tract and male genitalia,4871
+1184,Spital STS AG, Thun, Bern,I,"Diseases of the bones, joints, connective tissues",15719
+1185,Spital STS AG, Thun, Bern,J,Complex conditions,8243
+1186,Spital STS AG, Thun, Bern,K,Skin disorders,117
+1187,Spital STS AG, Thun, Bern,M,Palliative Medicine,1624
+1188,Spital Schwyz, Schwyz,Schwyz,A,Cardiac diseases,3466
+1189,Spital Schwyz, Schwyz,Schwyz,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1986
+1190,Spital Schwyz, Schwyz,Schwyz,C,Geriatric Medicine,467
+1191,Spital Schwyz, Schwyz,Schwyz,D,Lung diseases,3666
+1192,Spital Schwyz, Schwyz,Schwyz,E,Diseases of the abdominal organs,3794
+1193,Spital Schwyz, Schwyz,Schwyz,F,Vascular Diseases,603
+1194,Spital Schwyz, Schwyz,Schwyz,G,Gynecology and obstetrics,9813
+1195,Spital Schwyz, Schwyz,Schwyz,H,Diseases of the urinary tract and male genitalia,2356
+1196,Spital Schwyz, Schwyz,Schwyz,I,"Diseases of the bones, joints, connective tissues",4410
+1197,Spital Schwyz, Schwyz,Schwyz,J,Complex conditions,2185
+1198,Spital Schwyz, Schwyz,Schwyz,K,Skin disorders,63
+1199,Spital Schwyz, Schwyz,Schwyz,M,Palliative Medicine,799
+1200,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Frauenfeld,Thurgau,A,Cardiac diseases,20236
+1201,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Frauenfeld,Thurgau,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",12127
+1202,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Frauenfeld,Thurgau,C,Geriatric Medicine,3314
+1203,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Frauenfeld,Thurgau,D,Lung diseases,14984
+1204,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Frauenfeld,Thurgau,E,Diseases of the abdominal organs,16402
+1205,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Frauenfeld,Thurgau,F,Vascular Diseases,5570
+1206,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Frauenfeld,Thurgau,G,Gynecology and obstetrics,56286
+1207,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Frauenfeld,Thurgau,H,Diseases of the urinary tract and male genitalia,11110
+1208,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Frauenfeld,Thurgau,I,"Diseases of the bones, joints, connective tissues",10923
+1209,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Frauenfeld,Thurgau,J,Complex conditions,8968
+1210,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Frauenfeld,Thurgau,K,Skin disorders,260
+1211,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Frauenfeld,Thurgau,M,Palliative Medicine,914
+1212,Spital Thusis, Thusis,Grisons,A,Cardiac diseases,959
+1213,Spital Thusis, Thusis,Grisons,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",440
+1214,Spital Thusis, Thusis,Grisons,C,Geriatric Medicine,25
+1215,Spital Thusis, Thusis,Grisons,D,Lung diseases,1081
+1216,Spital Thusis, Thusis,Grisons,E,Diseases of the abdominal organs,1064
+1217,Spital Thusis, Thusis,Grisons,F,Vascular Diseases,42
+1218,Spital Thusis, Thusis,Grisons,G,Gynecology and obstetrics,2701
+1219,Spital Thusis, Thusis,Grisons,H,Diseases of the urinary tract and male genitalia,239
+1220,Spital Thusis, Thusis,Grisons,I,"Diseases of the bones, joints, connective tissues",965
+1221,Spital Thusis, Thusis,Grisons,J,Complex conditions,321
+1222,Spital Thusis, Thusis,Grisons,K,Skin disorders,14
+1223,Spital Uster, Uster,Zürich,A,Cardiac diseases,7835
+1224,Spital Uster, Uster,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",3469
+1225,Spital Uster, Uster,Zürich,C,Geriatric Medicine,2159
+1226,Spital Uster, Uster,Zürich,D,Lung diseases,5729
+1227,Spital Uster, Uster,Zürich,E,Diseases of the abdominal organs,7057
+1228,Spital Uster, Uster,Zürich,F,Vascular Diseases,146
+1229,Spital Uster, Uster,Zürich,G,Gynecology and obstetrics,18478
+1230,Spital Uster, Uster,Zürich,H,Diseases of the urinary tract and male genitalia,6969
+1231,Spital Uster, Uster,Zürich,I,"Diseases of the bones, joints, connective tissues",3314
+1232,Spital Uster, Uster,Zürich,J,Complex conditions,6462
+1233,Spital Uster, Uster,Zürich,K,Skin disorders,49
+1234,Spital Uster, Uster,Zürich,M,Palliative Medicine,1
+1235,Spital Wallis, Brig,Valais,A,Cardiac diseases,5863
+1236,Spital Wallis, Brig,Valais,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",3657
+1237,Spital Wallis, Brig,Valais,C,Geriatric Medicine,507
+1238,Spital Wallis, Brig,Valais,D,Lung diseases,7745
+1239,Spital Wallis, Brig,Valais,E,Diseases of the abdominal organs,6227
+1240,Spital Wallis, Brig,Valais,F,Vascular Diseases,189
+1241,Spital Wallis, Brig,Valais,G,Gynecology and obstetrics,15890
+1242,Spital Wallis, Brig,Valais,H,Diseases of the urinary tract and male genitalia,4533
+1243,Spital Wallis, Brig,Valais,I,"Diseases of the bones, joints, connective tissues",8236
+1244,Spital Wallis, Brig,Valais,J,Complex conditions,3269
+1245,Spital Wallis, Brig,Valais,K,Skin disorders,65
+1246,Spital Wallis, Brig,Valais,L,Highly specialized medicine,2
+1247,Spital Wallis, Brig,Valais,M,Palliative Medicine,1497
+1248,Spital Zofingen AG, Zofingen,Aargau,A,Cardiac diseases,3541
+1249,Spital Zofingen AG, Zofingen,Aargau,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1859
+1250,Spital Zofingen AG, Zofingen,Aargau,C,Geriatric Medicine,5663
+1251,Spital Zofingen AG, Zofingen,Aargau,D,Lung diseases,3417
+1252,Spital Zofingen AG, Zofingen,Aargau,E,Diseases of the abdominal organs,4357
+1253,Spital Zofingen AG, Zofingen,Aargau,F,Vascular Diseases,109
+1254,Spital Zofingen AG, Zofingen,Aargau,G,Gynecology and obstetrics,671
+1255,Spital Zofingen AG, Zofingen,Aargau,H,Diseases of the urinary tract and male genitalia,738
+1256,Spital Zofingen AG, Zofingen,Aargau,I,"Diseases of the bones, joints, connective tissues",5054
+1257,Spital Zofingen AG, Zofingen,Aargau,J,Complex conditions,966
+1258,Spital Zofingen AG, Zofingen,Aargau,K,Skin disorders,49
+1259,Spital Zofingen AG, Zofingen,Aargau,M,Palliative Medicine,1365
+1260,Spital Zollikerberg, Zollikerberg,Zürich,A,Cardiac diseases,3376
+1261,Spital Zollikerberg, Zollikerberg,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1608
+1262,Spital Zollikerberg, Zollikerberg,Zürich,C,Geriatric Medicine,3090
+1263,Spital Zollikerberg, Zollikerberg,Zürich,D,Lung diseases,4705
+1264,Spital Zollikerberg, Zollikerberg,Zürich,E,Diseases of the abdominal organs,5534
+1265,Spital Zollikerberg, Zollikerberg,Zürich,F,Vascular Diseases,209
+1266,Spital Zollikerberg, Zollikerberg,Zürich,G,Gynecology and obstetrics,42281
+1267,Spital Zollikerberg, Zollikerberg,Zürich,H,Diseases of the urinary tract and male genitalia,2475
+1268,Spital Zollikerberg, Zollikerberg,Zürich,I,"Diseases of the bones, joints, connective tissues",12488
+1269,Spital Zollikerberg, Zollikerberg,Zürich,J,Complex conditions,2815
+1270,Spital Zollikerberg, Zollikerberg,Zürich,K,Skin disorders,33
+1271,Spital Zollikerberg, Zollikerberg,Zürich,M,Palliative Medicine,758
+1272,Spitalregion Fürstenland Toggenburg, Wil , St. Gallen,A,Cardiac diseases,5626
+1273,Spitalregion Fürstenland Toggenburg, Wil , St. Gallen,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",2706
+1274,Spitalregion Fürstenland Toggenburg, Wil , St. Gallen,C,Geriatric Medicine,5506
+1275,Spitalregion Fürstenland Toggenburg, Wil , St. Gallen,D,Lung diseases,5617
+1276,Spitalregion Fürstenland Toggenburg, Wil , St. Gallen,E,Diseases of the abdominal organs,5287
+1277,Spitalregion Fürstenland Toggenburg, Wil , St. Gallen,F,Vascular Diseases,162
+1278,Spitalregion Fürstenland Toggenburg, Wil , St. Gallen,G,Gynecology and obstetrics,14104
+1279,Spitalregion Fürstenland Toggenburg, Wil , St. Gallen,H,Diseases of the urinary tract and male genitalia,2329
+1280,Spitalregion Fürstenland Toggenburg, Wil , St. Gallen,I,"Diseases of the bones, joints, connective tissues",3072
+1281,Spitalregion Fürstenland Toggenburg, Wil , St. Gallen,J,Complex conditions,1490
+1282,Spitalregion Fürstenland Toggenburg, Wil , St. Gallen,K,Skin disorders,79
+1283,Spitalregion Rheintal Werdenberg Sarganserland, Altstätten, St. Gallen,A,Cardiac diseases,8859
+1284,Spitalregion Rheintal Werdenberg Sarganserland, Altstätten, St. Gallen,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",7710
+1285,Spitalregion Rheintal Werdenberg Sarganserland, Altstätten, St. Gallen,C,Geriatric Medicine,14232
+1286,Spitalregion Rheintal Werdenberg Sarganserland, Altstätten, St. Gallen,D,Lung diseases,8932
+1287,Spitalregion Rheintal Werdenberg Sarganserland, Altstätten, St. Gallen,E,Diseases of the abdominal organs,10283
+1288,Spitalregion Rheintal Werdenberg Sarganserland, Altstätten, St. Gallen,F,Vascular Diseases,3929
+1289,Spitalregion Rheintal Werdenberg Sarganserland, Altstätten, St. Gallen,G,Gynecology and obstetrics,26397
+1290,Spitalregion Rheintal Werdenberg Sarganserland, Altstätten, St. Gallen,H,Diseases of the urinary tract and male genitalia,4755
+1291,Spitalregion Rheintal Werdenberg Sarganserland, Altstätten, St. Gallen,I,"Diseases of the bones, joints, connective tissues",6409
+1292,Spitalregion Rheintal Werdenberg Sarganserland, Altstätten, St. Gallen,J,Complex conditions,2768
+1293,Spitalregion Rheintal Werdenberg Sarganserland, Altstätten, St. Gallen,K,Skin disorders,109
+1294,Spitalregion Rheintal Werdenberg Sarganserland, Altstätten, St. Gallen,M,Palliative Medicine,749
+1295,Spitalverbund Appenzell Ausserrhoden,Herisau,Appenzell Ausserrhoden,A,Cardiac diseases,4096
+1296,Spitalverbund Appenzell Ausserrhoden,Herisau,Appenzell Ausserrhoden,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1361
+1297,Spitalverbund Appenzell Ausserrhoden,Herisau,Appenzell Ausserrhoden,C,Geriatric Medicine,212
+1298,Spitalverbund Appenzell Ausserrhoden,Herisau,Appenzell Ausserrhoden,D,Lung diseases,4526
+1299,Spitalverbund Appenzell Ausserrhoden,Herisau,Appenzell Ausserrhoden,E,Diseases of the abdominal organs,3599
+1300,Spitalverbund Appenzell Ausserrhoden,Herisau,Appenzell Ausserrhoden,F,Vascular Diseases,331
+1301,Spitalverbund Appenzell Ausserrhoden,Herisau,Appenzell Ausserrhoden,G,Gynecology and obstetrics,23756
+1302,Spitalverbund Appenzell Ausserrhoden,Herisau,Appenzell Ausserrhoden,H,Diseases of the urinary tract and male genitalia,2554
+1303,Spitalverbund Appenzell Ausserrhoden,Herisau,Appenzell Ausserrhoden,I,"Diseases of the bones, joints, connective tissues",2414
+1304,Spitalverbund Appenzell Ausserrhoden,Herisau,Appenzell Ausserrhoden,J,Complex conditions,2545
+1305,Spitalverbund Appenzell Ausserrhoden,Herisau,Appenzell Ausserrhoden,K,Skin disorders,53
+1306,Spitalzentrum Biel AG, Biel/Bienne,Bern,A,Cardiac diseases,20984
+1307,Spitalzentrum Biel AG, Biel/Bienne,Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",7994
+1308,Spitalzentrum Biel AG, Biel/Bienne,Bern,C,Geriatric Medicine,2925
+1309,Spitalzentrum Biel AG, Biel/Bienne,Bern,D,Lung diseases,8792
+1310,Spitalzentrum Biel AG, Biel/Bienne,Bern,E,Diseases of the abdominal organs,6688
+1311,Spitalzentrum Biel AG, Biel/Bienne,Bern,F,Vascular Diseases,1891
+1312,Spitalzentrum Biel AG, Biel/Bienne,Bern,G,Gynecology and obstetrics,19739
+1313,Spitalzentrum Biel AG, Biel/Bienne,Bern,H,Diseases of the urinary tract and male genitalia,3785
+1314,Spitalzentrum Biel AG, Biel/Bienne,Bern,I,"Diseases of the bones, joints, connective tissues",5888
+1315,Spitalzentrum Biel AG, Biel/Bienne,Bern,J,Complex conditions,8305
+1316,Spitalzentrum Biel AG, Biel/Bienne,Bern,K,Skin disorders,61
+1317,Spitäler Frutigen Meiringen Interlaken AG, Frutigen,Bern,A,Cardiac diseases,5777
+1318,Spitäler Frutigen Meiringen Interlaken AG, Frutigen,Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",2973
+1319,Spitäler Frutigen Meiringen Interlaken AG, Frutigen,Bern,C,Geriatric Medicine,2816
+1320,Spitäler Frutigen Meiringen Interlaken AG, Frutigen,Bern,D,Lung diseases,6236
+1321,Spitäler Frutigen Meiringen Interlaken AG, Frutigen,Bern,E,Diseases of the abdominal organs,5489
+1322,Spitäler Frutigen Meiringen Interlaken AG, Frutigen,Bern,F,Vascular Diseases,367
+1323,Spitäler Frutigen Meiringen Interlaken AG, Frutigen,Bern,G,Gynecology and obstetrics,14035
+1324,Spitäler Frutigen Meiringen Interlaken AG, Frutigen,Bern,H,Diseases of the urinary tract and male genitalia,3504
+1325,Spitäler Frutigen Meiringen Interlaken AG, Frutigen,Bern,I,"Diseases of the bones, joints, connective tissues",8217
+1326,Spitäler Frutigen Meiringen Interlaken AG, Frutigen,Bern,J,Complex conditions,3950
+1327,Spitäler Frutigen Meiringen Interlaken AG, Frutigen,Bern,K,Skin disorders,83
+1328,Spitäler Frutigen Meiringen Interlaken AG, Frutigen,Bern,M,Palliative Medicine,15
+1329,Spitäler Schaffhausen, Schaffhausen,Schaffhausen,A,Cardiac diseases,7330
+1330,Spitäler Schaffhausen, Schaffhausen,Schaffhausen,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",4628
+1331,Spitäler Schaffhausen, Schaffhausen,Schaffhausen,C,Geriatric Medicine,1363
+1332,Spitäler Schaffhausen, Schaffhausen,Schaffhausen,D,Lung diseases,5926
+1333,Spitäler Schaffhausen, Schaffhausen,Schaffhausen,E,Diseases of the abdominal organs,6712
+1334,Spitäler Schaffhausen, Schaffhausen,Schaffhausen,F,Vascular Diseases,886
+1335,Spitäler Schaffhausen, Schaffhausen,Schaffhausen,G,Gynecology and obstetrics,21464
+1336,Spitäler Schaffhausen, Schaffhausen,Schaffhausen,H,Diseases of the urinary tract and male genitalia,2628
+1337,Spitäler Schaffhausen, Schaffhausen,Schaffhausen,I,"Diseases of the bones, joints, connective tissues",4627
+1338,Spitäler Schaffhausen, Schaffhausen,Schaffhausen,J,Complex conditions,4122
+1339,Spitäler Schaffhausen, Schaffhausen,Schaffhausen,K,Skin disorders,54
+1340,St. Claraspital, Basel,Basel-stadt,A,Cardiac diseases,16132
+1341,St. Claraspital, Basel,Basel-stadt,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",691
+1342,St. Claraspital, Basel,Basel-stadt,C,Geriatric Medicine,784
+1343,St. Claraspital, Basel,Basel-stadt,D,Lung diseases,10349
+1344,St. Claraspital, Basel,Basel-stadt,E,Diseases of the abdominal organs,27043
+1345,St. Claraspital, Basel,Basel-stadt,F,Vascular Diseases,68
+1346,St. Claraspital, Basel,Basel-stadt,G,Gynecology and obstetrics,5544
+1347,St. Claraspital, Basel,Basel-stadt,H,Diseases of the urinary tract and male genitalia,8718
+1348,St. Claraspital, Basel,Basel-stadt,I,"Diseases of the bones, joints, connective tissues",1127
+1349,St. Claraspital, Basel,Basel-stadt,J,Complex conditions,7738
+1350,St. Claraspital, Basel,Basel-stadt,K,Skin disorders,62
+1351,St. Claraspital, Basel,Basel-stadt,L,Highly specialized medicine,14
+1352,St. Claraspital, Basel,Basel-stadt,M,Palliative Medicine,715
+1353,Stadtspital Triemli, Zürich,Zürich,A,Cardiac diseases,106773
+1354,Stadtspital Triemli, Zürich,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",9086
+1355,Stadtspital Triemli, Zürich,Zürich,C,Geriatric Medicine,2414
+1356,Stadtspital Triemli, Zürich,Zürich,D,Lung diseases,14802
+1357,Stadtspital Triemli, Zürich,Zürich,E,Diseases of the abdominal organs,15802
+1358,Stadtspital Triemli, Zürich,Zürich,F,Vascular Diseases,5790
+1359,Stadtspital Triemli, Zürich,Zürich,G,Gynecology and obstetrics,47313
+1360,Stadtspital Triemli, Zürich,Zürich,H,Diseases of the urinary tract and male genitalia,8860
+1361,Stadtspital Triemli, Zürich,Zürich,I,"Diseases of the bones, joints, connective tissues",11049
+1362,Stadtspital Triemli, Zürich,Zürich,J,Complex conditions,11698
+1363,Stadtspital Triemli, Zürich,Zürich,K,Skin disorders,99
+1364,Stadtspital Triemli, Zürich,Zürich,L,Highly specialized medicine,157
+1365,Stadtspital Triemli, Zürich,Zürich,M,Palliative Medicine,161
+1366,Stadtspital Waid, Zürich,Zürich,A,Cardiac diseases,7952
+1367,Stadtspital Waid, Zürich,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",3529
+1368,Stadtspital Waid, Zürich,Zürich,C,Geriatric Medicine,16730
+1369,Stadtspital Waid, Zürich,Zürich,D,Lung diseases,8860
+1370,Stadtspital Waid, Zürich,Zürich,E,Diseases of the abdominal organs,7754
+1371,Stadtspital Waid, Zürich,Zürich,F,Vascular Diseases,1449
+1372,Stadtspital Waid, Zürich,Zürich,G,Gynecology and obstetrics,247
+1373,Stadtspital Waid, Zürich,Zürich,H,Diseases of the urinary tract and male genitalia,2467
+1374,Stadtspital Waid, Zürich,Zürich,I,"Diseases of the bones, joints, connective tissues",3890
+1375,Stadtspital Waid, Zürich,Zürich,J,Complex conditions,4260
+1376,Stadtspital Waid, Zürich,Zürich,K,Skin disorders,48
+1377,Stadtspital Waid, Zürich,Zürich,M,Palliative Medicine,454
+1378,Stiftung Diaconis Palliative Care, Bern,Bern,A,Cardiac diseases,58
+1379,Stiftung Diaconis Palliative Care, Bern,Bern,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",111
+1380,Stiftung Diaconis Palliative Care, Bern,Bern,C,Geriatric Medicine,14
+1381,Stiftung Diaconis Palliative Care, Bern,Bern,D,Lung diseases,195
+1382,Stiftung Diaconis Palliative Care, Bern,Bern,E,Diseases of the abdominal organs,141
+1383,Stiftung Diaconis Palliative Care, Bern,Bern,G,Gynecology and obstetrics,303
+1384,Stiftung Diaconis Palliative Care, Bern,Bern,H,Diseases of the urinary tract and male genitalia,88
+1385,Stiftung Diaconis Palliative Care, Bern,Bern,I,"Diseases of the bones, joints, connective tissues",12
+1386,Stiftung Diaconis Palliative Care, Bern,Bern,J,Complex conditions,7
+1387,Stiftung Diaconis Palliative Care, Bern,Bern,K,Skin disorders,15
+1388,Stiftung Diaconis Palliative Care, Bern,Bern,M,Palliative Medicine,752
+1389,Stiftung Ostschweizer Kinderspital, St. Gallen,St. Gallen,A,Cardiac diseases,42
+1390,Stiftung Ostschweizer Kinderspital, St. Gallen,St. Gallen,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",623
+1391,Stiftung Ostschweizer Kinderspital, St. Gallen,St. Gallen,D,Lung diseases,1639
+1392,Stiftung Ostschweizer Kinderspital, St. Gallen,St. Gallen,E,Diseases of the abdominal organs,369
+1393,Stiftung Ostschweizer Kinderspital, St. Gallen,St. Gallen,F,Vascular Diseases,11
+1394,Stiftung Ostschweizer Kinderspital, St. Gallen,St. Gallen,G,Gynecology and obstetrics,2844
+1395,Stiftung Ostschweizer Kinderspital, St. Gallen,St. Gallen,H,Diseases of the urinary tract and male genitalia,90
+1396,Stiftung Ostschweizer Kinderspital, St. Gallen,St. Gallen,I,"Diseases of the bones, joints, connective tissues",697
+1397,Stiftung Ostschweizer Kinderspital, St. Gallen,St. Gallen,J,Complex conditions,1084
+1398,Stiftung Ostschweizer Kinderspital, St. Gallen,St. Gallen,K,Skin disorders,32
+1399,Stiftung Ostschweizer Kinderspital, St. Gallen,St. Gallen,M,Palliative Medicine,10
+1400,Stiftung Spital Muri, Muri ,Aargau,A,Cardiac diseases,4306
+1401,Stiftung Spital Muri, Muri ,Aargau,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1221
+1402,Stiftung Spital Muri, Muri ,Aargau,C,Geriatric Medicine,887
+1403,Stiftung Spital Muri, Muri ,Aargau,D,Lung diseases,3968
+1404,Stiftung Spital Muri, Muri ,Aargau,E,Diseases of the abdominal organs,7947
+1405,Stiftung Spital Muri, Muri ,Aargau,F,Vascular Diseases,82
+1406,Stiftung Spital Muri, Muri ,Aargau,G,Gynecology and obstetrics,13783
+1407,Stiftung Spital Muri, Muri ,Aargau,H,Diseases of the urinary tract and male genitalia,2692
+1408,Stiftung Spital Muri, Muri ,Aargau,I,"Diseases of the bones, joints, connective tissues",4196
+1409,Stiftung Spital Muri, Muri ,Aargau,J,Complex conditions,1708
+1410,Stiftung Spital Muri, Muri ,Aargau,K,Skin disorders,40
+1411,Thurklinik AG, Niederuzwil,St. Gallen,E,Diseases of the abdominal organs,195
+1412,Thurklinik AG, Niederuzwil,St. Gallen,G,Gynecology and obstetrics,683
+1413,Thurklinik AG, Niederuzwil,St. Gallen,H,Diseases of the urinary tract and male genitalia,71
+1414,Thurklinik AG, Niederuzwil,St. Gallen,I,"Diseases of the bones, joints, connective tissues",141
+1415,Thurklinik AG, Niederuzwil,St. Gallen,J,Complex conditions,2
+1416,Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung, Zürich,Zürich,A,Cardiac diseases,6019
+1417,Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung, Zürich,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",1543
+1418,Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung, Zürich,Zürich,D,Lung diseases,3106
+1419,Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung, Zürich,Zürich,E,Diseases of the abdominal organs,1024
+1420,Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung, Zürich,Zürich,F,Vascular Diseases,1203
+1421,Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung, Zürich,Zürich,G,Gynecology and obstetrics,3832
+1422,Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung, Zürich,Zürich,H,Diseases of the urinary tract and male genitalia,351
+1423,Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung, Zürich,Zürich,I,"Diseases of the bones, joints, connective tissues",1302
+1424,Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung, Zürich,Zürich,J,Complex conditions,5716
+1425,Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung, Zürich,Zürich,K,Skin disorders,66
+1426,Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung, Zürich,Zürich,L,Highly specialized medicine,461
+1427,Universitäts-Kinderspital Zürich das Spital der Eleonorenstiftung, Zürich,Zürich,M,Palliative Medicine,177
+1428,Universitätsklinik Balgrist, Zürich,Zürich,A,Cardiac diseases,117
+1429,Universitätsklinik Balgrist, Zürich,Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",45
+1430,Universitätsklinik Balgrist, Zürich,Zürich,C,Geriatric Medicine,339
+1431,Universitätsklinik Balgrist, Zürich,Zürich,D,Lung diseases,58
+1432,Universitätsklinik Balgrist, Zürich,Zürich,E,Diseases of the abdominal organs,68
+1433,Universitätsklinik Balgrist, Zürich,Zürich,F,Vascular Diseases,559
+1434,Universitätsklinik Balgrist, Zürich,Zürich,G,Gynecology and obstetrics,2
+1435,Universitätsklinik Balgrist, Zürich,Zürich,H,Diseases of the urinary tract and male genitalia,241
+1436,Universitätsklinik Balgrist, Zürich,Zürich,I,"Diseases of the bones, joints, connective tissues",16118
+1437,Universitätsklinik Balgrist, Zürich,Zürich,J,Complex conditions,363
+1438,Universitätsklinik Balgrist, Zürich,Zürich,K,Skin disorders,7
+1439,Universitätsklinik Balgrist, Zürich,Zürich,L,Highly specialized medicine,1
+1440,Universitätsspital Basel, Basel,Basel-stadt,A,Cardiac diseases,111792
+1441,Universitätsspital Basel, Basel,Basel-stadt,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",35417
+1442,Universitätsspital Basel, Basel,Basel-stadt,C,Geriatric Medicine,3292
+1443,Universitätsspital Basel, Basel,Basel-stadt,D,Lung diseases,22635
+1444,Universitätsspital Basel, Basel,Basel-stadt,E,Diseases of the abdominal organs,11868
+1445,Universitätsspital Basel, Basel,Basel-stadt,F,Vascular Diseases,12144
+1446,Universitätsspital Basel, Basel,Basel-stadt,G,Gynecology and obstetrics,61794
+1447,Universitätsspital Basel, Basel,Basel-stadt,H,Diseases of the urinary tract and male genitalia,8127
+1448,Universitätsspital Basel, Basel,Basel-stadt,I,"Diseases of the bones, joints, connective tissues",19602
+1449,Universitätsspital Basel, Basel,Basel-stadt,J,Complex conditions,27028
+1450,Universitätsspital Basel, Basel,Basel-stadt,K,Skin disorders,729
+1451,Universitätsspital Basel, Basel,Basel-stadt,L,Highly specialized medicine,2518
+1452,Universitätsspital Basel, Basel,Basel-stadt,M,Palliative Medicine,1119
+1453,Universitätsspital Zürich, Zürich, Zürich,A,Cardiac diseases,119576
+1454,Universitätsspital Zürich, Zürich, Zürich,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",33496
+1455,Universitätsspital Zürich, Zürich, Zürich,C,Geriatric Medicine,7973
+1456,Universitätsspital Zürich, Zürich, Zürich,D,Lung diseases,18051
+1457,Universitätsspital Zürich, Zürich, Zürich,E,Diseases of the abdominal organs,16480
+1458,Universitätsspital Zürich, Zürich, Zürich,F,Vascular Diseases,18360
+1459,Universitätsspital Zürich, Zürich, Zürich,G,Gynecology and obstetrics,71212
+1460,Universitätsspital Zürich, Zürich, Zürich,H,Diseases of the urinary tract and male genitalia,10661
+1461,Universitätsspital Zürich, Zürich, Zürich,I,"Diseases of the bones, joints, connective tissues",12944
+1462,Universitätsspital Zürich, Zürich, Zürich,J,Complex conditions,37809
+1463,Universitätsspital Zürich, Zürich, Zürich,K,Skin disorders,3367
+1464,Universitätsspital Zürich, Zürich, Zürich,L,Highly specialized medicine,4184
+1465,Universitätsspital Zürich, Zürich, Zürich,M,Palliative Medicine,2486
+1466,Universitäts­Kinderspital beider Basel (UKBB), Basel,Basel-stadt,A,Cardiac diseases,90
+1467,Universitäts­Kinderspital beider Basel (UKBB), Basel,Basel-stadt,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",521
+1468,Universitäts­Kinderspital beider Basel (UKBB), Basel,Basel-stadt,D,Lung diseases,2005
+1469,Universitäts­Kinderspital beider Basel (UKBB), Basel,Basel-stadt,E,Diseases of the abdominal organs,411
+1470,Universitäts­Kinderspital beider Basel (UKBB), Basel,Basel-stadt,F,Vascular Diseases,39
+1471,Universitäts­Kinderspital beider Basel (UKBB), Basel,Basel-stadt,G,Gynecology and obstetrics,4540
+1472,Universitäts­Kinderspital beider Basel (UKBB), Basel,Basel-stadt,H,Diseases of the urinary tract and male genitalia,92
+1473,Universitäts­Kinderspital beider Basel (UKBB), Basel,Basel-stadt,I,"Diseases of the bones, joints, connective tissues",1807
+1474,Universitäts­Kinderspital beider Basel (UKBB), Basel,Basel-stadt,J,Complex conditions,1546
+1475,Universitäts­Kinderspital beider Basel (UKBB), Basel,Basel-stadt,K,Skin disorders,41
+1476,Universitäts­Kinderspital beider Basel (UKBB), Basel,Basel-stadt,L,Highly specialized medicine,57
+1477,Uroviva Klinik AG, Bülach,Zürich,A,Cardiac diseases,11
+1478,Uroviva Klinik AG, Bülach,Zürich,E,Diseases of the abdominal organs,801
+1479,Uroviva Klinik AG, Bülach,Zürich,G,Gynecology and obstetrics,313
+1480,Uroviva Klinik AG, Bülach,Zürich,H,Diseases of the urinary tract and male genitalia,8905
+1481,Uroviva Klinik AG, Bülach,Zürich,I,"Diseases of the bones, joints, connective tissues",40
+1482,Uroviva Klinik AG, Bülach,Zürich,J,Complex conditions,127
+1483,Venenklinik Bellevue AG, Kreuzlingen,Thurgau,A,Cardiac diseases,8
+1484,Venenklinik Bellevue AG, Kreuzlingen,Thurgau,C,Geriatric Medicine,3
+1485,Venenklinik Bellevue AG, Kreuzlingen,Thurgau,E,Diseases of the abdominal organs,14
+1486,Venenklinik Bellevue AG, Kreuzlingen,Thurgau,F,Vascular Diseases,10
+1487,Venenklinik Bellevue AG, Kreuzlingen,Thurgau,G,Gynecology and obstetrics,48
+1488,Venenklinik Bellevue AG, Kreuzlingen,Thurgau,J,Complex conditions,18
+1489,Venenklinik Bellevue AG, Kreuzlingen,Thurgau,K,Skin disorders,1
+1490,Zuger Kantonsspital AG, Baar,Zug,A,Cardiac diseases,6229
+1491,Zuger Kantonsspital AG, Baar,Zug,B,"Diseases of the nervous system, cerebrovascular accident (stroke)",4268
+1492,Zuger Kantonsspital AG, Baar,Zug,C,Geriatric Medicine,546
+1493,Zuger Kantonsspital AG, Baar,Zug,D,Lung diseases,5837
+1494,Zuger Kantonsspital AG, Baar,Zug,E,Diseases of the abdominal organs,7270
+1495,Zuger Kantonsspital AG, Baar,Zug,F,Vascular Diseases,1355
+1496,Zuger Kantonsspital AG, Baar,Zug,G,Gynecology and obstetrics,21211
+1497,Zuger Kantonsspital AG, Baar,Zug,H,Diseases of the urinary tract and male genitalia,4557
+1498,Zuger Kantonsspital AG, Baar,Zug,I,"Diseases of the bones, joints, connective tissues",3529
+1499,Zuger Kantonsspital AG, Baar,Zug,J,Complex conditions,3350
+1500,Zuger Kantonsspital AG, Baar,Zug,K,Skin disorders,67
+1501,Zuger Kantonsspital AG, Baar,Zug,M,Palliative Medicine,1

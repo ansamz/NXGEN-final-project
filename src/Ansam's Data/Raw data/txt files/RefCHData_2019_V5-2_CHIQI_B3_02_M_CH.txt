@@ -1,0 +1,14 @@
+
+	B3_02_M OP am Gehirn bei bösartigen Neubildungen, Mortalität // OP du cerveau en cas de tumeurs malignes, mortalité // OP al cervello in caso di tumori maligni, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	6	547	1.096892	
+	2012	17	524	3.244275	
+	2013	11	560	1.964286	
+	2014	7	512	1.367188	
+	2015	7	540	1.296296	
+	2016	7	634	1.104101	
+	2017	10	666	1.501502	
+	2018	10	673	1.485884	
+	2019	5	665	0.7518797	

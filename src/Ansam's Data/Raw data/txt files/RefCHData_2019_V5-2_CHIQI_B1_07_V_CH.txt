@@ -1,0 +1,17 @@
+
+	B1_07_V Anteil Verlegungen bei Hirninfarkt (ICD­10 I63, Alter >19) // Transferts avec infarctus cérébral (CIM­10 I63, âge >19), pourcentage // Trasferimenti con infarto cerebrale (ICD­10 I63, età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	1175	6463	18.18041	
+	2009	1397	6865	20.3496	
+	2010	1494	8057	18.54288	
+	2011	1614	8834	18.27032	
+	2012	1244	9824	12.66287	
+	2013	1427	10376	13.75289	
+	2014	1512	10867	13.91368	
+	2015	1763	11819	14.91666	
+	2016	1833	12718	14.41264	
+	2017	1907	13230	14.41421	
+	2018	1989	13814	14.39844	
+	2019	2209	14422	15.31688	

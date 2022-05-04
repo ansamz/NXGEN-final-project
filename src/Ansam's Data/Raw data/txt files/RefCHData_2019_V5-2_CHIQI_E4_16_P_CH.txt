@@ -1,0 +1,9 @@
+
+	E4_16_P Anteil tiefe anteriore Rektumresektionen mit Anastomoseninsuffizienz // Résections antérieures profondes du rectum avec insuffisance anastomosique, pourcentage // Resezione anteriore bassa del retto con deiscenza anastomotica, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2016	69	810	8.518519	
+	2017	66	633	10.42654	
+	2018	64	690	9.275362	
+	2019	66	655	10.07634	

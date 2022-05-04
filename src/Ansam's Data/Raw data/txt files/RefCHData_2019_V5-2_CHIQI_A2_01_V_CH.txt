@@ -1,0 +1,17 @@
+
+	A2_01_V Anteil Verlegungen bei HD Herzinsuffizienz (Alter >19) // Transferts avec DP insuffisance cardiaque (âge >19), pourcentage // Trasferimenti con DP insufficienza cardiaca (età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	1151	11899	9.673082	
+	2009	1287	12391	10.38657	
+	2010	1365	13471	10.13288	
+	2011	1239	13747	9.012876	
+	2012	883	13995	6.309396	
+	2013	863	14949	5.772961	
+	2014	1016	15709	6.46763	
+	2015	1079	16503	6.538205	
+	2016	1169	17804	6.56594	
+	2017	1108	18272	6.063923	
+	2018	1042	18737	5.561189	
+	2019	1242	20608	6.026786	

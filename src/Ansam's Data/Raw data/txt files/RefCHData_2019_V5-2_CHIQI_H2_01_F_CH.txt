@@ -1,0 +1,17 @@
+
+	H2_01_F HD Nierensteine // DP calculs rénaux // DP calcoli ai reni
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	9956	
+	2009	10988	
+	2010	11506	
+	2011	11819	
+	2012	11715	
+	2013	12553	
+	2014	13108	
+	2015	14082	
+	2016	14652	
+	2017	15042	
+	2018	15381	
+	2019	16007	

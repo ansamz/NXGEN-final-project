@@ -1,0 +1,17 @@
+
+	G1_05_P Anteil Kaiserschnitt bei risikoarmer Geburt // Césariennes en cas d'accouchement à faible risque, pourcentage // Parti cesarei in caso di parti a basso rischio, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	19749	68844	28.6866	
+	2009	19135	68836	27.79795	
+	2010	19137	70106	27.29724	
+	2011	19484	69991	27.83786	
+	2012	19826	71584	27.69613	
+	2013	20220	72341	27.95095	
+	2014	20901	74216	28.16239	
+	2015	21117	75711	27.89159	
+	2016	21212	76797	27.62087	
+	2017	20427	76231	26.79619	
+	2018	20384	76586	26.61583	
+	2019	19981	75427	26.49051	

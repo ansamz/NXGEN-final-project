@@ -1,0 +1,17 @@
+
+	H1_05_P Anteil partielle Nephrektomie bei bösartigen Neubildungen der Niere // Néphrectomie partielle en cas de tumeurs malignes du rein, pourcentage // Nefrectomia parziale per tumori maligni del rene, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	211	881	23.95006	
+	2009	236	848	27.83019	
+	2010	242	898	26.94878	
+	2011	254	921	27.57872	
+	2012	323	985	32.79188	
+	2013	316	970	32.57732	
+	2014	341	1017	33.52999	
+	2015	358	988	36.23482	
+	2016	410	1088	37.68382	
+	2017	430	1031	41.70708	
+	2018	421	1073	39.23579	
+	2019	478	1114	42.90844	

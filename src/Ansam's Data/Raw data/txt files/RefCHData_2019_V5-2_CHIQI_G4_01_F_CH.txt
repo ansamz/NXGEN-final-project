@@ -1,0 +1,17 @@
+
+	G4_01_F Stationäre Behandlungen wegen HD Brustkrebs // Traitements hospitaliers en cas de DP cancer du sein // Cure ospedaliere in caso di DP cancro al seno
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	8275	
+	2009	9639	
+	2010	10163	
+	2011	10240	
+	2012	10203	
+	2013	10911	
+	2014	10887	
+	2015	11044	
+	2016	11245	
+	2017	11434	
+	2018	11454	
+	2019	11473	

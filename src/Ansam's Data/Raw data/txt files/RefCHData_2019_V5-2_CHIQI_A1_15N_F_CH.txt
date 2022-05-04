@@ -1,0 +1,17 @@
+
+	A1_15N_F HD Herzinfarkt (Alter >19), Direktaufnahmen // DP Infarctus du myocarde (âge >19), admissions directes // DP infarto miocardico (età >19), ammissioni dirette
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	9682	
+	2009	10054	
+	2010	10916	
+	2011	11613	
+	2012	11673	
+	2013	11964	
+	2014	12305	
+	2015	12618	
+	2016	13033	
+	2017	13366	
+	2018	13596	
+	2019	13698	

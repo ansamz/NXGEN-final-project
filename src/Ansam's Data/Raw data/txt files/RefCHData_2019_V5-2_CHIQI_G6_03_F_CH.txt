@@ -1,0 +1,17 @@
+
+	G6_03_F OP bei Inkontinenz, ohne Genitalprolaps // OP en cas d'incontinence, sans prolapsus génital // OP per incontinenza, senza prolasso genitale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	2059	
+	2009	2086	
+	2010	2026	
+	2011	2235	
+	2012	2404	
+	2013	2264	
+	2014	2235	
+	2015	2049	
+	2016	1964	
+	2017	1985	
+	2018	1999	
+	2019	1775	

@@ -1,0 +1,17 @@
+
+	A7_05_F Kombinierte OP am Herzen // OP combinée du cœur // OP combinata al cuore
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	1349	
+	2009	1509	
+	2010	1564	
+	2011	1672	
+	2012	1963	
+	2013	2094	
+	2014	2017	
+	2015	2072	
+	2016	2131	
+	2017	2019	
+	2018	1828	
+	2019	1756	

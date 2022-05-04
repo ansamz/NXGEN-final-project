@@ -1,0 +1,17 @@
+
+	F3_09_F OP an Becken­/Beinarterien bei anderen komplexen Diagnosen // OP des artères du bassin/des jambes en cas d'autre diagnostic complexe // OP alle arterie del bacino/delle gambe in caso di altre diagnosi complesse
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	431	
+	2009	283	
+	2010	199	
+	2011	383	
+	2012	365	
+	2013	373	
+	2014	352	
+	2015	309	
+	2016	341	
+	2017	326	
+	2018	333	
+	2019	368	

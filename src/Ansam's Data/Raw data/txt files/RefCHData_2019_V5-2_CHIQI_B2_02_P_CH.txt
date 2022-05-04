@@ -1,0 +1,16 @@
+
+	B2_02_P Anteil TIA mit Stroke Unit Behandlung // AIT avec traitement en unité cérébro­vasculaire, pourcentage // TIA con trattamento in unità Stroke, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2009	18	3369	0.5342832	
+	2010	18	3699	0.486618	
+	2011	38	3617	1.050594	
+	2012	390	3746	10.41111	
+	2013	548	3965	13.82093	
+	2014	702	4065	17.26937	
+	2015	1144	4254	26.89234	
+	2016	1535	4676	32.8272	
+	2017	1536	4427	34.69618	
+	2018	1627	4542	35.82122	
+	2019	1790	4660	38.41202	

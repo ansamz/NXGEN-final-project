@@ -1,0 +1,17 @@
+
+	F2_01_F OP an der Aorta insgesamt // Total des OP de l'aorte // OP all'aorta totale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	1015	
+	2009	1039	
+	2010	1245	
+	2011	1725	
+	2012	1854	
+	2013	1953	
+	2014	1930	
+	2015	2011	
+	2016	2134	
+	2017	2152	
+	2018	2123	
+	2019	2181	

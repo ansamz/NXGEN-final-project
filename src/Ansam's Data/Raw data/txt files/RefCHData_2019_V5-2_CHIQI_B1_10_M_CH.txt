@@ -1,0 +1,17 @@
+
+	B1_10_M Intrazerebrale Blutung (ICD­10 I61, Alter >19), Mortalität // Hémorragie intracérébrale (CIM­10 I61, âge >19), mortalité // Emorragia intracerebrale (ICD­10 I61, età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	556	1767	31.46576	
+	2009	513	1841	27.86529	
+	2010	523	1997	26.18928	
+	2011	522	2068	25.24178	
+	2012	496	2061	24.06599	
+	2013	546	2107	25.91362	
+	2014	530	2082	25.45629	
+	2015	537	2160	24.86111	
+	2016	536	2281	23.49847	
+	2017	549	2196	25	
+	2018	506	2207	22.92705	
+	2019	480	2173	22.08928	

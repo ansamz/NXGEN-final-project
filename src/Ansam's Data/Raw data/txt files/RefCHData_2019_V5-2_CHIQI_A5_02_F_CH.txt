@@ -1,0 +1,17 @@
+
+	A5_02_F Implantation oder Wechsel eines Defibrillators // Implantation et changement de défibrillateur // Impianto e sostituzione di defibrillatore
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	854	
+	2009	953	
+	2010	1187	
+	2011	1037	
+	2012	1078	
+	2013	1189	
+	2014	1359	
+	2015	1462	
+	2016	1421	
+	2017	1392	
+	2018	1477	
+	2019	1546	

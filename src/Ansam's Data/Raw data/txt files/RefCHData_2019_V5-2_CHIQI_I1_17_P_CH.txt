@@ -1,0 +1,14 @@
+
+	I1_17_P Anteil Knie­Endoprothesen­Erstimplantation bei Gonarthrose und chronischer Arthritis mit Komplikationen // Première implantation d'endoprothèse de genou en cas de gonarthrose et arthrite chronique avec complications, pourcentage // Prima applicazione dell'endoprotesi del ginocchio in caso di gonartrosi e artrite cronica con complicazioni, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2011	94	8097	1.160924	
+	2012	94	7231	1.299959	
+	2013	93	6847	1.358259	
+	2014	69	5496	1.255459	
+	2015	172	15804	1.088332	
+	2016	178	16966	1.049157	
+	2017	227	16597	1.367717	
+	2018	234	16359	1.430405	
+	2019	257	17305	1.48512	

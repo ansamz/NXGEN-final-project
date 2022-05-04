@@ -1,0 +1,17 @@
+
+	I2_05_M Versteifung der Wirbelsäule oder Wirbelkörperersatz bei Tumor (inkl. komplexe Rekonstitutionen), Mortalität // Raidissement de la colonne vertébrale ou remplacement de corps vertébral en cas de tumeur (réparations complexes incluses), mortalité // Fusione spinale o sostituzione di vertebre in caso di tumore (ricostruzioni complesse incluse), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	2	93	2.150538	
+	2009	6	125	4.8	
+	2010	9	136	6.617647	
+	2011	5	261	1.915709	
+	2012	19	321	5.919003	
+	2013	13	342	3.80117	
+	2014	26	355	7.323944	
+	2015	17	353	4.815864	
+	2016	11	351	3.133903	
+	2017	27	408	6.617647	
+	2018	22	390	5.641026	
+	2019	11	477	2.30608	

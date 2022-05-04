@@ -1,0 +1,17 @@
+
+	F2_13_V Anteil Verlegungen bei Resektion/Ersatz der abdominalen Aorta bei Aneurysma, nicht rupturiert // Transferts avec résection/remplacement de l'aorte abdominale en cas d'anévrisme, sans rupture, pourcentage // Trasferimenti con resezione/sostituzione dell'aorta addominale in caso di aneurisma, senza lacerazione, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	53	686	7.725948	
+	2009	52	733	7.094134	
+	2010	50	822	6.082725	
+	2011	38	806	4.71464	
+	2012	22	792	2.777778	
+	2013	16	825	1.939394	
+	2014	22	853	2.579132	
+	2015	20	904	2.212389	
+	2016	26	952	2.731092	
+	2017	19	903	2.104097	
+	2018	21	930	2.258065	
+	2019	31	921	3.365907	

@@ -1,0 +1,17 @@
+
+	A1_13_M ND Herzinfarkt (Alter >19), Mortalität // DS infarctus du myocarde (âge >19), mortalité // DS infarto miocardico (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	671	4194	15.99905	
+	2009	694	3598	19.28849	
+	2010	655	3536	18.52376	
+	2011	660	3676	17.9543	
+	2012	621	3724	16.67562	
+	2013	691	3875	17.83226	
+	2014	730	4230	17.25768	
+	2015	721	4707	15.31761	
+	2016	806	5086	15.84742	
+	2017	855	5350	15.98131	
+	2018	780	5590	13.95349	
+	2019	813	5940	13.68687	

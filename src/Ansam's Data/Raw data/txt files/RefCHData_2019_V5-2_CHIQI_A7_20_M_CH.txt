@@ -1,0 +1,17 @@
+
+	A7_20_M Isolierter offener Aortenklappenersatz ohne weitere OP am Herzen ohne HD Endokarditis (Alter >19), Mortalität // Remplacement isolé de valve aortique à cœur ouvert sans autre OP du cœur sans DP endocardite (âge >19), mortalité // Sostituzione isolata della valvola aortica a cuore aperto senza altre OP al cuore senza DP endocardite (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	18	551	3.266788	
+	2009	18	689	2.612482	
+	2010	14	780	1.794872	
+	2011	22	880	2.5	
+	2012	22	889	2.474691	
+	2013	18	964	1.86722	
+	2014	10	791	1.264223	
+	2015	15	727	2.063274	
+	2016	6	762	0.7874016	
+	2017	10	694	1.440922	
+	2018	3	673	0.4457652	
+	2019	7	600	1.166667	

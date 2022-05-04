@@ -1,0 +1,17 @@
+
+	F5_03_F Aneurysma/Dissektion der Becken­/Beinarterien mit OP // Anévrisme/dissection des artères du bassin/des jambes avec OP // Aneurisma/dissezione delle arterie del bacino/delle gambe con OP
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	187	
+	2009	216	
+	2010	176	
+	2011	312	
+	2012	332	
+	2013	285	
+	2014	268	
+	2015	344	
+	2016	354	
+	2017	317	
+	2018	327	
+	2019	382	

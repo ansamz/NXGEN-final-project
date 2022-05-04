@@ -1,0 +1,17 @@
+
+	E4_05_M Kolorektale Resektionen bei Divertikel ohne Abszess/Perforation, Mortalität // Résections colorectales pour diverticule sans abcès/perforation, mortalité // Resezioni colorettali per diverticolo senza ascesso/perforazione, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	4	2243	0.1783326	
+	2009	12	2118	0.5665722	
+	2010	15	1997	0.7511267	
+	2011	13	2061	0.6307618	
+	2012	11	2037	0.5400098	
+	2013	7	1876	0.3731343	
+	2014	8	1650	0.4848485	
+	2015	1	1417	0.07057163	
+	2016	2	1436	0.1392758	
+	2017	11	1385	0.7942238	
+	2018	3	1372	0.2186589	
+	2019	3	1257	0.2386635	

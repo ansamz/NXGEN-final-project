@@ -1,0 +1,17 @@
+
+	G1_05N_F Risikoarme Geburt // Accouchements à faible risque // Parti a basso rischio
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	68844	
+	2009	68836	
+	2010	70106	
+	2011	69991	
+	2012	71584	
+	2013	72341	
+	2014	74216	
+	2015	75711	
+	2016	76797	
+	2017	76231	
+	2018	76586	
+	2019	75427	

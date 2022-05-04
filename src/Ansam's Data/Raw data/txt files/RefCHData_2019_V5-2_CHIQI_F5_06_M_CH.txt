@@ -1,0 +1,16 @@
+
+	F5_06_M PTA iliacal/an Becken­/Beinarterien bei Ulzeration oder Gangrän, Mortalität // ATP des artères iliaques/du bassin/des jambes en cas d'ulcération ou de gangrène, mortalité // PTA di arterie iliache/del bacino/delle gambe in caso di ulcera o cancrena, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2009	18	815	2.208589	
+	2010	25	993	2.517623	
+	2011	29	1174	2.470187	
+	2012	35	1272	2.751572	
+	2013	31	1345	2.304833	
+	2014	46	1442	3.190014	
+	2015	44	1590	2.767296	
+	2016	43	1647	2.610808	
+	2017	50	1635	3.058104	
+	2018	37	1543	2.397926	
+	2019	43	1657	2.595051	

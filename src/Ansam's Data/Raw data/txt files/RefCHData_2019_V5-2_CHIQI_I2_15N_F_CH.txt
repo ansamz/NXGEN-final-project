@@ -1,0 +1,17 @@
+
+	I2_15N_F Exzision von Bandscheibengewebe (ohne Tumor, Trauma, komplexe OP an Wirbelsäule) // Discectomie (sans tumeur, traumatisme, OP complexe de la colonne vertébrale) // Escissione dei tessuti intervertebrali con complicazioni (senza tumore, trauma o OP complessa alla colonna vertrebrale)
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	6980	
+	2009	7088	
+	2010	7439	
+	2011	7756	
+	2012	7882	
+	2013	7990	
+	2014	7892	
+	2015	7667	
+	2016	7634	
+	2017	7485	
+	2018	7488	
+	2019	7023	

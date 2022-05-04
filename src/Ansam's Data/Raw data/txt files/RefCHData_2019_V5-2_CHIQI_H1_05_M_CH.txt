@@ -1,0 +1,17 @@
+
+	H1_05_M Partielle Nephrektomie bei bösartigen Neubildungen der Niere, Mortalität // Néphrectomie partielle en cas de tumeurs malignes du rein, mortalité // Nefrectomia parziale per tumori maligni del rene, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	3	211	1.421801	
+	2009	2	236	0.8474576	
+	2010	0	242	0	
+	2011	0	254	0	
+	2012	2	323	0.619195	
+	2013	1	316	0.3164557	
+	2014	2	341	0.5865103	
+	2015	1	358	0.2793296	
+	2016	2	410	0.4878049	
+	2017	0	430	0	
+	2018	0	421	0	
+	2019	0	478	0	

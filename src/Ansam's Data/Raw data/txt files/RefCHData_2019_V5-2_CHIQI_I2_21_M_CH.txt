@@ -1,0 +1,17 @@
+
+	I2_21_M Exzision von Bandscheibengewebe (ohne Tumor, Trauma, Dekompression, komplexe OP an Wirbelsäule), Mortalität // Discectomie (sans tumeur, traumatisme, décompression, OP complexe de la colonne vertébrale), mortalité // Escissione dei tessuti intervertebrali (senza tumore, trauma, decompressione o OP complessa alla colonna vertrebrale), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	1	6974	0.01433897	
+	2009	0	7088	0	
+	2010	5	7431	0.0672857	
+	2011	5	6919	0.07226478	
+	2012	2	6775	0.0295203	
+	2013	2	6284	0.03182686	
+	2014	2	5973	0.03348401	
+	2015	2	5927	0.03374388	
+	2016	1	6048	0.01653439	
+	2017	0	5894	0	
+	2018	3	5881	0.05101173	
+	2019	2	6661	0.03002552	

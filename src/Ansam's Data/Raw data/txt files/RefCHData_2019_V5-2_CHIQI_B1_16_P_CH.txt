@@ -1,0 +1,16 @@
+
+	B1_16_P Anteil Hirninfarkt (ICD­10 I63, Alter >19) mit Frührehabilitation, Direktaufnahmen // Infarctus cérébral (CIM­10 I63, âge >19) avec rééducation précoce, admissions directes, pourcentage // Infarto cerebrale (ICD­10 I63, età >19) con riabilitazione precoce, ammissioni dirette, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2009	6	6712	0.08939213	
+	2010	77	7195	1.070188	
+	2011	59	7563	0.7801137	
+	2012	137	8447	1.621878	
+	2013	202	9059	2.229827	
+	2014	264	9451	2.793355	
+	2015	258	10034	2.571258	
+	2016	327	10690	3.058934	
+	2017	452	11421	3.957622	
+	2018	401	12060	3.325041	
+	2019	325	12581	2.58326	

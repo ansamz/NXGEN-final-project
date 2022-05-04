@@ -1,0 +1,17 @@
+
+	B1_19N_F HD Schlaganfall (Alter >19), Direktaufnahmen // DP accident vasculaire cérébral (âge >19), admissions directes // DP colpo apoplettico (età >19), ammissioni dirette
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	10258	
+	2009	10412	
+	2010	10732	
+	2011	10914	
+	2012	11586	
+	2013	12203	
+	2014	12334	
+	2015	12998	
+	2016	13560	
+	2017	14427	
+	2018	15196	
+	2019	15636	

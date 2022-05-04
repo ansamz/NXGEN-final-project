@@ -1,0 +1,10 @@
+
+	E4_15_P Anteil kolorektale Resektionen (E.4.2.F, E.4.3.F, E.4.4.F, E.4.5.F, E.4.6.F, E.4.13.F) ohne tiefe Rektumresektionen mit Anastomoseninsuffizienz // Résections colorectales (E.4.2.F, E.4.3.F, E.4.4.F, E.4.5.F, E.4.6.F, E.4.13.F) sans résections profondes du rectum avec insuffisance anastomosique, pourcentage // Resezione colorettale (E.4.2.F, E.4.3.F, E.4.4.F, E.4.5.F, E.4.6.F, E.4.13.F) senza resezione bassa del retto con deiscenza anastomotica, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2015	321	5449	5.890989	
+	2016	315	5872	5.364441	
+	2017	325	5806	5.597658	
+	2018	318	5879	5.409083	
+	2019	360	5907	6.094464	

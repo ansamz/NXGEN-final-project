@@ -1,0 +1,16 @@
+
+	L6_03_F Transplantation von hämatopoetischen Stammzellen aus Knochenmark, autogen // Transplantation de cellules souches hématopoïétiques de moelle osseuse, autogène // Trapianto di cellule staminali ematopoietiche di midollo osseo, autogeno
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2009	9	
+	2010	7	
+	2011	7	
+	2012	3	
+	2013	7	
+	2014	7	
+	2015	3	
+	2016	21	
+	2017	11	
+	2018	11	
+	2019	18	

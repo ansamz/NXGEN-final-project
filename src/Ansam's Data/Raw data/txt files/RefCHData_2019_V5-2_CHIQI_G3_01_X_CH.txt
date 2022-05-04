@@ -1,0 +1,17 @@
+
+	G3_01_X Hysterektomie bei gutartigen Erkrankungen (Alter >14), Aufenthaltsdauer // Hystérectomie pour affections bénignes (âge >14), durée de séjour // Isterectomia per malattie benigne (età >14), durata della degenza
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	StayCH	CasesCH	pCH	
+	2008	52071	9370	5.557204	
+	2009	54765	10210	5.363859	
+	2010	52424	10130	5.175123	
+	2011	49410	9983	4.949414	
+	2012	46241	9931	4.656228	
+	2013	44805	9906	4.523016	
+	2014	43056	9868	4.363194	
+	2015	40359	9698	4.16158	
+	2016	39126	9683	4.04069	
+	2017	35608	9321	3.820191	
+	2018	34574	9416	3.671835	
+	2019	33718	9462	3.563517	

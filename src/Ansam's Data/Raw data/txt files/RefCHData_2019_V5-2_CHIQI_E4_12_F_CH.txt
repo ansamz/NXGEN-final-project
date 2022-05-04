@@ -1,0 +1,17 @@
+
+	E4_12_F Stationäre Behandlungen bei Colitis ulcerosa oder Morbus Crohn (als HD oder ND) // Traitements hospitaliers en cas de colite ulcéreuse ou maladie de Crohn (DP ou DS) // Cure ospedaliere per colite ulcerosa o morbo di Crohn (DP o DS)
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	3890	
+	2009	4078	
+	2010	4117	
+	2011	4338	
+	2012	4518	
+	2013	4536	
+	2014	5153	
+	2015	5357	
+	2016	5435	
+	2017	5877	
+	2018	5964	
+	2019	6171	

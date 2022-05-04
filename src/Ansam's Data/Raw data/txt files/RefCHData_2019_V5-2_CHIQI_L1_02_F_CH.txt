@@ -1,0 +1,6 @@
+
+	L1_02_F Herz­Lungen­Transplantation // Transplantation combinée cœur­poumons // Trapianto combinato cuore­polmone
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2015	1	

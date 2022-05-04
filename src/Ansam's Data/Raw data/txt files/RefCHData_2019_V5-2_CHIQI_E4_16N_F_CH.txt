@@ -1,0 +1,9 @@
+
+	E4_16N_F Tiefe anteriore Rektumresektionen // Résections antérieures profondes du rectum // Resezione anteriore bassa del retto
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2016	810	
+	2017	633	
+	2018	690	
+	2019	655	

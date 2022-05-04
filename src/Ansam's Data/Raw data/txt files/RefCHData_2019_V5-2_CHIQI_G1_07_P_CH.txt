@@ -1,0 +1,17 @@
+
+	G1_07_P Anteil Kaiserschnitt bei risikoarmer Geburt, Alter >34 // Césariennes en cas d'accouchement à faible risque, âge >34, pourcentage // Parti cesarei in caso di parti a basso rischio, età >34, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	6523	17441	37.40038	
+	2009	6327	17474	36.20808	
+	2010	6332	17785	35.60304	
+	2011	6486	18013	36.00733	
+	2012	6575	18435	35.66585	
+	2013	6767	18859	35.88207	
+	2014	7151	19772	36.16731	
+	2015	7242	20355	35.57848	
+	2016	7464	21034	35.4854	
+	2017	7335	21403	34.2709	
+	2018	7421	21946	33.81482	
+	2019	7417	21889	33.8846	

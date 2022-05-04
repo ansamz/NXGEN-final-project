@@ -1,0 +1,15 @@
+
+	C1_04_P Anteil geriatrische Frührehabilitation mit motorischem FIM // Rééducation gériatrique précoce avec FIM moteur, pourcentage // Riabilitazione geriatrica precoce con FIM motorio, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2010	5	575	0.8695652	
+	2011	144	1298	11.09399	
+	2012	563	4313	13.05356	
+	2013	527	5246	10.04575	
+	2014	825	6546	12.60312	
+	2015	855	8130	10.51661	
+	2016	1542	10294	14.9796	
+	2017	2846	12300	23.13821	
+	2018	2579	13559	19.02058	
+	2019	2482	15571	15.93989	

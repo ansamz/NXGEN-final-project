@@ -1,0 +1,14 @@
+
+	H1_09_P Anteil laparoskopische OP bei Nephrektomie bei bösartigen Neubildungen der Niere // OP laparoscopique en cas de néphrectomie en cas de tumeurs malignes du rein, pourcentage // OP laparoscopica di nefrectomia per tumori maligni del rene, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2011	128	667	19.1904	
+	2012	142	662	21.45015	
+	2013	141	654	21.55963	
+	2014	156	676	23.07692	
+	2015	198	630	31.42857	
+	2016	207	678	30.53097	
+	2017	203	601	33.77704	
+	2018	235	652	36.04294	
+	2019	235	636	36.94969	

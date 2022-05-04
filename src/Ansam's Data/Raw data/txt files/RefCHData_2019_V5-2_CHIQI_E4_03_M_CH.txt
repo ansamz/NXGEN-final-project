@@ -1,0 +1,17 @@
+
+	E4_03_M Kolonresektionen bei kolorektalem Karzinom mit komplizierender Diagnose, Mortalität // Résections du côlon pour cancer colorectal avec diagnostic compliquant, mortalité // Resezioni del colon per carcinoma colorettale con diagnosi complicante, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	31	274	11.31387	
+	2009	45	298	15.10067	
+	2010	32	306	10.45752	
+	2011	39	324	12.03704	
+	2012	37	346	10.69364	
+	2013	33	403	8.188586	
+	2014	41	441	9.297052	
+	2015	33	410	8.04878	
+	2016	29	432	6.712963	
+	2017	35	435	8.045977	
+	2018	36	456	7.894737	
+	2019	27	534	5.05618	

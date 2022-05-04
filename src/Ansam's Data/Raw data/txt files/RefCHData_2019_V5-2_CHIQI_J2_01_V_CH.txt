@@ -1,0 +1,17 @@
+
+	J2_01_V Anteil Verlegungen bei HD Sepsis // Transferts avec DP septicémie, pourcentage // Trasferimenti con DP sepsi, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	746	5132	14.53624	
+	2009	922	6254	14.74256	
+	2010	992	7382	13.43809	
+	2011	1064	8531	12.47216	
+	2012	927	10371	8.938386	
+	2013	1074	12540	8.564593	
+	2014	759	5874	12.92135	
+	2015	844	6494	12.99661	
+	2016	790	6127	12.89375	
+	2017	785	6416	12.23504	
+	2018	871	7161	12.16311	
+	2019	1193	10486	11.37707	

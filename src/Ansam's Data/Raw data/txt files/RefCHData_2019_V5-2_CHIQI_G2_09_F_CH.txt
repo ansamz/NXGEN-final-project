@@ -1,0 +1,17 @@
+
+	G2_09_F Neugeborene >2499 g oder ohne Gewichtsangabe // Nouveau­nés >2499 g ou sans indication de poids // Neonati >2499 g o senza indicazione del peso
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	77446	
+	2009	77707	
+	2010	79715	
+	2011	79691	
+	2012	81465	
+	2013	81954	
+	2014	84509	
+	2015	85890	
+	2016	87399	
+	2017	87047	
+	2018	87331	
+	2019	86180	

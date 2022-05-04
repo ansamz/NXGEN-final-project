@@ -1,0 +1,575 @@
+year,Canton,Institution,street,number of locations,Canton_location,location,address_location,Town_location,services,zip,town
+2020,ZH,RehaClinic Limmattal,Urdorferstrasse 100,1,ZH,RehaClinic Limmattal,Urdorferstrasse 100,8952 Schlieren,"Amb, Stat",8952,Schlieren
+2020,AG,RehaClinic Baden,Bäderstrasse 16,2,AG,RehaClinic Baden,Bäderstrasse 16,5401 Baden,"Amb, Stat",5401,Baden
+2020,AG,RehaClinic Baden,Bäderstrasse 16,2,AG,RehaClinic Baden-Dättwil,Im Ergel 1,5404 Baden,"Amb, Stat",5401,Baden
+2020,SG,Oberwaid AG Kurhotel & Privatklinik,Rorschacher Strasse 311,1,SG,Privatklinik Oberwaid,Rorschacher Strasse 311,9016 St. Gallen,"Amb, Stat",9016,St. Gallen
+2020,TG,Tertianum AG Klinik Tertianum Neutal,Seestrasse 101,1,TG,REHA-Abteilung,Seestrasse 101,8267 Berlingen,Stat,8267,Berlingen
+2020,VD,Pôle santé Vallée de Joux Hôpital de la Vallée de Joux,Rue de l_x0019_ Hôpital 3,1,VD,Hôpital de la Vallée de Joux,Rue de l_x0019_ Hôpital 3,1347 Le Sentier,"Amb, Stat",1347,Le Sentier
+2020,BE,Hôpital de Moutier SA,Beausite 49,1,BE,Hôpital de Moutier,Beausite 49,2740 Moutier,"Amb, Stat",2740,Moutier
+2020,GE,Clinique Les Hauts d'Anières,Chemin des Courbes 9,1,GE,Clinique Les Hauts d'Anières,Chemin des Courbes 9,1247 Anières,"Amb, Stat",1247,Anières
+2020,SZ,AMEOS Seeklinikum Brunnen AG,Gersauerstrasse 8,1,SZ,AMEOS Seeklinikum Brunnen AG,Gersauerstrasse 8,6440 Brunnen,"Amb, Stat",6440,Brunnen
+2020,VD,Hôpital Riviera-Chablais Vaud-Valais,Route du Vieux Séquoia 20,6,VD,Rennaz Centre hospitalier de Rennaz,Route du Vieux Séquoia 20,1847 Rennaz,"Amb, Stat",1847,Rennaz
+2020,VD,Hôpital Riviera-Chablais Vaud-Valais,Route du Vieux Séquoia 20,6,VD,Samaritain Site administratif,Boulevard Paderewski 3,1800 Vevey,,1847,Rennaz
+2020,VD,Hôpital Riviera-Chablais Vaud-Valais,Route du Vieux Séquoia 20,6,VD,Providence Permanence médicale Riviera Réadaptation/gériatrie,Avenue de la Prairie 3,1800 Vevey,"Amb, Stat",1847,Rennaz
+2020,VD,Hôpital Riviera-Chablais Vaud-Valais,Route du Vieux Séquoia 20,6,VD,Mottex Réadaptation/gériatrie,Chemin de Mottex 25,1807 Blonay,"Amb, Stat",1847,Rennaz
+2020,VD,Hôpital Riviera-Chablais Vaud-Valais,Route du Vieux Séquoia 20,6,VS,Monthey Permanence médicale du Chablais,Route de Morgins,1870 Monthey,Amb,1847,Rennaz
+2020,VD,Hôpital Riviera-Chablais Vaud-Valais,Route du Vieux Séquoia 20,6,VD,Aigle Pôle Physio-Ergo d'Aigle,Chemin de la Valerette 1,1860 Aigle,Amb,1847,Rennaz
+2020,VD,Groupement Hospitalier de l'Ouest Lémanique (GHOL) SA,Chemin Monastier 10,2,VD,Hôpital de Nyon,Chemin Monastier 10,1260 Nyon,"Amb, Stat",1260,Nyon
+2020,VD,Groupement Hospitalier de l'Ouest Lémanique (GHOL) SA,Chemin Monastier 10,2,VD,Hôpital de Rolle,Route de l'Hôpital 26,1180 Rolle,"Amb, Stat",1260,Nyon
+2020,VD,Institution de Lavigny,Route du Vignoble 60,1,VD,Institution de Lavigny,route du Vignoble 60,1175 Lavigny,"Amb, Stat",1175,Lavigny
+2020,VD,Hôpital Intercantonal de la Broye (HIB),Avenue de la Colline 3,2,VD,Payerne,Avenue de la Colline 3,1530 Payerne,"Amb, Stat",1530,Payerne
+2020,VD,Hôpital Intercantonal de la Broye (HIB),Avenue de la Colline 3,2,FR,Estavayer-le-Lac,Rue de la Rochette,1470 Estavayer-le-Lac,"Amb, Stat",1530,Payerne
+2020,BE,Spitäler Frutigen Meiringen Interlaken AG,Weissenaustrasse 27,2,BE,Spital Frutigen,Adelbodenstrasse 27,3714 Frutigen,"Amb, Stat",3800,Unterseen
+2020,BE,Spitäler Frutigen Meiringen Interlaken AG,Weissenaustrasse 27,2,BE,Spital Interlaken,Weissenaustrasse 27,3800 Unterseen,"Amb, Stat",3800,Unterseen
+2020,BE,Kurklinik Eden AG,Panoramastrasse 20,1,BE,Klinik Oberried,Panoramastrasse 20,3854 Oberried am Brienzersee,"Amb, Stat",3854,Oberried am Brienzersee
+2020,BE,Hôpital du Jura bernois SA,Les Fontenayes 17,8,BE,Hôpital de St-Imier,Les Fontenayes 17,2610 St-Imier,"Amb, Stat",2610,St­Imier
+2020,BE,Hôpital du Jura bernois SA,Les Fontenayes 17,8,BE,Clinique de Bellelay,L'Abbaye 2,2713 Bellelay,"Amb, Stat",2610,St­Imier
+2020,BE,Hôpital du Jura bernois SA,Les Fontenayes 17,8,BE,Unité de St-Imier,Rue du Midi 9,2610 St-Imier,Stat,2610,St­Imier
+2020,BE,Hôpital du Jura bernois SA,Les Fontenayes 17,8,BE,Clinque de jour Bévilard,Champ de Chin 18,2735 Bévilard,Amb,2610,St­Imier
+2020,BE,Hôpital du Jura bernois SA,Les Fontenayes 17,8,BE,Unité du Fuet,Les Vacheries dessus 3,2712 Le Fuet,Stat,2610,St­Imier
+2020,BE,Hôpital du Jura bernois SA,Les Fontenayes 17,8,BE,Unité de Moutier,Rue Beausite 47,2740 Moutier,Stat,2610,St­Imier
+2020,BE,Hôpital du Jura bernois SA,Les Fontenayes 17,8,BE,Services ambulatoires et clinique de jour Bienne,Pont-du-Moulin 14,2502 Biel/Bienne,Amb,2610,St­Imier
+2020,BE,Hôpital du Jura bernois SA,Les Fontenayes 17,8,BE,Clinique de jour Bienne,Chemin de Fléoles 2,2503 Biel/Bienne,Amb,2610,St­Imier
+2020,BS,Adullam Spital,Mittlere Strasse 15,2,BS,"Adullam Spital, Basel",Mittlere Strasse 15,4056 Basel,"Amb, Stat",4056,Basel
+2020,BS,Adullam Spital,Mittlere Strasse 15,2,BS,"Adullam Spital, Riehen",Schützengasse 60,4125 Riehen,"Amb, Stat",4056,Basel
+2020,FR,SMN - Clinique Générale - Ste-Anne SA,Rue Hans­Geiler 6,1,FR,SMN-Clinique Générale-Ste-Anne,Rue Hans-Geiler 6,1700 Fribourg,"Amb, Stat",1700,Fribourg
+2020,GR,Flury Stiftung Spital Schiers,,1,GR,Flury Stiftung Spital Schiers,,7220 Schiers,"Amb, Stat",7220,Schiers
+2020,GR,Center da Sanadad Savognin SA,Stradung 52,1,GR,Center da Sanadad Savognin,Stradung 52,7460 Savognin,"Amb, Stat",7460,Savognin
+2020,TG,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Waldeggstrasse 8a,2,TG,Kantonsspital Frauenfeld KSF,"Pfaffenholzstrasse 4, Postfach",8501 Frauenfeld,"Amb, Stat",8501,Frauenfeld
+2020,TG,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,Waldeggstrasse 8a,2,TG,Kantonsspital Münsterlingen KSM,Spitalcampus 1,8596 Münsterlingen,"Amb, Stat",8501,Frauenfeld
+2020,GR,Kantonsspital Graubünden,Loestrasse 170,1,GR,Kantonsspital Graubünden,Loestrasse 170,7000 Chur,"Amb, Stat",7000,Chur
+2020,GR,Centro Sanitario Bregaglia Reparto Acuto,Flin,1,GR,Centro Sanitario Bregaglia Reparto Acuto,Flin,7606 Promontogno,"Amb, Stat",7606,Promontogno
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Klinik Bolligenstrasse Bern,Bolligenstrasse 111,3000 Bern 60,"Amb, Stat",3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Klinik Murtenstrasse Bern,Murtenstrasse 21,3008 Bern,"Amb, Stat",3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Klinik Neuhaus Ittigen,Untere Zollgasse 99,3063 Ittigen,"Amb, Stat",3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Therapiestation Alpenstrasse Bern,Alpenstrasse 25,3006 Bern,"Amb, Stat",3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,"Ambulatorium, Tagesklinik und Station Olvido Spiez",General-Guisanstrasse 2,3700 Spiez,"Amb, Stat",3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Ambulatorium Moserstrasse Bern,Moserstrasse 24,3014 Bern,Amb,3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Ambulatorium Effingerstrasse Bern,Effingerstrasse 12,3011 Bern,Amb,3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Ambulatorium Zieglerstrasse Bern,Zieglerstrasse 7,3007 Bern,Amb,3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Wohncoaching Köniz,Sägestrasse 75,3098 Köniz,Amb,3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Ambulatorium und Tagesklinik Biel,Kloosweg 24,2502 Biel/Bienne,Amb,3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Station Lindenweg Moosseedorf,Lindenweg 4,3302 Moosseedorf,"Amb, Stat",3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Klinik Althaus und Tagesklinik Grünthalhaus Bern,Bolligenstrasse 141,3000 Bern 60,"Amb, Stat",3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Ambulatorium Burgdorf,Dunantstrasse 7b,3400 Burgdorf,Amb,3072,Ostermundigen
+2020,BE,Universitäre Psychiatrische Dienste Bern (UPD) AG,Bolligenstrasse 111,14,BE,Gemeindepsychiatrisches Zentrum Morgenstrasse Bern,Morgenstrasse 83,3018 Bern,"Amb, Stat",3072,Ostermundigen
+2020,BE,PZM Psychiatriezentrum Münsingen AG,Hunzigenallee 1,2,BE,Psychiatriezentrum Münsingen,Hunzigenallee 1,3110 Münsingen,"Amb, Stat",3110,Münsingen
+2020,BE,PZM Psychiatriezentrum Münsingen AG,Hunzigenallee 1,2,BE,Ambulatorium Biel,Vogelsang 84,2501 Biel/Bienne,Amb,3110,Münsingen
+2020,ZH,Spital Uster,Brunnenstrasse 42,1,ZH,Spital Uster,Brunnenstrasse 42,8610 Uster,"Amb, Stat",8610,Uster
+2020,ZH,Spital Männedorf AG,Asylstrasse 10,1,ZH,Spital Männedorf,Asylstrasse 10,8708 Männedorf,"Amb, Stat",8708,Männedorf
+2020,ZH,Stadtspital Waid,Tièchestrasse 99,1,ZH,Stadtspital Waid,Tièchestrasse 99,8037 Zürich,"Amb, Stat",8037,Zürich
+2020,ZH,Stadtspital Triemli,Birmensdorferstrasse 497,2,ZH,Stadtspital Triemli,Birmensdorferstrasse 497,8063 Zürich,"Amb, Stat",8063,Zürich
+2020,ZH,Stadtspital Triemli,Birmensdorferstrasse 497,2,ZH,Dermatologisches Ambulatorium,Herman-Greulich-Strasse 70,8004 Zürich,Amb,8063,Zürich
+2020,ZG,Zuger Kantonsspital AG,Landhausstrasse 11,1,ZG,Zuger Kantonsspital,Landhausstrasse 11,6340 Baar,"Amb, Stat",6340,Baar
+2020,BE,Fürsorgeverein Bethesda,Bethesda 8,1,BE,Klinik Bethesda,Bethesda 8,3233 Tschugg,"Amb, Stat",3233,Tschugg
+2020,ZH,Suchtfachklinik Zürich,Emil-Klöti-Strasse 14-18,1,ZH,Suchtfachklinik Zürich,Emil-Klöti-Strasse 14-18,8037 Zürich,"Amb, Stat",8037,Zürich
+2020,VD,Clinique la Prairie SA,Rue du Lac 142,1,VD,Clinique La Prairie,Rue du Lac 142,1815 Clarens,"Amb, Stat",1815,Clarens
+2020,GE,Clinique Belmont,Route de Chêne 26,1,GE,clinique belmont,Route de Chêne 26,1207 Genève,"Amb, Stat",1207,Genève
+2020,BS,Merian Iselin Klinik,Föhrenstrasse 2,1,BS,Merian Iselin Klinik,Föhrenstrasse 2,4054 Basel,"Amb, Stat",4054,Basel
+2020,VD,Clinique la Métairie SA,Avenue de Bois­Bougy 8,1,VD,Clinique la Métairie,Avenue de Bois-Bougy 8,1260 Nyon,"Amb, Stat",1260,Nyon
+2020,TI,SMN - Clinica Sant'Anna,Via Sant'Anna 1,1,TI,SMN - Clinica Sant'Anna,Via Sant'Anna 1,6924 Sorengo,"Amb, Stat",6924,Sorengo
+2020,TI,Clinica Viarnetto SA,Via Ceresio 34b,1,TI,Clinica Viarnetto SA,Via Ceresio 34 b,6963 Pregassona,Stat,6963,Pregassona
+2020,BS,Klinik Sonnenhalde,Gänshaldenweg 22,2,BS,"Klinik Sonnenhalde, Riehen",Gänshaldenweg 22,4125 Riehen,"Amb, Stat",4125,Riehen
+2020,BS,Klinik Sonnenhalde,Gänshaldenweg 22,2,BL,"Klinik Sonnenhalde, Reinach",Bruggstrasse 12,4153 Reinach BL,Amb,4125,Riehen
+2020,TG,Clienia Littenheid AG Klinik für Psychiatrie und Psychotherapie,Hauptstrasse 130,1,TG,Clienia Littenheid AG,Hauptstrasse 130,9573 Littenheid,"Amb, Stat",9573,Littenheid
+2020,VD,Pôle santé du Pays-d'Enhaut,Route de l'Hôpital 17,1,VD,Pôle santé du Pays-d_x0019_ Enhaut,Route de l'Hôpital 17,1660 Château-d'Oex,"Amb, Stat",1660,Château­d'Oex
+2020,ZH,Privatklinik Hohenegg AG,Hohenegg 1,3,ZH,Privatklinik Hohenegg AG,Hohenegg 1,8706 Meilen,"Amb, Stat",8706,Meilen
+2020,ZH,Privatklinik Hohenegg AG,Hohenegg 1,3,ZH,Ambulantes Zentrum,Sonneggstrasse 45,8006 Zürich,Amb,8706,Meilen
+2020,ZH,Privatklinik Hohenegg AG,Hohenegg 1,3,ZH,Zentrum f. psychische Gesundheit,Trichtenhauserstrasse 20,8125 Zollikerberg,Amb,8706,Meilen
+2020,AG,Hirslanden Klinik Aarau,Schänisweg 1,1,AG,Hirslanden Klinik Aarau,Schänisweg 1,5001 Aarau,"Amb, Stat",5000,Aarau
+2020,BE,Hirslanden Klinik Linde AG,Blumenrain 105,1,BE,Klinik Linde,Blumenrain 105,2503 Biel/Bienne,"Amb, Stat",2503,Biel
+2020,VD,Hirslanden Lausanne SA,Avenue d'Ouchy 31,2,VD,Clinique Bois-Cerf,Avenue d'Ouchy 31,1006 Lausanne,"Amb, Stat",1006,Lausanne
+2020,VD,Hirslanden Lausanne SA,Avenue d'Ouchy 31,2,VD,Clinique Cecil,Avenue Louis-Ruchonnet 53,1003 Lausanne,"Amb, Stat",1006,Lausanne
+2020,GE,Clinique des Grangettes SA,Chemin des Grangettes 7,1,GE,Clinique des Grangettes SA,Chemin des Grangettes 7,1224 Chêne-Bougeries,"Amb, Stat",1224,Chêne­Bougeries
+2020,SO,SMN - Privatklinik Obach,Leopoldstrasse 5,1,SO,SMN - Privatklinik Obach,Leopoldstrasse 5,4500 Solothurn,"Amb, Stat",4500,Solothurn
+2020,VD,Réseau Santé Balcon du Jura.vd (RSBJ),Rue des Rosiers 29,2,VD,Les Rosiers,Rue des Rosiers 29,1450 Ste-Croix,"Amb, Stat",1450,Ste­Croix
+2020,VD,Réseau Santé Balcon du Jura.vd (RSBJ),Rue des Rosiers 29,2,VD,Les Alpes,Avenue des Alpes 18D,1450 Ste-Croix,Amb,1450,Ste­Croix
+2020,SG,Stiftung Ostschweizer Kinderspital,Claudiusstrasse 6,2,SG,Ostschweizer Kinderspital,Claudiusstrasse 6,9006 St. Gallen,"Amb, Stat",9006,St. Gallen
+2020,SG,Stiftung Ostschweizer Kinderspital,Claudiusstrasse 6,2,SG,Romerhuus,Claudiusstrasse 6,9006 St. Gallen,Stat,9006,St. Gallen
+2020,AG,Klinik Barmelweid AG,,3,AG,Klinik Barmelweid,,5017 Barmelweid,"Amb, Stat",5017,Barmelweid
+2020,AG,Klinik Barmelweid AG,,3,AG,Klinik Barmelweid Ambulatorium Brugg c/o Medizinisches Zentrum,Fröhlichstrasse 7,5200 Brugg,Amb,5017,Barmelweid
+2020,AG,Klinik Barmelweid AG,,3,AG,Klinik Barmelweid Ambulatorium Aarau,Ziegelrain 1,5000 Aarau,Amb,5017,Barmelweid
+2020,VD,Hôpital de Lavaux,Chemin des Colombaires 31,1,VD,Hôpital de Lavaux,Chemin des Colombaires 31,1096 Cully,"Amb, Stat",1096,Cully
+2020,ZG,Klinik Meissenberg AG,Meisenbergstrasse 17,2,ZG,Klinik Meissenberg AG,Meisenbergstrasse 17,6301 Zug,"Amb, Stat",6300,Zug
+2020,ZG,Klinik Meissenberg AG,Meisenbergstrasse 17,2,AG,Praxis Bad Schwanen,Badstrasse 16,5408 Ennetbaden,Amb,6300,Zug
+2020,TI,Clinica Santa Croce SA,Via al Parco 27,1,TI,Clinica Santa Croce SA,Via al Parco 27,6644 Orselina,"Amb, Stat",6644,Orselina
+2020,TI,Clinica Hildebrand - Centro di riabilitazione Brissago,Via Crodolo 18,1,TI,Clinica Hildebrand Centro di riabilitazione,Via Crodolo 18,6614 Brissago,"Amb, Stat",6614,Brissago
+2020,GE,Clinique la Colline,Avenue de Beau­Séjour 6,1,GE,Clinique La Colline,Avenue de Beau-Séjour 6,1206 Genève,"Amb, Stat",1206,Genève
+2020,AG,Stiftung Spital Muri,Spitalstrasse 144,1,AG,Stiftung Spital Muri,Spitalstrasse 144,5630 Muri AG,"Amb, Stat",5630,Muri AG
+2020,ZH,Klinik Susenberg,Schreberweg 9,1,ZH,Klinik Susenberg,Schreberweg 9,8044 Zürich,"Amb, Stat",8044,Zürich
+2020,LU,Hirslanden Klinik St. Anna AG,St. Anna­Strasse 32,3,LU,Hirslanden Klinik St. Anna AG,St. Anna-Strasse 32,6006 Luzern,"Amb, Stat",6006,Luzern
+2020,LU,Hirslanden Klinik St. Anna AG,St. Anna­Strasse 32,3,LU,St. Anna im Bahnhof,Zentralstrasse 1,6003 Luzern,Amb,6006,Luzern
+2020,LU,Hirslanden Klinik St. Anna AG,St. Anna­Strasse 32,3,LU,Hirslanden Klinik Meggen,Huobmattstrasse 9,6045 Meggen,"Amb, Stat",6006,Luzern
+2020,GR,Centro Sanitario Valposchiavo Ospedale San Sisto,Via da l'Uspedal 1000,1,GR,Centro Sanitario Valposchiavo Ospedale San Sisto,Via da l'Uspedal 1000,7742 Poschiavo,"Amb, Stat",7742,Poschiavo
+2020,BE,Privatklinik Reichenbach bei Meiringen AG,Willigen,3,BE,Privatklinik Meiringen,Reichenbach 9a,3860 Meiringen,"Amb, Stat",3860,Meiringen
+2020,BE,Privatklinik Reichenbach bei Meiringen AG,Willigen,3,BE,Station Hasliberg,Laueli 89b,6083 Hasliberg,Stat,3860,Meiringen
+2020,BE,Privatklinik Reichenbach bei Meiringen AG,Willigen,3,BE,Ambulatorium Privatklinik Meiringen Bern,Speichergasse 27,3011 Bern,Amb,3860,Meiringen
+2020,ZH,Klinik Hirslanden AG,Witellikerstrasse 40,2,ZH,Klinik Hirslanden AG,Witellikerstrasse 40,8008 Zürich,"Amb, Stat",8008,Zürich
+2020,ZH,Klinik Hirslanden AG,Witellikerstrasse 40,2,ZH,RTH Hirslanden Männedorf,Bergstrasse 4,8708 Männedorf,Amb,8008,Zürich
+2020,SG,Thurklinik AG,Bahnhofstrasse 123a,1,SG,Thurklinik AG,Bahnhofstrasse 123a,9244 Niederuzwil,"Amb, Stat",9244,Niederuzwil
+2020,SZ,Spital Schwyz,Waldeggstrasse 10,1,SZ,Spital Schwyz,Waldeggstrasse 10,6430 Schwyz,"Amb, Stat",6430,Schwyz
+2020,ZH,Geburtshaus Zürcher Oberland AG,Schürlistrasse 3,2,ZH,Geburtshaus Zürcher Oberland  AG,Schürlistrasse 3,8344 Bäretswil,"Amb, Stat",8344,Bäretswil
+2020,ZH,Geburtshaus Zürcher Oberland AG,Schürlistrasse 3,2,ZH,GHZO Praxis Winterthur,Marktgasse 1,8400 Winterthur,Amb,8344,Bäretswil
+2020,ZH,Paracelsus-Spital Richterswil AG,Bergstrasse 16,1,ZH,Paracelsus-Spital Richterswil,Bergstrasse 16,8805 Richterswil,"Amb, Stat",8805,Richterswil
+2020,VD,Clinique Valmont,Route de Valmont,1,VD,Clinique Valmont,Route de Valmont,1823 Glion,"Amb, Stat",1823,Glion
+2020,BE,Klinik Hohmad AG,Hohmadstrasse 1,1,BE,Klinik Hohmad,Hohmadstrasse 1,3600 Thun,"Amb, Stat",3600,Thun
+2020,ZG,Triaplus AG,Widenstrasse 55,7,ZG,Klinik Zugersee,Widenstrasse 55,6317 Oberwil b. Zug,"Amb, Stat",6317,Oberwil bei Zug
+2020,ZG,Triaplus AG,Widenstrasse 55,7,ZG,Ambulante Psychiatrie und Psychotherapie Zug,Rathausstrasse 1,6341 Baar,Amb,6317,Oberwil bei Zug
+2020,ZG,Triaplus AG,Widenstrasse 55,7,ZG,Kinder- und Jugendpsychiatrie Zug,Rathausstrasse 1,6341 Baar,Amb,6317,Oberwil bei Zug
+2020,ZG,Triaplus AG,Widenstrasse 55,7,UR,Ambulante Psychiatrie und Psychotherapie Uri,Seedorferstrasse 6,6460 Altdorf UR,Amb,6317,Oberwil bei Zug
+2020,ZG,Triaplus AG,Widenstrasse 55,7,UR,Kinder- und Jugendpsychiatrie Uri,Seedorferstrasse 6,6460 Altdorf UR,Amb,6317,Oberwil bei Zug
+2020,ZG,Triaplus AG,Widenstrasse 55,7,SZ,Ambulante Psychiatrie und Psychotherapie Schwyz,Centralstrasse 5c,6410 Goldau,Amb,6317,Oberwil bei Zug
+2020,ZG,Triaplus AG,Widenstrasse 55,7,SZ,Kinder- und Jugendpsychiatrie Schwyz,Bahnhofstrasse 1,6410 Goldau,Amb,6317,Oberwil bei Zug
+2020,ZH,Forel Klinik AG,Islikonerstrasse 5,3,ZH,Forel Klinik AG stationär,Islikonerstrasse 5,8548 Ellikon an der Thur,"Amb, Stat",8548,Ellikon an der Thur
+2020,ZH,Forel Klinik AG,Islikonerstrasse 5,3,ZH,Forel Klinik AG Ambulatorium,Sihlquai 255,8005 Zürich,Amb,8548,Ellikon an der Thur
+2020,ZH,Forel Klinik AG,Islikonerstrasse 5,3,ZH,Forel Klinik AG Tagesklinik,Sihlquai 255,8005 Zürich,Amb,8548,Ellikon an der Thur
+2020,ZH,Geburtshaus Delphys,Badenerstrasse 177,1,ZH,Geburtshaus Delphys,Badenerstrasse 177,8003 Zürich,"Amb, Stat",8003,Zürich
+2020,GE,Clinique Générale-Beaulieu,Chemin de Beau­Soleil 20,1,GE,Clinique Générale Beaulieu,Chemin de Beau-Soleil 20,1206 Genève,"Amb, Stat",1206,Genève
+2020,AR,Stiftung Kliniken Valens - Rheinburg-Klinik,Dorf,1,AR,Rheinburg-Klinik AG,Dorf,9428 Walzenhausen,"Amb, Stat",9428,Walzenhausen
+2020,TI,SMN - Clinica Ars Medica,Via Grumo 16,1,TI,SMN - Clinica Ars Medica,Via Grumo 16,6929 Gravesano,"Amb, Stat",6929,Gravesano
+2020,BL,Hirslanden Klinik Birshof,Reinacherstrasse 28,1,BL,Hirslanden Klinik Birshof,Reinacherstrasse 28,4142 Münchenstein,"Amb, Stat",4142,Münchenstein
+2020,NE,Clinique Volta SA,Rue Numa-Droz 185,1,NE,Clinique Volta SA,Rue Numa-Droz 185,2300 La Chaux-de-Fonds,"Amb, Stat",2300,La Chaux­de­Fonds
+2020,ZG,Klinik Adelheid AG,Höhenweg 71,1,ZG,Klinik Adelheid AG,Höhenweg 71,6314 Unterägeri,"Amb, Stat",6314,Unterägeri
+2020,AR,"Klinik Gais AG Kardiale Rehabilitation, Psychosomatik und Psychotherapie",Gäbrisstrasse 1172,1,AR,Klinik Gais AG,Gäbrisstrasse 1172,9056 Gais,"Amb, Stat",9056,Gais
+2020,BL,Klinik Arlesheim AG,Pfeffingerweg 1,2,BL,Klinik Arlesheim AG,Pfeffingerweg 1,4144 Arlesheim,"Amb, Stat",4144,Arlesheim
+2020,BL,Klinik Arlesheim AG,Pfeffingerweg 1,2,BS,Ita Wegman Ambulatorium,Viaduktstrasse 12,4051 Basel,Amb,4144,Arlesheim
+2020,ZG,Andreas Klinik,Rigistrasse 1,1,ZG,Andreas Klinik,Rigistrasse 1,6340 Cham,"Amb, Stat",6330,Cham
+2020,TG,Klinik Aadorf AG Klinische Psychotherapie,Fohrenbergstrasse 23,1,TG,Privatklinik Aadorf,Fohrenbergstrasse 23,8355 Aadorf,"Amb, Stat",8355,Aadorf
+2020,ZH,Adus Medica AG,Breitestrasse 11,1,ZH,Adus Medica AG,Breitestrasse 11,8157 Dielsdorf,"Amb, Stat",8157,Dielsdorf
+2020,TI,Cardiocentro Ticino (CCT),Via Tesserete 48,1,TI,Cardiocentro Ticino,Via Tesserete 48,6900 Lugano,"Amb, Stat",6900,Lugano
+2020,VD,Secteur Psychiatrique Est Fondation de Nant,Route de Nant,11,VD,Hôpital psychiatrique Nant,Route de Nant,1804 Corsier-sur-Vevey,"Amb, Stat",1804,Corsier­sur­Vevey
+2020,VD,Secteur Psychiatrique Est Fondation de Nant,Route de Nant,11,VD,La Tour-de-Peilz,Avenue de Sully 2,1814 La Tour-de-Peilz,"Amb, Stat",1804,Corsier­sur­Vevey
+2020,VD,Secteur Psychiatrique Est Fondation de Nant,Route de Nant,11,VD,Espace Santé Rennaz,Route des Tilles 6A,1847 Rennaz,Amb,1804,Corsier­sur­Vevey
+2020,VD,Secteur Psychiatrique Est Fondation de Nant,Route de Nant,11,VD,Les Communaux,Rue des Communaux 7,1800 Vevey,Amb,1804,Corsier­sur­Vevey
+2020,VD,Secteur Psychiatrique Est Fondation de Nant,Route de Nant,11,VD,Les Moulins,Rue des Moulins 11,1800 Vevey,Amb,1804,Corsier­sur­Vevey
+2020,VD,Secteur Psychiatrique Est Fondation de Nant,Route de Nant,11,VD,HRC,Route du Vieux-Séquoia 20,1847 Rennaz,Amb,1804,Corsier­sur­Vevey
+2020,VD,Secteur Psychiatrique Est Fondation de Nant,Route de Nant,11,VD,Grand-Chêne,Grand Chêne 1,1860 Aigle,Amb,1804,Corsier­sur­Vevey
+2020,VD,Secteur Psychiatrique Est Fondation de Nant,Route de Nant,11,VD,Château-d'Oex,Rte des Chenolettes 4,1660 Château-d'Oex,Amb,1804,Corsier­sur­Vevey
+2020,VD,Secteur Psychiatrique Est Fondation de Nant,Route de Nant,11,VD,Chamoyron,Chemin de Chamoyron 29,1806 St-Légier-La Chiésaz,Amb,1804,Corsier­sur­Vevey
+2020,VD,Secteur Psychiatrique Est Fondation de Nant,Route de Nant,11,VD,Montreux,Avenue des Alpes 66,1820 Montreux,Amb,1804,Corsier­sur­Vevey
+2020,VD,Secteur Psychiatrique Est Fondation de Nant,Route de Nant,11,VD,Molage,Rue du Molage 8,1860 Aigle,Amb,1804,Corsier­sur­Vevey
+2020,AG,Klinik Im Hasel AG,Hasel 837,2,AG,Klinik Im Hasel,Hasel 837,5728 Gontenschwil,"Amb, Stat",5728,Gontenschwil
+2020,AG,Klinik Im Hasel AG,Hasel 837,2,AG,Ambulatorium + Tagesklinik Lenzburg,Niederlenzer Kirchweg 1,5600 Lenzburg,Amb,5728,Gontenschwil
+2020,AG,Bad Schinznach AG - Privat-Klinik Im Park,Badstrasse 50,1,AG,Schinznach - Bad,Badstrasse 50,5116 Schinznach Bad,"Amb, Stat",5116,Schinznach Bad
+2020,SG,Klinik Sonnenhof Kinder- & Jugendpsychiatrisches Zentrum,Sonnenhofstrasse 15,1,SG,Klinik Sonnenhof,Sonnenhofstrasse 15,9608 Ganterschwil,"Amb, Stat",9608,Ganterschwil
+2020,BS,St. Claraspital,Kleinriehenstrasse 30,1,BS,St. Claraspital,Kleinriehenstrasse 30,4058 Basel,"Amb, Stat",4058,Basel
+2020,BE,Stiftung Diaconis Palliative Care,Schänzlistrasse 15,1,BE,Station Oranienburg-Belvoir,Schänzlistrasse 15,3013 Bern,Stat,3013,Bern
+2020,ZH,Universitäts-Kinderspital Zürich - Das Spital der Eleonorenstiftung,Steinwiesstrasse 75,3,ZH,Universitäts-Kinderspital Zürich,Steinwiesstrasse 75,8032 Zürich,"Amb, Stat",8032,Zürich
+2020,ZH,Universitäts-Kinderspital Zürich - Das Spital der Eleonorenstiftung,Steinwiesstrasse 75,3,ZH,Rehabilitationszentrum Affoltern,Mühlebergstrasse 104,8910 Affoltern am Albis,"Amb, Stat",8032,Zürich
+2020,ZH,Universitäts-Kinderspital Zürich - Das Spital der Eleonorenstiftung,Steinwiesstrasse 75,3,ZH,Permanence the Circle,Circle 59,8058 Zürich Flughafen,Amb,8032,Zürich
+2020,GE,Hôpital de la Tour,Avenue Jacob­Daniel Maillard 3,1,GE,Hôpital de La Tour,Avenue Jacob-Daniel Maillard 3,1217 Meyrin,"Amb, Stat",1217,Meyrin
+2020,GR,Hochgebirgsklinik Davos AG,Herman­Burchard­Strasse 1,1,GR,Hochgebirgsklinik Davos,Herman-Burchard-Strasse 1,7265 Davos Wolfgang,"Amb, Stat",7265,Davos Wolfgang
+2020,ZH,Schulthess Klinik,Lengghalde 2,1,ZH,Schulthess Klinik,Lengghalde 2,8008 Zürich,"Amb, Stat",8008,Zürich
+2020,BS,Palliativzentrum Hildegard,St. Alban­Ring 151,1,BS,Palliativzentrum Hildegard,St. Alban-Ring 151,4052 Basel,Stat,4052,Basel
+2020,TG,Venenklinik Bellevue AG,Brückenstrasse 9,1,TG,Venenklinik Bellevue Kreuzlingen,Brückenstrasse 9,8280 Kreuzlingen,"Amb, Stat",8280,Kreuzlingen
+2020,VD,EHC Ensemble hospitalier de la Côte,Chemin du Crêt 2,3,VD,Hôpital de Morges,Chemin du Crêt 2,1110 Morges,"Amb, Stat",1110,Morges
+2020,VD,EHC Ensemble hospitalier de la Côte,Chemin du Crêt 2,3,VD,Hôpital de Gilly,Rte du Pavillon 12,1182 Gilly,"Amb, Stat",1110,Morges
+2020,VD,EHC Ensemble hospitalier de la Côte,Chemin du Crêt 2,3,VD,Hôptial d'Aubonne,Rue de Trévelin 67,1170 Aubonne,"Amb, Stat",1110,Morges
+2020,TG,Rehaklinik Dussnang AG,Kurhausstrasse 34,1,TG,Rehaklinik Dussnang AG,Kurhausstrasse 34,8374 Dussnang,"Amb, Stat",8374,Dussnang
+2020,VD,Clinique de La Source,Avenue Vinet 30,1,VD,Clinique de la Source,Avenue Vinet 30,1004 Lausanne,"Amb, Stat",1004,Lausanne
+2020,ZH,Zürcher RehaZentren,Faltigbergstrasse 7,2,ZH,Zürcher RehaZentrum Wald,Faltigbergstrasse 7,8636 Wald ZH,"Amb, Stat",8636,Wald ZH
+2020,ZH,Zürcher RehaZentren,Faltigbergstrasse 7,2,GR,Zürcher RehaZentrum Davos,Klinikstrasse 6,7272 Davos Clavadel,"Amb, Stat",8636,Wald ZH
+2020,ZH,Clienia Schlössli AG,Schlösslistrasse 8,3,ZH,Clienia Schlössli AG,Schlösslistrasse 8,8618 Oetwil am See,"Amb, Stat",8618,Oetwil am See
+2020,ZH,Clienia Schlössli AG,Schlösslistrasse 8,3,ZH,Psychiatriezentrum Uster,Asylstrasse 30,8610 Uster,Amb,8618,Oetwil am See
+2020,ZH,Clienia Schlössli AG,Schlösslistrasse 8,3,ZH,Psychiatriezentrum Wetzikon,Bahnhofstrasse 196,8620 Wetzikon,Amb,8618,Oetwil am See
+2020,BE,SRO AG,St. Urbanstrasse 67,4,BE,Spital Langenthal,St. Urbanstrasse 67,4900 Langenthal,"Amb, Stat",4900,Langenthal
+2020,BE,SRO AG,St. Urbanstrasse 67,4,BE,Ambulatorium Niederbipp,Anternstrasse 24,4704 Niederbipp,Amb,4900,Langenthal
+2020,BE,SRO AG,St. Urbanstrasse 67,4,BE,Ambulatorium Huttwil,Spitalstrasse 51,4950 Huttwil,Amb,4900,Langenthal
+2020,BE,SRO AG,St. Urbanstrasse 67,4,BE,Ambulatorium Herzogenbuchsee,Stelliweg 24,3360 Herzogenbuchsee,Amb,4900,Langenthal
+2020,BE,Insel Gruppe AG (universitär),Freiburgstrasse 18,1,BE,Inselspital,Freiburgstrasse 18,3010 Bern,"Amb, Stat",3010,Bern
+2020,BE,Rehaklinik Hasliberg AG,Laueli 89b,1,BE,Klinik Hasliberg,Laueli 89b,6083 Hasliberg Hohfluh,"Amb, Stat",6083,Hasliberg Hohfluh
+2020,BS,Bethesda Spital AG,Gellertstrasse 144,1,BS,Bethesda Spital,Gellertstrasse 144,4052 Basel,"Amb, Stat",4052,Basel
+2020,ZH,Sune-Egge,Konradstrasse 62,1,ZH,Fachspital Sune-Egge,Konradstrasse 62,8005 Zürich,"Amb, Stat",8005,Zürich
+2020,BE,Klinik Schönberg AG,Schönbergstrasse 40,1,BE,Klinik Schönberg,Schönbergstrasse 40,3654 Gunten,"Amb, Stat",3654,Gunten
+2020,VD,Fondation Rive-Neuve - Unité de Soins Palliatifs,Chemin des Cuarroz 57,1,VD,Fondation Rive-Neuve,Chemin des Cuarroz 57,1807 Blonay,"Amb, Stat",1807,Blonay
+2020,BE,Stiftung für ganzheitliche Medizin,Weissensteinstrasse 30,3,BE,Klinik SGM,Weissensteinstrasse 30,4900 Langenthal,"Amb, Stat",4900,Langenthal
+2020,BE,Stiftung für ganzheitliche Medizin,Weissensteinstrasse 30,3,BE,Ambulatorium Klinik SGM Bern,Bubenbergplatz 10,3011 Bern,Amb,4900,Langenthal
+2020,BE,Stiftung für ganzheitliche Medizin,Weissensteinstrasse 30,3,LU,Ambulatorium Klinik SGM Meggen,Hauptstrasse 52,6045 Meggen,Amb,4900,Langenthal
+2020,ZH,Universitätsklinik Balgrist,Forchstrasse 340,2,ZH,Universitätsklinik Balgrist,Forchstrasse 340,8008 Zürich,"Amb, Stat",8008,Zürich
+2020,ZH,Universitätsklinik Balgrist,Forchstrasse 340,2,ZH,Balgrist Flughafen Zürich,Circle 59,8058 Zürich-Flughafen,Amb,8008,Zürich
+2020,ZH,Klinik Pyramide am See AG,Bellerivestrasse 34,1,ZH,Klinik Pyramide am See,Bellerivestrasse 34,8008 Zürich,"Amb, Stat",8008,Zürich
+2020,LU,Schweizer Paraplegiker-Zentrum Nottwil AG,Guido A. Zäch Strasse 1,1,LU,Schweizer Paraplegiker-Zentrum,Guido A. Zäch Strasse 1,6207 Nottwil,"Amb, Stat",6207,Nottwil
+2020,VS,SMN - Clinique de Valère,Rue de Pré­Fleuri 16,1,VS,SMN - Clinique de Valère,Rue de Pré-Fleuri 16,1950 Sion,"Amb, Stat",1950,Sion
+2020,AG,Privatklinik SALINA Salina Medizin AG,Roberstenstrasse 31,6,AG,Salina Rehaklinik,Roberstenstrasse 31,4310 Rheinfelden,"Amb, Stat",4310,Rheinfelden
+2020,AG,Privatklinik SALINA Salina Medizin AG,Roberstenstrasse 31,6,AG,Physiotherapie Salina B15,Baslerstrasse 15,4310 Rheinfelden,Amb,4310,Rheinfelden
+2020,AG,Privatklinik SALINA Salina Medizin AG,Roberstenstrasse 31,6,AG,Möhlin,Bachstrasse 10,4313 Möhlin,Amb,4310,Rheinfelden
+2020,AG,Privatklinik SALINA Salina Medizin AG,Roberstenstrasse 31,6,AG,Stein,Schaffhauserstr. 33,4332 Stein,Amb,4310,Rheinfelden
+2020,AG,Privatklinik SALINA Salina Medizin AG,Roberstenstrasse 31,6,AG,Physiotherapie Eiken,Rössliweg 15b,5074 Eiken,Amb,4310,Rheinfelden
+2020,AG,Privatklinik SALINA Salina Medizin AG,Roberstenstrasse 31,6,AG,Frick,Mühlegasse 18,5070 Frick,Amb,4310,Rheinfelden
+2020,BL,Klinik ESTA,Gstadstrasse 42,1,BL,Klinik ESTA,Gstadstrasse 42,4153 Reinach BL,Stat,4153,Reinach BL
+2020,BE,Interessengemeinschaft Sozialpsychiatrie IGS (Verein),Bühlstrasse 19a,4,BE,Klinik Soteria,Bühlstrasse 19a,3012 Bern,Stat,3012,Bern
+2020,BE,Interessengemeinschaft Sozialpsychiatrie IGS (Verein),Bühlstrasse 19a,4,BE,Soteria Lobhaus,Murtenstrasse 46,3008 Bern,Amb,3012,Bern
+2020,BE,Interessengemeinschaft Sozialpsychiatrie IGS (Verein),Bühlstrasse 19a,4,BE,Soteria FETZ,Effingerstrasse 14a,3011 Bern,Amb,3012,Bern
+2020,BE,Interessengemeinschaft Sozialpsychiatrie IGS (Verein),Bühlstrasse 19a,4,BE,Soteria Tageszentrum,Konsumstrasse 16c,3007 Bern,Amb,3012,Bern
+2020,AG,Gesundheitszentrum Fricktal,Riburgerstrasse 12,3,AG,"GZF, Spital Rheinfelden",Riburgerstrasse 12,4310 Rheinfelden,"Amb, Stat",4310,Rheinfelden
+2020,AG,Gesundheitszentrum Fricktal,Riburgerstrasse 12,3,AG,"GZF, Spital Laufenburg",Spitalstrasse 10,5080 Laufenburg,"Amb, Stat",4310,Rheinfelden
+2020,AG,Gesundheitszentrum Fricktal,Riburgerstrasse 12,3,AG,"GZF, Fachärztehaus Frick",Mühlegasse 18,5070 Frick,Amb,4310,Rheinfelden
+2020,VD,Clinique de Genolier,Route du Muids 3,1,VD,Clinique de Genolier,Route du Muids 3,1272 Genolier,"Amb, Stat",1272,Genolier
+2020,SH,SMN - Privatklinik Belair,Rietstrasse 30,1,SH,SMN - Privatklinik Belair,Rietstrasse 30,8200 Schaffhausen,"Amb, Stat",8200,Schaffhausen
+2020,AG,aarReha Schinznach Zentrum für Rehabilitation,Badstrasse 55,3,AG,Schinznach Bad,Badstrasse 55,5116 Schinznach Bad,"Amb, Stat",5116,Schinznach Bad
+2020,AG,aarReha Schinznach Zentrum für Rehabilitation,Badstrasse 55,3,AG,Zofingen,Mühlethalstrasse 27,4800 Zofingen,Stat,5116,Schinznach Bad
+2020,AG,aarReha Schinznach Zentrum für Rehabilitation,Badstrasse 55,3,AG,Campus Brugg-Windisch,Bahnhofstrasse 5a,5210 Windisch,Amb,5116,Schinznach Bad
+2020,BE,Stiftung südhang Klinik für Suchttherapien,Südhang 1,4,BE,Suchtfachklinik Südhang,Südhang 1,3038 Kirchlindach,"Amb, Stat",3038,Kirchlindach
+2020,BE,Stiftung südhang Klinik für Suchttherapien,Südhang 1,4,BE,Ambulatorium und Tagesklinik Südhang Bern,Bubenbergplatz 4b,3011 Bern,Amb,3038,Kirchlindach
+2020,BE,Stiftung südhang Klinik für Suchttherapien,Südhang 1,4,BE,Ambulatorium Südhang Burgdorf,Kirchbergstrasse 97,3402 Burgdorf,Amb,3038,Kirchlindach
+2020,BE,Stiftung südhang Klinik für Suchttherapien,Südhang 1,4,BE,Ambulatorium Südhang Biel,Bahnhofplatz 2,2502 Biel/Bienne,Amb,3038,Kirchlindach
+2020,BE,Privatklinik Wyss AG,Fellenbergstrasse 32,3,BE,Privat Klinik Wyss,Fellenbergstrasse 32,3053 Münchenbuchsee,"Amb, Stat",3053,Münchenbuchsee
+2020,BE,Privatklinik Wyss AG,Fellenbergstrasse 32,3,BE,Ambulatorium Biel,Dählenweg 6,2503 Biel/Bienne,Amb,3053,Münchenbuchsee
+2020,BE,Privatklinik Wyss AG,Fellenbergstrasse 32,3,BE,Ambulatorium und Station Bern,Bremgartenstrasse 117,3012 Bern,"Amb, Stat",3053,Münchenbuchsee
+2020,BE,Klinik Wysshölzli Marie Sollberger-Stiftung,Waldrandweg 19,1,BE,Klinik Wysshölzli,Waldrandweg 19,3360 Herzogenbuchsee,"Amb, Stat",3360,Herzogenbuchsee
+2020,TG,Herz-Neuro-Zentrum Bodensee AG,Weinbergstrasse 1,1,TG,HNZB Kreuzlingen,Weinbergstrasse 1,8280 Kreuzlingen,"Amb, Stat",8280,Kreuzlingen
+2020,BE,Siloah AG,Worbstrasse 316,1,BE,Klinik Siloah,Worbstrasse 316,3073 Gümligen,"Amb, Stat",3073,Gümligen
+2020,SO,Pallas Kliniken AG,Louis-Giroud­Strasse 20,1,SO,Pallas Kliniken AG,Louis-Giroud-Strasse 20,4600 Olten,"Amb, Stat",4600,Olten
+2020,BL,Ergolz-Klinik,Hammerstrasse 35,1,BL,Ergolz-Klinik,Hammerstrasse 35,4410 Liestal,"Amb, Stat",4410,Liestal
+2020,BL,Vista Klinik,Hauptstrasse 55,1,BL,Vista Klinik,Hauptstrasse 55,4102 Binningen,Stat,4102,Binningen
+2020,AG,Klinik für Suchttherapie Drogenentzug / Übergang / Krisenintervention,Zürcherstrasse 52,3,AG,Klinik für Suchttherapie Entzug / Übergang,Zürcherstrasse 52,5432 Neuenhof,"Amb, Stat",5432,Neuenhof
+2020,AG,Klinik für Suchttherapie Drogenentzug / Übergang / Krisenintervention,Zürcherstrasse 52,3,AG,Klinik für Suchttherapie Entwöhnung,Hutmattenweg 11,5704 Egliswil,"Amb, Stat",5432,Neuenhof
+2020,AG,Klinik für Suchttherapie Drogenentzug / Übergang / Krisenintervention,Zürcherstrasse 52,3,AG,Klinik für Suchttherapie Entwöhnung,Steinlerweg 12,5702 Niederlenz,"Amb, Stat",5432,Neuenhof
+2020,FR,Hôpital Jules Daler,Route de Bertigny 34,1,FR,Daler,Route de Bertigny 34,1700 Fribourg,"Amb, Stat",1700,Fribourg
+2020,GE,Clinique de Carouge AG,Avenue Cardinal­Mermillod 1,1,GE,Clinique de Carouge,Avenue Cardinal-Mermillod 1,1227 Carouge GE,"Amb, Stat",1227,Carouge GE
+2020,SG,Hirslanden Klinik Stephanshorn,Brauerstrasse 95,2,SG,Hirslanden Klinik Stephanshorn,Brauerstrasse 95,9016 St. Gallen,"Amb, Stat",9016,St. Gallen
+2020,SG,Hirslanden Klinik Stephanshorn,Brauerstrasse 95,2,SG,Ambulantes OPERAtionszentrum St.Gallen,Schuppisstrasse 10,9016 St.Gallen,Amb,9016,St. Gallen
+2020,AG,SMN - Klinik Villa im Park,Bernstrasse 84,1,AG,SMN - Klinik Villa im Park,Bernstrasse 84,4852 Rothrist,"Amb, Stat",4852,Rothrist
+2020,ZH,Sanatorium Kilchberg,Alte Landstrasse 70,2,ZH,Sanatorium Kilchberg AG,Alte Landstrasse 70,8802 Kilchberg ZH,"Amb, Stat",8802,Kilchberg ZH
+2020,ZH,Sanatorium Kilchberg,Alte Landstrasse 70,2,ZH,Zentrum für Psychosomatik,Selnaustrasse 6,8001 Zürich,Amb,8802,Kilchberg ZH
+2020,AR,Berit Klinik AG,Vögelinsegg 5,2,AR,Berit Klinik AG,Vögelinsegg 5,9042 Speicher,"Amb, Stat",9042,Speicher
+2020,AR,Berit Klinik AG,Vögelinsegg 5,2,AR,Berit Klinik AG Rehabiliation & Kur,Steinweg 1,9052 Niederteufen,"Amb, Stat",9042,Speicher
+2020,JU,Clinique le Noirmont,Chemin de Roc­Montès 20,1,JU,Clinique Le Noirmont,Chemin de Roc-Montès 20,2340 Le Noirmont,"Amb, Stat",2340,Le Noirmont
+2020,AR,Hirslanden Klinik Am Rosenberg AG,Hasenbühlstrasse 11,1,AR,Heiden,Hasenbühlstrasse 11,9410 Heiden,"Amb, Stat",9410,Heiden
+2020,BS,SMN - Schmerzklinik Basel,Hirschgässlein 11,1,BS,SMN - Schmerzklinik Basel,Hirschgässlein 11,4051 Basel,"Amb, Stat",4051,Basel
+2020,TG,Klinik Seeschau AG,Bernrainstrasse 17,1,TG,Seeschau Kreuzlingen,Bernrainstrasse 17,8280 Kreuzlingen,"Amb, Stat",8280,Kreuzlingen
+2020,SG,Kliniken Valens,Taminaplatz 1,5,SG,Reha-Zentrum Valens,Taminaplatz 1,7317 Valens,"Amb, Stat",7317,Valens
+2020,SG,Kliniken Valens,Taminaplatz 1,5,SG,Reha-Zentrum Walenstadtberg,Chnoblisbüel 1,8881 Walenstadtberg,"Amb, Stat",7317,Valens
+2020,SG,Kliniken Valens,Taminaplatz 1,5,SG,Clinic Bad Ragaz,,7310 Bad Ragaz,Stat,7317,Valens
+2020,SG,Kliniken Valens,Taminaplatz 1,5,GR,Ambulante Reha Chur c/o Kantonsspital Graubünden,Loestrasse 99,7000 Chur,Amb,7317,Valens
+2020,SG,Kliniken Valens,Taminaplatz 1,5,SG,Ambulante Reha St.Gallen,Wassergasse 42,9000 St. Gallen,Amb,7317,Valens
+2020,ZH,Klinik Im Park,Seestrasse 220,1,ZH,Klinik Im Park,Seestrasse 220,8002 Zürich,"Amb, Stat",8002,Zürich
+2020,TI,Clinica Santa Chiara SA,Via Stefano Franscini 4,1,TI,Clinica Santa Chiara SA,Via Stefano Franscini 4,6600 Locarno,"Amb, Stat",6600,Locarno
+2020,TI,Clinica Dr Spinedi c/o Clinica Santa Croce SA a.c.a. sig. Luca Santagostino,Via al Parco 27,1,TI,Clinica Dr. Spinedi c/o Clinica Santa Croce,Via al Parco 27,6644 Orselina,Stat,6644,Orselina
+2020,AG,Klinik für Schlafmedizin,Badstrasse 33,1,AG,Klinik für Schlafmedizin,Badstrasse 33,5330 Bad Zurzach,"Amb, Stat",5330,Bad Zurzach
+2020,BS,REHAB Basel,Im Burgfelderhof 40,1,BS,REHAB Basel,Im Burgfelderhof 40,4055 Basel,"Amb, Stat",4055,Basel
+2020,TG,Rehaklinik Zihlschlacht AG Neurologisches Rehabilitationszentrum,Hauptstrasse 2­4,1,TG,Rehaklinik Zihlschlacht AG,Hauptstrasse 2-4,8588 Zihlschlacht,"Amb, Stat",8588,Zihlschlacht
+2020,TG,Spital Thurgau AG Klinik St. Katharinental,St. Katharinental,1,TG,KSK Diessenhofen,St. Katharinental,8253 Diessenhofen,"Amb, Stat",8253,Diessenhofen
+2020,TG,Spital Thurgau AG Psychiatrische Klinik Münsterlingen,Seeblickstrasse 3,1,TG,Psychiatr. Klinik Münsterlingen,Seeblickstrasse 3,8596 Münsterlingen,"Amb, Stat",8596,Münsterlingen
+2020,SG,Spital Linth,Gasterstrasse 25,1,SG,Spital Linth,Gasterstrasse 25,8730 Uznach,"Amb, Stat",8730,Uznach
+2020,OW,Kantonsspital Obwalden,Brünigstrasse 181,1,OW,Kantonsspital Obwalden,Brünigstrasse 181,6060 Sarnen,"Amb, Stat",6060,Sarnen
+2020,NW,Kantonsspital Nidwalden,Ennetmooserstrasse 19,1,NW,Kantonsspital Nidwalden,Ennetmooserstrasse 19,6370 Stans,"Amb, Stat",6370,Stans
+2020,AI,Kantonales Spital Appenzell,Sonnhalde 2,1,AI,Kantonales Spital Appenzell,Sonnhalde 2,9050 Appenzell,"Amb, Stat",9050,Appenzell
+2020,ZH,Universitätsspital Zürich,Rämistrasse 100,4,ZH,UniversitätsSpital Zürich,Rämistrasse 100,8091 Zürich,"Amb, Stat",8091,Zürich
+2020,ZH,Universitätsspital Zürich,Rämistrasse 100,4,ZH,Wagi-Areal Schlieren,Wagistrasse 14,8952 Schlieren,Amb,8091,Zürich
+2020,ZH,Universitätsspital Zürich,Rämistrasse 100,4,ZH,USZ Stettbach,Sonnentalstrasse 23,8600 Dübendorf,,8091,Zürich
+2020,ZH,Universitätsspital Zürich,Rämistrasse 100,4,ZH,USZ Flughafen,The Circle 59,8058 Zürich-Flughafen,Amb,8091,Zürich
+2020,ZH,Kantonsspital Winterthur,Brauerstrasse 15,3,ZH,Kantonsspital Winterthur,Brauerstrasse 15,8400 Winterthur,"Amb, Stat",8400,Winterthur
+2020,ZH,Kantonsspital Winterthur,Brauerstrasse 15,3,ZH,Fachärztezentrum Glatt,Neue Winterthurerstrasse 99,8304 Wallisellen,Amb,8400,Winterthur
+2020,ZH,Kantonsspital Winterthur,Brauerstrasse 15,3,ZH,KSW-Radiologie WIN4,Grüzefeldstrasse 32,8400 Winterthur,Amb,8400,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw Winterthur,Wieshofstrasse 102,8408 Winterthur,"Amb, Stat",8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw Embrach,Römerweg 51,8424 Embrach,"Amb, Stat",8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw Bülach,Gartematt 6,8180 Bülach,Amb,8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw Dielsdorf,Brunnwiesenstrasse 8,8157 Dielsdorf,Amb,8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw ISW,Tösstalstrasse 19 und 53,8400 Winterthur,Amb,8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw KIZ_Wi,Bleichestrasse 9,8400 Winterthur,"Amb, Stat",8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw GAT_Wi,Salstrasse 48,8400 Winterthur,Amb,8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw GEZ_Wi,Rudolfstrasse 19,8400 Winterthur,Amb,8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw BSJ_Wi,Trollstrasse 18,8400 Winterthur,Amb,8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw CM_Wi,Schlachthofstrasse 19a,8406 Winterthur,Amb,8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw PP_Wi,Haldenstrasse 63,8400 Winterthur,Amb,8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw AFT_Wi,Technikumstrasse 81,8400 Winterthur,Amb,8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw Glattbrugg,Feldeggstrasse 5,8152 Glattbrugg,Amb,8408,Winterthur
+2020,ZH,Integrierte Psychiatrie Winterthur IPW,Wieshofstrasse 102,14,ZH,ipw Kloten,Bahnhofstrasse 6,8302 Kloten,Amb,8408,Winterthur
+2020,SG,Kantonsspital St. Gallen,Rorschacher Strasse 95,3,SG,Kantonsspital St. Gallen,Rorschacher Strasse 95,9007 St. Gallen,"Amb, Stat",9007,St. Gallen
+2020,SG,Kantonsspital St. Gallen,Rorschacher Strasse 95,3,SG,Spital Rorschach,Heidener Strasse 11,9400 Rorschach,"Amb, Stat",9007,St. Gallen
+2020,SG,Kantonsspital St. Gallen,Rorschacher Strasse 95,3,SG,Spital Flawil,Krankenhausstrasse 23,9230 Flawil,"Amb, Stat",9007,St. Gallen
+2020,SG,Psychiatrie-Dienste Süd,,5,SG,Klinik St. Pirminsberg,Klosterweg,7312 Pfäfers,"Amb, Stat",7312,Pfäfers
+2020,SG,Psychiatrie-Dienste Süd,,5,SG,PZ Rheintal,Balgacherstrasse 202,9435 Heerbrugg,Amb,7312,Pfäfers
+2020,SG,Psychiatrie-Dienste Süd,,5,SG,PZ Werdenberg-Sarganserland,Hauptstrasse 27,9477 Trübbach,Amb,7312,Pfäfers
+2020,SG,Psychiatrie-Dienste Süd,,5,SG,PZ Linthgebiet Standort Uznach,Zürcherstrasse 1,8730 Uznach,Amb,7312,Pfäfers
+2020,SG,Psychiatrie-Dienste Süd,,5,SG,PZ Linthgebiet Standort Rapperswil,Untere Bahnhofstrasse 11,8640 Rapperswil,Amb,7312,Pfäfers
+2020,SG,Psychiatrie St.Gallen Nord,Zürcherstrasse 30,4,SG,Psychiatrische Klinik Wil,Zürcherstrasse 30,9501 Wil SG,"Amb, Stat",9500,Wil SG
+2020,SG,Psychiatrie St.Gallen Nord,Zürcherstrasse 30,4,SG,PZ St. Gallen,Teufenerstrasse 26,9001 St.Gallen,"Amb, Stat",9500,Wil SG
+2020,SG,Psychiatrie St.Gallen Nord,Zürcherstrasse 30,4,SG,PZ Rorschach,Mariabergstrasse 19,9401 Rorschach,Amb,9500,Wil SG
+2020,SG,Psychiatrie St.Gallen Nord,Zürcherstrasse 30,4,SG,PZ Wattwil,Hembergerstrasse 22,9630 Wattwil,Amb,9500,Wil SG
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,PUK Zürich Lenggstrasse,Lenggstrasse 31,8032 Zürich,"Amb, Stat",8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZSP Militärstrasse,Militärstrasse 8,8004 Zürich,"Amb, Stat",8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZSP Ambi / TZ Heliostrasse,Heliosstrasse 32,8032 Zürich,Amb,8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,KAP Hegibach,Minervastrasse 145,8032 Zürich,"Amb, Stat",8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZAE Ambi / TZ Selnaustrasse,Selnaustrasse 9,8001 Zürich,Amb,8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZSP Nachtklinik Klusstrasse,Klusstrasse 44,8032 Zürich,Amb,8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZSP Ambi Limmattal,Zürcherstrasse 49,8953 Dietikon,Amb,8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZSP Ambi Oerlikon,Hofwiesenstrasse 318,8050 Zürich-Oerlikon,Amb,8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,PUK Rheinau,Alleestrasse,8462 Rheinau,"Amb, Stat",8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZKJF Zürich,Neptunstr. 60,8032 Zürich,Amb,8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZAS Zürich Nord,Thurgauerstrasse 39,8050 Zürich,Amb,8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,KJPP Zürich,Neumünsterallee 3,8032 Zürich,"Amb, Stat",8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZKP Brüschhalde,Bergstrasse 120,8708 Männedorf,"Amb, Stat",8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZAS Winterthur,Albanistrasse 24,8400 Winterthur,Amb,8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZAS Bülach,Bahnhofstrasse 39,8180 Bülach,Amb,8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZAS Dietikon,Löwenstrasse 15,8953 Dietikon,Amb,8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZAS Horgen,Bahnhofstrasse 6,8810 Horgen,Amb,8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZAS Uster,Gerberstrasse 3,8610 Uster,Amb,8032,Zürich
+2020,ZH,Psychiatrische Universitäts-Klinik Zürich,Lenggstrasse 31,19,ZH,ZAS Wetzikon,Guyer-Zeller-Strasse 21,8620 Wetzikon,Amb,8032,Zürich
+2020,VD,CHUV Centre Hospitalier Universitaire Vaudois,Rue du Bugnon 21,3,VD,Centre Hospitalier Universitaire Vaudois,Rue du Bugnon 21,1011 Lausanne,"Amb, Stat",1011,Lausanne
+2020,VD,CHUV Centre Hospitalier Universitaire Vaudois,Rue du Bugnon 21,3,VD,Psychiatrie Nord CPNVD,Avenue des Sports 12B,1400 Yverdon-les-Bains,"Amb, Stat",1011,Lausanne
+2020,VD,CHUV Centre Hospitalier Universitaire Vaudois,Rue du Bugnon 21,3,VD,Psychiatrie Ouest Hôpital de Prangins,Chemin Oscar Forel 3,1197 Prangins,"Amb, Stat",1011,Lausanne
+2020,SG,Spitalregion Rheintal Werdenberg Sarganserland,Alte Landstrasse 106,4,SG,Spital Altstätten,F.-Marolani-Strasse 6,9450 Altstätten,"Amb, Stat",9445,Rebstein
+2020,SG,Spitalregion Rheintal Werdenberg Sarganserland,Alte Landstrasse 106,4,SG,Spital Grabs,Spitalstrasse 44,9472 Grabs,"Amb, Stat",9445,Rebstein
+2020,SG,Spitalregion Rheintal Werdenberg Sarganserland,Alte Landstrasse 106,4,SG,Spital Walenstadt,Spitalstrasse 5,8880 Walenstadt,"Amb, Stat",9445,Rebstein
+2020,SG,Spitalregion Rheintal Werdenberg Sarganserland,Alte Landstrasse 106,4,SG,Rebstein,Alte Landstrasse 106,9445 Rebstein,,9445,Rebstein
+2020,SG,Spitalregion Fürstenland Toggenburg,Fürstenlandstrasse 32,2,SG,Spital Wil,Fürstenlandstrasse 32,9500 Wil SG,"Amb, Stat",9500,Wil SG
+2020,SG,Spitalregion Fürstenland Toggenburg,Fürstenlandstrasse 32,2,SG,Spital Wattwil,Steig,9630 Wattwil,"Amb, Stat",9500,Wil SG
+2020,ZH,Spital Affoltern AG,Sonnenbergstrasse 27,1,ZH,Spital Affoltern AG,Sonnenbergstrasse 27,8910 Affoltern am Albis,"Amb, Stat",8910,Affoltern am Albis
+2020,GR,Regionalspital Surselva AG,Spitalstrasse 6,1,GR,Regionalspital Surselva,Spitalstrasse 6,7130 Ilanz,"Amb, Stat",7130,Ilanz
+2020,GR,Spital Oberengadin,Via Nouva 3,1,GR,Spital Oberengadin,Via Nouva 3,7503 Samedan,"Amb, Stat",7503,Samedan
+2020,ZH,Spital Bülach AG,Spitalstrasse 24,1,ZH,Spital Bülach,Spitalstrasse 24,8180 Bülach,"Amb, Stat",8180,Bülach
+2020,BE,Regionalspital Emmental AG,Oberburgstrasse 54,2,BE,Spital Burgdorf,Oberburgstrasse 54,3400 Burgdorf,"Amb, Stat",3400,Burgdorf
+2020,BE,Regionalspital Emmental AG,Oberburgstrasse 54,2,BE,Spital Langnau,Dorfbergstrasse 10,3550 Langnau,"Amb, Stat",3400,Burgdorf
+2020,BE,Spitalzentrum Biel AG,Vogelsang 84,1,BE,Spitalzentrum Biel,Vogelsang 84,2502 Biel/Bienne,"Amb, Stat",2502,Biel
+2020,ZH,Spital Limmattal,Urdorferstrasse 100,1,ZH,Spital Limmattal,Urdorferstrasse 100,8952 Schlieren,"Amb, Stat",8952,Schlieren
+2020,SG,Geriatrische Klinik St. Gallen,Rorschacher Strasse 94,1,SG,Geriatrische Klinik St.Gallen,Rorschacher Strasse 94,9000 St. Gallen,"Amb, Stat",9000,St. Gallen
+2020,GR,Spital Thusis,Alte Strasse 31,1,GR,Spital Thusis,Alte Strasse 31,7430 Thusis,"Amb, Stat",7430,Thusis
+2020,AG,Rehaklinik Bellikon,Mutschellenstrasse 2,1,AG,Bellikon,Mutschellenstrasse 2,5454 Bellikon,"Amb, Stat",5454,Bellikon
+2020,TI,Clinica psichiatrica cantonale,Via Agostino Maspoli,1,TI,Clinica psichiatrica cantonale,Via Agostino Maspoli,6850 Mendrisio,"Amb, Stat",6850,Mendrisio
+2020,SZ,Spital Lachen,Oberdorfstrasse 41,1,SZ,Spital Lachen,Oberdorfstrasse 41,8853 Lachen SZ,"Amb, Stat",8853,Lachen SZ
+2020,VS,Leukerbad Clinic RZL Rehabilitationszentrum Leukerbad Clinic AG,Willy­Spühlerstrasse 2,1,VS,Leukerbad Clinic,Willy-Spühlerstrasse 2,3954 Leukerbad,"Amb, Stat",3954,Leukerbad
+2020,AG,RehaClinic Zurzach,Quellenstrasse 34,3,AG,RehaClinic Bad Zurzach,Quellenstrasse 34,5330 Bad Zurzach,"Amb, Stat",5330,Bad Zurzach
+2020,AG,RehaClinic Zurzach,Quellenstrasse 34,3,AG,Akutnahe Rehabilitation,Im Ergel 1,5404 Baden,"Amb, Stat",5330,Bad Zurzach
+2020,AG,RehaClinic Zurzach,Quellenstrasse 34,3,AG,Ambulatorium Brugg,Fröhlichstrasse 5,5200 Brugg,Amb,5330,Bad Zurzach
+2020,VD,Hôpital Ophtalmique Jules Gonin Fondation Asile des Aveugles,Avenue de France 15,1,VD,Hôpital ophtalmique Jules-Gonin,Avenue de France 15,1004 Lausanne,"Amb, Stat",1004,Lausanne
+2020,BE,Spital STS AG,Krankenhausstrasse 12,4,BE,Spital Thun,Krankenhausstrasse 12,3600 Thun,"Amb, Stat",3600,Thun
+2020,BE,Spital STS AG,Krankenhausstrasse 12,4,BE,Spital Zweisimmen,Karl Haueter-Strasse 21,3770 Zweisimmen,"Amb, Stat",3600,Thun
+2020,BE,Spital STS AG,Krankenhausstrasse 12,4,BE,Ambulatorium Münsingen,Dorfmattweg 8a,3110 Münsingen,Amb,3600,Thun
+2020,BE,Spital STS AG,Krankenhausstrasse 12,4,BE,Ambulatorium und Tagesklinik Steffisburg,Aumattweg 66,3612 Steffisburg,Amb,3600,Thun
+2020,AG,Asana Spital Leuggern AG,Kommendeweg 12,1,AG,Asana Spital Leuggern AG,Kommendeweg 12,5316 Leuggern,"Amb, Stat",5316,Leuggern
+2020,AG,Asana Spital Menziken AG,Spitalstrasse 1,1,AG,Asana Spital Menziken AG,Spitalstrasse 1,5737 Menziken,"Amb, Stat",5737,Menziken
+2020,BE,Berner Reha Zentrum AG,Schwendi 303,1,BE,Berner Reha Zentrum,Schwendi 303,3625 Heiligenschwendi,"Amb, Stat",3625,Heiligenschwendi
+2020,ZH,Spital Zollikerberg,Trichtenhauserstrasse 20,2,ZH,Spital Zollikerberg,Trichtenhauserstrasse 20,8125 Zollikerberg,"Amb, Stat",8125,Zollikerberg
+2020,ZH,Spital Zollikerberg,Trichtenhauserstrasse 20,2,ZH,Frauen-Permanence Zürich,Goethestrasse 24,8001 Zürich,Amb,8125,Zollikerberg
+2020,ZH,Klinik Tiefenbrunnen AG,Dammstrasse 29,1,ZH,Klinik Tiefenbrunnen,Dammstrasse 29,8702 Zollikon,"Amb, Stat",8702,Zollikon
+2020,BE,Stiftung Klinik Selhofen,Emmentalstrasse 8,3,BE,Suchtfachklinik Selhofen,Emmentalstrasse 8,3400 Burgdorf,"Amb, Stat",3400,Burgdorf
+2020,BE,Stiftung Klinik Selhofen,Emmentalstrasse 8,3,BE,Ambulatorium Selhofen Bern,Bubenbergplatz 4b,3011 Bern,Amb,3400,Burgdorf
+2020,BE,Stiftung Klinik Selhofen,Emmentalstrasse 8,3,BE,Ambulatorium Selhofen Biel,Bahnhofplatz 2,2502 Biel,Amb,3400,Burgdorf
+2020,BL,Hospiz im Park,Stollenrain 12,1,BL,Hospiz im Park,Stollenrain 12,4144 Arlesheim,"Amb, Stat",4144,Arlesheim
+2020,BL,Praxisklinik Rennbahn AG,Kriegackerstrasse 100,1,BL,Praxisklinik Rennbahn,Kriegackerstrasse 100,4132 Muttenz,"Amb, Stat",4132,Muttenz
+2020,AG,Kantonsspital Aarau AG,Tellstrasse 25,1,AG,Kantonsspital Aarau AG,Tellstrasse 25,5001 Aarau,"Amb, Stat",5000,Aarau
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Psychiatrische Dienste Aargau AG,Zürcherstrasse 241,5210 Windisch,"Amb, Stat",5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Tageszentrum Aarau,Landhausweg 22,5000 Aarau,Amb,5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Ambulatorium Aarau,Bleichemattstrasse 16,5000 Aarau,Amb,5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Ambulatorium für Erwachsene Wohlen,Bahnhofstrasse 6,5610 Wohlen,Amb,5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Tagesklinik Aarau,Bleichemattstrasse 9,5000 Aarau,Amb,5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Tagesklinik und Tageszentrum für Erwachsene Baden,St. Ursusstrasse 3,5400 Baden,Amb,5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Tageszentrum Wohlen,Bahnhofweg 17,5610 Wohlen,Amb,5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Ambulatorium Baden,Haselstrasse 1,5400 Baden,Amb,5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Ambulatorium und Tageszentrum Fricktal,Bahnhofstrasse 21,4310 Rheinfelden,Amb,5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Memory Clinic,Schanzweg 7,5000 Aarau,Amb,5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Amb. für Kinder und Jugendliche Freiamt,Zentralstrasse 20,5610 Wohlen,Amb,5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Ambulatorium für Konsiliar- und Alterspsychiatrie Dättwil,Husmatt 1,5405 Baden-Dättwil,Amb,5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Praxis für psychische Gesundheit,Mühletalstrasse 29,4800 Zofingen,Amb,5210,Windisch
+2020,AG,Psychiatrische Dienste Aargau AG,Königsfelderstrasse 1,14,AG,Ambulatorium für Kinder und Jugendliche Aarau,Küttigerstrasse 42,5000 Aarau,Amb,5210,Windisch
+2020,AG,Kantonsspital Baden AG,Im Ergel,4,AG,Im Ergel 1,Im Ergel 1,5404 Baden,"Amb, Stat",5404,Baden
+2020,AG,Kantonsspital Baden AG,Im Ergel,4,AG,Med. Zentrum Brugg,Fröhlichstrasse 7,5200 Brugg,Amb,5404,Baden
+2020,AG,Kantonsspital Baden AG,Im Ergel,4,AG,"Spital Muri, Dialyse",Spitalstrasse 144,5630 Muri AG,Amb,5404,Baden
+2020,AG,Kantonsspital Baden AG,Im Ergel,4,ZH,Ärztezentrum Limmatfeld,Heimstrasse 1,8953 Dietikon,Amb,5404,Baden
+2020,SZ,AMEOS Spital Einsiedeln AG,Spitalstrasse 28,1,SZ,AMEOS Spital Einsiedeln AG,Spitalstrasse 28,8840 Einsiedeln,"Amb, Stat",8840,Einsiedeln
+2020,GR,reha andeer ag Rehabilitationsklinik,Veia Granda,1,GR,reha andeer ag,Veia Granda,7440 Andeer,"Amb, Stat",7440,Andeer
+2020,GR,Klinik Gut St. Moritz AG,Via Arona 34,2,GR,Klinik Gut St. Moritz,Via Arona 34,7500 St. Moritz,"Amb, Stat",7500,St. Moritz
+2020,GR,Klinik Gut St. Moritz AG,Via Arona 34,2,GR,Klinik Gut Fläsch,Steigstrasse 12,7306 Fläsch,"Amb, Stat",7500,St. Moritz
+2020,TI,Clinica Luganese Moncucco SA,Via Moncucco 10,1,TI,Clinica Luganese Moncucco SA,Via Moncucco 10,6903 Lugano,"Amb, Stat",6900,Lugano
+2020,LU,Luzerner Höhenklinik Montana,Route de l'Astoria 2,1,VS,Luzerner Höhenklinik Montana,Route de l'Astoria 2,3963 Crans-Montana,"Amb, Stat",3963,Crans-Montana
+2020,UR,Kantonsspital Uri,Spitalstrasse 1,1,UR,Kantonsspital Uri,Spitalstrasse 1,6460 Altdorf UR,"Amb, Stat",6460,Altdorf UR
+2020,GE,Clinique de la Plaine,Rue Charles­Humbert 5,1,GE,Clinique de la Plaine,Rue Charles-Humbert 5,1205 Genève,"Amb, Stat",1205,Genève
+2020,AG,Spital Zofingen AG,Mühlethalstrasse 27,1,AG,Spital Zofingen AG,Mühlethalstrasse 27,4800 Zofingen,"Amb, Stat",4800,Zofingen
+2020,ZH,Privatklinik Lindberg - GSMN Schweiz AG,Schickstrasse 11,1,ZH,Privatklinik Lindberg,Schickstrasse 11,8400 Winterthur,"Amb, Stat",8400,Winterthur
+2020,FR,Réseau fribourgeois de santé mentale - RFSM Centre de soins hospitaliers,L'Hôpital 140,2,FR,RFSM,L'Hôpital 140,1633 Marsens,"Amb, Stat",1633,Marsens
+2020,FR,Réseau fribourgeois de santé mentale - RFSM Centre de soins hospitaliers,L'Hôpital 140,2,FR,RFSM Villars-sur-Glâne,Chemin du Cardinal-Journet 3,1752 Villars-sur-Glâne,"Amb, Stat",1633,Marsens
+2020,GL,Kantonsspital Glarus,Burgstrasse 99,2,GL,Kantonsspital Glarus Akutsomatik,Burgstrasse 99,8750 Glarus,"Amb, Stat",8750,Glarus
+2020,GL,Kantonsspital Glarus,Burgstrasse 99,2,GL,Kantonsspital Glarus Psychiatrie,Burgstrasse 99,8750 Glarus,"Amb, Stat",8750,Glarus
+2020,AR,"Spitalverbund Appenzell Ausserrhoden, Psychiatrisches Zentrum",Krombach 3,1,AR,Psychiatrisches Zentrum AR,Krombach 3,9100 Herisau,"Amb, Stat",9100,Herisau
+2020,BS,Felix Platter-Spital,Burgfelderstrasse 101,2,BS,Felix Platter-Spital,Burgfelderstrasse 101,4055 Basel,"Amb, Stat",4055,Basel
+2020,BS,Felix Platter-Spital,Burgfelderstrasse 101,2,BS,Universitätsspital,Hebelstrasse 32,4031 Basel,"Amb, Stat",4055,Basel
+2020,BL,Psychiatrie Baselland,Bienentalstrasse 7,12,BL,Klinik Psychiatrie/Psychotherap.,Bienentalstrasse 7,4410 Liestal,"Amb, Stat",4410,Liestal
+2020,BL,Psychiatrie Baselland,Bienentalstrasse 7,12,BL,KJP Ambulatorium Bruderholz,Personalhaus B,4101 Bruderholz,Amb,4410,Liestal
+2020,BL,Psychiatrie Baselland,Bienentalstrasse 7,12,BL,KJP Ambulatorium Liestal,Goldbrunnenstrasse 14,4410 Liestal,Amb,4410,Liestal
+2020,BL,Psychiatrie Baselland,Bienentalstrasse 7,12,BL,KJP Ambulatorium Laufen,Im Grossen Grien 6,4242 Laufen,Amb,4410,Liestal
+2020,BL,Psychiatrie Baselland,Bienentalstrasse 7,12,BL,KJP Psychotherapiestation,Goldbrunnenstrasse 14,4410 Liestal,Stat,4410,Liestal
+2020,BL,Psychiatrie Baselland,Bienentalstrasse 7,12,BL,Ambulatorium Bruderholz,Personalhaus B,4101 Bruderholz,Amb,4410,Liestal
+2020,BL,Psychiatrie Baselland,Bienentalstrasse 7,12,BL,Ambulatorium/Tageskl. Liestal,Spitalstrasse 1,4410 Liestal,Amb,4410,Liestal
+2020,BL,Psychiatrie Baselland,Bienentalstrasse 7,12,BL,Ambulatorium/Tageskl. Münchenst.,Emil Frey-Strasse 55,4142 Münchenstein,Amb,4410,Liestal
+2020,BL,Psychiatrie Baselland,Bienentalstrasse 7,12,BL,ZfA Ambulatorium Liestal,Wiedenhubstrasse 55,4410 Liestal,Amb,4410,Liestal
+2020,BL,Psychiatrie Baselland,Bienentalstrasse 7,12,BL,ZfA Ambulatorium Reinach,Baselstrasse 1,4153 Reinach BL,Amb,4410,Liestal
+2020,BL,Psychiatrie Baselland,Bienentalstrasse 7,12,BL,ZfA Ambulatorium Münchenstein,Barcelona-Strasse 15,4142 Münchenstein,Amb,4410,Liestal
+2020,BL,Psychiatrie Baselland,Bienentalstrasse 7,12,BL,Klinik Psychiatrie/Psychotherap.,Rheinstrasse 43,4410 Liestal,Stat,4410,Liestal
+2020,SH,Spitäler Schaffhausen,Geissbergstrasse 81,3,SH,Geissbergstrasse 81,Geissbergstrasse 81,8208 Schaffhausen,"Amb, Stat",8208,Schaffhausen
+2020,SH,Spitäler Schaffhausen,Geissbergstrasse 81,3,SH,Nordstrasse 111,Nordstrasse 111,8200 Schaffhausen,"Amb, Stat",8208,Schaffhausen
+2020,SH,Spitäler Schaffhausen,Geissbergstrasse 81,3,SH,Promenadenstrasse 21,Promenadenstrasse 21,8200 Schaffhausen,Amb,8208,Schaffhausen
+2020,GR,Spital Davos AG Akutabteilung,Promenade 4,1,GR,Spital Davos,Promenade 4,7270 Davos Platz,"Amb, Stat",7270,Davos Platz
+2020,TG,Klinik Schloss Mammern AG,Dr. A. O. Fleisch­Strasse 3,1,TG,Klinik Schloss Mammern,Dr. A.O. Fleisch-Strasse 3,8265 Mammern,"Amb, Stat",8265,Mammern
+2020,AG,Reha Rheinfelden,Salinenstrasse 98,1,AG,Rheinfelden,Salinenstrasse 98,4310 Rheinfelden,"Amb, Stat",4310,Rheinfelden
+2020,VD,Clinique de Montchoisi,Chemin des Allinges 10,1,VD,Clinique de Montchoisi,Chemin des Allinges 10,1006 Lausanne,"Amb, Stat",1006,Lausanne
+2020,BS,Universitätsspital Basel,Hebelstrasse 32,1,BS,Universitätsspital Basel,Hebelstrasse 32,4031 Basel,"Amb, Stat",4031,Basel
+2020,VD,"Biotonus, Clinique Bon-Port SA centre de soins médicaux & esthétiques",Rue Bon-Port 27,1,VD,Biotonus,Rue Bon-Port 27,1820 Montreux,Stat,1820,Montreux
+2020,GR,Center da Sanda Val Müstair Akutabteilung,Sielva,1,GR,Center da Sanda Val Müstair,Sielva,7536 Sta. Maria V. M.,"Amb, Stat",7536,Sta. Maria V. M.
+2020,AG,Schützen Rheinfelden AG Klinik & Ambulatorium,Bahnhofstrasse 19,3,AG,Klinik Schützen,Bahnhofstrasse 19,4310 Rheinfelden,"Amb, Stat",4310,Rheinfelden
+2020,AG,Schützen Rheinfelden AG Klinik & Ambulatorium,Bahnhofstrasse 19,3,AG,Ambulatorium Rheinfelden,Stadtweg 4,4310 Rheinfelden,Amb,4310,Rheinfelden
+2020,AG,Schützen Rheinfelden AG Klinik & Ambulatorium,Bahnhofstrasse 19,3,AG,Ambulatorium Aarau,Schanzweg 7,5001 Aarau,Amb,4310,Rheinfelden
+2020,GR,Center da Sanda Engiadina Bassa Ospidal d'Engiadina Bassa,Via da l'Ospidal 280,1,GR,Ospidal d'Engiadina Bassa,Via da l'Ospidal 280,7550 Scuol,"Amb, Stat",7550,Scuol
+2020,ZH,Modellstation SOMOSA,Zum Park 20,1,ZH,Modellstation SOMOSA,Zum Park 20,8404 Winterthur,"Amb, Stat",8404,Winterthur
+2020,GR,Rehabilitationszentrum Seewis Klinik für Herz- & Kreislauferkrankungen,Schlossstrasse 1,1,GR,Reha Seewis,Schlossstrasse 1,7212 Seewis Dorf,"Amb, Stat",7212,Seewis Dorf
+2020,BS,Universitäre Psychiatrische Kliniken Basel,Wilhelm­Klein­Strasse 27,4,BS,UPK-Campus,Wilhelm-Klein-Strasse 27,4056 Basel,"Amb, Stat",4056,Basel
+2020,BS,Universitäre Psychiatrische Kliniken Basel,Wilhelm­Klein­Strasse 27,4,BS,Kriseninterventionsstation (KIS),Schanzenstrasse 55,4031 Basel,Stat,4056,Basel
+2020,BS,Universitäre Psychiatrische Kliniken Basel,Wilhelm­Klein­Strasse 27,4,BS,Janus,Spitalstrasse 2,4056 Basel,Amb,4056,Basel
+2020,BS,Universitäre Psychiatrische Kliniken Basel,Wilhelm­Klein­Strasse 27,4,BS,Gesundheitszentrum Psychiatrie Kornhausgasse,Kornhausgasse 7,4051 Basel,Amb,4056,Basel
+2020,TI,Clinica Fondazione G. Varini,Via Consiglio Mezzano 38,1,TI,Clinica Fondazione Varini,Via Consiglio Mezzano 38,6644 Orselina,"Amb, Stat",6644,Orselina
+2020,ZH,GZO Spital Wetzikon,Spitalstrasse 66,1,ZH,GZO Spital Wetzikon,Spitalstrasse 66,8620 Wetzikon ZH,"Amb, Stat",8620,Wetzikon ZH
+2020,ZH,Privatklinik Bethanien - GSMN Schweiz AG,Toblerstrasse 51,1,ZH,Privatklinik Bethanien,Toblerstrasse 51,8044 Zürich,"Amb, Stat",8044,Zürich
+2020,BE,Berner Klinik Montana (Stiftung),Postgasse 56,1,VS,Berner Klinik Montana,Imp. Palace Bellevue 1,3963 Crans-Montana,"Amb, Stat",3011,Bern
+2020,VD,Clinique la Lignière,La Lignière 5,1,VD,Clinique la Lignière,La Lignière 5,1196 Gland,"Amb, Stat",1196,Gland
+2020,TI,Ospedale Malcantonese Fondazione Giuseppe Rossi,,1,TI,Ospedale Malcantonese Fondazione Giuseppe Rossi,,6980 Castelrotto,"Amb, Stat",6980,Castelrotto
+2020,VS,Clinique romande de réadaptation CRR (Suva),Avenue du Grand­Champsec 90,1,VS,Clinique romande de réadaptation,Avenue du Grand-Champsec 90,1950 Sion,"Amb, Stat",1950,Sion
+2020,ZH,See-Spital,Asylstrasse 19,2,ZH,See-Spital Horgen,Asylstrasse 19,8810 Horgen,"Amb, Stat",8810,Horgen
+2020,ZH,See-Spital,Asylstrasse 19,2,ZH,See-Spital Kilchberg,Grütstrasse 60,8802 Kilchberg,"Amb, Stat",8810,Horgen
+2020,VD,Etablissements Hospitaliers du Nord Vaudois (eHnv),Rue d'Entremonts 11,5,VD,Hôpital d'Yverdon-les-Bains,Rue d'Entremonts 11,1400 Yverdon-les-Bains,"Amb, Stat",1400,Yverdon­les­Bains
+2020,VD,Etablissements Hospitaliers du Nord Vaudois (eHnv),Rue d'Entremonts 11,5,VD,Hôpital de Saint-Loup,Route de St-Loup 13,1318 Pompaples,"Amb, Stat",1400,Yverdon­les­Bains
+2020,VD,Etablissements Hospitaliers du Nord Vaudois (eHnv),Rue d'Entremonts 11,5,VD,Hôpital de Chamblon,Route de l'Hôpital 3,1436 Chamblon,"Amb, Stat",1400,Yverdon­les­Bains
+2020,VD,Etablissements Hospitaliers du Nord Vaudois (eHnv),Rue d'Entremonts 11,5,VD,Hôpital d'Orbe,Chemin de la Magnenette 2,1350 Orbe,"Amb, Stat",1400,Yverdon­les­Bains
+2020,VD,Etablissements Hospitaliers du Nord Vaudois (eHnv),Rue d'Entremonts 11,5,VD,Permanence de Cossonay,Route d'Aubonne 2,1304 Cossonay,Amb,1400,Yverdon­les­Bains
+2020,AI,Hof Weissbad AG Nachbehandlungs-Zentrum,Im Park 1,1,AI,Hof Weissbad AG,Im Park 1,9057 Weissbad,Stat,9057,Weissbad
+2020,ZH,Uroviva Klinik AG,Zürichstrasse 5,1,ZH,Uroviva Klinik AG,Zürichstrasse 5,8180 Bülach,"Amb, Stat",8180,Bülach
+2020,BE,Insel Gruppe AG (nicht-universitär),Freiburgstrasse 18,5,BE,Spital Tiefenau,Tiefenaustrasse 112,3004 Bern,"Amb, Stat",3010,Bern
+2020,BE,Insel Gruppe AG (nicht-universitär),Freiburgstrasse 18,5,BE,Spital Aarberg,Lyssstrasse 31,3270 Aarberg,"Amb, Stat",3010,Bern
+2020,BE,Insel Gruppe AG (nicht-universitär),Freiburgstrasse 18,5,BE,Spital und Altersheim Belp,Seftigenstrasse 89/91,3123 Belp,"Amb, Stat",3010,Bern
+2020,BE,Insel Gruppe AG (nicht-universitär),Freiburgstrasse 18,5,BE,Spital Münsingen,Krankenhausweg 18/20,3110 Münsingen,"Amb, Stat",3010,Bern
+2020,BE,Insel Gruppe AG (nicht-universitär),Freiburgstrasse 18,5,BE,Spital Riggisberg,Eyweg 2,3132 Riggisberg,"Amb, Stat",3010,Bern
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Klinik St. Urban,Schafmattstrasse 1,4915 St. Urban,"Amb, Stat",4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Klinik Luzern,Areal Kantonsspital 11 Spitalstr,6000 Luzern 16,"Amb, Stat",4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Jugendpsychiatrische Th.station,Fenkernstrasse 15,6010 Kriens,"Amb, Stat",4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Kinderpsychiatrische Th.station,Fenkernstrasse 15,6010 Kriens,"Amb, Stat",4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Tagesklinik Luzern,Areal Kantonsspital 11 Spitalstr,6000 Luzern 16,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Drop-in,Bruchstrasse 29a,6007 Luzern,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Ambulatorium Luzern,Löwengraben 20,6004 Luzern,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,OW,Klinik Sarnen  (Station A),Brünigstrasse 183,6060 Sarnen,Stat,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,KJPD-Ambulatorium und AKIS Luzern,Kantonsspital 13,6000 Luzern 16,"Amb, Stat",4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Forensischer Dienst,Hobacherweg 2,6010 Kriens,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,GiA Luzern,Voltastrasse 42,6005 Luzern,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Ambulatorium Wolhusen,Gütsch 1 Josefshaus,6110 Wolhusen,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,OW,Tagesklinik Sarnen (Station I),Brünigstrasse 183,6060 Sarnen,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,KJPD-Ambulatorium Wolhusen,Gütsch 1 Josefshaus,6110 Wolhusen,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Tagesklinik Sursee,Surentalstrasse 10,6210 Sursee,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Ambulatorium Sursee,Surentalstrasse 10,6210 Sursee,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,KJPD-Ambulatorium Sursee,Surentalstrasse 10,6210 Sursee,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,GiA Sursee,Surentalstrasse 10,6210 Sursee,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Memory Clinic Zentralschweiz,Surentalstrasse 10,6210 Sursee,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,Ambulatorium Hochdorf,Brauiplatz 8,6280 Hochdorf,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,LU,KJPD-Ambulatorium Hochdorf,Brauiplatz 8,6280 Hochdorf,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,OW,Ambulatorium Sarnen,Brünigstrasse 183,6060 Sarnen,Amb,4915,St. Urban
+2020,LU,Luzerner Psychiatrie,Schafmattstrasse 1,23,OW,KJPD-Ambulatorium Sarnen,Brünigstrasse 183,6060 Sarnen,Amb,4915,St. Urban
+2020,LU,Luzerner Kantonsspital,Spitalstrasse,5,LU,LUKS Luzern,Spitalstrasse,6000 Luzern 16,"Amb, Stat",6004,Luzern
+2020,LU,Luzerner Kantonsspital,Spitalstrasse,5,LU,LUKS Sursee,Spitalstrasse 16A,6210 Sursee,"Amb, Stat",6004,Luzern
+2020,LU,Luzerner Kantonsspital,Spitalstrasse,5,LU,LUKS Wolhusen,Spitalstrasse,6110 Wolhusen,"Amb, Stat",6004,Luzern
+2020,LU,Luzerner Kantonsspital,Spitalstrasse,5,ZG,Radio-Onkologie am Zuger Kantonsspital,Landhausstrasse 11,6340 Baar,Amb,6004,Luzern
+2020,LU,Luzerner Kantonsspital,Spitalstrasse,5,ZG,Augenpraxis Baar,Bahnhofstrasse 14,6340 Baar,Amb,6004,Luzern
+2020,GR,Psychiatrische Dienste Graubünden,Loestrasse 220,7,GR,PDGR Klinik Waldhaus,Loestrasse 220,7000 Chur,"Amb, Stat",7000,Chur
+2020,GR,Psychiatrische Dienste Graubünden,Loestrasse 220,7,GR,PDGR Klinik Beverin,,7408 Cazis,"Amb, Stat",7000,Chur
+2020,GR,Psychiatrische Dienste Graubünden,Loestrasse 220,7,GR,PDGR Prättigau / Davos,,7270 Davos Platz,Amb,7000,Chur
+2020,GR,Psychiatrische Dienste Graubünden,Loestrasse 220,7,GR,PDGR Surselva,,7130 Ilanz,Amb,7000,Chur
+2020,GR,Psychiatrische Dienste Graubünden,Loestrasse 220,7,GR,PDGR Engadin / Südtäler,,7500 St. Moritz,Amb,7000,Chur
+2020,GR,Psychiatrische Dienste Graubünden,Loestrasse 220,7,GL,PDGR Tagesklinik Glarus,,8750 Glarus,Amb,7000,Chur
+2020,GR,Psychiatrische Dienste Graubünden,Loestrasse 220,7,GR,PDGR Jugendstation,Waisenhausstrasse 1,7000 Chur,"Amb, Stat",7000,Chur
+2020,BE,Geburtshaus Luna AG,Oberdorfstrasse 56,1,BE,Geburtshaus Luna Bern,Oberdorfstrasse 56,3072 Ostermundigen,"Amb, Stat",3072,Ostermundigen
+2020,ZH,Limmatklinik AG,Hardturmstrasse 133,1,ZH,Limmatklinik AG,Hardturmstrasse 133,8005 Zürich,"Amb, Stat",8005,Zürich
+2020,BL,Geburtshaus Tagmond GmbH,Hauptstrasse 26,1,BL,Geburtshaus Tagmond,Hauptstrasse 26,4133 Pratteln,"Amb, Stat",4133,Pratteln
+2020,BL,Geburtshaus ambra GmbH,Unterdorfstrasse 25,1,BL,Geburtshaus ambra GmbH,Unterdorfstrasse 25,4443 Wittinsburg,"Amb, Stat",4443,Wittinsburg
+2020,FR,Maison de Naissance le Petit Prince,Route du Petit­Moncor 1d,1,FR,Le Petit Prince,Route du Petit-Moncor 1d,1752 Villars-sur-Glâne,"Amb, Stat",1752,Villars­sur­Glâne
+2020,JU,Hôpital du Jura,Chemin de l'Hôpital 9a,4,JU,Site de Delémont,Fbg des Capucins 30,2800 Delémont,"Amb, Stat",2900,Porrentruy
+2020,JU,Hôpital du Jura,Chemin de l'Hôpital 9a,4,JU,Site de Porrentruy,Chemin de l'Hôpital 9a,2900 Porrentruy,"Amb, Stat",2900,Porrentruy
+2020,JU,Hôpital du Jura,Chemin de l'Hôpital 9a,4,JU,Site de Saignelégier,Rue de l'Hôpital 11,2350 Saignelégier,"Amb, Stat",2900,Porrentruy
+2020,JU,Hôpital du Jura,Chemin de l'Hôpital 9a,4,JU,Résidence La Promenade,Rue de l'Hôpital 58,2800 Delémont,,2900,Porrentruy
+2020,JU,Maison de naissance Les Cigognes,Route Principale 21,1,JU,Maison de naissance Les Cigognes,Route Principale 21,2824 Vicques,"Amb, Stat",2824,Vicques
+2020,LU,Geburtshaus Terra Alta,Schellenrain 20,1,LU,Terra Alta,Schellenrain 20,6208 Oberkirch LU,"Amb, Stat",6208,Oberkirch LU
+2020,NE,Réseau hospitalier neuchâtelois RHNe,Maladière 45,6,NE,La Chaux-de-Fonds,Chasseral 20,2300 La Chaux-de-Fonds,"Amb, Stat",2000,Neuchâtel
+2020,NE,Réseau hospitalier neuchâtelois RHNe,Maladière 45,6,NE,Pourtalès,Maladière 45,2000 Neuchâtel,"Amb, Stat",2000,Neuchâtel
+2020,NE,Réseau hospitalier neuchâtelois RHNe,Maladière 45,6,NE,Val-de-Travers,Rue de l'Hôpital 4,2107 Couvet,Amb,2000,Neuchâtel
+2020,NE,Réseau hospitalier neuchâtelois RHNe,Maladière 45,6,NE,Val-de-Ruz,Route de Landeyeux,2046 Fontaines,"Amb, Stat",2000,Neuchâtel
+2020,NE,Réseau hospitalier neuchâtelois RHNe,Maladière 45,6,NE,Le Locle,Bellevue 42,2400 Le Locle,"Amb, Stat",2000,Neuchâtel
+2020,NE,Réseau hospitalier neuchâtelois RHNe,Maladière 45,6,NE,Chrysalide,Rue de la Paix 99,2300 La Chaux-de-Fonds,"Amb, Stat",2000,Neuchâtel
+2020,NE,CNP Centre Neuchâtelois de psychiatrie,,4,NE,CNP Site de Préfargier,Site de Préfargier,2074 Marin-Epagnier,"Amb, Stat",2017,Boudry
+2020,NE,CNP Centre Neuchâtelois de psychiatrie,,4,NE,CNP Site de CPCM,Rue de la Jardinière 157a,2300 La Chaux-de-Fonds,Amb,2017,Boudry
+2020,NE,CNP Centre Neuchâtelois de psychiatrie,,4,NE,CNP Site de CPCL,Vieux-Châtel 18-20,2000 Neuchâtel,Amb,2017,Boudry
+2020,NE,CNP Centre Neuchâtelois de psychiatrie,,4,NE,CNP CUP,Maladières 45,2000 Neuchâtel,Amb,2017,Boudry
+2020,NW,Geburtshaus Stans,Rosenweg 3,1,NW,Geburtshaus Stans,Rosenweg 3,6370 Stans,"Amb, Stat",6370,Stans
+2020,SO,Solothurner Spitäler AG,Schöngrünstrasse 36a,5,SO,Bürgerspital Solothurn,Schöngrünstrasse 36a,4500 Solothurn,"Amb, Stat",4500,Solothurn
+2020,SO,Solothurner Spitäler AG,Schöngrünstrasse 36a,5,SO,Kantonsspital Olten,Baslerstrasse 150,4600 Olten,"Amb, Stat",4500,Solothurn
+2020,SO,Solothurner Spitäler AG,Schöngrünstrasse 36a,5,SO,Spital Dornach,Spitalweg 11,4143 Dornach,"Amb, Stat",4500,Solothurn
+2020,SO,Solothurner Spitäler AG,Schöngrünstrasse 36a,5,SO,Psychiatrische Dienste,Weissensteinstrasse 102,4503 Solothurn,"Amb, Stat",4500,Solothurn
+2020,SO,Solothurner Spitäler AG,Schöngrünstrasse 36a,5,SO,Solothurner Spitäler AG,Schöngrünstrasse 36a,4500 Solothurn,,4500,Solothurn
+2020,TI,EOC Ente ospedaliero cantonale,Viale Officina 3,9,TI,Ospedale Regionale di Lugano,Via Tesserete 46,6900 Lugano,"Amb, Stat",6500,Bellinzona
+2020,TI,EOC Ente ospedaliero cantonale,Viale Officina 3,9,TI,Ospedale Regionale San Giovanni,Via Ospedale 12,6500 Bellinzona,"Amb, Stat",6500,Bellinzona
+2020,TI,EOC Ente ospedaliero cantonale,Viale Officina 3,9,TI,Ospedale Regionale La Carità,Via dell'Ospedale 1,6600 Locarno,"Amb, Stat",6500,Bellinzona
+2020,TI,EOC Ente ospedaliero cantonale,Viale Officina 3,9,TI,Ospedale Regionale Beata Vergine,via Alfonso Turconi 23,6850 Mendrisio,"Amb, Stat",6500,Bellinzona
+2020,TI,EOC Ente ospedaliero cantonale,Viale Officina 3,9,TI,Ospedale Regionale Faido,Via Ospedale 32,6760 Faido,"Amb, Stat",6500,Bellinzona
+2020,TI,EOC Ente ospedaliero cantonale,Viale Officina 3,9,TI,Ospedale Regionale Acquarossa,Corzoneso Piano,6716 Acquarossa,"Amb, Stat",6500,Bellinzona
+2020,TI,EOC Ente ospedaliero cantonale,Viale Officina 3,9,TI,Clinica Riabilitazione EOC Sede di Novaggio,,6986 Novaggio,"Amb, Stat",6500,Bellinzona
+2020,TI,EOC Ente ospedaliero cantonale,Viale Officina 3,9,TI,Direzione Generale EOC,Viale Officina 3,6500 Bellinzona,,6500,Bellinzona
+2020,TI,EOC Ente ospedaliero cantonale,Viale Officina 3,9,TI,Centrale Servizi Industriali,via Chiasso 22,6710 Biasca,,6500,Bellinzona
+2020,VS,Spital Wallis - Spitalzentrum Oberwallis (SZO),Pflanzettastrasse 8,3,VS,Standort Brig,Ueberlandstrasse,3900 Brig,"Amb, Stat",3930,Visp
+2020,VS,Spital Wallis - Spitalzentrum Oberwallis (SZO),Pflanzettastrasse 8,3,VS,Standort Visp,Pflanzettastrasse 8,3930 Visp,"Amb, Stat",3930,Visp
+2020,VS,Spital Wallis - Spitalzentrum Oberwallis (SZO),Pflanzettastrasse 8,3,VS,Brig - Verwaltung SZO,Spitalstrasse 7,3900 Brig,,3930,Visp
+2020,FR,HFR - Hôpital fribourgeois,Case postale,5,FR,HFR Fribourg - HC,Chemin des Pensionnats 2,1700 Fribourg,"Amb, Stat",1708,Fribourg
+2020,FR,HFR - Hôpital fribourgeois,Case postale,5,FR,HFR Tafers,Maggenberg 1,1712 Tafers,"Amb, Stat",1708,Fribourg
+2020,FR,HFR - Hôpital fribourgeois,Case postale,5,FR,HFR Meyriez-Murten,Spitalweg 36,3280 Murten,"Amb, Stat",1708,Fribourg
+2020,FR,HFR - Hôpital fribourgeois,Case postale,5,FR,HFR Riaz,Rue de l'Hôpital 39,1632 Riaz,"Amb, Stat",1708,Fribourg
+2020,FR,HFR - Hôpital fribourgeois,Case postale,5,FR,HFR Billens,Route de l'Hôpital 1,1681 Billens,"Amb, Stat",1708,Fribourg
+2020,GE,Les Hôpitaux Universitaires de Genève HUG,Rue Gabrielle­Perret­Gentil 4,5,GE,HUG - Soins aigus,Rue Gabrielle-Perret-Gentil 4,1205 Genève,"Amb, Stat",1205,Genève
+2020,GE,Les Hôpitaux Universitaires de Genève HUG,Rue Gabrielle­Perret­Gentil 4,5,GE,HUG - Soins psychiatriques,Rue Gabrielle-Perret-Gentil 4,1205 Genève,"Amb, Stat",1205,Genève
+2020,GE,Les Hôpitaux Universitaires de Genève HUG,Rue Gabrielle­Perret­Gentil 4,5,GE,HUG - Soins subaigus et continus,Rue Gabrielle-Perret-Gentil 4,1205 Genève,"Amb, Stat",1205,Genève
+2020,GE,Les Hôpitaux Universitaires de Genève HUG,Rue Gabrielle­Perret­Gentil 4,5,VS,HUG - Clinique de Crans-Montana Soins subaigus et continus,Impasse Clairmont 2,3963 Crans-Montana,Stat,1205,Genève
+2020,GE,Les Hôpitaux Universitaires de Genève HUG,Rue Gabrielle­Perret­Gentil 4,5,GE,HUG - Clinique de Joli-Mont - Soins subaigus et continus,Av. Jean-Trembley 45,1209 Genève,Stat,1205,Genève
+2020,LU,Therapiezentrum Meggen,Rütliweg 1,1,LU,Therapiezentrum Meggen,Rütliweg 1,6045 Meggen,"Amb, Stat",6045,Meggen
+2020,ZH,Klinik Lengg AG,Bleulerstrasse 60,1,ZH,Klinik Lengg AG,Bleulerstrasse 60,8008 Zürich,"Amb, Stat",8008,Zürich
+2020,VD,Clinique Bois-Bougy Sàrl,Avenue de Bois­Bougy 5,1,VD,Clinique Bois-Bougy,Avenue de Bois-Bougy 5,1260 Nyon,"Amb, Stat",1260,Nyon
+2020,ZH,RehaClinic Zollikerberg,Trichtenhauserstrasse 20,1,ZH,RehaClinic Zollikerberg,Trichtenhauserstrasse 20,8125 Zollikerberg,"Amb, Stat",8125,Zollikerberg
+2020,NE,Maison de Naissance Tilia Sàrl,Chemin des Valangines 9,1,NE,Maison de Naissance Tilia Sàrl,Chemin des Valangines 9,2000 Neuchâtel,"Amb, Stat",2000,Neuchâtel
+2020,SG,Rosenklinik AG,Güterstrasse 21/23,1,SG,Rosenklinik AG,Güterstrasse 21/23,8640 Rapperswil-Jona,"Amb, Stat",8640,Rapperswil-Jona
+2020,ZH,RehaClinic Kilchberg,Grütstrasse 60,1,ZH,RehaClinic Kilchberg,Grütstrasse 60,8802 Kilchberg ZH,"Amb, Stat",8802,Kilchberg ZH
+2020,BS,Universitäts-Kinderspital beider Basel (UKBB),Spitalstrasse 33,1,BS,UKBB,Spitalstrasse 33,4056 Basel,"Amb, Stat",4056,Basel
+2020,AR,"Spitalverbund Appenzell Ausserrhoden, Akutsomatisches Spital Heiden/Herisau",Krombach 3,2,AR,Spital Herisau,Spitalstrasse 6,9100 Herisau,"Amb, Stat",9100,Herisau
+2020,AR,"Spitalverbund Appenzell Ausserrhoden, Akutsomatisches Spital Heiden/Herisau",Krombach 3,2,AR,Spital Heiden,Werdstrasse 1 A,9410 Heiden,"Amb, Stat",9100,Herisau
+2020,GL,RehaClinic Braunwald,Niederschlachtstrasse 12,1,GL,RehaClinic Braunwald,Niederschlachtstrasse 12,8784 Braunwald,"Amb, Stat",8784,Braunwald
+2020,GL,RehaClinic Glarus,Burgstrasse 99,1,GL,RehaClinic Glarus,Burgstrasse 99,8750 Glarus,"Amb, Stat",8750,Glarus
+2020,BL,Kantonsspital Baselland,Mühlemattstrasse 26,3,BL,Liestal,Mühlemattstrasse 26,4410 Liestal,"Amb, Stat",4410,Liestal
+2020,BL,Kantonsspital Baselland,Mühlemattstrasse 26,3,BL,Bruderholz,,4101 Bruderholz,"Amb, Stat",4410,Liestal
+2020,BL,Kantonsspital Baselland,Mühlemattstrasse 26,3,BL,Laufen,Lochbruggstrasse 39,4242 Laufen,"Amb, Stat",4410,Liestal
+2020,GE,Maison de naissance La Roseraie,Chemin du Châtelet 3,1,GE,Maison de naissance La Roseraie,Chemin du Châtelet 3,1205 Genève,Stat,1205,Genève
+2020,BE,Hirslanden Bern AG,Schänzlihalde 11,5,BE,Klinik Beau-Site,Schänzlihalde 11,3013 Bern,"Amb, Stat",3013,Bern
+2020,BE,Hirslanden Bern AG,Schänzlihalde 11,5,BE,Salem-Spital,Schänzlistrasse 39,3013 Bern,"Amb, Stat",3013,Bern
+2020,BE,Hirslanden Bern AG,Schänzlihalde 11,5,BE,Klinik Permanence,Bümplizstrasse 83,3018 Bern,"Amb, Stat",3013,Bern
+2020,BE,Hirslanden Bern AG,Schänzlihalde 11,5,BE,Praxiszentrum Bahnhof,Parkterrasse 10,3012 Bern,Amb,3013,Bern
+2020,BE,Hirslanden Bern AG,Schänzlihalde 11,5,BE,Zentrale Bereiche,Nordring 4,3013 Bern,,3013,Bern
+2020,GR,Clinica Holistica Engiadina SA,Praz,1,GR,Clinica Holistica Susch,Praz,7542 Susch,"Amb, Stat",7542,Susch
+2020,VD,Clinique CIC Riviera,Rue du Grammont 2,1,VD,CIC,Rue du Grammont 2,1815 Clarens,"Amb, Stat",1815,Clarens
+2020,BE,Lindenhofgruppe AG,Bremgartenstrasse 117,4,BE,Lindenhofspital,Bremgartenstrasse 117,3012 Bern,"Amb, Stat",3012,Bern
+2020,BE,Lindenhofgruppe AG,Bremgartenstrasse 117,4,BE,Sonnenhofspital,Buchserstrasse 30,3006 Bern,"Amb, Stat",3012,Bern
+2020,BE,Lindenhofgruppe AG,Bremgartenstrasse 117,4,BE,Engeriedspital,Riedweg 15,3012 Bern,"Amb, Stat",3012,Bern
+2020,BE,Lindenhofgruppe AG,Bremgartenstrasse 117,4,BE,Lindenhof Verwaltungsstandort,Muristrasse 12,3006 Bern,,3012,Bern
+2020,VS,Clinique CIC Valais SA,Route du Léman 29,1,VS,Clinique CIC Valais SA,route du Léman 29,1907 Saxon,"Amb, Stat",1907,Saxon
+2020,GE,Clinique de Maisonneuve SA,Avenue de Châtelaine 60­62,1,GE,Clinique de Maisonneuve SA,Avenue de Châtelaine 60-62,1219 Châtelaine,Stat,1219,Châtelaine
+2020,ZH,Eulachklinik AG,Brunngasse 6,1,ZH,Eulachklinik AG,Brunngasse 6,8400 Winterthur,"Amb, Stat",8400,Winterthur
+2020,NE,SMN - Neuchâtel,Faubourg de l'Hôpital 81,3,NE,Hôpital de la Providence,Faubourg de l'Hôpital 81,2000 Neuchâtel,"Amb, Stat",2001,Neuchâtel
+2020,NE,SMN - Neuchâtel,Faubourg de l'Hôpital 81,3,NE,Clinique Montbrillant,Rue de la Montagne 1,2300 La Chaux-de-Fonds,"Amb, Stat",2001,Neuchâtel
+2020,NE,SMN - Neuchâtel,Faubourg de l'Hôpital 81,3,NE,La Chaux-de-Fonds,Chasseral 20,2300 La Chaux-de-Fonds,Amb,2001,Neuchâtel
+2020,LU,Cereneo Schweiz AG Neurorehabilitationsklinik,Hertensteinstrasse 162,1,LU,Cereneo Schweiz AG,Hertensteinstrasse 162,6353 Weggis,"Amb, Stat",6353,Weggis
+2020,BS,Geburtshaus Basel,Schweizergasse 8,1,BS,Geburtshaus Basel,Schweizergasse 8,4054 Basel,"Amb, Stat",4054,Basel
+2020,GE,Clinique des Vergers SA,Chemin de la Planche 1,1,GE,Clinique des Vergers SA,Chemin de la Planche 1,1217 Meyrin,"Amb, Stat",1217,Meyrin
+2020,GE,Clinique du Grand-Salève Sàrl,Avenue du Grand-Salève 2,1,GE,Clinique du Grand-Salève Sàrl,Avenue du Grand-Salève 2,1255 Veyrier,Stat,1255,Veyrier
+2020,BE,Genossenschaft Geburtshaus Simmental-Saaneland - Maternité Alpine,Eggetlistrasse 5a,1,BE,Geburtshaus Maternité Alpine,Eggetlistrasse 5a,3770 Zweisimmen,"Amb, Stat",3770,Zweisimmen
+2020,LU,RehaClinic Sonnmatt Luzern,Hemschlenstrasse,1,LU,RehaClinic Sonnmatt Luzern,Hemschlenstrasse,6006 Luzern,"Amb, Stat",6006,Luzern
+2020,BS,Matthea Geburtshaus,Klybeckstrasse 64/70,1,BS,Matthea Geburtshaus,Klybeckstrasse 64/70,4057 Basel,"Amb, Stat",4057,Basel
+2020,NW,Bürgenstock Hotels AG - Waldhotel Health & Medical Excellence Rehabilitationsklinik,Bürgenstock 30,1,NW,Bürgenstock Hotels AG Waldhotel Health & Medical Excellence Rehabilitationsklinik,Bürgenstock 30,6363 Obbürgen,Stat,6363,Obbürgen
+2020,SG,Geburtshaus St.Gallen GmbH,Lindenstrasse 71,1,SG,Geburtshaus St.Gallen,Lindenstrasse 71,9000 St. Gallen,"Amb, Stat",9000,St. Gallen
+2020,BE,SMN - Privatklinik Siloah,Worbstrasse 316,1,BE,Klinik Gümligen,Worbstrasse 316,3073 Gümligen,"Amb, Stat",3073,Gümligen
+2020,VS,Hôpital du Valais - Centre hospitalier du Valais Romand CHVR,Avenue du Grand-Champsec 80,8,VS,Hôpital de Sierre,Rue St-Charles 14,3960 Sierre,"Amb, Stat",1950,Sion
+2020,VS,Hôpital du Valais - Centre hospitalier du Valais Romand CHVR,Avenue du Grand-Champsec 80,8,VS,Centre Valaisan de Pneumologie,Route de la Moubra 87,3963 Crans-Montana,"Amb, Stat",1950,Sion
+2020,VS,Hôpital du Valais - Centre hospitalier du Valais Romand CHVR,Avenue du Grand-Champsec 80,8,VS,Hôpital de Sion Champsec,Av. du Grand-Champsec 80,1951 Sion,"Amb, Stat",1950,Sion
+2020,VS,Hôpital du Valais - Centre hospitalier du Valais Romand CHVR,Avenue du Grand-Champsec 80,8,VS,Hôpital de Martigny,Av. de la Fusion 27 Case postale,1920 Martigny,"Amb, Stat",1950,Sion
+2020,VS,Hôpital du Valais - Centre hospitalier du Valais Romand CHVR,Avenue du Grand-Champsec 80,8,VS,Sion - Admin.CHCVs,Av. du Grand-Champsec 80,1951 Sion,,1950,Sion
+2020,VS,Hôpital du Valais - Centre hospitalier du Valais Romand CHVR,Avenue du Grand-Champsec 80,8,VS,Martigny - admin.CHCVs,Av. de la Fusion 27 Case postale,1920 Martigny,,1950,Sion
+2020,VS,Hôpital du Valais - Centre hospitalier du Valais Romand CHVR,Avenue du Grand-Champsec 80,8,VS,Clinique St-Amé,Vers Saint-Amé 10,1890 St-Maurice,"Amb, Stat",1950,Sion
+2020,VS,Hôpital du Valais - Centre hospitalier du Valais Romand CHVR,Avenue du Grand-Champsec 80,8,VS,Hôpital de Malévoz - IPVR,Route de Morgins 10,1870 Monthey,"Amb, Stat",1950,Sion

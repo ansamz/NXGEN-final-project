@@ -1,0 +1,17 @@
+
+	E1_01_M Cholezystektomie bei Gallensteinen und Cholezystitis, ohne Tumor, Mortalität // Cholécystectomie en cas de calculs biliaires et cholécystite, sans tumeur, mortalité // Colecistectomia in caso di calcoli biliari e colecistite, senza tumore, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	38	12012	0.3163503	
+	2009	36	12046	0.2988544	
+	2010	24	12366	0.1940805	
+	2011	29	12077	0.2401259	
+	2012	30	12262	0.2446583	
+	2013	20	12594	0.1588058	
+	2014	26	13050	0.1992337	
+	2015	16	13378	0.1195993	
+	2016	18	13516	0.1331755	
+	2017	23	13429	0.1712711	
+	2018	23	13339	0.1724267	
+	2019	20	13703	0.1459534	

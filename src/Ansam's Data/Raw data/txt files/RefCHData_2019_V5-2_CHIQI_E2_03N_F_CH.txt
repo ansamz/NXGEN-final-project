@@ -1,0 +1,17 @@
+
+	E2_03N_F OP Inguinalhernie, Alter 0-19 // OP de hernie inguinale, âge 0-19 // OP di ernia inguinale, età 0-19
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	710	
+	2009	703	
+	2010	667	
+	2011	637	
+	2012	663	
+	2013	606	
+	2014	634	
+	2015	651	
+	2016	562	
+	2017	611	
+	2018	576	
+	2019	405	

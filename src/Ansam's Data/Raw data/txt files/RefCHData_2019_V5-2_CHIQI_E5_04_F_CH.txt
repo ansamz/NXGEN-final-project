@@ -1,0 +1,17 @@
+
+	E5_04_F Stationäre Behandlungen wegen HD Magenkarzinom // Traitements hospitaliers en cas de DP cancer de l'estomac // Cure ospedaliere in caso di DP carcinoma dello stomaco
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	1133	
+	2009	1774	
+	2010	1786	
+	2011	1811	
+	2012	1728	
+	2013	1922	
+	2014	1777	
+	2015	1753	
+	2016	2132	
+	2017	2118	
+	2018	2054	
+	2019	2190	

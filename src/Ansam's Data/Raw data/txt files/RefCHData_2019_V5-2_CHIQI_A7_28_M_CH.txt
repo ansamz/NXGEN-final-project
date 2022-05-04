@@ -1,0 +1,17 @@
+
+	A7_28_M OP nur an Koronargefässen bei HD Herzinfarkt ohne herzunterstützende Systeme (Alter >19), Mortalität // OP des vaisseaux coronaires uniquement, en cas de DP infarctus du myocarde sans systèmes d'assistance cardiaque (âge >19), mortalité // OP solo ai vasi coronarici con DP infarto miocardico senza sistemi di assistenza cardiaca (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	4	292	1.369863	
+	2009	8	272	2.941176	
+	2010	7	431	1.62413	
+	2011	12	458	2.620087	
+	2012	12	482	2.489627	
+	2013	14	501	2.794411	
+	2014	9	568	1.584507	
+	2015	14	581	2.409639	
+	2016	13	607	2.14168	
+	2017	8	647	1.236476	
+	2018	9	581	1.549053	
+	2019	9	614	1.465798	

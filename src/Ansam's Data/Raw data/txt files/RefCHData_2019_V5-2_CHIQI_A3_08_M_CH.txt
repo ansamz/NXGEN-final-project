@@ -1,0 +1,17 @@
+
+	A3_08_M Therapeutische Katheter der Koronargefässe ohne HD Herzinfarkt ohne weitere OP (Alter >19), Mortalität // Cathétérisme thérapeutique des vaisseaux coronaires sans DP infarctus du myocarde sans autre OP (âge >19), mortalité // Catetere terapeutico dei vasi coronarici senza DP infarto miocardico senza altre OP (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	90	9041	0.9954651	
+	2009	86	8447	1.018113	
+	2010	54	8834	0.6112746	
+	2011	57	8511	0.6697215	
+	2012	56	6694	0.8365701	
+	2013	46	7541	0.6099987	
+	2014	56	8061	0.6947029	
+	2015	53	8078	0.656103	
+	2016	93	8947	1.039455	
+	2017	63	9237	0.6820396	
+	2018	86	10255	0.8386153	
+	2019	98	10665	0.9188936	

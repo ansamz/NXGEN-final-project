@@ -1,0 +1,17 @@
+
+	E3_02N_F Resektion der Schilddrüse bei gutartiger Erkrankung oder bösartigen Neubildungen der Schilddrüse // Résections thyroïdiennes pour affections bénignes ou en cas de tumeurs malignes de la thyroïde // Resezione della tiroide per malattie benigne o tumori maligni della tiroide
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	2819	
+	2009	2892	
+	2010	3062	
+	2011	3272	
+	2012	3384	
+	2013	3437	
+	2014	3628	
+	2015	3477	
+	2016	3588	
+	2017	3434	
+	2018	3490	
+	2019	3599	

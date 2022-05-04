@@ -1,0 +1,17 @@
+
+	H3_02_F TUR der Blase insgesamt // Total des RTU de vessie // TUR della vescica, totale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	6093	
+	2009	6283	
+	2010	6770	
+	2011	7042	
+	2012	7283	
+	2013	7607	
+	2014	7819	
+	2015	8053	
+	2016	8509	
+	2017	8691	
+	2018	8701	
+	2019	8912	

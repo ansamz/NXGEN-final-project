@@ -1,0 +1,17 @@
+
+	F2_07_F Resektion/Ersatz der abdominalen Aorta // Résection/remplacement de l'aorte abdominale // Resezione/sostituzione dell'aorta addominale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	927	
+	2009	922	
+	2010	1090	
+	2011	1031	
+	2012	1046	
+	2013	1090	
+	2014	1112	
+	2015	1165	
+	2016	1247	
+	2017	1151	
+	2018	1173	
+	2019	1196	

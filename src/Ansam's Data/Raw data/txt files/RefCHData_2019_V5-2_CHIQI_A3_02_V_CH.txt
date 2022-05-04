@@ -1,0 +1,17 @@
+
+	A3_02_V Anteil Verlegungen bei Kathetern der Koronargefässe bei HD Herzinfarkt ohne OP am Herzen (Alter >19) // Transferts avec cathétérisme des vaisseaux coronaires en cas de DP infarctus du myocarde sans OP du cœur (âge >19), pourcentage // Trasferimenti con catetere dei vasi coronarici con DP infarto miocardico senza OP al cuore (età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	2319	5960	38.9094	
+	2009	2635	6455	40.82107	
+	2010	2898	7579	38.23723	
+	2011	2883	8083	35.66745	
+	2012	2598	8498	30.5719	
+	2013	2556	8815	28.99603	
+	2014	2660	9241	28.78476	
+	2015	2610	9542	27.35276	
+	2016	2733	9935	27.50881	
+	2017	2466	10131	24.34113	
+	2018	2247	10400	21.60577	
+	2019	2259	10511	21.49177	

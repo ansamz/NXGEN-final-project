@@ -1,0 +1,17 @@
+
+	L5_04_F Nierentransplantation, Autotransplantation und andere // Transplantation rénale, autogreffe et autre // Trapianto di rene, autotrapianto e altro
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	3	
+	2009	1	
+	2010	2	
+	2011	20	
+	2012	7	
+	2013	16	
+	2014	17	
+	2015	15	
+	2016	10	
+	2017	7	
+	2018	16	
+	2019	11	

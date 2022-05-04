@@ -1,0 +1,17 @@
+
+	A1_10_P Anteil transmuraler Herzinfarkt (Alter >19) // Infarctus du myocarde transmural (âge >19), pourcentage // Infarto transmurale (età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	6965	12801	54.40981	
+	2009	6791	13545	50.13658	
+	2010	7378	15388	47.94645	
+	2011	7159	16188	44.22412	
+	2012	7160	15999	44.7528	
+	2013	7125	16065	44.35107	
+	2014	7104	16692	42.55931	
+	2015	6959	17061	40.78893	
+	2016	7299	17678	41.28861	
+	2017	7282	17610	41.3515	
+	2018	7158	17632	40.59664	
+	2019	7352	17798	41.30801	

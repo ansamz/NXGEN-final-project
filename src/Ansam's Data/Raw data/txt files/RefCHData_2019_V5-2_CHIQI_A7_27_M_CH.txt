@@ -1,0 +1,17 @@
+
+	A7_27_M Offener Aortenklappenersatz mit weiterer OP am Herzen (Alter >19), Mortalität // Remplacement de valve aortique à cœur ouvert avec autre OP du cœur (âge >19), mortalité // Sostituzione della valvola aortica a cuore aperto con altre OP al cuore (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	25	383	6.527415	
+	2009	42	536	7.835821	
+	2010	36	640	5.625	
+	2011	54	1202	4.492512	
+	2012	72	1278	5.633803	
+	2013	82	1267	6.471981	
+	2014	58	1162	4.991394	
+	2015	63	1174	5.366269	
+	2016	43	1147	3.74891	
+	2017	43	1150	3.73913	
+	2018	42	1021	4.113614	
+	2019	55	1022	5.381605	

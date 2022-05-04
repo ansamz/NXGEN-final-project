@@ -1,0 +1,17 @@
+
+	G1_03_P Anteil vaginale Geburten mit Episiotomie // Accouchements par voie vaginale avec épisiotomie, pourcentage // Parti vaginali con episiotomia, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	14896	49894	29.85529	
+	2009	15120	51697	29.24735	
+	2010	15090	53934	27.97864	
+	2011	14241	53622	26.55813	
+	2012	13521	54687	24.72434	
+	2013	12688	55141	23.0101	
+	2014	12104	56246	21.51975	
+	2015	11510	57536	20.00487	
+	2016	10939	58585	18.67202	
+	2017	9917	58798	16.86622	
+	2018	8648	59265	14.59209	
+	2019	7857	58340	13.4676	

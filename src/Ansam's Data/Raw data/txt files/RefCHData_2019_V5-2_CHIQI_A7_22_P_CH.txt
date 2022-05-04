@@ -1,0 +1,17 @@
+
+	A7_22_P Anteil OP an Carotis bei OP nur an Koronargefässen ohne HD Herzinfarkt (Alter >19) // OP des carotides en cas d'OP des vaisseaux coronaires uniquement, sans DP infarctus du myocarde (âge >19), pourcentage // OP alla carotide in caso di OP solo ai vasi coronarici senza DP infarto miocardico (età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	44	2108	2.087287	
+	2009	33	1949	1.693176	
+	2010	32	1951	1.640185	
+	2011	36	2024	1.778656	
+	2012	31	1998	1.551552	
+	2013	28	1950	1.435897	
+	2014	34	2051	1.657728	
+	2015	19	1811	1.049144	
+	2016	21	1895	1.108179	
+	2017	26	1855	1.401617	
+	2018	16	1799	0.889383	
+	2019	12	1711	0.7013442	

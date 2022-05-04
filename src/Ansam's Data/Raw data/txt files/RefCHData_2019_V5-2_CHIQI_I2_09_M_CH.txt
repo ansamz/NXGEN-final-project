@@ -1,0 +1,14 @@
+
+	I2_09_M Versteifung der Wirbelsäule oder Wirbelkörperersatz, 2 Wirbelkörper (ohne Tumor, Trauma, komplexe Rekonstitutionen), Mortalität // Raidissement de la colonne vertébrale ou remplacement de corps vertébral, 2 corps vértebraux (sans tumeur, traumatisme, réparations complexes), mortalité // Fusione spinale o sostituzione di vertebre, 2 vertebre (senza tumore, trauma o ricostruzioni complesse), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	3	1988	0.1509054	
+	2012	5	1954	0.2558854	
+	2013	6	2088	0.2873563	
+	2014	1	2273	0.04399472	
+	2015	0	2534	0	
+	2016	2	2531	0.07902015	
+	2017	2	2499	0.08003201	
+	2018	3	2638	0.1137225	
+	2019	1	2720	0.03676471	

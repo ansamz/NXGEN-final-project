@@ -1,0 +1,17 @@
+
+	B4_02_F Stationäre Behandlungen wegen HD Epilepsie (Alter <20) // Traitements hospitaliers en cas de DP épilepsie (âge <20) // Cure ospedaliere in caso di DP epilessia (età <20)
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	968	
+	2009	976	
+	2010	1090	
+	2011	1123	
+	2012	1112	
+	2013	1159	
+	2014	1032	
+	2015	1086	
+	2016	1093	
+	2017	1154	
+	2018	1230	
+	2019	1181	

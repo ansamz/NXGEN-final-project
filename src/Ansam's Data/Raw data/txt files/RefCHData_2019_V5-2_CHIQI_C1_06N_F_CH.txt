@@ -1,0 +1,15 @@
+
+	C1_06N_F Operierte Patienten ohne Demenz, Alter >59 // Patients opérés non atteints de démence, âge >59 // Pazienti operati senza demenza, età >59
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2010	236354	
+	2011	240989	
+	2012	241974	
+	2013	246669	
+	2014	252236	
+	2015	256104	
+	2016	263403	
+	2017	263568	
+	2018	244505	
+	2019	237515	

@@ -1,0 +1,17 @@
+
+	E4_11_F Stationäre Behandlungen wegen HD kolorektales Karzinom // Traitements hospitaliers en cas de DP carcinome colorectal // Cure ospedaliere per DP carcinoma colorettale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	5293	
+	2009	6288	
+	2010	6851	
+	2011	7133	
+	2012	7024	
+	2013	7245	
+	2014	7456	
+	2015	7611	
+	2016	8388	
+	2017	8164	
+	2018	8281	
+	2019	8386	

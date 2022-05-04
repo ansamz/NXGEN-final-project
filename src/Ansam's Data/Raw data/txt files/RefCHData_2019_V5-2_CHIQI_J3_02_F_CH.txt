@@ -1,0 +1,17 @@
+
+	J3_02_F Patienten mit angeborenen Gerinnungsstörungen // Patients avec des troubles congénitaux de la coagulation // Pazienti con disturbi della coagulazione congeniti
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	1784	
+	2009	1634	
+	2010	1621	
+	2011	1690	
+	2012	1830	
+	2013	1833	
+	2014	1923	
+	2015	1841	
+	2016	1897	
+	2017	2374	
+	2018	2270	
+	2019	2503	

@@ -1,0 +1,17 @@
+
+	L5_05_F Kombinierte Transplantation von Niere und Pankreas // Transplantation combinée de rein et pancréas // Trapianto combinato di rene e pancreas
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	13	
+	2009	9	
+	2010	16	
+	2011	13	
+	2012	16	
+	2013	15	
+	2014	8	
+	2015	9	
+	2016	12	
+	2017	8	
+	2018	10	
+	2019	16	

@@ -1,0 +1,14 @@
+
+	I2_20_M Dekompression der Wirbelsäule, Mortalität // Décompression de la colonne vertébrale, mortalité // Decompressione della colonna vertebrale, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	4	3220	0.1242236	
+	2012	3	3235	0.0927357	
+	2013	5	4668	0.1071123	
+	2014	1	5382	0.01858045	
+	2015	4	5257	0.07608902	
+	2016	4	5237	0.07637961	
+	2017	6	5331	0.1125492	
+	2018	7	5517	0.1268806	
+	2019	4	1899	0.2106372	

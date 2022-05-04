@@ -1,0 +1,17 @@
+
+	D2_01_V Anteil Verlegungen bei COPD ohne Tumor (Alter >19) // Transferts avec BPCO sans tumeur (âge >19), pourcentage // Trasferimenti con BPCO senza tumore (età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	595	5678	10.47904	
+	2009	558	5808	9.607438	
+	2010	477	6119	7.795391	
+	2011	339	6350	5.338583	
+	2012	274	7118	3.849396	
+	2013	299	7850	3.808917	
+	2014	301	7656	3.931557	
+	2015	371	8589	4.319478	
+	2016	355	8646	4.105945	
+	2017	364	9219	3.948368	
+	2018	285	9357	3.045848	
+	2019	381	9732	3.91492	

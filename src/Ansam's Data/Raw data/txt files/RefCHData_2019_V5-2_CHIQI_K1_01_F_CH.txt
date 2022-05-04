@@ -1,0 +1,17 @@
+
+	K1_01_F Stationäre Behandlungen wegen HD Melanom // Traitements hospitaliers en cas de DP mélanome // Cure ospedaliere in caso di DP melanoma
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	480	
+	2009	1091	
+	2010	1251	
+	2011	1311	
+	2012	1217	
+	2013	1170	
+	2014	1191	
+	2015	1209	
+	2016	1291	
+	2017	1235	
+	2018	1239	
+	2019	1262	

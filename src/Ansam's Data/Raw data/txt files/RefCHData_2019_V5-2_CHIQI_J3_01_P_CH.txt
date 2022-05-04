@@ -1,0 +1,17 @@
+
+	J3_01_P Anteil akutes Nierenversagen bei Eingriffen mit erhöhtem Kontrastmittelbedarf // Insuffisance rénale aiguë après des interventions avec besoin accru de produits de contraste, pourcentage // Insufficienza renale acuta dopo interventi con fabbisogno aumentato di mezzo di contrasto, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	795	44528	1.785393	
+	2009	1003	45096	2.224144	
+	2010	1044	49980	2.088836	
+	2011	1214	54578	2.224339	
+	2012	1035	60783	1.702779	
+	2013	1115	66533	1.67586	
+	2014	1198	71670	1.67155	
+	2015	1299	70652	1.838589	
+	2016	1629	75607	2.154562	
+	2017	4996	75871	6.584861	
+	2018	5441	76702	7.093687	
+	2019	5931	78725	7.53382	

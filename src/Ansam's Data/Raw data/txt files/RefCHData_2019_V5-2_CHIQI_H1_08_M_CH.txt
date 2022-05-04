@@ -1,0 +1,17 @@
+
+	H1_08_M Nephrektomie bei bösartigen Neubildungen der Niere, Mortalität // Néphrectomie en cas de tumeurs malignes du rein, mortalité // Nefrectomia per tumori maligni del rene, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	12	670	1.791045	
+	2009	11	612	1.797386	
+	2010	8	656	1.219512	
+	2011	3	667	0.4497751	
+	2012	9	662	1.359517	
+	2013	16	654	2.446483	
+	2014	6	676	0.887574	
+	2015	11	630	1.746032	
+	2016	8	678	1.179941	
+	2017	5	601	0.8319468	
+	2018	7	652	1.07362	
+	2019	3	636	0.4716981	

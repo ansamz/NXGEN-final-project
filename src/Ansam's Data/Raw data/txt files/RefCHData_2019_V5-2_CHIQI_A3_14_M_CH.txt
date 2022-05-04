@@ -1,0 +1,6 @@
+
+	A3_14_M Therapeutische Katheter der Koronargefässe ohne HD Herzinfarkt ohne OP am Herzen (Alter >19), mit Reanimation vor Aufnahme, Mortalität // Cathétérisme thérapeutique des vaisseaux coronaires sans DP infarctus du myocarde sans OP du cœur (âge >19), réanimation avant admission, mortalité // Catetere terapeutico dei vasi coronarici senza DP infarto miocardico senza OP al cuore (età >19), con rianimazione prima dell'ammissione, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2019	27	73	36.9863	

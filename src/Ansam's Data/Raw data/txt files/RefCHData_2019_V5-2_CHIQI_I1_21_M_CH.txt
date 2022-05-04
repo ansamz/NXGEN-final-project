@@ -1,0 +1,14 @@
+
+	I1_21_M Hüft­ oder Knie­Endoprothesen­Eingriffe bei Tumor, Mortalität // Interventions de l'endoprothèse de hanche ou de genou en cas de tumeurs, mortalité // Interventi di endoprotesi dell'anca o del ginocchio in caso di tumore, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	10	300	3.333333	
+	2012	5	256	1.953125	
+	2013	7	292	2.39726	
+	2014	10	270	3.703704	
+	2015	31	555	5.585586	
+	2016	30	612	4.901961	
+	2017	19	649	2.927581	
+	2018	14	644	2.173913	
+	2019	28	738	3.794038	

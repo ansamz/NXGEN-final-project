@@ -1,0 +1,17 @@
+
+	G3_05_P Anteil vaginale OP bei Hysterektomien, ohne Plastik // Hystérectomies vaginales, sans plastie, pourcentage // OP vaginale per isterectomia, senza plastica, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	4928	9117	54.05287	
+	2009	4806	9988	48.11774	
+	2010	4671	9892	47.21998	
+	2011	4652	9789	47.52273	
+	2012	4363	9735	44.81767	
+	2013	4062	9755	41.64018	
+	2014	4281	9779	43.77748	
+	2015	4212	9650	43.64767	
+	2016	3848	9639	39.92115	
+	2017	3555	9283	38.29581	
+	2018	3346	9386	35.64884	
+	2019	3131	9427	33.21311	

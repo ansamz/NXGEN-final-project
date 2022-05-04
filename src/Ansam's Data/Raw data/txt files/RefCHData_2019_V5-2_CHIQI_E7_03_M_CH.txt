@@ -1,0 +1,17 @@
+
+	E7_03_M Pankreasresektionen bei bösartigen Neubildungen des Pankreas (inkl. IPMN, Alter >19), Mortalität // Résections du pancréas en cas de tumeurs malignes du pancréas (TIPMP inclus, âge >19), mortalité // Resezione del pancreas in caso di tumori maligni del pancreas (IPMN inclusi, età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	14	345	4.057971	
+	2009	18	330	5.454545	
+	2010	23	350	6.571429	
+	2011	18	358	5.027933	
+	2012	33	415	7.951807	
+	2013	27	377	7.161804	
+	2014	26	440	5.909091	
+	2015	20	430	4.651163	
+	2016	26	449	5.790646	
+	2017	26	498	5.220884	
+	2018	34	500	6.8	
+	2019	18	489	3.680982	

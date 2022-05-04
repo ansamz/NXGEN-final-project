@@ -1,0 +1,17 @@
+
+	I3_08_M Pertrochantäre Fraktur (Alter >19), Mortalität // Fracture du trochanter (âge >19), mortalité // Frattura pertrocanterica (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	170	4373	3.887491	
+	2009	180	4461	4.03497	
+	2010	221	5581	3.959864	
+	2011	199	5797	3.43281	
+	2012	220	5697	3.861682	
+	2013	221	5720	3.863636	
+	2014	217	5842	3.714481	
+	2015	222	6016	3.69016	
+	2016	261	6130	4.257749	
+	2017	193	6087	3.170692	
+	2018	226	6427	3.516415	
+	2019	207	6440	3.214286	

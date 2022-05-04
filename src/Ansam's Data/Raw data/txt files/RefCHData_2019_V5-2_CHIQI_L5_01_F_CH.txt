@@ -1,0 +1,17 @@
+
+	L5_01_F Nierentransplantation insgesamt // Total des transplantations rénales // Trapianti di rene, totale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	291	
+	2009	295	
+	2010	303	
+	2011	282	
+	2012	263	
+	2013	278	
+	2014	287	
+	2015	313	
+	2016	326	
+	2017	352	
+	2018	362	
+	2019	333	

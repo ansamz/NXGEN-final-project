@@ -1,0 +1,16 @@
+
+	J2_05_M ND Sepsis mit Organkomplikationen/Schock, Mortalität // DS septicémie avec complications d'organe/choc, mortalité // DS sepsi con complicazioni d'organo/shock, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2009	145	333	43.54354	
+	2010	562	1265	44.42688	
+	2011	1086	2700	40.22222	
+	2012	1249	3030	41.22112	
+	2013	1324	3464	38.22171	
+	2014	1255	3399	36.92262	
+	2015	1284	3572	35.94625	
+	2016	1153	3356	34.35638	
+	2017	1185	3309	35.81142	
+	2018	1171	3253	35.99754	
+	2019	799	2075	38.50602	

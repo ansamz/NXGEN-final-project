@@ -1,0 +1,16 @@
+
+	D2_06_P Anteil COPD ohne Tumor mit FEV1 n.n.bez. (Alter >19) // BPCO sans tumeur avec VEF1 non précisé (âge >19), pourcentage // BPCO senza tumore con VEMS1 NAS (età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2009	2004	6040	33.17881	
+	2010	2411	6327	38.10653	
+	2011	2421	6578	36.8045	
+	2012	2172	7426	29.24859	
+	2013	2183	8176	26.7001	
+	2014	1922	7989	24.05808	
+	2015	2155	8941	24.10245	
+	2016	1869	8963	20.85239	
+	2017	2040	9599	21.25221	
+	2018	1983	9688	20.46862	
+	2019	2131	10092	21.11574	

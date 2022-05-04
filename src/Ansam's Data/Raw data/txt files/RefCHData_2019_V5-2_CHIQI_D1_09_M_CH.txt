@@ -1,0 +1,17 @@
+
+	D1_09_M HD Pneumonie, Alter 20-44, ohne Tumor oder Mukoviszidose, Direktaufnahmen, Mortalität // DP pneumonie, âge 20-44, sans tumeur ni mucoviscidose, admissions directes, mortalité // DP polmonite, età 20-44, senza tumore o mucoviscidosi, ammissioni dirette, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	6	1218	0.4926108	
+	2009	7	1394	0.5021521	
+	2010	5	1346	0.371471	
+	2011	6	1403	0.427655	
+	2012	9	1165	0.7725322	
+	2013	3	1134	0.2645503	
+	2014	6	1300	0.4615385	
+	2015	7	1396	0.5014327	
+	2016	4	1381	0.2896452	
+	2017	5	1136	0.4401408	
+	2018	1	1434	0.06973501	
+	2019	3	1423	0.2108222	

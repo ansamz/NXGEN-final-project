@@ -1,0 +1,14 @@
+
+	L5_02_F Nierentransplantation, Lebendspender allogen, syngen // Transplantation rénale, donneur vivant allogénique, syngénique // Trapianto di rene da donatore vivente allogenico, singenico
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2011	87	
+	2012	97	
+	2013	105	
+	2014	111	
+	2015	97	
+	2016	116	
+	2017	130	
+	2018	116	
+	2019	113	

@@ -1,0 +1,17 @@
+
+	G3_07_P Anteil laparoskopische OP bei Hysterektomien, ohne Plastik // Hystérectomies laparoscopiques, sans plastie, pourcentage // OP laparoscopica per isterectomia, senza plastica, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	1612	9117	17.68125	
+	2009	2200	9988	22.02643	
+	2010	2480	9892	25.07076	
+	2011	2666	9789	27.23465	
+	2012	2936	9735	30.15922	
+	2013	3385	9755	34.70015	
+	2014	3517	9779	35.96482	
+	2015	3578	9650	37.07772	
+	2016	4159	9639	43.14763	
+	2017	4332	9283	46.66595	
+	2018	4757	9386	50.68187	
+	2019	5094	9427	54.03628	

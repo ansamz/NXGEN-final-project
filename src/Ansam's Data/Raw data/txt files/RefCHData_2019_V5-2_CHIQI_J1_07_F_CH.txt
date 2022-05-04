@@ -1,0 +1,16 @@
+
+	J1_07_F ECMO-Lungenunterstützung // Assistance pulmonaire ECMO // Assistenza respiratoria ECMO
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	27	
+	2009	33	
+	2010	4	
+	2011	2	
+	2012	1	
+	2014	505	
+	2015	1287	
+	2016	1379	
+	2017	1440	
+	2018	1511	
+	2019	1505	

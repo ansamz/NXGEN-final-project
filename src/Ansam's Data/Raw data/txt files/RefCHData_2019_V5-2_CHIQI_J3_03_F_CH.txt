@@ -1,0 +1,17 @@
+
+	J3_03_F Operierte Patienten mit angeborenen Gerinnungsstörungen // Patients opérés avec des troubles congénitaux de la coagulation // Pazienti operati con disturbi della coagulazione congeniti
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	777	
+	2009	748	
+	2010	734	
+	2011	850	
+	2012	1019	
+	2013	994	
+	2014	1082	
+	2015	1061	
+	2016	1096	
+	2017	1297	
+	2018	1311	
+	2019	1393	

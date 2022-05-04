@@ -1,0 +1,16 @@
+
+	J1_06_M Beatmungsfälle >24 h, ohne OP (ohne Neugeborene), Mortalität // Cas de respiration artificielle >24 h, sans OP (à l'exclusion des nouveau­nés), mortalité // Casi di ventilazione meccanica >24 h, senza OP (neonati esclusi), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2009	1557	6676	23.32235	
+	2010	1047	3669	28.53639	
+	2011	1183	4273	27.68547	
+	2012	1346	4468	30.12534	
+	2013	1450	4952	29.2811	
+	2014	1416	4977	28.45087	
+	2015	1372	4858	28.24207	
+	2016	1383	4850	28.51546	
+	2017	1449	4954	29.24909	
+	2018	1536	5408	28.40237	
+	2019	1452	5248	27.66768	

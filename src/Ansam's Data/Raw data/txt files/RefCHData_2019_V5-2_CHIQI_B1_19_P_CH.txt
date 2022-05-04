@@ -1,0 +1,16 @@
+
+	B1_19_P Anteil HD Schlaganfall mit Stroke Unit Behandlung (Alter >19), Direktaufnahmen // DP accident vasculaire cérébral (âge >19) avec traitement en unité cérébro­vasculaire, admissions directes, pourcentage // DP colpo apoplettico (età >19) con trattamento in unità Stroke, ammissioni dirette, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2009	804	10412	7.721859	
+	2010	1250	10732	11.64741	
+	2011	1550	10914	14.20194	
+	2012	2636	11586	22.7516	
+	2013	3184	12203	26.09194	
+	2014	3809	12334	30.88211	
+	2015	4921	12998	37.85967	
+	2016	6062	13560	44.70501	
+	2017	6169	14427	42.7601	
+	2018	6481	15196	42.64938	
+	2019	7104	15636	45.43361	

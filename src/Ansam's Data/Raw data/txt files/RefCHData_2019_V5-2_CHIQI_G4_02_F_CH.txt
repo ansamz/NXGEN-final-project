@@ -1,0 +1,17 @@
+
+	G4_02_F HD bösartige Neubildungen der Mamma und weiblichen Geschlechtsorgane // DP tumeurs malignes du sein et des organes génitaux féminins // DP tumori maligni della mammella e degli organi genitali femminili
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	12092	
+	2009	14558	
+	2010	15184	
+	2011	15363	
+	2012	15233	
+	2013	16002	
+	2014	16124	
+	2015	16462	
+	2016	16826	
+	2017	17282	
+	2018	16872	
+	2019	16496	

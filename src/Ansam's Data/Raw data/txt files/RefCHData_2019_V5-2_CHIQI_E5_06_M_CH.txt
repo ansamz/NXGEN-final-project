@@ -1,0 +1,17 @@
+
+	E5_06_M Partielle und totale Magenresektionen bei anderer Diagnose, Mortalität // Gastrectomies partielles ou totales pour autre diagnostic, mortalité // Resezione gastrica parziale o totale per altra diagnosi, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	32	1401	2.284083	
+	2009	29	1512	1.917989	
+	2010	42	1660	2.53012	
+	2011	32	2382	1.343409	
+	2012	29	1824	1.589912	
+	2013	25	1790	1.396648	
+	2014	29	1734	1.672434	
+	2015	30	4573	0.6560245	
+	2016	25	5233	0.4777374	
+	2017	32	5280	0.6060606	
+	2018	31	5371	0.5771737	
+	2019	32	5287	0.6052582	

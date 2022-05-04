@@ -1,0 +1,17 @@
+
+	A7_07_V Anteil Verlegungen bei isoliertem offenem Aortenklappenersatz ohne weitere OP am Herzen (Alter >19) // Transferts avec remplacement isolé de valve aortique à cœur ouvert sans autre OP du cœur (âge >19), pourcentage // Trasferimenti con sostituzione isolata della valvola aortica a cuore aperto senza altre OP al cuore (età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	67	541	12.38447	
+	2009	73	680	10.73529	
+	2010	111	775	14.32258	
+	2011	77	881	8.740068	
+	2012	82	880	9.318182	
+	2013	90	968	9.297521	
+	2014	39	796	4.899497	
+	2015	58	733	7.912688	
+	2016	54	775	6.967742	
+	2017	19	704	2.698864	
+	2018	25	691	3.617945	
+	2019	22	616	3.571429	

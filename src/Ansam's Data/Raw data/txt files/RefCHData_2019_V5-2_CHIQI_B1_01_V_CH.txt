@@ -1,0 +1,17 @@
+
+	B1_01_V Anteil Verlegungen bei HD Schlaganfall alle Formen (Alter >19) // Transferts avec DP accident vasculaire cérébral, toutes les formes (âge >19), pourcentage // Trasferimenti con DP colpo apoplettico, tutte le forme (età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	2312	9973	23.18259	
+	2009	2670	10361	25.76971	
+	2010	2725	11755	23.18162	
+	2011	2814	12524	22.46886	
+	2012	2196	13223	16.60743	
+	2013	2399	13708	17.50073	
+	2014	2429	13949	17.41343	
+	2015	2759	14927	18.48329	
+	2016	2885	15813	18.24448	
+	2017	2917	16341	17.8508	
+	2018	3060	16968	18.03395	
+	2019	3374	17595	19.1759	

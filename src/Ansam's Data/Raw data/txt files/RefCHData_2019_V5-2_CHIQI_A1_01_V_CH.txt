@@ -1,0 +1,17 @@
+
+	A1_01_V Anteil Verlegungen bei HD Herzinfarkt (Alter >19) // Transferts avec DP infarctus du myocarde (âge >19), pourcentage // Trasferimenti con DP infarto miocardico (età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	4220	11846	35.62384	
+	2009	4731	12641	37.42584	
+	2010	5208	14492	35.93707	
+	2011	5212	15261	34.15241	
+	2012	4385	15053	29.13041	
+	2013	4266	15128	28.19937	
+	2014	4545	15819	28.73127	
+	2015	4623	16192	28.55114	
+	2016	4921	16794	29.30213	
+	2017	4642	16707	27.78476	
+	2018	4525	16818	26.9057	
+	2019	4704	16977	27.70808	

@@ -1,0 +1,16 @@
+
+	J1_03N_F Beatmungsdauer nahe DRG Stufen (ohne Neugeborene) // Durée de ventilation près des niveaux DRG (à l'exclusion des nouveau­nés) // Durata di ventilazione prossima ai livelli DRG (neonati esclusi)
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2009	1542	
+	2010	2414	
+	2011	2621	
+	2012	2757	
+	2013	3032	
+	2014	3025	
+	2015	2772	
+	2016	2892	
+	2017	2863	
+	2018	2822	
+	2019	2799	

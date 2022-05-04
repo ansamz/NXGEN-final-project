@@ -1,0 +1,17 @@
+
+	F1_10_M Perkutane extrakranielle Stentimplantation A. carotis bei Stenose (Alter >19), Mortalität // Implantation percutanée de stents dans l'artère carotide en cas de sténose (âge >19), mortalité // Impianto percutaneo di stent nell'arteria carotide in caso di stenosi (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	0	122	0	
+	2009	0	149	0	
+	2010	0	125	0	
+	2011	1	141	0.7092199	
+	2012	1	144	0.6944444	
+	2013	0	121	0	
+	2014	0	116	0	
+	2015	0	120	0	
+	2016	0	143	0	
+	2017	1	144	0.6944444	
+	2018	1	139	0.7194245	
+	2019	1	145	0.6896552	

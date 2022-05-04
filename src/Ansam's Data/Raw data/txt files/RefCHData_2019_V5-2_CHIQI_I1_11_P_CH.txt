@@ -1,0 +1,14 @@
+
+	I1_11_P Anteil Hüft­Endoprothesen­Erstimplantation bei Koxarthrose und chronischer Arthritis mit Komplikationen // Première implantation d'endoprothèse de hanche en cas de coxarthrose et arthrite chronique avec complications, pourcentage // Prima applicazione dell'endoprotesi dell'anca in caso di coxartrosi e artrite cronica con complicazioni, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2011	239	16445	1.453329	
+	2012	259	16574	1.562689	
+	2013	239	16355	1.461327	
+	2014	222	16732	1.326799	
+	2015	191	17064	1.119316	
+	2016	212	17893	1.184821	
+	2017	288	17878	1.610918	
+	2018	268	17772	1.50799	
+	2019	278	18105	1.535487	

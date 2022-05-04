@@ -1,0 +1,17 @@
+
+	G4_03_F Stationäre Behandlungen wegen HD bösartige Neubildungen der Ovarien // Traitements hospitaliers en cas de DP tumeurs malignes des ovaires // Cure ospedaliere in caso di DP tumori maligni delle ovaie
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	1132	
+	2009	1631	
+	2010	1650	
+	2011	1565	
+	2012	1681	
+	2013	1685	
+	2014	1840	
+	2015	1865	
+	2016	1927	
+	2017	2035	
+	2018	1991	
+	2019	1978	

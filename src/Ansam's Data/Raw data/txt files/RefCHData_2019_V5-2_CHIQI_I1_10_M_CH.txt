@@ -1,0 +1,14 @@
+
+	I1_10_M Hüft­Endoprothesen­Erstimplantation bei anderen Diagnosen, Mortalität // Première implantation d'endoprothèse de hanche en cas d'autre diagnostic, mortalité // Prima applicazione dell'endoprotesi dell'anca in caso di altre diagnosi, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	16	1259	1.27085	
+	2012	18	1123	1.60285	
+	2013	12	1141	1.051709	
+	2014	10	1148	0.8710801	
+	2015	36	1583	2.274163	
+	2016	30	1672	1.794258	
+	2017	36	1509	2.385686	
+	2018	43	1756	2.448747	
+	2019	41	1736	2.361751	

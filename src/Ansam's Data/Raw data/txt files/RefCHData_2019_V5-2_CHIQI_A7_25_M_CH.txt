@@ -1,0 +1,17 @@
+
+	A7_25_M Isolierter offener Aortenklappenersatz ohne herzunterstützende Systeme ohne weitere OP am Herzen (Alter >19), Mortalität // Remplacement isolé de valve aortique à cœur ouvert sans systèmes d'assistance cardiaque sans autre OP du cœur (âge >19), mortalité // Sostituzione isolata della valvola aortica a cuore aperto senza sistemi di assistenza cardiaca senza altre OP al cuore (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	16	552	2.898551	
+	2009	18	690	2.608696	
+	2010	13	775	1.677419	
+	2011	18	888	2.027027	
+	2012	17	885	1.920904	
+	2013	17	973	1.747174	
+	2014	12	802	1.496259	
+	2015	11	731	1.504788	
+	2016	6	773	0.7761966	
+	2017	6	707	0.8486563	
+	2018	2	688	0.2906977	
+	2019	6	612	0.9803922	

@@ -1,0 +1,17 @@
+
+	H4_05_X Prostata­TUR ohne Frührehabilitation, Aufenthaltsdauer // RTU de la prostate sans rééducation précoce, durée de séjour // TUR della prostata senza riabilitazione precoce, durata della degenza
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	StayCH	CasesCH	pCH	
+	2008	52270	9334	5.599957	
+	2009	51170	9273	5.518171	
+	2010	49994	9178	5.447156	
+	2011	47313	8950	5.286369	
+	2012	46492	8968	5.184211	
+	2013	46742	9299	5.026562	
+	2014	48804	9805	4.97746	
+	2015	45348	9380	4.834542	
+	2016	43182	9398	4.594807	
+	2017	40534	9175	4.417875	
+	2018	40896	9390	4.355272	
+	2019	40900	9722	4.206953	

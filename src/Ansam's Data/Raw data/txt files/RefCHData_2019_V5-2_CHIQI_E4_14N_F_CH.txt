@@ -1,0 +1,17 @@
+
+	E4_14N_F Kolorektale Resektionen bei kolorektalem Karzinom // Résections colorectales pour carcinome colorectal // Resezione colorettale per carcinoma colorettale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	3769	
+	2009	3777	
+	2010	3769	
+	2011	3904	
+	2012	3721	
+	2013	3877	
+	2014	3835	
+	2015	3813	
+	2016	3961	
+	2017	3704	
+	2018	3745	
+	2019	3788	

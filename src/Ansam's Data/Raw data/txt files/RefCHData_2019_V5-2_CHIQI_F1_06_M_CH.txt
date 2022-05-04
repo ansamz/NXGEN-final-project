@@ -1,0 +1,17 @@
+
+	F1_06_M Extrakranielle Gefäss­OP A. carotis (Alter >19), Mortalität // OP des vaisseaux extra­crâniens sur l'artère carotide (âge >19), mortalité // OP sui vasi extracranici all'arteria carotide (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	4	970	0.4123711	
+	2009	5	977	0.5117707	
+	2010	3	1015	0.2955665	
+	2011	6	997	0.6018054	
+	2012	10	967	1.034126	
+	2013	6	1032	0.5813953	
+	2014	4	1038	0.3853565	
+	2015	6	1052	0.5703422	
+	2016	4	1043	0.3835091	
+	2017	4	1034	0.3868472	
+	2018	8	1053	0.7597341	
+	2019	8	1041	0.7684918	

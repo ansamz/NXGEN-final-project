@@ -1,0 +1,16 @@
+
+	C1_01_F Geriatrische Frührehabilitation // Rééducation gériatrique précoce // Riabilitazione geriatrica precoce
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2009	140	
+	2010	575	
+	2011	1298	
+	2012	4313	
+	2013	5246	
+	2014	6546	
+	2015	8130	
+	2016	10294	
+	2017	12300	
+	2018	13559	
+	2019	15571	

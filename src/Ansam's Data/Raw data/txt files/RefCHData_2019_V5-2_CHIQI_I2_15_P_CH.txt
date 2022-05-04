@@ -1,0 +1,17 @@
+
+	I2_15_P Anteil Exzision von Bandscheibengewebe mit Komplikationen (ohne Tumor, Trauma, komplexe OP an Wirbelsäule) // Discectomie avec complications (sans tumeur, traumatisme, OP complexe de la colonne vertébrale), pourcentage // Escissione dei tessuti intervertebrali con complicazioni (senza tumore, trauma o OP complessa alla colonna vertrebrale), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	22	6980	0.3151862	
+	2009	25	7088	0.3527088	
+	2010	22	7439	0.2957387	
+	2011	22	7756	0.2836514	
+	2012	35	7882	0.4440497	
+	2013	39	7990	0.4881101	
+	2014	30	7892	0.3801318	
+	2015	32	7667	0.4173732	
+	2016	33	7634	0.4322767	
+	2017	51	7485	0.6813627	
+	2018	51	7488	0.6810897	
+	2019	54	7023	0.7689022	

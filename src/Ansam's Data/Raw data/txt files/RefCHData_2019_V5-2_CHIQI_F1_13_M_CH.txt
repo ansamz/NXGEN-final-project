@@ -1,0 +1,17 @@
+
+	F1_13_M Weitere extrakranielle Gefäss­OP bei OP an Herz, Aorta, Beinarterien, Trauma oder bei HNO-Malignom (Alter >19), Mortalität // Autres OP des vaisseaux extra­crâniens en cas d'OP du cœur, de l'aorte, des artères des jambes, de traumatisme ou de tumeurs malignes ORL (âge >19), mortalité // Altre OP sui vasi extracranici in caso di OP al cuore, all'aorta, alle arterie delle gambe, di trauma o di tumori maligni ORL (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	6	87	6.896552	
+	2009	6	96	6.25	
+	2010	2	80	2.5	
+	2011	6	140	4.285714	
+	2012	7	114	6.140351	
+	2013	12	114	10.52632	
+	2014	9	104	8.653846	
+	2015	6	114	5.263158	
+	2016	14	111	12.61261	
+	2017	8	130	6.153846	
+	2018	9	132	6.818182	
+	2019	8	121	6.61157	

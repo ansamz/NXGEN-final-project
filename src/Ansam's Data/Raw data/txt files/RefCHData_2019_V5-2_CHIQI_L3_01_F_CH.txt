@@ -1,0 +1,17 @@
+
+	L3_01_F Lebertransplantation insgesamt // Total des transplantations hépatiques // Trapianti di fegato, totale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	98	
+	2009	100	
+	2010	100	
+	2011	94	
+	2012	105	
+	2013	103	
+	2014	105	
+	2015	121	
+	2016	114	
+	2017	134	
+	2018	151	
+	2019	161	

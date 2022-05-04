@@ -1,0 +1,17 @@
+
+	A7_04_F Andere OP am Herzen // Autres OP du cœur // Altre OP al cuore
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	1960	
+	2009	2199	
+	2010	2123	
+	2011	2164	
+	2012	2566	
+	2013	2649	
+	2014	2687	
+	2015	2834	
+	2016	2881	
+	2017	2677	
+	2018	2696	
+	2019	2515	

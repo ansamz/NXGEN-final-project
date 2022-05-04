@@ -1,0 +1,17 @@
+
+	H5_02_M Radikale Prostatovesikulektomie, Mortalität // Prostatovésiculectomie radicale, mortalité // Prostatovescicolectomia radicale, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	2	2689	0.07437709	
+	2009	7	2804	0.2496434	
+	2010	4	2704	0.147929	
+	2011	2	2977	0.06718173	
+	2012	1	2594	0.0385505	
+	2013	3	2514	0.1193317	
+	2014	4	2474	0.1616815	
+	2015	5	2445	0.204499	
+	2016	1	2804	0.03566334	
+	2017	3	3031	0.09897724	
+	2018	2	3096	0.06459948	
+	2019	2	3144	0.06361323	

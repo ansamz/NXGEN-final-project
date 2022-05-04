@@ -1,0 +1,17 @@
+
+	C1_05_S Mittelwert des motorischen FIM bei Aufnahme // Valeur moyenne du FIM moteur à l'admission // Valore medio del FIM motorio all'ammissione
+	BAG/OFSP/UFSP - CH-IQI Version V5.2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	SVarCH	pCH	
+	2008	NA	NA	NA	
+	2009	NA	NA	NA	
+	2010	5	365	73	
+	2011	144	8883	61.6875	
+	2012	563	32295.5	57.36323	
+	2013	527	26768.5	50.79412	
+	2014	825	45483	55.13091	
+	2015	855	41941.5	49.05439	
+	2016	1542	80560.5	52.24416	
+	2017	2846	143512.5	50.42604	
+	2018	2579	115662	44.84762	
+	2019	2482	114308.5	46.055	

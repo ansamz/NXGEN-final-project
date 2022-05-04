@@ -1,0 +1,17 @@
+
+	F1_09_M Perkutane extrakranielle Stentimplantation A. carotis bei TIA oder Hirninfarkt (Alter >19), Mortalität // Implantation percutanée de stents dans l'artère carotide en cas d'AIT ou d'infarctus cérébral (âge >19), mortalité // Impianto percutaneo di stent nell'arteria carotide in caso di TIA o infarto cerebrale (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	2	37	5.405405	
+	2009	2	32	6.25	
+	2010	5	67	7.462687	
+	2011	6	65	9.230769	
+	2012	3	82	3.658537	
+	2013	10	103	9.708738	
+	2014	6	97	6.185567	
+	2015	7	151	4.635762	
+	2016	16	170	9.411765	
+	2017	15	203	7.389163	
+	2018	12	251	4.780876	
+	2019	24	252	9.52381	

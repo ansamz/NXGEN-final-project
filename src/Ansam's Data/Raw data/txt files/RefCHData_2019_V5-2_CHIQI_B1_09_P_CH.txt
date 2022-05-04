@@ -1,0 +1,17 @@
+
+	B1_09_P Anteil Hirninfarkt (ICD­10 I63, Alter >19) mit systemischer Thrombolyse // Infarctus cérébral (CIM­10 I63, âge >19) avec thrombolyse systémique, pourcentage // Infarto cerebrale (ICD­10 I63, età >19) con trombolisi sistemica, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	547	7053	7.755565	
+	2009	571	7482	7.631649	
+	2010	828	8755	9.457453	
+	2011	1024	9475	10.80739	
+	2012	1123	10568	10.62642	
+	2013	1217	11161	10.90404	
+	2014	1315	11611	11.32547	
+	2015	1642	12634	12.99668	
+	2016	1787	13496	13.24096	
+	2017	1880	14003	13.42569	
+	2018	1728	14608	11.82913	
+	2019	1895	15227	12.445	

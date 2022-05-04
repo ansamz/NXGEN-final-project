@@ -1,0 +1,13 @@
+
+	B1_18_M Hirninfarkt (ICD­10 I63, Alter >19) mit intrakranieller Thrombektomie, Mortalität // Infarctus cérébral (CIM­10 I63, âge >19) avec thrombectomie intracrânienne, mortalité // Infarto cerebrale (ICD­10 I63, età >19) con trombectomia intracranica, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2012	22	227	9.69163	
+	2013	33	278	11.8705	
+	2014	42	345	12.17391	
+	2015	68	538	12.63941	
+	2016	92	693	13.27561	
+	2017	106	883	12.00453	
+	2018	124	992	12.5	
+	2019	132	1159	11.38913	

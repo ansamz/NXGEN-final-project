@@ -1,0 +1,17 @@
+
+	J3_01N_F Eingriffe mit erhöhtem Kontrastmittelbedarf // Interventions avec besoin accru de produits de contraste // Interventi con fabbisogno aumentato di mezzo di contrasto
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	44528	
+	2009	45096	
+	2010	49980	
+	2011	54578	
+	2012	60783	
+	2013	66533	
+	2014	71670	
+	2015	70652	
+	2016	75607	
+	2017	75871	
+	2018	76702	
+	2019	78725	

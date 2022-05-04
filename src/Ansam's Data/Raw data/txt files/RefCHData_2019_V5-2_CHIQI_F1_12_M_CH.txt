@@ -1,0 +1,17 @@
+
+	F1_12_M Perkutane extrakranielle Stentimplantation A. vertebralis (Alter >19), Mortalität // Implantation percutanée de stents dans l'artère vertébrale (âge >19), mortalité // Impianto percutaneo di stent nell'arteria vertebrale (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	4	56	7.142857	
+	2009	2	42	4.761905	
+	2010	6	42	14.28571	
+	2011	7	48	14.58333	
+	2012	2	46	4.347826	
+	2013	2	53	3.773585	
+	2014	2	36	5.555556	
+	2015	3	28	10.71429	
+	2016	4	33	12.12121	
+	2017	5	39	12.82051	
+	2018	4	33	12.12121	
+	2019	3	41	7.317073	

@@ -1,0 +1,17 @@
+
+	A1_11_M Nichttransmuraler Infarkt/NSTEMI (Alter >19), Mortalität // Infarctus non transmural/NSTEMI (âge >19), mortalité // Infarto non transmurale/NSTEMI (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	245	4867	5.033902	
+	2009	291	5820	5	
+	2010	313	7331	4.26954	
+	2011	324	8413	3.851183	
+	2012	354	8398	4.215289	
+	2013	365	8527	4.280521	
+	2014	357	9220	3.872017	
+	2015	335	9728	3.443668	
+	2016	343	10035	3.418037	
+	2017	349	9984	3.495593	
+	2018	298	10138	2.939436	
+	2019	297	10098	2.941176	

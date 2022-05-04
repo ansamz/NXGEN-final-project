@@ -1,0 +1,17 @@
+
+	B1_09_M Hirninfarkt (ICD­10 I63, Alter >19) mit systemischer Thrombolyse, Mortalität // Infarctus cérébral (CIM­10 I63, âge >19) avec thrombolyse systémique, mortalité // Infarto cerebrale (ICD­10 I63, età >19) con trombolisi sistemica, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	54	547	9.872029	
+	2009	62	571	10.85814	
+	2010	95	828	11.47343	
+	2011	95	1024	9.277344	
+	2012	99	1123	8.815672	
+	2013	123	1217	10.10682	
+	2014	104	1315	7.908745	
+	2015	163	1642	9.926918	
+	2016	152	1787	8.505876	
+	2017	136	1880	7.234043	
+	2018	123	1728	7.118056	
+	2019	140	1895	7.387863	

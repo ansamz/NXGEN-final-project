@@ -1,0 +1,17 @@
+
+	D4_02_P Anteil Pneumonektomien bei Bronchialkarzinom // Pneumonectomie en cas de carcinome bronchique, pourcentage // Pneumonectomia in caso di carcinoma bronchiale, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	150	1103	13.59927	
+	2009	95	1050	9.047619	
+	2010	129	1178	10.95076	
+	2011	127	1282	9.906396	
+	2012	101	1341	7.531693	
+	2013	91	1384	6.575145	
+	2014	98	1419	6.906272	
+	2015	97	1477	6.567366	
+	2016	93	1621	5.737199	
+	2017	88	1662	5.294826	
+	2018	78	1706	4.572098	
+	2019	78	1777	4.38942	

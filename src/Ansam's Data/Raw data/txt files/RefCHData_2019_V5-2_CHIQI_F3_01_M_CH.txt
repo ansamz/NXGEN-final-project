@@ -1,0 +1,17 @@
+
+	F3_01_M OP an Becken­/Beinarterien insgesamt, Mortalität // Total des OP des artères du bassin/des jambes, mortalité // OP alle arterie del bacino/delle gambe totale, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	78	1304	5.981595	
+	2009	73	1354	5.391433	
+	2010	69	1309	5.271199	
+	2011	130	3076	4.226268	
+	2012	140	3195	4.381847	
+	2013	167	3206	5.208983	
+	2014	138	3198	4.315197	
+	2015	155	3338	4.643499	
+	2016	145	3327	4.358281	
+	2017	119	3372	3.529063	
+	2018	142	3311	4.288735	
+	2019	136	3455	3.936324	

@@ -1,0 +1,17 @@
+
+	E4_14_P Anteil Leberresektion/¬destruktion mit kolorektalen Resektionen bei kolorektalem Karzinom // Résection/destruction du foie avec résections colorectales pour carcinome colorectal, pourcentage // Resezione/distruzione del fegato con resezione colorettale in caso di carcinoma colorettale, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	71	3769	1.883789	
+	2009	112	3777	2.965316	
+	2010	88	3769	2.334837	
+	2011	101	3904	2.58709	
+	2012	108	3721	2.902446	
+	2013	121	3877	3.12097	
+	2014	127	3835	3.311604	
+	2015	112	3813	2.93732	
+	2016	141	3961	3.559707	
+	2017	131	3704	3.536717	
+	2018	123	3745	3.284379	
+	2019	114	3788	3.009504	

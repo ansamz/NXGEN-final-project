@@ -1,0 +1,6 @@
+
+	L5_06_F Nieren-Retransplantation während desselben stationären Aufenthaltes // Retransplantation rénale durant la même hospitalisation // Ritrapianto di rene nella stessa degenza ospedaliera
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2016	2	

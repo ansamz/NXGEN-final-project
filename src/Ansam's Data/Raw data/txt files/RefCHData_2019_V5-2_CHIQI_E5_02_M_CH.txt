@@ -1,0 +1,17 @@
+
+	E5_02_M Magenresektionen (ohne Ösophaguseingriff) bei Magenkarzinom, Mortalität // Gastrectomies (sans OP de l'œsophage) en cas de cancer de l'estomac, mortalité // Resezione gastrica senza intervento all'esofago in caso di carcinoma allo stomaco, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	19	330	5.757576	
+	2009	18	354	5.084746	
+	2010	15	351	4.273504	
+	2011	14	314	4.458599	
+	2012	11	321	3.426791	
+	2013	11	328	3.353659	
+	2014	12	306	3.921569	
+	2015	13	322	4.037267	
+	2016	11	328	3.353659	
+	2017	14	350	4	
+	2018	20	352	5.681818	
+	2019	9	352	2.556818	

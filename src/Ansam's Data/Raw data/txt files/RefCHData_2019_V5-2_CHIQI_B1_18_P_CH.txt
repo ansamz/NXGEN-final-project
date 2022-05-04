@@ -1,0 +1,13 @@
+
+	B1_18_P Anteil Hirninfarkt (ICD­10 I63, Alter >19) mit intrakranieller Thrombektomie // Infarctus cérébral (CIM­10 I63, âge >19) avec thrombectomie intracrânienne, pourcentage // Infarto cerebrale (ICD­10 I63, età >19) con trombectomia intracranica, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2012	227	10568	2.147994	
+	2013	278	11161	2.490816	
+	2014	345	11611	2.97132	
+	2015	538	12634	4.25835	
+	2016	693	13496	5.134855	
+	2017	883	14003	6.305792	
+	2018	992	14608	6.7908	
+	2019	1159	15227	7.61148	

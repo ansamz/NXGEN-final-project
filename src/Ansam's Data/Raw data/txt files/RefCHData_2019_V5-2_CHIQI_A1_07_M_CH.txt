@@ -1,0 +1,17 @@
+
+	A1_07_M HD Herzinfarkt (Alter >19), Direktaufnahmen nicht weiter verlegt, Mortalität // DP infarctus du myocarde (âge >19), admissions directes, non transféré, mortalité // DP infarto miocardico (età >19), ammissioni dirette non trasferito, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	833	7226	11.52782	
+	2009	798	7290	10.9465	
+	2010	759	7866	9.649123	
+	2011	794	8464	9.380907	
+	2012	794	9267	8.568037	
+	2013	776	9591	8.090919	
+	2014	716	9701	7.380682	
+	2015	722	9922	7.276759	
+	2016	728	10141	7.178779	
+	2017	753	10456	7.201607	
+	2018	688	10614	6.482005	
+	2019	691	10562	6.542322	

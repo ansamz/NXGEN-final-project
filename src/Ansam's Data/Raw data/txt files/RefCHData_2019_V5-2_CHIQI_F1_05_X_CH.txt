@@ -1,0 +1,17 @@
+
+	F1_05_X Extrakranielle Gefäss­OP (Alter >19) ohne Frührehabilitation, Aufenthaltsdauer // OP des vaisseaux extra­crâniens (âge >19) sans rééducation précoce, durée de séjour // OP sui vasi extracranici (età >19) senza riabilitazione precoce, durata della degenza
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	StayCH	CasesCH	pCH	
+	2008	8153	970	8.405155	
+	2009	8656	977	8.859775	
+	2010	8717	1014	8.596647	
+	2011	8457	997	8.482447	
+	2012	8141	971	8.38414	
+	2013	8633	1033	8.357212	
+	2014	8692	1038	8.373796	
+	2015	8818	1050	8.398095	
+	2016	8374	1041	8.044188	
+	2017	8122	1031	7.877789	
+	2018	8262	1046	7.898662	
+	2019	8423	1041	8.091258	

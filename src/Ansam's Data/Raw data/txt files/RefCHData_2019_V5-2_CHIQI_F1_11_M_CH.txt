@@ -1,0 +1,17 @@
+
+	F1_11_M Weitere perkutane extrakranielle Stentimplantation A. carotis (Alter >19), Mortalität // Autres implantations percutanées de stents dans l'artère carotide (âge >19), mortalité // Altri impianti percutanei di stent nell'arteria carotide (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	1	36	2.777778	
+	2009	1	32	3.125	
+	2010	2	29	6.896552	
+	2011	1	22	4.545455	
+	2012	1	22	4.545455	
+	2013	2	14	14.28571	
+	2014	1	10	10	
+	2015	1	6	16.66667	
+	2016	0	9	0	
+	2017	0	8	0	
+	2018	0	7	0	
+	2019	0	5	0	

@@ -1,0 +1,17 @@
+
+	J1_02_S Mittlere Beatmungsdauer bei Beatmungsfällen >24 h (ohne Neugeborene) // Durée moyenne de ventilation en cas de respiration artificielle >24 h (à l'exclusion des nouveau­nés) // Durata media di ventilazione nei casi di ventilazione meccanica >24 h (neonati esclusi)
+	BAG/OFSP/UFSP - CH-IQI Version V5.2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	SVarCH	pCH	
+	2008	NA	NA	NA	
+	2009	6676	1087527	162.901	
+	2010	9953	1670227	167.8114	
+	2011	11059	1831786	165.6376	
+	2012	11552	1858196	160.8549	
+	2013	12041	1928221	160.1379	
+	2014	12054	1892737	157.0215	
+	2015	11369	1780160	156.5802	
+	2016	11535	1798023	155.8754	
+	2017	11291	1720496	152.3776	
+	2018	11302	1679085	148.5653	
+	2019	10860	1662877	153.1194	

@@ -1,0 +1,17 @@
+
+	I2_18_M OP an der Wirbelsäule bei Diszitis oder Osteomyelitis der Wirbelsäule, Mortalität // OP de la colonne vertébrale en cas de discite ou d'ostéomyélite, mortalité // OP alla colonna vertebrale per discite o osteomielite, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	1	76	1.315789	
+	2009	5	93	5.376344	
+	2010	2	124	1.612903	
+	2011	8	141	5.673759	
+	2012	10	168	5.952381	
+	2013	8	176	4.545455	
+	2014	3	201	1.492537	
+	2015	15	252	5.952381	
+	2016	13	232	5.603448	
+	2017	9	252	3.571429	
+	2018	16	257	6.225681	
+	2019	16	314	5.095541	

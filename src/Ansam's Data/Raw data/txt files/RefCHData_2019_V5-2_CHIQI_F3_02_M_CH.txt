@@ -1,0 +1,16 @@
+
+	F3_02_M OP an Becken­/Beinarterien bei Claudicatio (Fontaine I+II), Mortalität // OP des artères du bassin/des jambes en cas de claudication (Fontaine I+II), mortalité // OP alle arterie del bacino/delle gambe in caso di claudicatio (Fontaine I+II), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2009	4	121	3.305785	
+	2010	3	146	2.054795	
+	2011	3	731	0.4103967	
+	2012	5	685	0.729927	
+	2013	6	691	0.8683068	
+	2014	5	728	0.6868132	
+	2015	7	763	0.9174312	
+	2016	4	713	0.5610098	
+	2017	5	794	0.6297229	
+	2018	3	750	0.4	
+	2019	3	758	0.3957784	

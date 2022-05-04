@@ -1,0 +1,16 @@
+
+	F5_05_M PTA iliacal/an Becken­/Beinarterien bei Ruheschmerz, Mortalität // ATP des artères iliaques/du bassin/des jambes en cas de douleurs au repos, mortalité // PTA di arterie iliache/del bacino/delle gambe in caso di dolore a riposo, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2009	2	326	0.6134969	
+	2010	3	404	0.7425743	
+	2011	4	387	1.033592	
+	2012	2	426	0.4694836	
+	2013	2	464	0.4310345	
+	2014	4	466	0.8583691	
+	2015	2	502	0.3984064	
+	2016	5	567	0.8818342	
+	2017	4	474	0.8438819	
+	2018	4	431	0.9280742	
+	2019	2	442	0.4524887	

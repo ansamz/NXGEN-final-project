@@ -1,0 +1,9 @@
+
+	L7_02_F Hypertherme intrathorakale Chemotherapie [HITOC] // Chimiothérapie hyperthermique intrathoracique [HITOC] // Chemioipertermia intratoracica [HITOC]
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2016	5	
+	2017	2	
+	2018	2	
+	2019	1	

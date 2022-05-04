@@ -1,0 +1,14 @@
+
+	I1_22_M Hüft­ und Knie­Endoprothesen­Eingriffe kombiniert, Mortalität // Interventions combinées de l'endoprothèse de hanche et de genou, mortalité // Interventi combinati di endoprotesi dell'anca e del ginocchio, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	0	10	0	
+	2012	0	13	0	
+	2013	0	8	0	
+	2014	0	4	0	
+	2015	1	17	5.882353	
+	2016	0	15	0	
+	2017	0	13	0	
+	2018	0	17	0	
+	2019	0	15	0	

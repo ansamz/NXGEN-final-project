@@ -1,0 +1,17 @@
+
+	A3_11_M Diagnostische Katheter der Koronargefässe ohne HD Herzinfarkt ohne OP am Herzen (Alter >19), Zuverlegungen, Mortalität // Cathétérisme diagnostique des vaisseaux coronaires sans DP infarctus du myocarde sans OP du cœur (âge >19), transféré d'un autre hôpital, mortalité // Catetere diagnostico dei vasi coronarici senza DP infarto miocardico senza OP al cuore (età >19), trasferito da un altro ospedale, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	20	879	2.275313	
+	2009	13	837	1.553166	
+	2010	20	1069	1.870907	
+	2011	19	1060	1.792453	
+	2012	30	984	3.04878	
+	2013	27	995	2.713568	
+	2014	30	1012	2.964427	
+	2015	23	1106	2.079566	
+	2016	35	1063	3.292568	
+	2017	26	1047	2.483286	
+	2018	34	1025	3.317073	
+	2019	27	1047	2.578797	

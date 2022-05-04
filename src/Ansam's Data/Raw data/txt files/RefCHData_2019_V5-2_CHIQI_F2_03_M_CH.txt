@@ -1,0 +1,17 @@
+
+	F2_03_M Endovaskuläre Stent­Prothese der abdominalen Aorta bei Aneurysma (EVAR), nicht rupturiert, Mortalität // Prothèse stentgraft endovasculaire de l'aorte abdominale en cas d'anévrisme (EVAR), sans rupture, mortalité // Protesi endovascolare dell'aorta addominale in caso di aneurisma (EVAR), senza lacerazione, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	7	301	2.325581	
+	2009	8	343	2.332362	
+	2010	4	393	1.017812	
+	2011	6	402	1.492537	
+	2012	10	450	2.222222	
+	2013	7	506	1.383399	
+	2014	8	511	1.565558	
+	2015	4	566	0.7067138	
+	2016	7	658	1.06383	
+	2017	5	577	0.8665511	
+	2018	4	628	0.6369427	
+	2019	7	587	1.192504	

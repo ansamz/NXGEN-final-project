@@ -1,0 +1,17 @@
+
+	A6_02_F Chirurgisch ablative Therapie // Ablation chirurgicale // Terapia ablativa chirurgica
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	359	
+	2009	380	
+	2010	395	
+	2011	420	
+	2012	510	
+	2013	546	
+	2014	505	
+	2015	529	
+	2016	504	
+	2017	469	
+	2018	432	
+	2019	461	

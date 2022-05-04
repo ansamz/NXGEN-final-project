@@ -1,0 +1,17 @@
+
+	G1_02N_F Vaginale Geburten // Accouchements par voie vaginale // Parti vaginali
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	49894	
+	2009	51697	
+	2010	53934	
+	2011	53622	
+	2012	54687	
+	2013	55141	
+	2014	56246	
+	2015	57536	
+	2016	58585	
+	2017	58798	
+	2018	59265	
+	2019	58340	

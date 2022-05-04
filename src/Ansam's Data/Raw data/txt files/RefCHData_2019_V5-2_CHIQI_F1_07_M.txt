@@ -1,0 +1,19 @@
+
+	F1_07_M Extrakranielle Gefäss­OP A. vertebralis (Alter >19), Mortalität // OP des vaisseaux extra­crâniens sur l'artère vertébrale (âge >19), mortalité // OP sui vasi extracranici all'arteria vertebrale (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	AltEGrp	Sex	DeathCH	CasesCH	pCH	
+	2011	12	1	0	1	0	
+	2012	8	1	0	1	0	
+	2012	15	1	0	1	0	
+	2012	15	2	0	1	0	
+	2012	16	1	0	1	0	
+	2013	11	1	0	1	0	
+	2013	16	2	0	1	0	
+	2014	11	1	0	1	0	
+	2016	14	2	0	2	0	
+	2017	12	2	0	1	0	
+	2017	15	1	0	1	0	
+	2018	16	1	0	1	0	
+	2019	10	2	0	1	0	
+	2019	17	1	0	1	0	

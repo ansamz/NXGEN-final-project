@@ -1,0 +1,555 @@
+Canton,street,zip,town,Institution,"MRI, outpatient","MRI, inpatient","CT, outpatient","CT, inpatient","Angiography, outpatient","Angiography, inpatient","Dialysis, outpatient","Dialysis, inpatient"
+AG,Tellstrasse 25,5000,Aarau,Kantonsspital Aarau AG,2791.5,892.5,3596.0,3231.66666666667,465.5,653.5,278.894736842105,17.5789473684211
+AG,Im Ergel,5404,Baden,Kantonsspital Baden AG,2846.6,535.2,3817.0,2561.8,299.5,630.0,14.1190476190476,449.047619047619
+AG,Schänisweg 1,5000,Aarau,Hirslanden Klinik Aarau,3543.5,320.0,1817.0,995.5,96.0,457.0,250.833333333333,9.0
+AG,Riburgerstrasse 12,4310,Rheinfelden,Gesundheitszentrum Fricktal,2789.0,254.0,2291.0,1546.0,,,,
+AG,Spitalstrasse 144,5630,Muri AG,Stiftung Spital Muri,3025.5,128.0,3401.0,2067.0,,,459.375,8.125
+AG,Mühlethalstrasse 27,4800,Zofingen,Spital Zofingen AG,1997.0,74.0,2875.0,2039.0,,,,
+AG,Kommendeweg 12,5316,Leuggern,Asana Spital Leuggern AG,,,,,,,,
+AG,Spitalstrasse 1,5737,Menziken,Asana Spital Menziken AG,,,251.0,460.0,,,,
+AG,Königsfelderstrasse 1,5210,Windisch,Psychiatrische Dienste Aargau AG,,,,,,,,
+AG,Bahnhofstrasse 19,4310,Rheinfelden,Schützen Rheinfelden AG Klinik & Ambulatorium,,,,,,,,
+AG,Hasel 837,5728,Gontenschwil,Klinik Im Hasel AG,,,,,,,,
+AG,Zürcherstrasse 52,5432,Neuenhof,Klinik für Suchttherapie Drogenentzug / Übergang / Krisenintervention,,,,,,,,
+AG,Badstrasse 33,5330,Bad Zurzach,Klinik für Schlafmedizin,,,,,,,,
+AG,Quellenstrasse 34,5330,Bad Zurzach,RehaClinic Zurzach,,,,,,,,
+AG,Salinenstrasse 98,4310,Rheinfelden,Reha Rheinfelden,,,,,,,,
+AG,,5017,Barmelweid,Klinik Barmelweid AG,,,,,,,,
+AG,Mutschellenstrasse 2,5454,Bellikon,Rehaklinik Bellikon,70.0,448.0,9.0,312.0,,,,
+AG,Badstrasse 55,5116,Schinznach Bad,aarReha Schinznach Zentrum für Rehabilitation,,,,,,,,
+AG,Bäderstrasse 16,5401,Baden,RehaClinic Baden,,,,,,,,
+AG,Badstrasse 50,5116,Schinznach Bad,Bad Schinznach AG - Privat-Klinik Im Park,,,,,,,,
+AG,Roberstenstrasse 31,4310,Rheinfelden,Privatklinik SALINA Salina Medizin AG,,,,,,,,
+AG,Bernstrasse 84,4852,Rothrist,SMN - Klinik Villa im Park,,,,,,,,
+AI,Sonnhalde 2,9050,Appenzell,Kantonales Spital Appenzell,,,,,,,,
+AI,Im Park 1,9057,Weissbad,Hof Weissbad AG Nachbehandlungs-Zentrum,,,,,,,,
+AR,Krombach 3,9100,Herisau,"Spitalverbund Appenzell Ausserrhoden, Akutsomatisches Spital Heiden/Herisau",,,365.0,418.0,2.0,4.0,270.909090909091,13.5454545454545
+AR,Krombach 3,9100,Herisau,"Spitalverbund Appenzell Ausserrhoden, Psychiatrisches Zentrum",,,,,,,,
+AR,Gäbrisstrasse 1172,9056,Gais,"Klinik Gais AG Kardiale Rehabilitation, Psychosomatik und Psychotherapie",,,,,,,,
+AR,Dorf,9428,Walzenhausen,Stiftung Kliniken Valens - Rheinburg-Klinik,,,,,,,,
+AR,Vögelinsegg 5,9042,Speicher,Berit Klinik AG,,,,,,,,
+AR,Hasenbühlstrasse 11,9410,Heiden,Hirslanden Klinik Am Rosenberg AG,,,,,,,,
+BE,Freiburgstrasse 18,3010,Bern,Insel Gruppe AG (universitär),2141.2,727.5,2624.14285714286,2198.85714285714,202.090909090909,765.818181818182,255.078431372549,58.7058823529412
+BE,Bremgartenstrasse 117,3012,Bern,Lindenhofgruppe AG,1997.1,82.9,2045.0,559.833333333333,255.0,692.0,618.636363636364,46.0
+BE,Freiburgstrasse 18,3010,Bern,Insel Gruppe AG (nicht-universitär),2262.0,222.333333333333,1379.5,1195.75,,,187.888888888889,1.83333333333333
+BE,Krankenhausstrasse 12,3600,Thun,Spital STS AG,2590.5,321.0,1833.66666666667,1163.66666666667,23.0,231.0,320.625,6.75
+BE,Schänzlihalde 11,3013,Bern,Hirslanden Bern AG,3217.0,245.5,2172.66666666667,1310.0,3635.0,406.5,465.3,17.4
+BE,Vogelsang 84,2502,Biel,Spitalzentrum Biel AG,2020.0,380.5,1818.5,1661.5,339.5,356.0,572.052631578947,36.7368421052632
+BE,Oberburgstrasse 54,3400,Burgdorf,Regionalspital Emmental AG,2982.5,263.5,2217.5,1612.5,23.0,2.0,377.5,17.1111111111111
+BE,Weissenaustrasse 27,3800,Unterseen,Spitäler Frutigen Meiringen Interlaken AG,2592.0,331.5,1893.5,1777.0,,,248.733333333333,8.66666666666667
+BE,St. Urbanstrasse 67,4900,Langenthal,SRO AG,2958.5,310.0,5389.0,3957.0,,,272.315789473684,12.5789473684211
+BE,Les Fontenayes 17,2610,St­Imier,Hôpital du Jura bernois SA,2128.5,139.0,1940.5,618.5,,,,
+BE,Blumenrain 105,2503,Biel,Hirslanden Klinik Linde AG,3137.0,79.3333333333333,4076.0,819.0,4466.0,355.0,,
+BE,Worbstrasse 316,3073,Gümligen,Siloah AG,,,,,,,,
+BE,Beausite 49,2740,Moutier,Hôpital de Moutier SA,,,,,,,186.4,19.2
+BE,Schänzlistrasse 15,3013,Bern,Stiftung Diaconis Palliative Care,,,,,,,,
+BE,Bolligenstrasse 111,3072,Ostermundigen,Universitäre Psychiatrische Dienste Bern (UPD) AG,,,,,,,,
+BE,Hunzigenallee 1,3110,Münsingen,PZM Psychiatriezentrum Münsingen AG,,,,,,,,
+BE,Willigen,3860,Meiringen,Privatklinik Reichenbach bei Meiringen AG,,,,,,,,
+BE,Fellenbergstrasse 32,3053,Münchenbuchsee,Privatklinik Wyss AG,,,,,,,,
+BE,Südhang 1,3038,Kirchlindach,Stiftung südhang Klinik für Suchttherapien,,,,,,,,
+BE,Weissensteinstrasse 30,4900,Langenthal,Stiftung für ganzheitliche Medizin,,,,,,,,
+BE,Waldrandweg 19,3360,Herzogenbuchsee,Klinik Wysshölzli Marie Sollberger-Stiftung,,,,,,,,
+BE,Emmentalstrasse 8,3400,Burgdorf,Stiftung Klinik Selhofen,,,,,,,,
+BE,Bühlstrasse 19a,3012,Bern,Interessengemeinschaft Sozialpsychiatrie IGS (Verein),,,,,,,,
+BE,Schwendi 303,3625,Heiligenschwendi,Berner Reha Zentrum AG,,,,,,,,
+BE,Bethesda 8,3233,Tschugg,Fürsorgeverein Bethesda,,,,,,,,
+BE,Schönbergstrasse 40,3654,Gunten,Klinik Schönberg AG,,,,,,,,
+BE,Postgasse 56,3011,Bern,Berner Klinik Montana (Stiftung),,,,,,,,
+BE,Laueli 89b,6083,Hasliberg Hohfluh,Rehaklinik Hasliberg AG,,,,,,,,
+BE,Panoramastrasse 20,3854,Oberried am Brienzersee,Kurklinik Eden AG,,,,,,,,
+BE,Worbstrasse 316,3073,Gümligen,SMN - Privatklinik Siloah,,,,,,,,
+BE,Hohmadstrasse 1,3600,Thun,Klinik Hohmad AG,,,,,,,,
+BE,Oberdorfstrasse 56,3072,Ostermundigen,Geburtshaus Luna AG,,,,,,,,
+BE,Eggetlistrasse 5a,3770,Zweisimmen,Genossenschaft Geburtshaus Simmental-Saaneland - Maternité Alpine,,,,,,,,
+BL,Mühlemattstrasse 26,4410,Liestal,Kantonsspital Baselland,3099.0,649.5,2352.25,1853.75,96.2,288.6,337.783783783784,30.972972972973
+BL,Pfeffingerweg 1,4144,Arlesheim,Klinik Arlesheim AG,,,,,,,,
+BL,Stollenrain 12,4144,Arlesheim,Hospiz im Park,,,,,,,,
+BL,Bienentalstrasse 7,4410,Liestal,Psychiatrie Baselland,,,,,,,,
+BL,Gstadstrasse 42,4153,Reinach BL,Klinik ESTA,,,,,,,,
+BL,Reinacherstrasse 28,4142,Münchenstein,Hirslanden Klinik Birshof,4945.0,21.0,1133.0,42.0,,,,
+BL,Kriegackerstrasse 100,4132,Muttenz,Praxisklinik Rennbahn AG,,,,,,,,
+BL,Unterdorfstrasse 25,4443,Wittinsburg,Geburtshaus ambra GmbH,,,,,,,,
+BL,Hauptstrasse 26,4133,Pratteln,Geburtshaus Tagmond GmbH,,,,,,,,
+BL,Hammerstrasse 35,4410,Liestal,Ergolz-Klinik,,,,,,,,
+BL,Hauptstrasse 55,4102,Binningen,Vista Klinik,,,,,,,,
+BS,Hebelstrasse 32,4031,Basel,Universitätsspital Basel,2517.4,1297.4,9121.33333333333,5951.0,125.166666666667,752.0,315.457142857143,67.9714285714286
+BS,Kleinriehenstrasse 30,4058,Basel,St. Claraspital,2762.0,732.0,1734.0,942.333333333333,,,,
+BS,Gellertstrasse 144,4052,Basel,Bethesda Spital AG,3028.0,253.0,966.0,274.0,,,1118.0,3.25
+BS,Wilhelm­Klein­Strasse 27,4056,Basel,Universitäre Psychiatrische Kliniken Basel,,,,,,,,
+BS,Gänshaldenweg 22,4125,Riehen,Klinik Sonnenhalde,,,,,,,,
+BS,Im Burgfelderhof 40,4055,Basel,REHAB Basel,,,,,,,,
+BS,Föhrenstrasse 2,4054,Basel,Merian Iselin Klinik,3734.0,27.0,1038.0,199.0,2.0,152.0,,
+BS,Klybeckstrasse 64/70,4057,Basel,Matthea Geburtshaus,,,,,,,,
+BS,Schweizergasse 8,4054,Basel,Geburtshaus Basel,,,,,,,,
+BS,Spitalstrasse 33,4056,Basel,Universitäts-Kinderspital beider Basel (UKBB),2415.0,807.0,281.0,236.0,,,,
+BS,Burgfelderstrasse 101,4055,Basel,Felix Platter-Spital,,,301.0,1240.0,,,,
+BS,Mittlere Strasse 15,4056,Basel,Adullam Spital,,,,,,,,
+BS,St. Alban­Ring 151,4052,Basel,Palliativzentrum Hildegard,,,,,,,,
+BS,Hirschgässlein 11,4051,Basel,SMN - Schmerzklinik Basel,,,442.0,13.0,,,,
+FR,Case postale,1708,Fribourg,HFR - Hôpital fribourgeois,2265.33333333333,573.666666666667,2445.0,1690.4,1169.0,793.0,341.611111111111,20.4166666666667
+FR,Route de Bertigny 34,1700,Fribourg,Hôpital Jules Daler,,,,,,,,
+FR,L'Hôpital 140,1633,Marsens,Réseau fribourgeois de santé mentale - RFSM Centre de soins hospitaliers,,,,,,,,
+FR,Rue Hans­Geiler 6,1700,Fribourg,SMN - Clinique Générale - Ste-Anne SA,,,,,,,,
+FR,Route du Petit­Moncor 1d,1752,Villars­sur­Glâne,Maison de Naissance le Petit Prince,,,,,,,,
+GE,Rue Gabrielle­Perret­Gentil 4,1205,Genève,Les Hôpitaux Universitaires de Genève HUG,1473.44444444444,700.666666666667,3362.5,3451.66666666667,172.0,482.333333333333,251.071428571429,228.964285714286
+GE,Avenue Jacob­Daniel Maillard 3,1217,Meyrin,Hôpital de la Tour,3017.0,86.6666666666667,4088.5,466.0,923.0,586.5,969.142857142857,27.0
+GE,Chemin des Grangettes 7,1224,Chêne­Bougeries,Clinique des Grangettes SA,,,,,,,,
+GE,Chemin de Beau­Soleil 20,1206,Genève,Clinique Générale-Beaulieu,1945.0,33.0,1823.5,268.5,0.0,2.0,,
+GE,Avenue du Grand-Salève 2,1255,Veyrier,Clinique du Grand-Salève Sàrl,,,,,,,,
+GE,Route de Chêne 26,1207,Genève,Clinique Belmont,,,,,,,,
+GE,Avenue de Châtelaine 60­62,1219,Châtelaine,Clinique de Maisonneuve SA,,,,,,,,
+GE,Chemin des Courbes 9,1247,Anières,Clinique Les Hauts d'Anières,,,,,,,,
+GE,Avenue de Beau­Séjour 6,1206,Genève,Clinique la Colline,,,,,,,,
+GE,Avenue Cardinal­Mermillod 1,1227,Carouge GE,Clinique de Carouge AG,,,,,,,,
+GE,Rue Charles­Humbert 5,1205,Genève,Clinique de la Plaine,,,,,,,,
+GE,Chemin du Châtelet 3,1205,Genève,Maison de naissance La Roseraie,,,,,,,,
+GL,Burgstrasse 99,8750,Glarus,Kantonsspital Glarus,4115.0,415.0,2433.0,1473.0,390.0,51.0,491.0,35.0
+GL,Niederschlachtstrasse 12,8784,Braunwald,RehaClinic Braunwald,,,,,,,,
+GL,Burgstrasse 99,8750,Glarus,RehaClinic Glarus,,,,,,,,
+GR,Loestrasse 170,7000,Chur,Kantonsspital Graubünden,5059.5,1280.5,7680.5,6396.5,5841.0,2402.0,430.684210526316,22.3684210526316
+GR,Via Nouva 3,7503,Samedan,Spital Oberengadin,2093.0,198.0,1573.0,984.0,,,138.0,0.0
+GR,,7220,Schiers,Flury Stiftung Spital Schiers,1711.0,315.0,1088.0,1067.0,1.0,159.0,,
+GR,Spitalstrasse 6,7130,Ilanz,Regionalspital Surselva AG,2182.0,202.0,2098.0,1088.0,,,,
+GR,Promenade 4,7270,Davos Platz,Spital Davos AG Akutabteilung,,,977.0,964.0,,,180.2,3.4
+GR,Via da l'Ospidal 280,7550,Scuol,Center da Sanda Engiadina Bassa Ospidal d'Engiadina Bassa,,,527.0,595.0,,,,
+GR,Alte Strasse 31,7430,Thusis,Spital Thusis,,,561.0,275.0,,,,
+GR,Via da l'Uspedal 1000,7742,Poschiavo,Centro Sanitario Valposchiavo Ospedale San Sisto,,,,,,,,
+GR,Stradung 52,7460,Savognin,Center da Sanadad Savognin SA,,,128.0,94.0,,,,
+GR,Sielva,7536,Sta. Maria V. M.,Center da Sanda Val Müstair Akutabteilung,,,,,,,,
+GR,Flin,7606,Promontogno,Centro Sanitario Bregaglia Reparto Acuto,,,,,,,,
+GR,Loestrasse 220,7000,Chur,Psychiatrische Dienste Graubünden,,,,,,,,
+GR,Praz,7542,Susch,Clinica Holistica Engiadina SA,,,,,,,,
+GR,Herman­Burchard­Strasse 1,7265,Davos Wolfgang,Hochgebirgsklinik Davos AG,,,,,,,,
+GR,Schlossstrasse 1,7212,Seewis Dorf,Rehabilitationszentrum Seewis Klinik für Herz- & Kreislauferkrankungen,,,,,,,,
+GR,Veia Granda,7440,Andeer,reha andeer ag Rehabilitationsklinik,,,,,,,,
+GR,Via Arona 34,7500,St. Moritz,Klinik Gut St. Moritz AG,2668.0,134.0,,,,,,
+JU,Chemin de l'Hôpital 9a,2900,Porrentruy,Hôpital du Jura,2799.0,319.0,2370.0,1616.0,,,366.941176470588,13.9411764705882
+JU,Chemin de Roc­Montès 20,2340,Le Noirmont,Clinique le Noirmont,,,,,,,,
+JU,Route Principale 21,2824,Vicques,Maison de naissance Les Cigognes,,,,,,,,
+LU,Spitalstrasse,6004,Luzern,Luzerner Kantonsspital,2654.4,590.8,3023.33333333333,1965.83333333333,61.5714285714286,139.142857142857,192.058823529412,17.6666666666667
+LU,St. Anna­Strasse 32,6006,Luzern,Hirslanden Klinik St. Anna AG,3649.0,319.75,2510.5,854.25,84.0,894.0,249.142857142857,16.3571428571429
+LU,Schafmattstrasse 1,4915,St. Urban,Luzerner Psychiatrie,,,,,,,,
+LU,Rütliweg 1,6045,Meggen,Therapiezentrum Meggen,,,,,,,,
+LU,Route de l'Astoria 2,3963,Crans-Montana,Luzerner Höhenklinik Montana,,,,,,,,
+LU,Hemschlenstrasse,6006,Luzern,RehaClinic Sonnmatt Luzern,,,,,,,,
+LU,Hertensteinstrasse 162,6353,Weggis,Cereneo Schweiz AG Neurorehabilitationsklinik,8.0,13.0,,,,,,
+LU,Schellenrain 20,6208,Oberkirch LU,Geburtshaus Terra Alta,,,,,,,,
+LU,Guido A. Zäch Strasse 1,6207,Nottwil,Schweizer Paraplegiker-Zentrum Nottwil AG,4794.0,745.0,1249.0,804.0,,,,
+NE,Maladière 45,2000,Neuchâtel,Réseau hospitalier neuchâtelois RHNe,2117.0,542.0,4630.0,3858.5,113.0,203.0,,
+NE,Faubourg de l'Hôpital 81,2001,Neuchâtel,SMN - Neuchâtel,,,,,225.0,0.0,324.382352941176,7.79411764705882
+NE,Rue Numa-Droz 185,2300,La Chaux­de­Fonds,Clinique Volta SA,,,,,,,,
+NE,,2017,Boudry,CNP Centre Neuchâtelois de psychiatrie,,,,,,,,
+NE,Chemin des Valangines 9,2000,Neuchâtel,Maison de Naissance Tilia Sàrl,,,,,,,,
+NW,Ennetmooserstrasse 19,6370,Stans,Kantonsspital Nidwalden,3123.0,189.0,1845.0,1207.0,,,,
+NW,Bürgenstock 30,6363,Obbürgen,Bürgenstock Hotels AG - Waldhotel Health & Medical Excellence Rehabilitationsklinik,,,,,,,,
+NW,Rosenweg 3,6370,Stans,Geburtshaus Stans,,,,,,,,
+OW,Brünigstrasse 181,6060,Sarnen,Kantonsspital Obwalden,2149.0,87.0,1806.0,507.0,240.0,12.0,,
+SG,Rorschacher Strasse 95,9007,St. Gallen,Kantonsspital St. Gallen,3460.5,999.75,2680.42857142857,1908.0,595.0,1298.0,207.771929824561,35.719298245614
+SG,Alte Landstrasse 106,9445,Rebstein,Spitalregion Rheintal Werdenberg Sarganserland,2980.0,464.5,2552.0,2550.0,110.0,789.0,130.1,10.5
+SG,Fürstenlandstrasse 32,9500,Wil SG,Spitalregion Fürstenland Toggenburg,2311.0,647.0,1417.0,1320.5,,,,
+SG,Brauerstrasse 95,9016,St. Gallen,Hirslanden Klinik Stephanshorn,2364.5,116.0,2690.0,1246.0,284.0,40.0,,
+SG,Gasterstrasse 25,8730,Uznach,Spital Linth,1836.0,321.0,3359.0,2860.0,232.0,86.0,310.3,9.0
+SG,Zürcherstrasse 30,9500,Wil SG,Psychiatrie St.Gallen Nord,,,,,,,,
+SG,,7312,Pfäfers,Psychiatrie-Dienste Süd,,,,,,,,
+SG,Sonnenhofstrasse 15,9608,Ganterschwil,Klinik Sonnenhof Kinder- & Jugendpsychiatrisches Zentrum,,,,,,,,
+SG,Taminaplatz 1,7317,Valens,Kliniken Valens,,,,,,,,
+SG,Rorschacher Strasse 311,9016,St. Gallen,Oberwaid AG Kurhotel & Privatklinik,,,,,,,,
+SG,Güterstrasse 21/23,8640,Rapperswil-Jona,Rosenklinik AG,,,,,,,,
+SG,Bahnhofstrasse 123a,9244,Niederuzwil,Thurklinik AG,,,,,,,,
+SG,Lindenstrasse 71,9000,St. Gallen,Geburtshaus St.Gallen GmbH,,,,,,,,
+SG,Claudiusstrasse 6,9006,St. Gallen,Stiftung Ostschweizer Kinderspital,,,308.0,199.0,,,,
+SG,Rorschacher Strasse 94,9000,St. Gallen,Geriatrische Klinik St. Gallen,,,,,,,,
+SH,Geissbergstrasse 81,8208,Schaffhausen,Spitäler Schaffhausen,,,3243.5,1624.0,69.0,22.0,306.823529411765,19.4117647058824
+SH,Rietstrasse 30,8200,Schaffhausen,SMN - Privatklinik Belair,,,,,,,,
+SO,Schöngrünstrasse 36a,4500,Solothurn,Solothurner Spitäler AG,2657.25,691.25,5286.33333333333,4371.66666666667,157.5,42.0,276.595744680851,18.9574468085106
+SO,Leopoldstrasse 5,4500,Solothurn,SMN - Privatklinik Obach,,,,,,,,
+SO,Louis-Giroud­Strasse 20,4600,Olten,Pallas Kliniken AG,,,,,,,,
+SZ,Waldeggstrasse 10,6430,Schwyz,Spital Schwyz,,,,,2989.0,14.0,451.0,17.1666666666667
+SZ,Oberdorfstrasse 41,8853,Lachen SZ,Spital Lachen,2423.0,290.0,2480.0,1719.0,500.0,94.0,274.411764705882,16.4117647058824
+SZ,Spitalstrasse 28,8840,Einsiedeln,AMEOS Spital Einsiedeln AG,,,785.0,691.0,,,,
+SZ,Gersauerstrasse 8,6440,Brunnen,AMEOS Seeklinikum Brunnen AG,,,,,,,,
+TG,Waldeggstrasse 8a,8501,Frauenfeld,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,4139.25,596.0,3115.0,2035.75,343.5,665.0,363.076923076923,22.5
+TG,Weinbergstrasse 1,8280,Kreuzlingen,Herz-Neuro-Zentrum Bodensee AG,,,,,671.0,549.0,,
+TG,Seeblickstrasse 3,8596,Münsterlingen,Spital Thurgau AG Psychiatrische Klinik Münsterlingen,,,,,,,,
+TG,Hauptstrasse 130,9573,Littenheid,Clienia Littenheid AG Klinik für Psychiatrie und Psychotherapie,,,,,,,,
+TG,Fohrenbergstrasse 23,8355,Aadorf,Klinik Aadorf AG Klinische Psychotherapie,,,,,,,,
+TG,Hauptstrasse 2­4,8588,Zihlschlacht,Rehaklinik Zihlschlacht AG Neurologisches Rehabilitationszentrum,,,,,,,,
+TG,Dr. A. O. Fleisch­Strasse 3,8265,Mammern,Klinik Schloss Mammern AG,,,0.0,136.0,,,,
+TG,Kurhausstrasse 34,8374,Dussnang,Rehaklinik Dussnang AG,,,,,,,,
+TG,St. Katharinental,8253,Diessenhofen,Spital Thurgau AG Klinik St. Katharinental,,,,,,,,
+TG,Seestrasse 101,8267,Berlingen,Tertianum AG Klinik Tertianum Neutal,,,,,,,,
+TG,Bernrainstrasse 17,8280,Kreuzlingen,Klinik Seeschau AG,,,0.0,0.0,,,,
+TG,Brückenstrasse 9,8280,Kreuzlingen,Venenklinik Bellevue AG,,,,,,,,
+TI,Viale Officina 3,6500,Bellinzona,EOC Ente ospedaliero cantonale,6040.5,861.25,4036.8,2376.2,651.5,985.0,313.520408163265,37.8571428571429
+TI,Via Moncucco 10,6900,Lugano,Clinica Luganese Moncucco SA,4545.0,513.0,4827.0,1888.0,158.0,85.0,,
+TI,Via Sant'Anna 1,6924,Sorengo,SMN - Clinica Sant'Anna,5225.0,154.0,2262.0,335.0,,,,
+TI,Via Stefano Franscini 4,6600,Locarno,Clinica Santa Chiara SA,3036.0,58.0,2563.0,491.0,,,,
+TI,Via Tesserete 48,6900,Lugano,Cardiocentro Ticino (CCT),135.0,1193.0,45.0,1012.0,125.0,625.0,,
+TI,Via Agostino Maspoli,6850,Mendrisio,Clinica psichiatrica cantonale,,,,,,,,
+TI,Via al Parco 27,6644,Orselina,Clinica Santa Croce SA,,,,,,,,
+TI,Via Ceresio 34b,6963,Pregassona,Clinica Viarnetto SA,,,,,,,,
+TI,,6980,Castelrotto,Ospedale Malcantonese Fondazione Giuseppe Rossi,,,,,,,,
+TI,Via Crodolo 18,6614,Brissago,Clinica Hildebrand - Centro di riabilitazione Brissago,,,,,,,,
+TI,Via Grumo 16,6929,Gravesano,SMN - Clinica Ars Medica,6707.0,44.0,2310.0,53.0,36.0,3.0,,
+TI,Via Consiglio Mezzano 38,6644,Orselina,Clinica Fondazione G. Varini,,,,,,,,
+TI,Via al Parco 27,6644,Orselina,Clinica Dr Spinedi c/o Clinica Santa Croce SA a.c.a. sig. Luca Santagostino,,,,,,,,
+UR,Spitalstrasse 1,6460,Altdorf UR,Kantonsspital Uri,2488.0,179.0,1856.0,1280.0,18.0,0.0,306.75,4.75
+VD,Rue du Bugnon 21,1011,Lausanne,CHUV Centre Hospitalier Universitaire Vaudois,2590.42857142857,780.285714285714,2610.66666666667,2554.83333333333,649.0,1520.0,203.32,56.5
+VD,Route du Vieux Séquoia 20,1847,Rennaz,Hôpital Riviera-Chablais Vaud-Valais,1933.0,378.5,3972.33333333333,2418.33333333333,,,392.533333333333,31.2
+VD,Rue d'Entremonts 11,1400,Yverdon­les­Bains,Etablissements Hospitaliers du Nord Vaudois (eHnv),1662.0,508.0,3631.5,2694.5,,,611.375,12.125
+VD,Chemin du Crêt 2,1110,Morges,EHC Ensemble hospitalier de la Côte,1658.5,149.0,5495.0,1250.0,212.0,214.0,273.333333333333,31.4666666666667
+VD,Chemin Monastier 10,1260,Nyon,Groupement Hospitalier de l'Ouest Lémanique (GHOL) SA,1036.0,12.5,2549.0,1288.0,,,417.461538461538,13.0769230769231
+VD,Avenue d'Ouchy 31,1006,Lausanne,Hirslanden Lausanne SA,3091.0,74.6666666666667,2832.0,350.0,56.0,681.0,403.666666666667,12.5
+VD,Avenue de la Colline 3,1530,Payerne,Hôpital Intercantonal de la Broye (HIB),4561.0,423.0,5266.0,2979.0,,,535.625,42.0
+VD,Avenue Vinet 30,1004,Lausanne,Clinique de La Source,3290.0,222.0,5253.0,245.0,896.0,677.0,,
+VD,Route du Muids 3,1272,Genolier,Clinique de Genolier,1296.25,97.5,1713.33333333333,129.0,390.0,319.0,,
+VD,Rue des Rosiers 29,1450,Ste­Croix,Réseau Santé Balcon du Jura.vd (RSBJ),,,,,,,,
+VD,Route de l'Hôpital 17,1660,Château­d'Oex,Pôle santé du Pays-d'Enhaut,,,635.0,190.0,,,126.75,0.0
+VD,Route de Nant,1804,Corsier­sur­Vevey,Secteur Psychiatrique Est Fondation de Nant,,,,,,,,
+VD,Avenue de Bois­Bougy 8,1260,Nyon,Clinique la Métairie SA,,,,,,,,
+VD,La Lignière 5,1196,Gland,Clinique la Lignière,,,,,,,,
+VD,Avenue de Bois­Bougy 5,1260,Nyon,Clinique Bois-Bougy Sàrl,,,,,,,,
+VD,Chemin des Colombaires 31,1096,Cully,Hôpital de Lavaux,,,,,,,,
+VD,Route de Valmont,1823,Glion,Clinique Valmont,,,,,,,,
+VD,Route du Vignoble 60,1175,Lavigny,Institution de Lavigny,,,,,,,,
+VD,Rue du Grammont 2,1815,Clarens,Clinique CIC Riviera,,,,,,,,
+VD,Chemin des Allinges 10,1006,Lausanne,Clinique de Montchoisi,2827.0,58.0,1522.0,31.0,,,,
+VD,Rue du Lac 142,1815,Clarens,Clinique la Prairie SA,5025.0,83.5,6595.0,293.0,,,,
+VD,Chemin des Cuarroz 57,1807,Blonay,Fondation Rive-Neuve - Unité de Soins Palliatifs,,,,,,,,
+VD,Rue Bon-Port 27,1820,Montreux,"Biotonus, Clinique Bon-Port SA centre de soins médicaux & esthétiques",,,,,,,,
+VD,Avenue de France 15,1004,Lausanne,Hôpital Ophtalmique Jules Gonin Fondation Asile des Aveugles,,,,,831.0,0.0,,
+VS,Avenue du Grand-Champsec 80,1950,Sion,Hôpital du Valais - Centre hospitalier du Valais Romand CHVR,1292.5,325.5,3333.25,1005.25,785.0,415.5,270.847826086957,28.6739130434783
+VS,Pflanzettastrasse 8,3930,Visp,Spital Wallis - Spitalzentrum Oberwallis (SZO),2892.0,528.0,2984.5,868.0,,,25.6666666666667,321.25
+VS,Avenue du Grand­Champsec 90,1950,Sion,Clinique romande de réadaptation CRR (Suva),,,,,,,,
+VS,Willy­Spühlerstrasse 2,3954,Leukerbad,Leukerbad Clinic RZL Rehabilitationszentrum Leukerbad Clinic AG,,,,,,,,
+VS,Rue de Pré­Fleuri 16,1950,Sion,SMN - Clinique de Valère,1402.0,0.0,976.0,104.0,,,,
+VS,Route du Léman 29,1907,Saxon,Clinique CIC Valais SA,,,,,,,,
+ZG,Landhausstrasse 11,6340,Baar,Zuger Kantonsspital AG,2761.5,296.0,6895.0,3033.0,177.0,63.0,481.642857142857,17.5
+ZG,Rigistrasse 1,6330,Cham,Andreas Klinik,3197.0,196.0,2033.0,832.0,,,,
+ZG,Widenstrasse 55,6317,Oberwil bei Zug,Triaplus AG,,,,,,,,
+ZG,Meisenbergstrasse 17,6300,Zug,Klinik Meissenberg AG,,,,,,,,
+ZG,Höhenweg 71,6314,Unterägeri,Klinik Adelheid AG,,,,,,,,
+ZH,Rämistrasse 100,8091,Zürich,Universitätsspital Zürich,3592.28571428571,905.428571428571,2800.75,2313.5,373.166666666667,447.166666666667,393.833333333333,158.111111111111
+ZH,Brauerstrasse 15,8400,Winterthur,Kantonsspital Winterthur,2664.5,581.0,5001.0,3577.0,536.5,984.0,385.269230769231,31.3461538461538
+ZH,Birmensdorferstrasse 497,8063,Zürich,Stadtspital Triemli,3852.5,1038.0,9526.0,2381.33333333333,463.25,1048.75,,
+ZH,Witellikerstrasse 40,8008,Zürich,Klinik Hirslanden AG,3004.16666666667,352.0,2100.83333333333,930.666666666667,176.166666666667,499.0,0.0,14.2
+ZH,Brunnenstrasse 42,8610,Uster,Spital Uster,,,2410.0,2772.0,,,0.0,21.5
+ZH,Tièchestrasse 99,8037,Zürich,Stadtspital Waid,3122.0,1205.0,7567.0,7130.0,525.0,486.0,387.926829268293,11.0243902439024
+ZH,Urdorferstrasse 100,8952,Schlieren,Spital Limmattal,5101.0,737.0,4979.0,3912.0,490.0,272.0,,
+ZH,Trichtenhauserstrasse 20,8125,Zollikerberg,Spital Zollikerberg,2368.0,334.0,3198.0,2976.0,497.0,76.0,299.535714285714,10.1071428571429
+ZH,Spitalstrasse 24,8180,Bülach,Spital Bülach AG,,,4219.0,2693.0,,,,
+ZH,Asylstrasse 19,8810,Horgen,See-Spital,632.0,3.0,2844.0,2963.0,,,235.111111111111,10.5555555555556
+ZH,Spitalstrasse 66,8620,Wetzikon ZH,GZO Spital Wetzikon,2510.0,204.0,5658.0,3930.0,452.0,133.0,274.071428571429,8.42857142857143
+ZH,Asylstrasse 10,8708,Männedorf,Spital Männedorf AG,,,2834.0,2173.0,,,,
+ZH,Seestrasse 220,8002,Zürich,Klinik Im Park,3803.5,154.5,3950.0,969.0,525.0,104.0,249.75,24.75
+ZH,Sonnenbergstrasse 27,8910,Affoltern am Albis,Spital Affoltern AG,,,1101.0,386.0,,,,
+ZH,Toblerstrasse 51,8044,Zürich,Privatklinik Bethanien - GSMN Schweiz AG,,,,,11.0,152.0,,
+ZH,Bergstrasse 16,8805,Richterswil,Paracelsus-Spital Richterswil AG,,,9.0,946.0,,,,
+ZH,Lenggstrasse 31,8032,Zürich,Psychiatrische Universitäts-Klinik Zürich,,,,,,,,
+ZH,Wieshofstrasse 102,8408,Winterthur,Integrierte Psychiatrie Winterthur IPW,,,,,,,,
+ZH,Schlösslistrasse 8,8618,Oetwil am See,Clienia Schlössli AG,,,,,,,,
+ZH,Alte Landstrasse 70,8802,Kilchberg ZH,Sanatorium Kilchberg,,,,,,,,
+ZH,Islikonerstrasse 5,8548,Ellikon an der Thur,Forel Klinik AG,,,,,,,,
+ZH,Hohenegg 1,8706,Meilen,Privatklinik Hohenegg AG,,,,,,,,
+ZH,Zum Park 20,8404,Winterthur,Modellstation SOMOSA,,,,,,,,
+ZH,Emil-Klöti-Strasse 14-18,8037,Zürich,Suchtfachklinik Zürich,,,,,,,,
+ZH,Faltigbergstrasse 7,8636,Wald ZH,Zürcher RehaZentren,,,,,,,,
+ZH,Grütstrasse 60,8802,Kilchberg ZH,RehaClinic Kilchberg,,,,,,,,
+ZH,Trichtenhauserstrasse 20,8125,Zollikerberg,RehaClinic Zollikerberg,,,,,,,,
+ZH,Urdorferstrasse 100,8952,Schlieren,RehaClinic Limmattal,,,,,,,,
+ZH,Forchstrasse 340,8008,Zürich,Universitätsklinik Balgrist,3704.2,175.0,4675.5,488.5,,,,
+ZH,Lengghalde 2,8008,Zürich,Schulthess Klinik,,,,,,,,
+ZH,Schickstrasse 11,8400,Winterthur,Privatklinik Lindberg - GSMN Schweiz AG,,,,,,,60.375,0.0
+ZH,Zürichstrasse 5,8180,Bülach,Uroviva Klinik AG,,,,,,,,
+ZH,Bellerivestrasse 34,8008,Zürich,Klinik Pyramide am See AG,,,,,,,,
+ZH,Hardturmstrasse 133,8005,Zürich,Limmatklinik AG,,,,,,,,
+ZH,Breitestrasse 11,8157,Dielsdorf,Adus Medica AG,,,,,,,,
+ZH,Dammstrasse 29,8702,Zollikon,Klinik Tiefenbrunnen AG,,,,,,,,
+ZH,Brunngasse 6,8400,Winterthur,Eulachklinik AG,,,,,,,,
+ZH,Schürlistrasse 3,8344,Bäretswil,Geburtshaus Zürcher Oberland AG,,,,,,,,
+ZH,Badenerstrasse 177,8003,Zürich,Geburtshaus Delphys,,,,,,,,
+ZH,Steinwiesstrasse 75,8032,Zürich,Universitäts-Kinderspital Zürich - Das Spital der Eleonorenstiftung,2408.0,540.5,477.0,630.0,0.0,304.0,22.0,15.5
+ZH,Bleulerstrasse 60,8008,Zürich,Klinik Lengg AG,,,,,,,,
+ZH,Schreberweg 9,8044,Zürich,Klinik Susenberg,,,,,,,,
+ZH,Konradstrasse 62,8005,Zürich,Sune-Egge,,,,,,,,
+,Chemin de la Planche 1,1217,Meyrin,Clinique des Vergers SA,,,,,,,,
+,Rue de l_x0019_ Hôpital 3,1347,Le Sentier,Pôle santé Vallée de Joux Hôpital de la Vallée de Joux,,,,,,,,
+,,,,Ganze Schweiz,2775.4976744186,452.655813953488,2930.62557077626,1786.47945205479,457.8125,489.2109375,301.644253322909,48.4925723221267
+AG,Tellstrasse 25,5000,Aarau,Kantonsspital Aarau AG,2783.0,929.25,2628.75,2417.5,227.25,293.75,298.087719298246,11.6666666666667
+AG,Im Ergel,5404,Baden,Kantonsspital Baden AG,2822.0,516.6,3930.2,2911.4,346.5,695.0,409.785714285714,18.3333333333333
+AG,Schänisweg 1,5000,Aarau,Hirslanden Klinik Aarau,3316.0,286.0,1696.5,1058.5,192.333333333333,637.333333333333,9.66666666666667,249.666666666667
+AG,Riburgerstrasse 12,4310,Rheinfelden,Gesundheitszentrum Fricktal,2814.0,274.0,2124.0,1751.0,,,,
+AG,Spitalstrasse 144,5630,Muri AG,Stiftung Spital Muri,2979.0,131.0,3509.0,2031.0,,,306.538461538462,2.53846153846154
+AG,Mühlethalstrasse 27,4800,Zofingen,Spital Zofingen AG,1900.0,121.0,2930.0,2169.0,,,,
+AG,Kommendeweg 12,5316,Leuggern,Asana Spital Leuggern AG,,,,,,,,
+AG,Spitalstrasse 1,5737,Menziken,Asana Spital Menziken AG,,,616.0,731.0,,,,
+AG,Königsfelderstrasse 1,5210,Windisch,Psychiatrische Dienste Aargau AG,,,,,,,,
+AG,Bahnhofstrasse 19,4310,Rheinfelden,Schützen Rheinfelden AG Klinik & Ambulatorium,,,,,,,,
+AG,Hasel 837,5728,Gontenschwil,Klinik Im Hasel AG,,,,,,,,
+AG,Zürcherstrasse 52,5432,Neuenhof,Klinik für Suchttherapie Drogenentzug / Übergang / Krisenintervention,,,,,,,,
+AG,Badstrasse 33,5330,Bad Zurzach,Klinik für Schlafmedizin,,,,,,,,
+AG,,5017,Barmelweid,Klinik Barmelweid AG,,,,,,,,
+AG,Mutschellenstrasse 2,5454,Bellikon,Rehaklinik Bellikon,145.0,419.0,14.0,310.0,,,,
+AG,Quellenstrasse 34,5330,Bad Zurzach,RehaClinic Zurzach,,,,,,,,
+AG,Salinenstrasse 98,4310,Rheinfelden,Reha Rheinfelden,,,,,,,,
+AG,Badstrasse 55,5116,Schinznach Bad,aarReha Schinznach Zentrum für Rehabilitation,,,,,,,,
+AG,Bäderstrasse 16,5401,Baden,RehaClinic Baden,,,,,,,,
+AG,Badstrasse 50,5116,Schinznach Bad,Bad Schinznach AG - Privat-Klinik Im Park,,,,,,,,
+AG,Roberstenstrasse 31,4310,Rheinfelden,Privatklinik SALINA Salina Medizin AG,,,,,,,,
+AG,Bernstrasse 84,4852,Rothrist,SMN - Klinik Villa im Park,,,,,,,,
+AI,Sonnhalde 2,9050,Appenzell,Kantonales Spital Appenzell,,,,,,,,
+AI,Im Park 1,9057,Weissbad,Hof Weissbad AG Nachbehandlungs-Zentrum,,,,,,,,
+AR,Krombach 3,9100,Herisau,"Spitalverbund Appenzell Ausserrhoden, Akutsomatisches Spital Heiden/Herisau",,,406.0,559.0,221.0,1.0,266.454545454545,16.0909090909091
+AR,Krombach 3,9100,Herisau,"Spitalverbund Appenzell Ausserrhoden, Psychiatrisches Zentrum",,,,,,,,
+AR,Gäbrisstrasse 1172,9056,Gais,"Klinik Gais AG Kardiale Rehabilitation, Psychosomatik und Psychotherapie",,,,,,,,
+AR,Dorf,9428,Walzenhausen,Stiftung Kliniken Valens - Rheinburg-Klinik,,,,,,,,
+AR,Vögelinsegg 5,9042,Speicher,Berit Klinik AG,,,,,,,,
+AR,Hasenbühlstrasse 11,9410,Heiden,Hirslanden Klinik Am Rosenberg AG,,,,,,,,
+BE,Freiburgstrasse 18,3010,Bern,Insel Gruppe AG (universitär),2207.8,707.3,2265.28571428571,1492.0,180.636363636364,716.545454545455,171.548387096774,48.9032258064516
+BE,Bremgartenstrasse 117,3012,Bern,Lindenhofgruppe AG,1982.3,92.5,2084.83333333333,618.833333333333,140.0,553.0,639.818181818182,62.5454545454545
+BE,Freiburgstrasse 18,3010,Bern,Insel Gruppe AG (nicht-universitär),2277.33333333333,209.333333333333,1441.0,1476.0,109.0,352.0,232.0,2.05555555555556
+BE,Krankenhausstrasse 12,3600,Thun,Spital STS AG,2692.5,6.0,2052.0,57.0,15.0,178.0,305.125,1.625
+BE,Schänzlihalde 11,3013,Bern,Hirslanden Bern AG,3199.5,227.0,2049.0,1384.33333333333,651.6,543.8,333.076923076923,12.6153846153846
+BE,Oberburgstrasse 54,3400,Burgdorf,Regionalspital Emmental AG,2040.66666666667,184.333333333333,2141.0,1721.0,31.0,2.0,378.666666666667,16.1666666666667
+BE,Vogelsang 84,2502,Biel,Spitalzentrum Biel AG,2303.0,406.0,1886.0,1703.5,398.5,317.5,610.052631578947,33.3157894736842
+BE,Weissenaustrasse 27,3800,Unterseen,Spitäler Frutigen Meiringen Interlaken AG,2475.5,317.0,1554.0,1462.0,,,234.142857142857,11.2857142857143
+BE,St. Urbanstrasse 67,4900,Langenthal,SRO AG,2735.5,292.0,2896.5,1867.0,,,274.947368421053,10.3157894736842
+BE,Les Fontenayes 17,2610,St­Imier,Hôpital du Jura bernois SA,1105.5,70.0,1289.5,309.0,,,,
+BE,Blumenrain 105,2503,Biel,Hirslanden Klinik Linde AG,2850.33333333333,74.6666666666667,4015.0,950.0,3071.0,348.0,,
+BE,Worbstrasse 316,3073,Gümligen,Siloah AG,,,,,,,,
+BE,Beausite 49,2740,Moutier,Hôpital de Moutier SA,1746.0,119.0,,,,,163.4,20.4
+BE,Schänzlistrasse 15,3013,Bern,Stiftung Diaconis Palliative Care,,,,,,,,
+BE,Bolligenstrasse 111,3072,Ostermundigen,Universitäre Psychiatrische Dienste Bern (UPD) AG,,,,,,,,
+BE,Hunzigenallee 1,3110,Münsingen,PZM Psychiatriezentrum Münsingen AG,,,,,,,,
+BE,Willigen,3860,Meiringen,Privatklinik Reichenbach bei Meiringen AG,,,,,,,,
+BE,Fellenbergstrasse 32,3053,Münchenbuchsee,Privatklinik Wyss AG,,,,,,,,
+BE,Südhang 1,3038,Kirchlindach,Stiftung südhang Klinik für Suchttherapien,,,,,,,,
+BE,Weissensteinstrasse 30,4900,Langenthal,Stiftung für ganzheitliche Medizin,,,,,,,,
+BE,Waldrandweg 19,3360,Herzogenbuchsee,Klinik Wysshölzli Marie Sollberger-Stiftung,,,,,,,,
+BE,Emmentalstrasse 8,3400,Burgdorf,Stiftung Klinik Selhofen,,,,,,,,
+BE,Bühlstrasse 19a,3012,Bern,Interessengemeinschaft Sozialpsychiatrie IGS (Verein),,,,,,,,
+BE,Schwendi 303,3625,Heiligenschwendi,Berner Reha Zentrum AG,,,,,,,,
+BE,Bethesda 8,3233,Tschugg,Fürsorgeverein Bethesda,,,,,,,,
+BE,Schönbergstrasse 40,3654,Gunten,Klinik Schönberg AG,,,,,,,,
+BE,Postgasse 56,3011,Bern,Berner Klinik Montana (Stiftung),,,,,,,,
+BE,Laueli 89b,6083,Hasliberg Hohfluh,Rehaklinik Hasliberg AG,,,,,,,,
+BE,Panoramastrasse 20,3854,Oberried am Brienzersee,Kurklinik Eden AG,,,,,,,,
+BE,Worbstrasse 316,3073,Gümligen,SMN - Privatklinik Siloah,,,,,,,,
+BE,Hohmadstrasse 1,3600,Thun,Klinik Hohmad AG,,,,,,,,
+BE,Oberdorfstrasse 56,3072,Ostermundigen,Geburtshaus Luna AG,,,,,,,,
+BE,Eggetlistrasse 5a,3770,Zweisimmen,Genossenschaft Geburtshaus Simmental-Saaneland - Maternité Alpine,,,,,,,,
+BL,Mühlemattstrasse 26,4410,Liestal,Kantonsspital Baselland,2976.0,555.5,2271.75,1850.0,164.5,346.25,338.189189189189,24.2432432432432
+BL,Pfeffingerweg 1,4144,Arlesheim,Klinik Arlesheim AG,,,,,,,,
+BL,Stollenrain 12,4144,Arlesheim,Hospiz im Park,,,,,,,,
+BL,Bienentalstrasse 7,4410,Liestal,Psychiatrie Baselland,,,,,,,,
+BL,Gstadstrasse 42,4153,Reinach BL,Klinik ESTA,,,,,,,,
+BL,Reinacherstrasse 28,4142,Münchenstein,Hirslanden Klinik Birshof,4709.0,23.0,1159.0,36.0,,,,
+BL,Kriegackerstrasse 100,4132,Muttenz,Praxisklinik Rennbahn AG,,,,,,,,
+BL,Unterdorfstrasse 25,4443,Wittinsburg,Geburtshaus ambra GmbH,,,,,,,,
+BL,Hauptstrasse 26,4133,Pratteln,Geburtshaus Tagmond GmbH,,,,,,,,
+BL,Hammerstrasse 35,4410,Liestal,Ergolz-Klinik,,,,,,,,
+BL,Hauptstrasse 55,4102,Binningen,Vista Klinik,,,,,,,,
+BS,Hebelstrasse 32,4031,Basel,Universitätsspital Basel,2560.2,1289.4,8292.33333333333,5453.66666666667,115.0,588.0,332.4,64.6285714285714
+BS,Kleinriehenstrasse 30,4058,Basel,St. Claraspital,2725.0,849.0,1773.33333333333,1241.33333333333,66.0,194.0,,
+BS,Gellertstrasse 144,4052,Basel,Bethesda Spital AG,3461.0,405.0,1241.0,317.0,,,1203.25,0.5
+BS,Wilhelm­Klein­Strasse 27,4056,Basel,Universitäre Psychiatrische Kliniken Basel,,,,,,,,
+BS,Gänshaldenweg 22,4125,Riehen,Klinik Sonnenhalde,,,,,,,,
+BS,Im Burgfelderhof 40,4055,Basel,REHAB Basel,,,,,,,,
+BS,Föhrenstrasse 2,4054,Basel,Merian Iselin Klinik,3757.5,33.5,1145.5,197.0,0.0,122.0,,
+BS,Klybeckstrasse 64/70,4057,Basel,Matthea Geburtshaus,,,,,,,,
+BS,Schweizergasse 8,4054,Basel,Geburtshaus Basel,,,,,,,,
+BS,Spitalstrasse 33,4056,Basel,Universitäts-Kinderspital beider Basel (UKBB),3142.0,1105.0,351.0,341.0,,,,
+BS,Burgfelderstrasse 101,4055,Basel,Felix Platter-Spital,,,108.0,1404.0,,,,
+BS,Mittlere Strasse 15,4056,Basel,Adullam Spital,,,,,,,,
+BS,St. Alban­Ring 151,4052,Basel,Palliativzentrum Hildegard,,,,,,,,
+BS,Hirschgässlein 11,4051,Basel,SMN - Schmerzklinik Basel,,,446.0,14.0,,,,
+FR,Case postale,1708,Fribourg,HFR - Hôpital fribourgeois,2015.0,618.0,2374.4,1862.6,669.0,909.0,355.055555555556,16.0833333333333
+FR,Route de Bertigny 34,1700,Fribourg,Hôpital Jules Daler,,,,,,,,
+FR,L'Hôpital 140,1633,Marsens,Réseau fribourgeois de santé mentale - RFSM Centre de soins hospitaliers,,,,,,,,
+FR,Rue Hans­Geiler 6,1700,Fribourg,SMN - Clinique Générale - Ste-Anne SA,,,,,,,,
+FR,Route du Petit­Moncor 1d,1752,Villars­sur­Glâne,Maison de Naissance le Petit Prince,,,,,,,,
+GE,Rue Gabrielle­Perret­Gentil 4,1205,Genève,Les Hôpitaux Universitaires de Genève HUG,1366.66666666667,685.333333333333,3060.33333333333,3402.66666666667,138.666666666667,492.666666666667,255.48275862069,102.0
+GE,Avenue Jacob­Daniel Maillard 3,1217,Meyrin,Hôpital de la Tour,2881.33333333333,140.0,4759.0,518.0,935.5,680.5,655.428571428571,33.2857142857143
+GE,Chemin des Grangettes 7,1224,Chêne­Bougeries,Clinique des Grangettes SA,3704.0,0.0,3201.5,0.0,647.0,739.0,,
+GE,Chemin de Beau­Soleil 20,1206,Genève,Clinique Générale-Beaulieu,2415.0,113.5,2003.5,267.0,0.0,0.0,,
+GE,Avenue du Grand-Salève 2,1255,Veyrier,Clinique du Grand-Salève Sàrl,,,,,,,,
+GE,Route de Chêne 26,1207,Genève,Clinique Belmont,,,,,,,,
+GE,Avenue de Châtelaine 60­62,1219,Châtelaine,Clinique de Maisonneuve SA,,,,,,,,
+GE,Chemin des Courbes 9,1247,Anières,Clinique Les Hauts d'Anières,,,,,,,,
+GE,Avenue de Beau­Séjour 6,1206,Genève,Clinique la Colline,,,,,,,,
+GE,Chemin de la Planche 1,1217,Meyrin,Clinique des Vergers SA,,,,,,,,
+GE,Rue Charles­Humbert 5,1205,Genève,Clinique de la Plaine,,,,,,,,
+GE,Avenue Cardinal­Mermillod 1,1227,Carouge GE,Clinique de Carouge AG,,,,,,,,
+GE,Chemin du Châtelet 3,1205,Genève,Maison de naissance La Roseraie,,,,,,,,
+GL,Burgstrasse 99,8750,Glarus,Kantonsspital Glarus,4001.0,459.0,2703.0,1530.0,322.0,24.0,394.75,21.0
+GL,Niederschlachtstrasse 12,8784,Braunwald,RehaClinic Braunwald,,,,,,,,
+GL,Burgstrasse 99,8750,Glarus,RehaClinic Glarus,,,,,,,,
+GR,Loestrasse 170,7000,Chur,Kantonsspital Graubünden,5129.0,1248.0,7768.0,6665.5,5165.0,2175.0,468.789473684211,25.2105263157895
+GR,Via Nouva 3,7503,Samedan,Spital Oberengadin,1960.0,164.0,1656.0,1027.0,,,115.666666666667,4.66666666666667
+GR,,7220,Schiers,Flury Stiftung Spital Schiers,1778.0,263.0,1285.0,1245.0,2.0,116.0,,
+GR,Spitalstrasse 6,7130,Ilanz,Regionalspital Surselva AG,2232.0,204.0,2445.0,1279.0,,,,
+GR,Promenade 4,7270,Davos Platz,Spital Davos AG Akutabteilung,,,1077.0,618.0,,,162.0,3.4
+GR,Via da l'Ospidal 280,7550,Scuol,Center da Sanda Engiadina Bassa Ospidal d'Engiadina Bassa,,,471.0,375.0,,,,
+GR,Alte Strasse 31,7430,Thusis,Spital Thusis,385.0,15.0,555.0,283.0,,,,
+GR,Via da l'Uspedal 1000,7742,Poschiavo,Centro Sanitario Valposchiavo Ospedale San Sisto,,,,,,,,
+GR,Flin,7606,Promontogno,Centro Sanitario Bregaglia Reparto Acuto,,,,,,,,
+GR,Sielva,7536,Sta. Maria V. M.,Center da Sanda Val Müstair Akutabteilung,,,,,,,,
+GR,Stradung 52,7460,Savognin,Center da Sanadad Savognin SA,,,117.0,96.0,,,,
+GR,Loestrasse 220,7000,Chur,Psychiatrische Dienste Graubünden,,,,,,,,
+GR,Praz,7542,Susch,Clinica Holistica Engiadina SA,,,,,,,,
+GR,Herman­Burchard­Strasse 1,7265,Davos Wolfgang,Hochgebirgsklinik Davos AG,,,,,,,,
+GR,Schlossstrasse 1,7212,Seewis Dorf,Rehabilitationszentrum Seewis Klinik für Herz- & Kreislauferkrankungen,,,,,,,,
+GR,Veia Granda,7440,Andeer,reha andeer ag Rehabilitationsklinik,,,,,,,,
+GR,Via Arona 34,7500,St. Moritz,Klinik Gut St. Moritz AG,2605.0,150.0,,,,,,
+JU,Chemin de l'Hôpital 9a,2900,Porrentruy,Hôpital du Jura,2574.5,320.5,2352.5,1617.0,,,350.25,13.9375
+JU,Chemin de Roc­Montès 20,2340,Le Noirmont,Clinique le Noirmont,,,,,,,,
+JU,Route Principale 21,2824,Vicques,Maison de naissance Les Cigognes,,,,,,,,
+LU,Spitalstrasse,6004,Luzern,Luzerner Kantonsspital,2592.6,581.4,3136.5,1737.16666666667,56.5714285714286,156.142857142857,206.941176470588,20.5882352941176
+LU,St. Anna­Strasse 32,6006,Luzern,Hirslanden Klinik St. Anna AG,3588.25,344.5,2693.5,935.25,69.5,869.0,230.5,11.25
+LU,Schafmattstrasse 1,4915,St. Urban,Luzerner Psychiatrie,,,,,,,,
+LU,Rütliweg 1,6045,Meggen,Therapiezentrum Meggen,,,,,,,,
+LU,Route de l'Astoria 2,3963,Crans-Montana,Luzerner Höhenklinik Montana,,,,,,,,
+LU,Hemschlenstrasse,6006,Luzern,RehaClinic Sonnmatt Luzern,,,,,,,,
+LU,Hertensteinstrasse 162,6353,Weggis,Cereneo Schweiz AG Neurorehabilitationsklinik,inf,inf,,,,,,
+LU,Schellenrain 20,6208,Oberkirch LU,Geburtshaus Terra Alta,,,,,,,,
+LU,Guido A. Zäch Strasse 1,6207,Nottwil,Schweizer Paraplegiker-Zentrum Nottwil AG,3755.0,554.0,901.0,641.0,,,,
+NE,Maladière 45,2000,Neuchâtel,Réseau hospitalier neuchâtelois RHNe,2871.5,681.0,4656.5,4100.0,92.0,210.0,,
+NE,Faubourg de l'Hôpital 81,2001,Neuchâtel,SMN - Neuchâtel,,,,,227.0,31.0,366.264705882353,16.0882352941176
+NE,Rue Numa-Droz 185,2300,La Chaux­de­Fonds,Clinique Volta SA,,,,,,,,
+NE,,2017,Boudry,CNP Centre Neuchâtelois de psychiatrie,,,,,,,,
+NE,Chemin des Valangines 9,2000,Neuchâtel,Maison de Naissance Tilia Sàrl,,,,,,,,
+NW,Ennetmooserstrasse 19,6370,Stans,Kantonsspital Nidwalden,3029.0,217.0,1939.0,1259.0,,,,
+NW,Bürgenstock 30,6363,Obbürgen,Bürgenstock Hotels AG - Waldhotel Health & Medical Excellence Rehabilitationsklinik,,,,,,,,
+NW,Rosenweg 3,6370,Stans,Geburtshaus Stans,,,,,,,,
+OW,Brünigstrasse 181,6060,Sarnen,Kantonsspital Obwalden,2418.0,6.0,1637.0,98.0,234.0,6.0,,
+SG,Rorschacher Strasse 95,9007,St. Gallen,Kantonsspital St. Gallen,3536.75,1009.5,2741.57142857143,1967.71428571429,638.0,1325.0,218.491228070175,35.1228070175439
+SG,Alte Landstrasse 106,9445,Rebstein,Spitalregion Rheintal Werdenberg Sarganserland,3205.0,538.5,2665.0,2896.66666666667,130.5,537.0,196.5,16.9
+SG,Fürstenlandstrasse 32,9500,Wil SG,Spitalregion Fürstenland Toggenburg,2117.0,592.0,1417.0,1467.0,,,,
+SG,Brauerstrasse 95,9016,St. Gallen,Hirslanden Klinik Stephanshorn,2348.5,85.0,2711.0,1056.0,341.0,88.0,,
+SG,Gasterstrasse 25,8730,Uznach,Spital Linth,2005.5,328.5,3463.0,3380.0,280.0,90.0,375.7,1.0
+SG,Zürcherstrasse 30,9500,Wil SG,Psychiatrie St.Gallen Nord,,,,,,,,
+SG,,7312,Pfäfers,Psychiatrie-Dienste Süd,,,,,,,,
+SG,Sonnenhofstrasse 15,9608,Ganterschwil,Klinik Sonnenhof Kinder- & Jugendpsychiatrisches Zentrum,,,,,,,,
+SG,Taminaplatz 1,7317,Valens,Kliniken Valens,,,,,,,,
+SG,Rorschacher Strasse 311,9016,St. Gallen,Oberwaid AG Kurhotel & Privatklinik,,,,,,,,
+SG,Güterstrasse 21/23,8640,Rapperswil-Jona,Rosenklinik AG,,,,,,,,
+SG,Bahnhofstrasse 123a,9244,Niederuzwil,Thurklinik AG,,,,,,,,
+SG,Lindenstrasse 71,9000,St. Gallen,Geburtshaus St.Gallen GmbH,,,,,,,,
+SG,Claudiusstrasse 6,9006,St. Gallen,Stiftung Ostschweizer Kinderspital,,,320.0,252.0,,,,
+SG,Rorschacher Strasse 94,9000,St. Gallen,Geriatrische Klinik St. Gallen,,,,,,,,
+SH,Geissbergstrasse 81,8208,Schaffhausen,Spitäler Schaffhausen,,,3057.0,1965.0,92.0,25.0,355.705882352941,10.1176470588235
+SH,Rietstrasse 30,8200,Schaffhausen,SMN - Privatklinik Belair,,,,,,,,
+SO,Schöngrünstrasse 36a,4500,Solothurn,Solothurner Spitäler AG,1973.8,545.2,3329.8,3245.4,187.5,49.0,365.541666666667,27.2708333333333
+SO,Leopoldstrasse 5,4500,Solothurn,SMN - Privatklinik Obach,,,,,,,,
+SO,Louis-Giroud­Strasse 20,4600,Olten,Pallas Kliniken AG,,,,,,,,
+SZ,Waldeggstrasse 10,6430,Schwyz,Spital Schwyz,,,,,2913.0,157.0,453.333333333333,17.1666666666667
+SZ,Oberdorfstrasse 41,8853,Lachen SZ,Spital Lachen,2578.0,274.0,2459.0,1869.0,477.0,96.0,270.176470588235,19.7058823529412
+SZ,Spitalstrasse 28,8840,Einsiedeln,AMEOS Spital Einsiedeln AG,,,659.0,635.0,,,,
+SZ,Gersauerstrasse 8,6440,Brunnen,AMEOS Seeklinikum Brunnen AG,,,,,,,,
+TG,Waldeggstrasse 8a,8501,Frauenfeld,Spital Thurgau AG Kantonsspitäler Frauenfeld & Münsterlingen,3353.66666666667,721.333333333333,3160.75,1928.75,720.0,1150.0,377.961538461538,23.4230769230769
+TG,Weinbergstrasse 1,8280,Kreuzlingen,Herz-Neuro-Zentrum Bodensee AG,,,,,35.0,1285.0,,
+TG,Seeblickstrasse 3,8596,Münsterlingen,Spital Thurgau AG Psychiatrische Klinik Münsterlingen,,,,,,,,
+TG,Hauptstrasse 130,9573,Littenheid,Clienia Littenheid AG Klinik für Psychiatrie und Psychotherapie,,,,,,,,
+TG,Fohrenbergstrasse 23,8355,Aadorf,Klinik Aadorf AG Klinische Psychotherapie,,,,,,,,
+TG,Hauptstrasse 2­4,8588,Zihlschlacht,Rehaklinik Zihlschlacht AG Neurologisches Rehabilitationszentrum,,,,,,,,
+TG,Dr. A. O. Fleisch­Strasse 3,8265,Mammern,Klinik Schloss Mammern AG,,,0.0,110.0,,,,
+TG,Kurhausstrasse 34,8374,Dussnang,Rehaklinik Dussnang AG,,,,,,,,
+TG,St. Katharinental,8253,Diessenhofen,Spital Thurgau AG Klinik St. Katharinental,,,,,,,,
+TG,Seestrasse 101,8267,Berlingen,Tertianum AG Klinik Tertianum Neutal,,,,,,,,
+TG,Bernrainstrasse 17,8280,Kreuzlingen,Klinik Seeschau AG,,,0.0,0.0,,,,
+TG,Brückenstrasse 9,8280,Kreuzlingen,Venenklinik Bellevue AG,,,,,,,,
+TI,Viale Officina 3,6500,Bellinzona,EOC Ente ospedaliero cantonale,5280.0,785.75,3926.6,2477.0,663.25,1055.5,304.918367346939,33.234693877551
+TI,Via Moncucco 10,6900,Lugano,Clinica Luganese Moncucco SA,3720.0,457.0,4050.0,2910.0,95.0,1147.0,,
+TI,Via Stefano Franscini 4,6600,Locarno,Clinica Santa Chiara SA,3645.0,105.0,3258.0,1473.0,,,,
+TI,Via Sant'Anna 1,6924,Sorengo,SMN - Clinica Sant'Anna,4722.0,95.0,2389.0,329.0,,,,
+TI,Via Tesserete 48,6900,Lugano,Cardiocentro Ticino (CCT),995.0,99.0,868.0,38.0,116.5,530.0,,
+TI,Via Agostino Maspoli,6850,Mendrisio,Clinica psichiatrica cantonale,,,,,,,,
+TI,Via al Parco 27,6644,Orselina,Clinica Santa Croce SA,,,,,,,,
+TI,Via Ceresio 34b,6963,Pregassona,Clinica Viarnetto SA,,,,,,,,
+TI,,6980,Castelrotto,Ospedale Malcantonese Fondazione Giuseppe Rossi,,,,,,,,
+TI,Via Crodolo 18,6614,Brissago,Clinica Hildebrand - Centro di riabilitazione Brissago,,,,,,,,
+TI,Via Grumo 16,6929,Gravesano,SMN - Clinica Ars Medica,6236.0,32.0,2347.0,57.0,31.0,2.0,,
+TI,Via Consiglio Mezzano 38,6644,Orselina,Clinica Fondazione G. Varini,,,,,,,,
+TI,Via al Parco 27,6644,Orselina,Clinica Dr Spinedi c/o Clinica Santa Croce SA a.c.a. sig. Luca Santagostino,,,,,,,,
+UR,Spitalstrasse 1,6460,Altdorf UR,Kantonsspital Uri,2512.0,193.0,1851.0,1135.0,28.0,3.0,267.375,10.5
+VD,Rue du Bugnon 21,1011,Lausanne,CHUV Centre Hospitalier Universitaire Vaudois,2433.57142857143,792.0,2421.83333333333,2604.66666666667,565.0,1417.66666666667,191.452830188679,51.8679245283019
+VD,Route du Vieux Séquoia 20,1847,Rennaz,Hôpital Riviera-Chablais Vaud-Valais,2284.0,572.5,6730.5,4877.5,,,447.428571428571,37.0
+VD,Chemin du Crêt 2,1110,Morges,EHC Ensemble hospitalier de la Côte,1863.0,163.0,3389.0,4029.0,365.0,211.0,277.533333333333,23.4
+VD,Rue d'Entremonts 11,1400,Yverdon­les­Bains,Etablissements Hospitaliers du Nord Vaudois (eHnv),1706.0,464.0,4237.5,2894.5,,,604.0625,20.4375
+VD,Chemin Monastier 10,1260,Nyon,Groupement Hospitalier de l'Ouest Lémanique (GHOL) SA,1422.0,15.0,3404.0,2118.0,,,439.230769230769,20.5384615384615
+VD,Avenue d'Ouchy 31,1006,Lausanne,Hirslanden Lausanne SA,3007.66666666667,72.0,3492.0,239.0,76.0,798.0,396.25,11.9166666666667
+VD,Avenue de la Colline 3,1530,Payerne,Hôpital Intercantonal de la Broye (HIB),3797.0,432.0,4974.0,3137.0,,,535.875,19.25
+VD,Avenue Vinet 30,1004,Lausanne,Clinique de La Source,3268.66666666667,101.0,4719.0,788.5,998.0,345.0,,
+VD,Rue de l_x0019_ Hôpital 3,1347,Le Sentier,Pôle santé Vallée de Joux Hôpital de la Vallée de Joux,,,,,,,,
+VD,Route du Muids 3,1272,Genolier,Clinique de Genolier,1599.33333333333,120.333333333333,1760.33333333333,132.333333333333,387.0,316.0,,
+VD,Rue des Rosiers 29,1450,Ste­Croix,Réseau Santé Balcon du Jura.vd (RSBJ),,,,,,,,
+VD,Route de l'Hôpital 17,1660,Château­d'Oex,Pôle santé du Pays-d'Enhaut,,,696.0,184.0,,,91.0,0.0
+VD,Route de Nant,1804,Corsier­sur­Vevey,Secteur Psychiatrique Est Fondation de Nant,,,,,,,,
+VD,Avenue de Bois­Bougy 8,1260,Nyon,Clinique la Métairie SA,,,,,,,,
+VD,La Lignière 5,1196,Gland,Clinique la Lignière,,,,,,,,
+VD,Chemin des Colombaires 31,1096,Cully,Hôpital de Lavaux,,,,,,,,
+VD,Route de Valmont,1823,Glion,Clinique Valmont,,,,,,,,
+VD,Avenue de Bois­Bougy 5,1260,Nyon,Clinique Bois-Bougy Sàrl,,,,,,,,
+VD,Route du Vignoble 60,1175,Lavigny,Institution de Lavigny,,,,,,,,
+VD,Rue du Grammont 2,1815,Clarens,Clinique CIC Riviera,,,,,,,,
+VD,Chemin des Allinges 10,1006,Lausanne,Clinique de Montchoisi,2536.0,52.0,1543.0,32.0,,,,
+VD,Chemin des Cuarroz 57,1807,Blonay,Fondation Rive-Neuve - Unité de Soins Palliatifs,,,,,,,,
+VD,Rue Bon-Port 27,1820,Montreux,"Biotonus, Clinique Bon-Port SA centre de soins médicaux & esthétiques",,,,,,,,
+VD,Rue du Lac 142,1815,Clarens,Clinique la Prairie SA,3927.0,25.0,4946.0,141.0,,,,
+VD,Avenue de France 15,1004,Lausanne,Hôpital Ophtalmique Jules Gonin Fondation Asile des Aveugles,,,,,824.285714285714,250.714285714286,,
+VS,Avenue du Grand-Champsec 80,1950,Sion,Hôpital du Valais - Centre hospitalier du Valais Romand CHVR,1315.5,332.75,3384.75,1039.0,721.5,389.0,262.608695652174,22.8260869565217
+VS,Pflanzettastrasse 8,3930,Visp,Spital Wallis - Spitalzentrum Oberwallis (SZO),2895.0,426.0,2757.0,782.5,,,372.666666666667,20.3333333333333
+VS,Avenue du Grand­Champsec 90,1950,Sion,Clinique romande de réadaptation CRR (Suva),,,,,,,,
+VS,Willy­Spühlerstrasse 2,3954,Leukerbad,Leukerbad Clinic RZL Rehabilitationszentrum Leukerbad Clinic AG,,,,,,,,
+VS,Rue de Pré­Fleuri 16,1950,Sion,SMN - Clinique de Valère,2306.0,7.0,1663.0,32.0,,,,
+VS,Route du Léman 29,1907,Saxon,Clinique CIC Valais SA,,,,,,,,
+ZG,Landhausstrasse 11,6340,Baar,Zuger Kantonsspital AG,2673.5,294.0,7088.0,3068.0,181.0,78.0,508.428571428571,22.5714285714286
+ZG,Rigistrasse 1,6330,Cham,Andreas Klinik,2853.5,56.0,2056.0,330.0,,,,
+ZG,Widenstrasse 55,6317,Oberwil bei Zug,Triaplus AG,,,,,,,,
+ZG,Meisenbergstrasse 17,6300,Zug,Klinik Meissenberg AG,,,,,,,,
+ZG,Höhenweg 71,6314,Unterägeri,Klinik Adelheid AG,,,,,,,,
+ZH,Rämistrasse 100,8091,Zürich,Universitätsspital Zürich,2020.27272727273,528.090909090909,1886.0,1617.63636363636,327.111111111111,701.444444444444,185.142857142857,78.2857142857143
+ZH,Brauerstrasse 15,8400,Winterthur,Kantonsspital Winterthur,2324.75,775.0,7425.0,2344.5,1211.5,322.0,351.038461538462,27.9615384615385
+ZH,Birmensdorferstrasse 497,8063,Zürich,Stadtspital Triemli,3746.5,957.5,9465.0,2767.0,469.75,1029.25,,
+ZH,Witellikerstrasse 40,8008,Zürich,Klinik Hirslanden AG,3146.0,397.5,2182.16666666667,1136.16666666667,143.5,528.0,15.4285714285714,4.21428571428571
+ZH,Tièchestrasse 99,8037,Zürich,Stadtspital Waid,2746.0,1354.0,7303.0,8417.0,441.0,516.0,416.975609756098,11.6585365853659
+ZH,Trichtenhauserstrasse 20,8125,Zollikerberg,Spital Zollikerberg,2195.0,459.0,3087.0,2013.0,454.0,83.0,311.821428571429,9.07142857142857
+ZH,Urdorferstrasse 100,8952,Schlieren,Spital Limmattal,5422.0,851.0,5679.0,5271.0,414.0,293.0,,
+ZH,Brunnenstrasse 42,8610,Uster,Spital Uster,,,2579.0,2945.0,,,0.0,14.0
+ZH,Spitalstrasse 24,8180,Bülach,Spital Bülach AG,,,4214.0,2930.0,,,,
+ZH,Asylstrasse 19,8810,Horgen,See-Spital,681.0,4.0,3083.0,3227.0,,,162.0,8.55555555555556
+ZH,Spitalstrasse 66,8620,Wetzikon ZH,GZO Spital Wetzikon,2482.0,255.0,5620.0,4616.0,508.0,109.0,297.428571428571,10.6428571428571
+ZH,Asylstrasse 10,8708,Männedorf,Spital Männedorf AG,,,2777.0,2200.0,,,,
+ZH,Seestrasse 220,8002,Zürich,Klinik Im Park,3445.5,164.5,3955.0,1216.0,143.4,182.0,253.307692307692,7.69230769230769
+ZH,Sonnenbergstrasse 27,8910,Affoltern am Albis,Spital Affoltern AG,,,998.0,395.0,,,,
+ZH,Toblerstrasse 51,8044,Zürich,Privatklinik Bethanien - GSMN Schweiz AG,,,,,65.0,168.0,,
+ZH,Bergstrasse 16,8805,Richterswil,Paracelsus-Spital Richterswil AG,,,,inf,,,,
+ZH,Lenggstrasse 31,8032,Zürich,Psychiatrische Universitäts-Klinik Zürich,,,,,,,,
+ZH,Schlösslistrasse 8,8618,Oetwil am See,Clienia Schlössli AG,,,,,,,,
+ZH,Wieshofstrasse 102,8408,Winterthur,Integrierte Psychiatrie Winterthur IPW,,,,,,,,
+ZH,Alte Landstrasse 70,8802,Kilchberg ZH,Sanatorium Kilchberg,,,,,,,,
+ZH,Islikonerstrasse 5,8548,Ellikon an der Thur,Forel Klinik AG,,,,,,,,
+ZH,Hohenegg 1,8706,Meilen,Privatklinik Hohenegg AG,,,,,,,,
+ZH,Emil-Klöti-Strasse 14-18,8037,Zürich,Suchtfachklinik Zürich,,,,,,,,
+ZH,Zum Park 20,8404,Winterthur,Modellstation SOMOSA,,,,,,,,
+ZH,Faltigbergstrasse 7,8636,Wald ZH,Zürcher RehaZentren,,,,,,,,
+ZH,Trichtenhauserstrasse 20,8125,Zollikerberg,RehaClinic Zollikerberg,,,,,,,,
+ZH,Grütstrasse 60,8802,Kilchberg ZH,RehaClinic Kilchberg,,,,,,,,
+ZH,Urdorferstrasse 100,8952,Schlieren,RehaClinic Limmattal,,,,,,,,
+ZH,Forchstrasse 340,8008,Zürich,Universitätsklinik Balgrist,3655.2,181.6,4663.5,501.5,,,,
+ZH,Lengghalde 2,8008,Zürich,Schulthess Klinik,,,,,,,,
+ZH,Schickstrasse 11,8400,Winterthur,Privatklinik Lindberg - GSMN Schweiz AG,,,,,,,152.25,0.0
+ZH,Zürichstrasse 5,8180,Bülach,Uroviva Klinik AG,,,,,,,,
+ZH,Bellerivestrasse 34,8008,Zürich,Klinik Pyramide am See AG,,,,,,,,
+ZH,Hardturmstrasse 133,8005,Zürich,Limmatklinik AG,,,,,,,,
+ZH,Breitestrasse 11,8157,Dielsdorf,Adus Medica AG,,,,,,,,
+ZH,Dammstrasse 29,8702,Zollikon,Klinik Tiefenbrunnen AG,,,,,,,,
+ZH,Brunngasse 6,8400,Winterthur,Eulachklinik AG,,,,,,,,
+ZH,Schürlistrasse 3,8344,Bäretswil,Geburtshaus Zürcher Oberland AG,,,,,,,,
+ZH,Badenerstrasse 177,8003,Zürich,Geburtshaus Delphys,,,,,,,,
+ZH,Steinwiesstrasse 75,8032,Zürich,Universitäts-Kinderspital Zürich - Das Spital der Eleonorenstiftung,1364.5,383.5,237.0,429.0,0.0,303.0,71.0,6.75
+ZH,Bleulerstrasse 60,8008,Zürich,Klinik Lengg AG,,,,,,,,
+ZH,Schreberweg 9,8044,Zürich,Klinik Susenberg,,,,,,,,
+ZH,Konradstrasse 62,8005,Zürich,Sune-Egge,,,,,,,,
+,,,,Ganze Schweiz,2630.19909502262,432.850678733032,2875.1592920354,1785.18584070796,386.014184397163,498.553191489362,311.442437923251,27.8638073739654

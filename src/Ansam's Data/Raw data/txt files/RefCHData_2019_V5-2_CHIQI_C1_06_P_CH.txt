@@ -1,0 +1,15 @@
+
+	C1_06_P Anteil operierte Patienten mit ND Delir, Alter >59 // Patients opérés avec DS délirium, âge >59, pourcentage // Pazienti operati con DS delirium, età >59, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2010	1643	236354	0.6951437	
+	2011	2455	240989	1.018719	
+	2012	3491	241974	1.442717	
+	2013	4000	246669	1.621606	
+	2014	4535	252236	1.797919	
+	2015	5075	256104	1.981617	
+	2016	5537	263403	2.102102	
+	2017	5652	263568	2.144418	
+	2018	5658	244505	2.314063	
+	2019	5821	237515	2.450793	

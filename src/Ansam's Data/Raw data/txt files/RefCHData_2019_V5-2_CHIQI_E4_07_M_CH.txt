@@ -1,0 +1,17 @@
+
+	E4_07_M Kolorektale Resektionen bei Darmischämie, Mortalität // Résections colorectales pour ischémie intestinale, mortalité // Resezione colorettale per ischemia intestinale, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	62	217	28.57143	
+	2009	73	202	36.13861	
+	2010	79	208	37.98077	
+	2011	98	236	41.52542	
+	2012	104	283	36.74912	
+	2013	121	313	38.65815	
+	2014	143	346	41.32948	
+	2015	108	312	34.61538	
+	2016	117	332	35.24096	
+	2017	142	370	38.37838	
+	2018	112	332	33.73494	
+	2019	140	396	35.35354	

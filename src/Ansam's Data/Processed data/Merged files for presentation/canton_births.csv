@@ -1,0 +1,27 @@
+index,Canton,Number of deliveries,Number of cesarean sections,Number of delivery rooms,Number of healthy newborns (inpatient treatment),canton_name
+1,AG,87984.0,29906.0,43,12158.0,Aargau
+2,AI,2262.0,662.0,0,0.0,Appenzell Innerrhoden
+3,AR,6963.0,2085.0,16,1997.0,Appenzell Ausserrhoden
+4,BE,130705.0,43050.0,91,19649.0,Bern
+5,BL,33223.0,11913.0,13,1252.0,Basel-Landschaft
+6,BS,25614.0,8275.0,29,8705.0,Basel-Stadt
+7,FR,44068.0,13280.0,18,4973.0,Fribourg
+8,GE,72822.0,22480.0,47,10571.0,Genève
+9,GL,4886.0,1776.0,4,616.0,Glarus
+10,GR,23132.0,7256.0,34,3515.0,Graubünden
+11,JU,9214.0,1910.0,8,1211.0,Jura
+12,LU,54716.0,17797.0,30,7887.0,Luzern
+13,NE,23684.0,6387.0,12,2581.0,Neuchâtel
+14,NW,5053.0,1641.0,8,1297.0,Nidwalden
+15,OW,4844.0,1255.0,4,556.0,Obwalden
+16,SG,67916.0,22071.0,48,8869.0,St. Gallen
+17,SH,9872.0,3549.0,4,1522.0,Schaffhausen
+18,SO,33497.0,12059.0,20,3096.0,Solothurn
+19,SZ,20261.0,6872.0,12,2212.0,Schwyz
+20,TG,34236.0,10246.0,19,4397.0,Thurgau
+21,TI,38290.0,12566.0,30,4565.0,Ticino
+22,UR,4460.0,1330.0,4,517.0,Uri
+23,VD,112760.0,35219.0,54,16392.0,Vaud
+24,VS,42220.0,11329.0,16,4159.0,Valais
+25,ZG,17005.0,6778.0,12,2728.0,Zug
+26,ZH,216447.0,77886.0,129,30521.0,Zürich

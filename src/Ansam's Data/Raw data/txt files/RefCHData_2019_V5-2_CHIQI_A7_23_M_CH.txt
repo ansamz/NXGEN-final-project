@@ -1,0 +1,14 @@
+
+	A7_23_M Endovaskuläre/transapikale Eingriffe an der Mitralklappe, Mortalität // Interventions endovasculaire/transapicale sur la valve mitrale, mortalité // Interventi endovascolari/transapicali sulla valvola mitrale, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	0	114	0	
+	2012	6	146	4.109589	
+	2013	1	147	0.6802721	
+	2014	8	258	3.100775	
+	2015	11	285	3.859649	
+	2016	6	372	1.612903	
+	2017	13	409	3.178484	
+	2018	11	423	2.600473	
+	2019	15	416	3.605769	

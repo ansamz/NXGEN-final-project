@@ -1,0 +1,13 @@
+
+	A6_04_P Anteil Perikardkomplikationen bei Vorhofablation bei Vorhofflimmern/­flattern // Complications péricardiques lors de l’ablation de l'oreillette en cas de fibrillation auriculaire / de flutter auriculaire, pourcentage // Complicanze pericardiche dovute all'ablazione della fibrillazione atriale in caso di fibrillazione/flutter atriale, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2012	10	1179	0.8481764	
+	2013	9	1449	0.621118	
+	2014	9	1655	0.5438066	
+	2015	11	1872	0.5876068	
+	2016	9	2171	0.4145555	
+	2017	14	2396	0.5843072	
+	2018	16	2582	0.6196747	
+	2019	13	3062	0.4245591	

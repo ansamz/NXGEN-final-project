@@ -1,0 +1,9 @@
+
+	E7_06_M Anatomische Leberresektionen von 4 und mehr Lebersegmenten (Alter >19), Mortalität // Résections anatomiques du foie avec quatre segments et plus (âge >19), mortalité // Resezioni anatomiche di 4 e più segmenti del fegato (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2016	10	247	4.048583	
+	2017	9	255	3.529412	
+	2018	9	240	3.75	
+	2019	13	234	5.555556	

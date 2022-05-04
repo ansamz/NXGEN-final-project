@@ -1,0 +1,14 @@
+
+	I1_09_M Hüft­Endoprothesen­Erstimplantation bei Schenkelhals­ und pertrochantärer Fraktur, Mortalität // Première implantation d'endoprothèse de hanche en cas de fracture du col du fémur ou du trochanter, mortalité // Prima applicazione dell'endoprotesi dell'anca in caso di fratture del collo del femore o pertrocanteriche, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	32	1182	2.707276	
+	2012	38	1080	3.518519	
+	2013	38	1081	3.515264	
+	2014	37	1187	3.117102	
+	2015	140	3531	3.964882	
+	2016	153	3553	4.30622	
+	2017	127	3583	3.544516	
+	2018	134	3632	3.689427	
+	2019	139	3778	3.679195	

@@ -1,0 +1,17 @@
+
+	B5_01_F Stationäre Behandlungen wegen HD Multiple Sklerose // Traitements hospitaliers en cas de DP sclérose en plaques // Cure ospedaliere in caso di DP sclerosi multipla
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	930	
+	2009	890	
+	2010	1057	
+	2011	1023	
+	2012	869	
+	2013	889	
+	2014	882	
+	2015	852	
+	2016	964	
+	2017	864	
+	2018	865	
+	2019	888	

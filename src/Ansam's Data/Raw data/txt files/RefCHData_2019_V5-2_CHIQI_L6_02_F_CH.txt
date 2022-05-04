@@ -1,0 +1,17 @@
+
+	L6_02_F Transplantation von hämatopoetischen Stammzellen aus Knochenmark insgesamt // Total des transplantations de cellules souches hématopoïétiques de moelle osseuse // Trapianti di cellule staminali ematopoietiche di midollo osseo, totale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	31	
+	2009	67	
+	2010	31	
+	2011	42	
+	2012	30	
+	2013	29	
+	2014	26	
+	2015	44	
+	2016	91	
+	2017	61	
+	2018	66	
+	2019	71	

@@ -1,0 +1,17 @@
+
+	A7_02_F OP an Herzklappen // OP des valves cardiaques // OP alle valvole cardiache
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	3107	
+	2009	3436	
+	2010	3670	
+	2011	3850	
+	2012	4232	
+	2013	4551	
+	2014	4797	
+	2015	5090	
+	2016	5424	
+	2017	5480	
+	2018	5575	
+	2019	5506	

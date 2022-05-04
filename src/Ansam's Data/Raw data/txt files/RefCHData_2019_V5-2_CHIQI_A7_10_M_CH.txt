@@ -1,0 +1,14 @@
+
+	A7_10_M Minimalinvasive Implantation einer Aortenklappe transapikal, Mortalität // Implantation mini­invasive de valve aortique par voie transapicale, mortalité // Applicazione minimamente invasiva di valvola aortica transapicale, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	9	93	9.677419	
+	2012	10	100	10	
+	2013	16	107	14.95327	
+	2014	6	107	5.607477	
+	2015	3	96	3.125	
+	2016	3	92	3.26087	
+	2017	8	67	11.9403	
+	2018	2	55	3.636364	
+	2019	2	38	5.263158	

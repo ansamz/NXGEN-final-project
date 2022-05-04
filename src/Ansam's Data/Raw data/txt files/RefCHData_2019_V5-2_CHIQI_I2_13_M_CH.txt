@@ -1,0 +1,14 @@
+
+	I2_13_M Vertebroplastik/Kyphoplastik (ohne Tumor, komplexe Rekonstitutionen, Versteifung, Wirbelkörperersatz, Eingriffe an Bandscheiben), Mortalität // Vertébroplastie/kyphoplastie (sans tumeur, réparations complexes, fusion vertébrale, remplacement de corps vertébral, interventions aux disques intervertébraux), mortalité // Vertebroplastica/cifoplastica (senza tumore, ricostruzioni complesse, fusione spinale, sostituzione di vertebre o interventi ai dischi intervertebrali), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	4	1505	0.2657807	
+	2012	7	1466	0.4774898	
+	2013	9	1713	0.525394	
+	2014	7	1772	0.3950339	
+	2015	5	1843	0.2712968	
+	2016	8	2041	0.3919647	
+	2017	4	2212	0.1808318	
+	2018	6	2360	0.2542373	
+	2019	6	2251	0.2665482	

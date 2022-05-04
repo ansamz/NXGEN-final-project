@@ -1,0 +1,10 @@
+
+	M1_02_F Palliativmedizinische Komplexbehandlung durch Palliativ-Dienst (intern und extern) // Traitement complexe de médecine palliative par une équipe de soins palliatifs (interne et externe) // Trattamento medico palliativo complesso eseguito dal servizio palliativo (interno ed esterno)
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2015	1804	
+	2016	2673	
+	2017	3235	
+	2018	3728	
+	2019	4635	

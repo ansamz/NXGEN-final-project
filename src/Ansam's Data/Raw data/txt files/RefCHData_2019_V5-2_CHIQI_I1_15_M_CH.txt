@@ -1,0 +1,14 @@
+
+	I1_15_M Knie­Endoprothesen­Erstimplantation bei Gonarthrose und chronischer Arthritis, Mortalität // Première implantation d'endoprothèse de genou en cas de gonarthrose et arthrite chronique, mortalité // Prima applicazione dell'endoprotesi del ginocchio in caso di gonartrosi e artrite cronica, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	6	8097	0.07410152	
+	2012	7	7231	0.09680542	
+	2013	2	6847	0.02920987	
+	2014	1	5496	0.01819505	
+	2015	7	15804	0.04429258	
+	2016	4	16966	0.02357656	
+	2017	4	16597	0.02410074	
+	2018	6	16359	0.03667706	
+	2019	3	17305	0.01733603	

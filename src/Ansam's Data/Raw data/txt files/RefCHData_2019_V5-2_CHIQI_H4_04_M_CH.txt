@@ -1,0 +1,17 @@
+
+	H4_04_M Prostata­TUR bei bösartigen Neubildungen, Mortalität // RTU de la prostate en cas de tumeurs malignes, mortalité // TUR della prostata per tumori maligni, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	14	1899	0.7372301	
+	2009	16	1982	0.8072654	
+	2010	10	2116	0.4725898	
+	2011	10	2154	0.4642526	
+	2012	10	2260	0.4424779	
+	2013	10	2238	0.4468275	
+	2014	16	2307	0.6935414	
+	2015	11	2263	0.4860804	
+	2016	11	2321	0.4739336	
+	2017	3	2212	0.1356239	
+	2018	7	2188	0.3199269	
+	2019	13	2387	0.5446167	

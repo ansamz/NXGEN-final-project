@@ -1,0 +1,14 @@
+
+	I1_24_X Knie­Endoprothesen­Erstimplantation bei Gonarthrose und chronischer Arthritis ohne Frührehabilitation, Aufenthaltsdauer // Première implantation d'endoprothèse de genou en cas de gonarthrose et arthrite chronique sans rééducation précoce, durée de séjour // Prima applicazione dell'endoprotesi del ginocchio in caso di gonartrosi e artrite cronica senza riabilitazione precoce, durata della degenza
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	StayCH	CasesCH	pCH	
+	2011	81564	8097	10.07336	
+	2012	68622	7211	9.516295	
+	2013	64176	6824	9.404455	
+	2014	49624	5474	9.0654	
+	2015	128777	15762	8.170093	
+	2016	131582	16910	7.781313	
+	2017	121079	16550	7.315952	
+	2018	111701	16294	6.855346	
+	2019	112156	17260	6.49803	

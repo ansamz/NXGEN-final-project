@@ -1,0 +1,16 @@
+
+	E3_03_F Radiojodtherapie // Radiothérapie par iode radioactif // Radioiodioterapia
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2009	847	
+	2010	969	
+	2011	978	
+	2012	1166	
+	2013	1091	
+	2014	1079	
+	2015	1106	
+	2016	1090	
+	2017	988	
+	2018	1019	
+	2019	1012	

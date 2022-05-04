@@ -1,0 +1,17 @@
+
+	E3_04_F Resektion der Schilddrüse bei bösartigen Neubildungen der Schilddrüse // Résections thyroïdiennes en cas de tumeurs malignes de la thyroïde // Resezione della tiroide per tumori maligni della tiroide
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	600	
+	2009	627	
+	2010	648	
+	2011	740	
+	2012	760	
+	2013	855	
+	2014	901	
+	2015	861	
+	2016	871	
+	2017	832	
+	2018	863	
+	2019	896	

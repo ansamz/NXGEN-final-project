@@ -1,0 +1,555 @@
+Hospital type,Canton,street,zip,town,special equipment,Amb,Stat,Number of outpatient consultations,Number of delivery rooms,Number of healthy newborns (inpatient treatment)
+K112,AG,Tellstrasse 25,5000,Aarau,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,534056,5,1757.0
+K112,AG,Im Ergel,5404,Baden,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,244374,6,1485.0
+K112,AG,Schänisweg 1,5000,Aarau,"MRI, CT, LB, Angio, Dia",1,1,48864,2,648.0
+K121,AG,Riburgerstrasse 12,4310,Rheinfelden,"MRI, CT",1,1,65882,2,432.0
+K121,AG,Spitalstrasse 144,5630,Muri AG,"MRI, CT, Dia",1,1,90591,2,536.0
+K122,AG,Mühlethalstrasse 27,4800,Zofingen,"MRI, CT",1,1,49559,0,0.0
+K122,AG,Kommendeweg 12,5316,Leuggern,,1,1,9713,3,759.0
+K122,AG,Spitalstrasse 1,5737,Menziken,CT,1,1,12734,0,0.0
+K211,AG,Königsfelderstrasse 1,5210,Windisch,,1,1,115747,0,0.0
+K212,AG,Bahnhofstrasse 19,4310,Rheinfelden,,1,1,25332,0,0.0
+K212,AG,Hasel 837,5728,Gontenschwil,,1,1,9886,0,0.0
+K212,AG,Zürcherstrasse 52,5432,Neuenhof,,1,1,950,0,0.0
+K212,AG,Badstrasse 33,5330,Bad Zurzach,,1,1,5862,0,0.0
+K221,AG,Quellenstrasse 34,5330,Bad Zurzach,,1,1,40882,0,0.0
+K221,AG,Salinenstrasse 98,4310,Rheinfelden,,1,1,75514,0,0.0
+K221,AG,,5017,Barmelweid,,1,1,18165,0,0.0
+K221,AG,Mutschellenstrasse 2,5454,Bellikon,"MRI, CT",1,1,9957,0,0.0
+K221,AG,Badstrasse 55,5116,Schinznach Bad,,1,1,23349,0,0.0
+K221,AG,Bäderstrasse 16,5401,Baden,,1,1,5911,0,0.0
+K221,AG,Badstrasse 50,5116,Schinznach Bad,,1,1,10906,0,0.0
+K221,AG,Roberstenstrasse 31,4310,Rheinfelden,,1,1,132616,0,0.0
+K235,AG,Bernstrasse 84,4852,Rothrist,,1,1,926,2,367.0
+K123,AI,Sonnhalde 2,9050,Appenzell,,1,1,5341,0,0.0
+K221,AI,Im Park 1,9057,Weissbad,,0,1,0,0,0.0
+K121,AR,Krombach 3,9100,Herisau,"CT, Angio, Dia",1,1,47863,8,1004.0
+K212,AR,Krombach 3,9100,Herisau,,1,1,7703,0,0.0
+K221,AR,Gäbrisstrasse 1172,9056,Gais,,1,1,1704,0,0.0
+K221,AR,Dorf,9428,Walzenhausen,,1,1,4343,0,0.0
+K231,AR,Vögelinsegg 5,9042,Speicher,,1,1,10102,0,0.0
+K231,AR,Hasenbühlstrasse 11,9410,Heiden,,1,1,3044,0,0.0
+K111,BE,Freiburgstrasse 18,3010,Bern,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,740996,5,1428.0
+K112,BE,Bremgartenstrasse 117,3012,Bern,"MRI, CT, CC, LB, Lito, Angio, Dia",1,1,182062,6,1980.0
+K112,BE,Freiburgstrasse 18,3010,Bern,"MRI, CT, Dia",1,1,124138,3,382.0
+K112,BE,Krankenhausstrasse 12,3600,Thun,"MRI, CT, Angio, Dia",1,1,226964,4,1042.0
+K112,BE,Schänzlihalde 11,3013,Bern,"MRI, CT, Angio, Dia",1,1,77964,4,983.0
+K112,BE,Vogelsang 84,2502,Biel,"MRI, CT, Lito, Angio, Dia",1,1,137168,5,838.0
+K112,BE,Oberburgstrasse 54,3400,Burgdorf,"MRI, CT, Angio, Dia",1,1,172760,3,684.0
+K112,BE,Weissenaustrasse 27,3800,Unterseen,"MRI, CT, Dia",1,1,62126,4,521.0
+K121,BE,St. Urbanstrasse 67,4900,Langenthal,"MRI, CT, Dia",1,1,204565,4,648.0
+K121,BE,Les Fontenayes 17,2610,St­Imier,"MRI, CT",1,1,105071,2,329.0
+K121,BE,Blumenrain 105,2503,Biel,"MRI, CT, CC, Angio",1,1,39962,2,716.0
+K122,BE,Worbstrasse 316,3073,Gümligen,,1,1,29040,0,0.0
+K123,BE,Beausite 49,2740,Moutier,Dia,1,1,37809,0,0.0
+K123,BE,Schänzlistrasse 15,3013,Bern,,0,1,0,0,0.0
+K211,BE,Bolligenstrasse 111,3072,Ostermundigen,,1,1,58513,0,0.0
+K211,BE,Hunzigenallee 1,3110,Münsingen,,1,1,11157,0,0.0
+K211,BE,Willigen,3860,Meiringen,,1,1,8370,0,0.0
+K212,BE,Fellenbergstrasse 32,3053,Münchenbuchsee,,1,1,18140,0,0.0
+K212,BE,Südhang 1,3038,Kirchlindach,,1,1,6655,0,0.0
+K212,BE,Weissensteinstrasse 30,4900,Langenthal,,1,1,17244,0,0.0
+K212,BE,Waldrandweg 19,3360,Herzogenbuchsee,,1,1,779,0,0.0
+K212,BE,Emmentalstrasse 8,3400,Burgdorf,,1,1,3048,0,0.0
+K212,BE,Bühlstrasse 19a,3012,Bern,,1,1,2293,0,0.0
+K221,BE,Schwendi 303,3625,Heiligenschwendi,,1,1,170,0,0.0
+K221,BE,Bethesda 8,3233,Tschugg,,1,1,692,0,0.0
+K221,BE,Schönbergstrasse 40,3654,Gunten,,1,1,5844,0,0.0
+K221,BE,Postgasse 56,3011,Bern,,1,1,3227,0,0.0
+K221,BE,Laueli 89b,6083,Hasliberg Hohfluh,,1,1,5887,0,0.0
+K221,BE,Panoramastrasse 20,3854,Oberried am Brienzersee,,1,1,1876,0,0.0
+K231,BE,Worbstrasse 316,3073,Gümligen,,1,1,2855,0,0.0
+K231,BE,Hohmadstrasse 1,3600,Thun,,1,1,4398,0,0.0
+K232,BE,Oberdorfstrasse 56,3072,Ostermundigen,,1,1,4087,2,289.0
+K232,BE,Eggetlistrasse 5a,3770,Zweisimmen,,1,1,976,1,78.0
+K112,BL,Mühlemattstrasse 26,4410,Liestal,"MRI, CT, PET, CC, Angio, Dia",1,1,245931,3,469.0
+K123,BL,Pfeffingerweg 1,4144,Arlesheim,,1,1,61144,0,0.0
+K123,BL,Stollenrain 12,4144,Arlesheim,,1,1,64,0,0.0
+K211,BL,Bienentalstrasse 7,4410,Liestal,,1,1,66566,0,0.0
+K212,BL,Gstadstrasse 42,4153,Reinach BL,,0,1,0,0,0.0
+K231,BL,Reinacherstrasse 28,4142,Münchenstein,"MRI, CT",1,1,67954,0,0.0
+K231,BL,Kriegackerstrasse 100,4132,Muttenz,,1,1,68596,0,0.0
+K232,BL,Unterdorfstrasse 25,4443,Wittinsburg,,1,1,656,2,72.0
+K232,BL,Hauptstrasse 26,4133,Pratteln,,1,1,390,1,57.0
+K235,BL,Hammerstrasse 35,4410,Liestal,,1,1,241,0,0.0
+K235,BL,Hauptstrasse 55,4102,Binningen,,0,1,0,0,0.0
+K111,BS,Hebelstrasse 32,4031,Basel,"MRI, CT, PET, CC, LB, Angio, Dia",1,1,599476,8,2394.0
+K112,BS,Kleinriehenstrasse 30,4058,Basel,"MRI, CT, PET, CC, LB",1,1,42249,0,0.0
+K121,BS,Gellertstrasse 144,4052,Basel,"MRI, CT, Dia",1,1,121473,4,1805.0
+K211,BS,Wilhelm­Klein­Strasse 27,4056,Basel,,1,1,233244,0,0.0
+K212,BS,Gänshaldenweg 22,4125,Riehen,,1,1,9696,0,0.0
+K221,BS,Im Burgfelderhof 40,4055,Basel,,1,1,5326,0,0.0
+K231,BS,Föhrenstrasse 2,4054,Basel,"MRI, CT, Angio",1,1,36104,0,0.0
+K232,BS,Klybeckstrasse 64/70,4057,Basel,,1,1,230,2,123.0
+K232,BS,Schweizergasse 8,4054,Basel,,1,1,342,0,0.0
+K233,BS,Spitalstrasse 33,4056,Basel,"MRI, CT",1,1,101675,0,85.0
+K234,BS,Burgfelderstrasse 101,4055,Basel,CT,1,1,25385,0,0.0
+K234,BS,Mittlere Strasse 15,4056,Basel,,1,1,5960,0,0.0
+K235,BS,St. Alban­Ring 151,4052,Basel,,0,1,0,0,0.0
+K235,BS,Hirschgässlein 11,4051,Basel,CT,1,1,23587,0,0.0
+K112,FR,Case postale,1708,Fribourg,"MRI, CT, PET, CC, LB, Angio, Dia",1,1,526687,4,939.0
+K122,FR,Route de Bertigny 34,1700,Fribourg,Lito,1,1,3727,4,1419.0
+K211,FR,L'Hôpital 140,1633,Marsens,,1,1,60545,0,0.0
+K231,FR,Rue Hans­Geiler 6,1700,Fribourg,,1,1,403,0,0.0
+K232,FR,Route du Petit­Moncor 1d,1752,Villars­sur­Glâne,,1,1,1757,0,161.0
+K111,GE,Rue Gabrielle­Perret­Gentil 4,1205,Genève,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,1109781,12,3453.0
+K121,GE,Avenue Jacob­Daniel Maillard 3,1217,Meyrin,"MRI, CT, PET, CC, LB, Angio, Dia",1,1,319805,4,445.0
+K122,GE,Chemin des Grangettes 7,1224,Chêne­Bougeries,,1,1,77240,0,739.0
+K122,GE,Chemin de Beau­Soleil 20,1206,Genève,"MRI, CT, Lito, Angio",1,1,24442,4,638.0
+K212,GE,Avenue du Grand-Salève 2,1255,Veyrier,,0,1,0,0,0.0
+K212,GE,Route de Chêne 26,1207,Genève,,1,1,4666,0,0.0
+K221,GE,Avenue de Châtelaine 60­62,1219,Châtelaine,,0,1,0,0,0.0
+K221,GE,Chemin des Courbes 9,1247,Anières,,1,1,102,0,0.0
+K231,GE,Avenue de Beau­Séjour 6,1206,Genève,,1,1,21807,0,0.0
+K231,GE,Avenue Cardinal­Mermillod 1,1227,Carouge GE,,1,1,27142,0,0.0
+K231,GE,Rue Charles­Humbert 5,1205,Genève,,1,1,1354,0,0.0
+K232,GE,Chemin du Châtelet 3,1205,Genève,,0,1,0,2,108.0
+K122,GL,Burgstrasse 99,8750,Glarus,"MRI, CT, Angio, Dia",1,1,80504,2,329.0
+K221,GL,Niederschlachtstrasse 12,8784,Braunwald,,1,1,729,0,0.0
+K221,GL,Burgstrasse 99,8750,Glarus,,1,1,0,0,0.0
+K112,GR,Loestrasse 170,7000,Chur,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,409281,5,940.0
+K122,GR,Via Nouva 3,7503,Samedan,"MRI, CT, Dia",1,1,44310,2,149.0
+K122,GR,,7220,Schiers,"MRI, CT, Angio",1,1,34335,2,175.0
+K122,GR,Spitalstrasse 6,7130,Ilanz,"MRI, CT",1,1,14048,2,144.0
+K122,GR,Promenade 4,7270,Davos Platz,"CT, Dia",1,1,49664,2,109.0
+K123,GR,Via da l'Ospidal 280,7550,Scuol,CT,1,1,10535,1,35.0
+K123,GR,Alte Strasse 31,7430,Thusis,CT,1,1,23283,2,137.0
+K123,GR,Via da l'Uspedal 1000,7742,Poschiavo,,1,1,2664,1,27.0
+K123,GR,Stradung 52,7460,Savognin,CT,1,1,18812,0,0.0
+K123,GR,Sielva,7536,Sta. Maria V. M.,,1,1,394,0,0.0
+K123,GR,Flin,7606,Promontogno,,1,1,9855,0,0.0
+K211,GR,Loestrasse 220,7000,Chur,,1,1,90488,0,0.0
+K212,GR,Praz,7542,Susch,,1,1,2304,0,0.0
+K221,GR,Herman­Burchard­Strasse 1,7265,Davos Wolfgang,,1,1,7530,0,0.0
+K221,GR,Schlossstrasse 1,7212,Seewis Dorf,,1,1,2239,0,0.0
+K221,GR,Veia Granda,7440,Andeer,,1,1,5967,0,0.0
+K231,GR,Via Arona 34,7500,St. Moritz,MRI,1,1,22239,0,0.0
+K121,JU,Chemin de l'Hôpital 9a,2900,Porrentruy,"MRI, CT, Dia",1,1,170044,3,588.0
+K221,JU,Chemin de Roc­Montès 20,2340,Le Noirmont,,1,1,11764,0,0.0
+K232,JU,Route Principale 21,2824,Vicques,,1,1,0,1,20.0
+K112,LU,Spitalstrasse,6004,Luzern,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,656869,10,2799.0
+K112,LU,St. Anna­Strasse 32,6006,Luzern,"MRI, CT, PET, CC, Angio, Dia",1,1,181261,3,712.0
+K211,LU,Schafmattstrasse 1,4915,St. Urban,,1,1,113295,0,0.0
+K212,LU,Rütliweg 1,6045,Meggen,,1,1,121,0,0.0
+K221,LU,Route de l'Astoria 2,3963,Crans-Montana,,1,1,933,0,0.0
+K221,LU,Hemschlenstrasse,6006,Luzern,,1,1,2591,0,0.0
+K221,LU,Hertensteinstrasse 162,6353,Weggis,MRI,1,1,47,0,0.0
+K232,LU,Schellenrain 20,6208,Oberkirch LU,,1,1,2689,2,430.0
+K235,LU,Guido A. Zäch Strasse 1,6207,Nottwil,"MRI, CT",1,1,64734,0,0.0
+K112,NE,Maladière 45,2000,Neuchâtel,"MRI, CT, PET, CC, LB, Angio",1,1,304536,5,1287.0
+K123,NE,Faubourg de l'Hôpital 81,2001,Neuchâtel,"Angio, Dia",1,1,14017,0,0.0
+K123,NE,Rue Numa-Droz 185,2300,La Chaux­de­Fonds,,1,1,2220,0,0.0
+K212,NE,,2017,Boudry,,1,1,115908,0,0.0
+K232,NE,Chemin des Valangines 9,2000,Neuchâtel,,1,1,0,1,54.0
+K122,NW,Ennetmooserstrasse 19,6370,Stans,"MRI, CT",1,1,71981,3,554.0
+K221,NW,Bürgenstock 30,6363,Obbürgen,,0,1,0,0,0.0
+K232,NW,Rosenweg 3,6370,Stans,,1,1,1574,1,84.0
+K121,OW,Brünigstrasse 181,6060,Sarnen,"MRI, CT, Angio",1,1,31558,2,267.0
+K112,SG,Rorschacher Strasse 95,9007,St. Gallen,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,526666,6,1612.0
+K112,SG,Alte Landstrasse 106,9445,Rebstein,"MRI, CT, Angio, Dia",1,1,74765,6,994.0
+K121,SG,Fürstenlandstrasse 32,9500,Wil SG,"MRI, CT",1,1,50715,4,587.0
+K122,SG,Brauerstrasse 95,9016,St. Gallen,"MRI, CT, Angio",1,1,65049,4,682.0
+K122,SG,Gasterstrasse 25,8730,Uznach,"MRI, CT, Lito, Angio, Dia",1,1,21721,3,357.0
+K211,SG,Zürcherstrasse 30,9500,Wil SG,,1,1,74557,0,0.0
+K211,SG,,7312,Pfäfers,,1,1,69839,0,0.0
+K212,SG,Sonnenhofstrasse 15,9608,Ganterschwil,,1,1,173,0,0.0
+K221,SG,Taminaplatz 1,7317,Valens,,1,1,2824,0,0.0
+K221,SG,Rorschacher Strasse 311,9016,St. Gallen,,1,1,3975,0,0.0
+K231,SG,Güterstrasse 21/23,8640,Rapperswil-Jona,,1,1,12021,0,0.0
+K231,SG,Bahnhofstrasse 123a,9244,Niederuzwil,,1,1,653,0,0.0
+K232,SG,Lindenstrasse 71,9000,St. Gallen,,1,1,793,2,182.0
+K233,SG,Claudiusstrasse 6,9006,St. Gallen,CT,1,1,65751,0,54.0
+K234,SG,Rorschacher Strasse 94,9000,St. Gallen,,1,1,4812,0,0.0
+K112,SH,Geissbergstrasse 81,8208,Schaffhausen,"CT, CC, Angio, Dia",1,1,200738,2,766.0
+K231,SH,Rietstrasse 30,8200,Schaffhausen,,1,1,1349,0,0.0
+K112,SO,Schöngrünstrasse 36a,4500,Solothurn,"MRI, CT, PET, CC, Lito, Angio, Dia",1,1,506240,10,1587.0
+K231,SO,Leopoldstrasse 5,4500,Solothurn,,1,1,1658,0,0.0
+K235,SO,Louis-Giroud­Strasse 20,4600,Olten,,1,1,2361,0,0.0
+K121,SZ,Waldeggstrasse 10,6430,Schwyz,"Angio, Dia",1,1,25991,2,405.0
+K121,SZ,Oberdorfstrasse 41,8853,Lachen SZ,"MRI, CT, Angio, Dia",1,1,87682,2,457.0
+K122,SZ,Spitalstrasse 28,8840,Einsiedeln,CT,1,1,37900,2,224.0
+K212,SZ,Gersauerstrasse 8,6440,Brunnen,,1,1,1748,0,0.0
+K112,TG,Waldeggstrasse 8a,8501,Frauenfeld,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,244737,10,2222.0
+K123,TG,Weinbergstrasse 1,8280,Kreuzlingen,Angio,1,1,5372,0,0.0
+K211,TG,Seeblickstrasse 3,8596,Münsterlingen,,1,1,37371,0,0.0
+K211,TG,Hauptstrasse 130,9573,Littenheid,,1,1,45895,0,0.0
+K212,TG,Fohrenbergstrasse 23,8355,Aadorf,,1,1,1431,0,0.0
+K221,TG,Hauptstrasse 2­4,8588,Zihlschlacht,,1,1,12792,0,0.0
+K221,TG,Dr. A. O. Fleisch­Strasse 3,8265,Mammern,CT,1,1,4090,0,0.0
+K221,TG,Kurhausstrasse 34,8374,Dussnang,,1,1,16276,0,0.0
+K221,TG,St. Katharinental,8253,Diessenhofen,,1,1,2884,0,0.0
+K221,TG,Seestrasse 101,8267,Berlingen,,0,1,0,0,0.0
+K231,TG,Bernrainstrasse 17,8280,Kreuzlingen,CT,1,1,2527,0,0.0
+K231,TG,Brückenstrasse 9,8280,Kreuzlingen,,1,1,8597,0,0.0
+K112,TI,Viale Officina 3,6500,Bellinzona,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,670004,9,1473.0
+K121,TI,Via Moncucco 10,6900,Lugano,"MRI, CT, LB, Angio",1,1,57135,0,0.0
+K122,TI,Via Sant'Anna 1,6924,Sorengo,"MRI, CT",1,1,19172,4,636.0
+K122,TI,Via Stefano Franscini 4,6600,Locarno,"MRI, CT",1,1,22587,2,214.0
+K122,TI,Via Tesserete 48,6900,Lugano,"MRI, CT, Angio",1,1,19975,0,0.0
+K212,TI,Via Agostino Maspoli,6850,Mendrisio,,1,1,4881,0,0.0
+K212,TI,Via al Parco 27,6644,Orselina,,1,1,2029,0,0.0
+K212,TI,Via Ceresio 34b,6963,Pregassona,,0,1,0,0,0.0
+K212,TI,,6980,Castelrotto,,1,1,1649,0,0.0
+K221,TI,Via Crodolo 18,6614,Brissago,,1,1,2470,0,0.0
+K231,TI,Via Grumo 16,6929,Gravesano,"MRI, CT, Angio",1,1,30278,0,0.0
+K235,TI,Via Consiglio Mezzano 38,6644,Orselina,,1,1,36,0,0.0
+K235,TI,Via al Parco 27,6644,Orselina,,0,1,0,0,0.0
+K122,UR,Spitalstrasse 1,6460,Altdorf UR,"MRI, CT, Angio, Dia",1,1,68022,2,262.0
+K111,VD,Rue du Bugnon 21,1011,Lausanne,"MRI, CT, PET, CC, LB, Angio, Dia",1,1,1425145,6,2543.0
+K112,VD,Route du Vieux Séquoia 20,1847,Rennaz,"MRI, CT, PET, CC, LB, Dia",1,1,287577,6,1725.0
+K112,VD,Rue d'Entremonts 11,1400,Yverdon­les­Bains,"MRI, CT, Dia",1,1,203809,3,932.0
+K112,VD,Chemin du Crêt 2,1110,Morges,"MRI, CT, Angio, Dia",1,1,151536,4,1309.0
+K121,VD,Chemin Monastier 10,1260,Nyon,"MRI, CT, Dia",1,1,110612,2,518.0
+K121,VD,Avenue d'Ouchy 31,1006,Lausanne,"MRI, CT, CC, LB, Lito, Angio, Dia",1,1,70097,2,408.0
+K122,VD,Avenue de la Colline 3,1530,Payerne,"MRI, CT, Dia",1,1,124975,3,531.0
+K122,VD,Avenue Vinet 30,1004,Lausanne,"MRI, CT, PET, CC, Angio",1,1,90530,1,302.0
+K123,VD,Route du Muids 3,1272,Genolier,"MRI, CT, PET, CC, LB, Angio",1,1,24269,0,0.0
+K123,VD,Rue des Rosiers 29,1450,Ste­Croix,,1,1,30442,0,0.0
+K123,VD,Route de l'Hôpital 17,1660,Château­d'Oex,"CT, Dia",1,1,8354,0,0.0
+K212,VD,Route de Nant,1804,Corsier­sur­Vevey,,1,1,66807,0,0.0
+K212,VD,Avenue de Bois­Bougy 8,1260,Nyon,,1,1,244,0,0.0
+K221,VD,La Lignière 5,1196,Gland,,1,1,30135,0,0.0
+K221,VD,Avenue de Bois­Bougy 5,1260,Nyon,,1,1,168,0,0.0
+K221,VD,Chemin des Colombaires 31,1096,Cully,,1,1,2241,0,0.0
+K221,VD,Route de Valmont,1823,Glion,,1,1,1511,0,0.0
+K221,VD,Route du Vignoble 60,1175,Lavigny,,1,1,2574,0,0.0
+K231,VD,Rue du Grammont 2,1815,Clarens,Lito,1,1,3679,0,0.0
+K231,VD,Chemin des Allinges 10,1006,Lausanne,"MRI, CT",1,1,5646,0,0.0
+K235,VD,Rue du Lac 142,1815,Clarens,"MRI, CT",1,1,32279,0,0.0
+K235,VD,Chemin des Cuarroz 57,1807,Blonay,,1,1,535,0,0.0
+K235,VD,Rue Bon-Port 27,1820,Montreux,,0,1,0,0,0.0
+K235,VD,Avenue de France 15,1004,Lausanne,Angio,1,1,77627,0,0.0
+K112,VS,Avenue du Grand-Champsec 80,1950,Sion,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,376843,5,1421.0
+K112,VS,Pflanzettastrasse 8,3930,Visp,"MRI, CT, Lito, Dia",1,1,134279,3,627.0
+K221,VS,Avenue du Grand­Champsec 90,1950,Sion,,1,1,189669,0,0.0
+K221,VS,Willy­Spühlerstrasse 2,3954,Leukerbad,,1,1,2243,0,0.0
+K231,VS,Rue de Pré­Fleuri 16,1950,Sion,"MRI, CT",1,1,7661,0,0.0
+K231,VS,Route du Léman 29,1907,Saxon,,1,1,6273,0,0.0
+K112,ZG,Landhausstrasse 11,6340,Baar,"MRI, CT, Angio, Dia",1,1,190658,3,946.0
+K122,ZG,Rigistrasse 1,6330,Cham,"MRI, CT",1,1,31447,3,406.0
+K211,ZG,Widenstrasse 55,6317,Oberwil bei Zug,,1,1,79070,0,0.0
+K212,ZG,Meisenbergstrasse 17,6300,Zug,,1,1,753,0,0.0
+K221,ZG,Höhenweg 71,6314,Unterägeri,,1,1,19179,0,0.0
+K111,ZH,Rämistrasse 100,8091,Zürich,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,694151,8,2182.0
+K112,ZH,Brauerstrasse 15,8400,Winterthur,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,209040,6,1479.0
+K112,ZH,Birmensdorferstrasse 497,8063,Zürich,"MRI, CT, CC, LB, Angio",1,1,200379,7,1851.0
+K112,ZH,Witellikerstrasse 40,8008,Zürich,"MRI, CT, PET, CC, LB, Angio, Dia",1,1,91096,3,800.0
+K112,ZH,Brunnenstrasse 42,8610,Uster,"CT, Dia",1,1,96334,4,805.0
+K112,ZH,Tièchestrasse 99,8037,Zürich,"MRI, CT, CC, Angio, Dia",1,1,46133,0,0.0
+K112,ZH,Urdorferstrasse 100,8952,Schlieren,"MRI, CT, Lito, Angio",1,1,137734,5,936.0
+K112,ZH,Trichtenhauserstrasse 20,8125,Zollikerberg,"MRI, CT, Angio, Dia",1,1,63463,6,1891.0
+K112,ZH,Spitalstrasse 24,8180,Bülach,CT,1,1,122893,4,1278.0
+K112,ZH,Asylstrasse 19,8810,Horgen,"MRI, CT, Dia",1,1,56889,3,663.0
+K112,ZH,Spitalstrasse 66,8620,Wetzikon ZH,"MRI, CT, CC, Lito, Angio, Dia",1,1,116476,4,783.0
+K121,ZH,Asylstrasse 10,8708,Männedorf,CT,1,1,84556,2,545.0
+K121,ZH,Seestrasse 220,8002,Zürich,"MRI, CT, Angio, Dia",1,1,44002,2,463.0
+K122,ZH,Sonnenbergstrasse 27,8910,Affoltern am Albis,CT,1,1,35691,1,251.0
+K122,ZH,Toblerstrasse 51,8044,Zürich,Angio,1,1,1716,4,461.0
+K123,ZH,Bergstrasse 16,8805,Richterswil,CT,1,1,14182,2,366.0
+K211,ZH,Lenggstrasse 31,8032,Zürich,,1,1,145571,0,0.0
+K211,ZH,Wieshofstrasse 102,8408,Winterthur,,1,1,76273,0,0.0
+K211,ZH,Schlösslistrasse 8,8618,Oetwil am See,,1,1,34173,0,0.0
+K211,ZH,Alte Landstrasse 70,8802,Kilchberg ZH,,1,1,22915,0,0.0
+K212,ZH,Islikonerstrasse 5,8548,Ellikon an der Thur,,1,1,6507,0,0.0
+K212,ZH,Hohenegg 1,8706,Meilen,,1,1,5100,0,0.0
+K212,ZH,Zum Park 20,8404,Winterthur,,1,1,105,0,0.0
+K212,ZH,Emil-Klöti-Strasse 14-18,8037,Zürich,,1,1,1804,0,0.0
+K221,ZH,Faltigbergstrasse 7,8636,Wald ZH,,1,1,2081,0,0.0
+K221,ZH,Grütstrasse 60,8802,Kilchberg ZH,,1,1,3124,0,0.0
+K221,ZH,Trichtenhauserstrasse 20,8125,Zollikerberg,,1,1,6515,0,0.0
+K221,ZH,Urdorferstrasse 100,8952,Schlieren,,1,1,0,0,0.0
+K231,ZH,Forchstrasse 340,8008,Zürich,"MRI, CT",1,1,89565,0,0.0
+K231,ZH,Lengghalde 2,8008,Zürich,,1,1,121253,0,0.0
+K231,ZH,Schickstrasse 11,8400,Winterthur,Dia,1,1,1757,0,0.0
+K231,ZH,Zürichstrasse 5,8180,Bülach,,1,1,1211,0,0.0
+K231,ZH,Bellerivestrasse 34,8008,Zürich,,1,1,12,0,0.0
+K231,ZH,Hardturmstrasse 133,8005,Zürich,,1,1,2075,0,0.0
+K231,ZH,Breitestrasse 11,8157,Dielsdorf,,1,1,3020,0,0.0
+K231,ZH,Dammstrasse 29,8702,Zollikon,,1,1,1013,0,0.0
+K231,ZH,Brunngasse 6,8400,Winterthur,,1,1,1439,0,
+K232,ZH,Schürlistrasse 3,8344,Bäretswil,,1,1,3183,2,384.0
+K232,ZH,Badenerstrasse 177,8003,Zürich,,1,1,1585,2,237.0
+K233,ZH,Steinwiesstrasse 75,8032,Zürich,"MRI, CT, Angio, Dia",1,1,193621,0,91.0
+K235,ZH,Bleulerstrasse 60,8008,Zürich,,1,1,36242,0,0.0
+K235,ZH,Schreberweg 9,8044,Zürich,,1,1,1407,0,0.0
+K235,ZH,Konradstrasse 62,8005,Zürich,,1,1,19390,0,0.0
+,,Chemin de la Planche 1,1217,Meyrin,,,,0,0,
+,,Rue de l_x0019_ Hôpital 3,1347,Le Sentier,,,,0,0,
+,,,,,,,,20084516,351,78501.0
+K112,AG,Tellstrasse 25,5000,Aarau,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,541775,5,1876.0
+K112,AG,Im Ergel,5404,Baden,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,251186,5,1488.0
+K112,AG,Schänisweg 1,5000,Aarau,"MRI, CT, LB, Angio, Dia",1,1,50917,2,698.0
+K121,AG,Riburgerstrasse 12,4310,Rheinfelden,"MRI, CT",1,1,77930,2,411.0
+K121,AG,Spitalstrasse 144,5630,Muri AG,"MRI, CT, Dia",1,1,98592,2,613.0
+K122,AG,Mühlethalstrasse 27,4800,Zofingen,"MRI, CT",1,1,44349,0,0.0
+K122,AG,Kommendeweg 12,5316,Leuggern,,1,1,12917,3,698.0
+K122,AG,Spitalstrasse 1,5737,Menziken,CT,1,1,16154,0,0.0
+K211,AG,Königsfelderstrasse 1,5210,Windisch,,1,1,118257,0,0.0
+K212,AG,Bahnhofstrasse 19,4310,Rheinfelden,,1,1,29326,0,0.0
+K212,AG,Hasel 837,5728,Gontenschwil,,1,1,11164,0,0.0
+K212,AG,Zürcherstrasse 52,5432,Neuenhof,,1,1,950,0,0.0
+K212,AG,Badstrasse 33,5330,Bad Zurzach,,1,1,5701,0,0.0
+K221,AG,,5017,Barmelweid,,1,1,20140,0,0.0
+K221,AG,Mutschellenstrasse 2,5454,Bellikon,"MRI, CT",1,1,18158,0,0.0
+K221,AG,Quellenstrasse 34,5330,Bad Zurzach,,1,1,38404,0,0.0
+K221,AG,Salinenstrasse 98,4310,Rheinfelden,,1,1,70984,0,0.0
+K221,AG,Badstrasse 55,5116,Schinznach Bad,,1,1,27965,0,0.0
+K221,AG,Bäderstrasse 16,5401,Baden,,1,1,5743,0,0.0
+K221,AG,Badstrasse 50,5116,Schinznach Bad,,1,1,9555,0,0.0
+K221,AG,Roberstenstrasse 31,4310,Rheinfelden,,1,1,109399,0,0.0
+K235,AG,Bernstrasse 84,4852,Rothrist,,1,1,616,2,390.0
+K123,AI,Sonnhalde 2,9050,Appenzell,,1,1,5947,0,0.0
+K221,AI,Im Park 1,9057,Weissbad,,0,1,0,0,0.0
+K121,AR,Krombach 3,9100,Herisau,"CT, Angio, Dia",1,1,45776,8,993.0
+K212,AR,Krombach 3,9100,Herisau,,1,1,7870,0,0.0
+K221,AR,Gäbrisstrasse 1172,9056,Gais,,1,1,1789,0,0.0
+K221,AR,Dorf,9428,Walzenhausen,,1,1,3451,0,0.0
+K231,AR,Vögelinsegg 5,9042,Speicher,,1,1,10915,0,0.0
+K231,AR,Hasenbühlstrasse 11,9410,Heiden,,1,1,2320,0,0.0
+K111,BE,Freiburgstrasse 18,3010,Bern,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,718957,5,1390.0
+K112,BE,Bremgartenstrasse 117,3012,Bern,"MRI, CT, CC, LB, Lito, Angio, Dia",1,1,172627,6,1730.0
+K112,BE,Freiburgstrasse 18,3010,Bern,"MRI, CT, Angio, Dia",1,1,125614,3,385.0
+K112,BE,Krankenhausstrasse 12,3600,Thun,"MRI, CT, Angio, Dia",1,1,219144,4,1033.0
+K112,BE,Schänzlihalde 11,3013,Bern,"MRI, CT, Angio, Dia",1,1,68956,4,1122.0
+K112,BE,Oberburgstrasse 54,3400,Burgdorf,"MRI, CT, Angio, Dia",1,1,180988,3,663.0
+K112,BE,Vogelsang 84,2502,Biel,"MRI, CT, Lito, Angio, Dia",1,1,121050,5,786.0
+K112,BE,Weissenaustrasse 27,3800,Unterseen,"MRI, CT, Dia",1,1,61872,4,515.0
+K121,BE,St. Urbanstrasse 67,4900,Langenthal,"MRI, CT, Dia",1,1,220888,4,626.0
+K121,BE,Les Fontenayes 17,2610,St­Imier,"MRI, CT",1,1,101294,2,367.0
+K121,BE,Blumenrain 105,2503,Biel,"MRI, CT, CC, Angio",1,1,43788,2,704.0
+K122,BE,Worbstrasse 316,3073,Gümligen,,1,1,31817,0,0.0
+K123,BE,Beausite 49,2740,Moutier,"MRI, Dia",1,1,39387,0,0.0
+K123,BE,Schänzlistrasse 15,3013,Bern,,0,1,0,0,0.0
+K211,BE,Bolligenstrasse 111,3072,Ostermundigen,,1,1,56468,0,0.0
+K211,BE,Hunzigenallee 1,3110,Münsingen,,1,1,15887,0,0.0
+K211,BE,Willigen,3860,Meiringen,,1,1,8506,0,0.0
+K212,BE,Fellenbergstrasse 32,3053,Münchenbuchsee,,1,1,16574,0,0.0
+K212,BE,Südhang 1,3038,Kirchlindach,,1,1,7614,0,0.0
+K212,BE,Weissensteinstrasse 30,4900,Langenthal,,1,1,20453,0,0.0
+K212,BE,Waldrandweg 19,3360,Herzogenbuchsee,,1,1,653,0,0.0
+K212,BE,Emmentalstrasse 8,3400,Burgdorf,,1,1,2963,0,0.0
+K212,BE,Bühlstrasse 19a,3012,Bern,,1,1,2596,0,0.0
+K221,BE,Schwendi 303,3625,Heiligenschwendi,,1,1,129,0,0.0
+K221,BE,Bethesda 8,3233,Tschugg,,1,1,863,0,0.0
+K221,BE,Schönbergstrasse 40,3654,Gunten,,1,1,11590,0,0.0
+K221,BE,Postgasse 56,3011,Bern,,1,1,894,0,0.0
+K221,BE,Laueli 89b,6083,Hasliberg Hohfluh,,1,1,4426,0,0.0
+K221,BE,Panoramastrasse 20,3854,Oberried am Brienzersee,,1,1,1359,0,0.0
+K231,BE,Worbstrasse 316,3073,Gümligen,,1,1,2174,0,0.0
+K231,BE,Hohmadstrasse 1,3600,Thun,,1,1,3576,0,0.0
+K232,BE,Oberdorfstrasse 56,3072,Ostermundigen,,1,1,6005,3,323.0
+K232,BE,Eggetlistrasse 5a,3770,Zweisimmen,,1,1,922,1,87.0
+K112,BL,Mühlemattstrasse 26,4410,Liestal,"MRI, CT, PET, CC, Angio, Dia",1,1,221081,4,537.0
+K123,BL,Pfeffingerweg 1,4144,Arlesheim,,1,1,61677,0,0.0
+K123,BL,Stollenrain 12,4144,Arlesheim,,1,1,110,0,0.0
+K211,BL,Bienentalstrasse 7,4410,Liestal,,1,1,68346,0,0.0
+K212,BL,Gstadstrasse 42,4153,Reinach BL,,0,1,0,0,0.0
+K231,BL,Reinacherstrasse 28,4142,Münchenstein,"MRI, CT",1,1,61564,0,0.0
+K231,BL,Kriegackerstrasse 100,4132,Muttenz,,1,1,57028,0,0.0
+K232,BL,Unterdorfstrasse 25,4443,Wittinsburg,,1,1,522,2,72.0
+K232,BL,Hauptstrasse 26,4133,Pratteln,,1,1,410,1,45.0
+K235,BL,Hammerstrasse 35,4410,Liestal,,1,1,212,0,0.0
+K235,BL,Hauptstrasse 55,4102,Binningen,,0,1,0,0,0.0
+K111,BS,Hebelstrasse 32,4031,Basel,"MRI, CT, PET, CC, LB, Angio, Dia",1,1,604522,8,2181.0
+K112,BS,Kleinriehenstrasse 30,4058,Basel,"MRI, CT, PET, CC, LB, Angio",1,1,116421,0,0.0
+K121,BS,Gellertstrasse 144,4052,Basel,"MRI, CT, Dia",1,1,111261,5,1799.0
+K211,BS,Wilhelm­Klein­Strasse 27,4056,Basel,,1,1,230714,0,0.0
+K212,BS,Gänshaldenweg 22,4125,Riehen,,1,1,6683,0,0.0
+K221,BS,Im Burgfelderhof 40,4055,Basel,,1,1,4905,0,0.0
+K231,BS,Föhrenstrasse 2,4054,Basel,"MRI, CT, Angio",1,1,36273,0,0.0
+K232,BS,Klybeckstrasse 64/70,4057,Basel,,1,1,54,2,249.0
+K232,BS,Schweizergasse 8,4054,Basel,,1,1,357,0,
+K233,BS,Spitalstrasse 33,4056,Basel,"MRI, CT",1,1,98637,0,69.0
+K234,BS,Burgfelderstrasse 101,4055,Basel,CT,1,1,13622,0,0.0
+K234,BS,Mittlere Strasse 15,4056,Basel,,1,1,5618,0,0.0
+K235,BS,St. Alban­Ring 151,4052,Basel,,0,1,0,0,0.0
+K235,BS,Hirschgässlein 11,4051,Basel,CT,1,1,21144,0,0.0
+K112,FR,Case postale,1708,Fribourg,"MRI, CT, PET, CC, LB, Angio, Dia",1,1,474143,4,875.0
+K122,FR,Route de Bertigny 34,1700,Fribourg,Lito,1,1,3833,4,1392.0
+K211,FR,L'Hôpital 140,1633,Marsens,,1,1,61309,0,0.0
+K231,FR,Rue Hans­Geiler 6,1700,Fribourg,,1,1,463,0,0.0
+K232,FR,Route du Petit­Moncor 1d,1752,Villars­sur­Glâne,,1,1,1480,2,187.0
+K111,GE,Rue Gabrielle­Perret­Gentil 4,1205,Genève,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,1074645,11,3137.0
+K121,GE,Avenue Jacob­Daniel Maillard 3,1217,Meyrin,"MRI, CT, PET, CC, LB, Angio, Dia",1,1,302391,4,474.0
+K122,GE,Chemin des Grangettes 7,1224,Chêne­Bougeries,"MRI, CT, PET, CC, LB, Lito, Angio",1,1,38610,4,831.0
+K122,GE,Chemin de Beau­Soleil 20,1206,Genève,"MRI, CT, Lito, Angio",1,1,25098,4,630.0
+K212,GE,Avenue du Grand-Salève 2,1255,Veyrier,,0,1,0,0,0.0
+K212,GE,Route de Chêne 26,1207,Genève,,1,1,4926,0,0.0
+K221,GE,Avenue de Châtelaine 60­62,1219,Châtelaine,,0,1,0,0,0.0
+K221,GE,Chemin des Courbes 9,1247,Anières,,1,1,540,0,0.0
+K231,GE,Avenue de Beau­Séjour 6,1206,Genève,,1,1,19334,0,0.0
+K231,GE,Chemin de la Planche 1,1217,Meyrin,,1,1,9026,0,0.0
+K231,GE,Rue Charles­Humbert 5,1205,Genève,,1,1,1549,0,0.0
+K231,GE,Avenue Cardinal­Mermillod 1,1227,Carouge GE,,1,1,13020,0,0.0
+K232,GE,Chemin du Châtelet 3,1205,Genève,,0,1,0,2,116.0
+K122,GL,Burgstrasse 99,8750,Glarus,"MRI, CT, Angio, Dia",1,1,79483,2,287.0
+K221,GL,Niederschlachtstrasse 12,8784,Braunwald,,1,1,821,0,0.0
+K221,GL,Burgstrasse 99,8750,Glarus,,0,1,0,0,0.0
+K112,GR,Loestrasse 170,7000,Chur,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,414729,5,1053.0
+K122,GR,Via Nouva 3,7503,Samedan,"MRI, CT, Dia",1,1,44542,2,125.0
+K122,GR,,7220,Schiers,"MRI, CT, Angio",1,1,21786,2,176.0
+K122,GR,Spitalstrasse 6,7130,Ilanz,"MRI, CT",1,1,13453,2,133.0
+K122,GR,Promenade 4,7270,Davos Platz,"CT, Dia",1,1,23734,2,90.0
+K123,GR,Via da l'Ospidal 280,7550,Scuol,CT,1,1,9034,1,47.0
+K123,GR,Alte Strasse 31,7430,Thusis,"MRI, CT",1,1,26853,2,156.0
+K123,GR,Via da l'Uspedal 1000,7742,Poschiavo,,1,1,2093,1,19.0
+K123,GR,Flin,7606,Promontogno,,1,1,6564,0,0.0
+K123,GR,Sielva,7536,Sta. Maria V. M.,,1,1,381,0,0.0
+K123,GR,Stradung 52,7460,Savognin,CT,1,1,16807,0,0.0
+K211,GR,Loestrasse 220,7000,Chur,,1,1,87383,0,0.0
+K212,GR,Praz,7542,Susch,,1,1,1861,0,0.0
+K221,GR,Herman­Burchard­Strasse 1,7265,Davos Wolfgang,,1,1,2858,0,0.0
+K221,GR,Schlossstrasse 1,7212,Seewis Dorf,,1,1,2098,0,0.0
+K221,GR,Veia Granda,7440,Andeer,,1,1,5594,0,0.0
+K231,GR,Via Arona 34,7500,St. Moritz,MRI,1,1,21831,0,0.0
+K121,JU,Chemin de l'Hôpital 9a,2900,Porrentruy,"MRI, CT, Dia",1,1,149571,3,581.0
+K221,JU,Chemin de Roc­Montès 20,2340,Le Noirmont,,1,1,8488,0,0.0
+K232,JU,Route Principale 21,2824,Vicques,,1,1,0,1,22.0
+K112,LU,Spitalstrasse,6004,Luzern,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,646506,10,2771.0
+K112,LU,St. Anna­Strasse 32,6006,Luzern,"MRI, CT, PET, CC, Angio, Dia",1,1,171384,3,731.0
+K211,LU,Schafmattstrasse 1,4915,St. Urban,,1,1,118306,0,0.0
+K212,LU,Rütliweg 1,6045,Meggen,,1,1,87,0,0.0
+K221,LU,Route de l'Astoria 2,3963,Crans-Montana,,1,1,1111,0,0.0
+K221,LU,Hemschlenstrasse,6006,Luzern,,1,1,2342,0,0.0
+K221,LU,Hertensteinstrasse 162,6353,Weggis,,1,1,20,0,0.0
+K232,LU,Schellenrain 20,6208,Oberkirch LU,,1,1,2597,2,444.0
+K235,LU,Guido A. Zäch Strasse 1,6207,Nottwil,"MRI, CT, Lito",1,1,58645,0,0.0
+K112,NE,Maladière 45,2000,Neuchâtel,"MRI, CT, PET, CC, LB, Angio",1,1,269185,5,1188.0
+K123,NE,Faubourg de l'Hôpital 81,2001,Neuchâtel,"Angio, Dia",1,1,13346,0,0.0
+K123,NE,Rue Numa-Droz 185,2300,La Chaux­de­Fonds,,1,1,1916,0,0.0
+K212,NE,,2017,Boudry,,1,1,114437,0,0.0
+K232,NE,Chemin des Valangines 9,2000,Neuchâtel,,1,1,0,1,52.0
+K122,NW,Ennetmooserstrasse 19,6370,Stans,"MRI, CT",1,1,72903,3,570.0
+K221,NW,Bürgenstock 30,6363,Obbürgen,,0,1,0,0,0.0
+K232,NW,Rosenweg 3,6370,Stans,,1,1,1847,1,89.0
+K121,OW,Brünigstrasse 181,6060,Sarnen,"MRI, CT, Angio",1,1,30819,2,289.0
+K112,SG,Rorschacher Strasse 95,9007,St. Gallen,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,488209,6,1627.0
+K112,SG,Alte Landstrasse 106,9445,Rebstein,"MRI, CT, Angio, Dia",1,1,67077,4,870.0
+K121,SG,Fürstenlandstrasse 32,9500,Wil SG,"MRI, CT",1,1,46827,4,505.0
+K122,SG,Brauerstrasse 95,9016,St. Gallen,"MRI, CT, Angio",1,1,61116,4,663.0
+K122,SG,Gasterstrasse 25,8730,Uznach,"MRI, CT, Lito, Angio, Dia",1,1,41797,3,367.0
+K211,SG,Zürcherstrasse 30,9500,Wil SG,,1,1,78719,0,0.0
+K211,SG,,7312,Pfäfers,,1,1,76751,0,0.0
+K212,SG,Sonnenhofstrasse 15,9608,Ganterschwil,,1,1,168,0,0.0
+K221,SG,Taminaplatz 1,7317,Valens,,1,1,28808,0,0.0
+K221,SG,Rorschacher Strasse 311,9016,St. Gallen,,1,1,10396,0,0.0
+K231,SG,Güterstrasse 21/23,8640,Rapperswil-Jona,,1,1,9890,0,0.0
+K231,SG,Bahnhofstrasse 123a,9244,Niederuzwil,,1,1,568,0,0.0
+K232,SG,Lindenstrasse 71,9000,St. Gallen,,1,1,1431,2,326.0
+K233,SG,Claudiusstrasse 6,9006,St. Gallen,CT,1,1,60798,0,43.0
+K234,SG,Rorschacher Strasse 94,9000,St. Gallen,,1,1,4613,0,0.0
+K112,SH,Geissbergstrasse 81,8208,Schaffhausen,"CT, CC, Angio, Dia",1,1,181189,2,756.0
+K231,SH,Rietstrasse 30,8200,Schaffhausen,,1,1,1709,0,0.0
+K112,SO,Schöngrünstrasse 36a,4500,Solothurn,"MRI, CT, PET, CC, Lito, Angio, Dia",1,1,565166,10,1509.0
+K231,SO,Leopoldstrasse 5,4500,Solothurn,,1,1,1257,0,0.0
+K235,SO,Louis-Giroud­Strasse 20,4600,Olten,,1,1,2653,0,0.0
+K121,SZ,Waldeggstrasse 10,6430,Schwyz,"Angio, Dia",1,1,25856,2,431.0
+K121,SZ,Oberdorfstrasse 41,8853,Lachen SZ,"MRI, CT, Angio, Dia",1,1,68314,2,461.0
+K122,SZ,Spitalstrasse 28,8840,Einsiedeln,CT,1,1,35229,2,234.0
+K212,SZ,Gersauerstrasse 8,6440,Brunnen,,1,1,2122,0,0.0
+K112,TG,Waldeggstrasse 8a,8501,Frauenfeld,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,240576,9,2175.0
+K123,TG,Weinbergstrasse 1,8280,Kreuzlingen,Angio,1,1,4733,0,0.0
+K211,TG,Seeblickstrasse 3,8596,Münsterlingen,,1,1,36851,0,0.0
+K211,TG,Hauptstrasse 130,9573,Littenheid,,1,1,51863,0,0.0
+K212,TG,Fohrenbergstrasse 23,8355,Aadorf,,1,1,938,0,0.0
+K221,TG,Hauptstrasse 2­4,8588,Zihlschlacht,,1,1,11398,0,0.0
+K221,TG,Dr. A. O. Fleisch­Strasse 3,8265,Mammern,CT,1,1,2385,0,0.0
+K221,TG,Kurhausstrasse 34,8374,Dussnang,,1,1,9682,0,0.0
+K221,TG,St. Katharinental,8253,Diessenhofen,,1,1,2192,0,0.0
+K221,TG,Seestrasse 101,8267,Berlingen,,0,1,0,0,0.0
+K231,TG,Bernrainstrasse 17,8280,Kreuzlingen,CT,1,1,2393,0,0.0
+K231,TG,Brückenstrasse 9,8280,Kreuzlingen,,1,1,7737,0,0.0
+K112,TI,Viale Officina 3,6500,Bellinzona,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,566538,9,1237.0
+K121,TI,Via Moncucco 10,6900,Lugano,"MRI, CT, LB, Angio",1,1,50095,0,0.0
+K122,TI,Via Stefano Franscini 4,6600,Locarno,"MRI, CT",1,1,21335,2,314.0
+K122,TI,Via Sant'Anna 1,6924,Sorengo,"MRI, CT",1,1,18631,4,691.0
+K122,TI,Via Tesserete 48,6900,Lugano,"MRI, CT, Angio",1,1,15177,0,0.0
+K212,TI,Via Agostino Maspoli,6850,Mendrisio,,1,1,4087,0,0.0
+K212,TI,Via al Parco 27,6644,Orselina,,1,1,2964,0,0.0
+K212,TI,Via Ceresio 34b,6963,Pregassona,,0,1,0,0,0.0
+K212,TI,,6980,Castelrotto,,1,1,752,0,0.0
+K221,TI,Via Crodolo 18,6614,Brissago,,1,1,2051,0,0.0
+K231,TI,Via Grumo 16,6929,Gravesano,"MRI, CT, Angio",1,1,25047,0,0.0
+K235,TI,Via Consiglio Mezzano 38,6644,Orselina,,1,1,50,0,0.0
+K235,TI,Via al Parco 27,6644,Orselina,,0,1,0,0,0.0
+K122,UR,Spitalstrasse 1,6460,Altdorf UR,"MRI, CT, Angio, Dia",1,1,71502,2,255.0
+K111,VD,Rue du Bugnon 21,1011,Lausanne,"MRI, CT, PET, CC, LB, Angio, Dia",1,1,1395310,6,2533.0
+K112,VD,Route du Vieux Séquoia 20,1847,Rennaz,"MRI, CT, PET, CC, LB, Dia",1,1,283026,6,1624.0
+K112,VD,Chemin du Crêt 2,1110,Morges,"MRI, CT, Angio, Dia",1,1,144361,4,1361.0
+K112,VD,Rue d'Entremonts 11,1400,Yverdon­les­Bains,"MRI, CT, Dia",1,1,206151,3,869.0
+K121,VD,Chemin Monastier 10,1260,Nyon,"MRI, CT, Dia",1,1,115856,2,452.0
+K121,VD,Avenue d'Ouchy 31,1006,Lausanne,"MRI, CT, CC, LB, Lito, Angio, Dia",1,1,67707,2,438.0
+K122,VD,Avenue de la Colline 3,1530,Payerne,"MRI, CT, Dia",1,1,126146,3,545.0
+K122,VD,Avenue Vinet 30,1004,Lausanne,"MRI, CT, PET, CC, Angio",1,1,125517,1,302.0
+K122,VD,Rue de l_x0019_ Hôpital 3,1347,Le Sentier,LB,1,1,11094,0,0.0
+K123,VD,Route du Muids 3,1272,Genolier,"MRI, CT, PET, CC, LB, Angio",1,1,20074,0,0.0
+K123,VD,Rue des Rosiers 29,1450,Ste­Croix,,1,1,12618,0,0.0
+K123,VD,Route de l'Hôpital 17,1660,Château­d'Oex,"CT, Dia",1,1,9090,0,0.0
+K212,VD,Route de Nant,1804,Corsier­sur­Vevey,,1,1,66993,0,0.0
+K212,VD,Avenue de Bois­Bougy 8,1260,Nyon,,1,1,4059,0,0.0
+K221,VD,La Lignière 5,1196,Gland,,1,1,14743,0,0.0
+K221,VD,Chemin des Colombaires 31,1096,Cully,,1,1,2029,0,0.0
+K221,VD,Route de Valmont,1823,Glion,,1,1,1296,0,0.0
+K221,VD,Avenue de Bois­Bougy 5,1260,Nyon,,1,1,1930,0,0.0
+K221,VD,Route du Vignoble 60,1175,Lavigny,,1,1,2026,0,0.0
+K231,VD,Rue du Grammont 2,1815,Clarens,Lito,1,1,5835,0,0.0
+K231,VD,Chemin des Allinges 10,1006,Lausanne,"MRI, CT",1,1,5385,0,0.0
+K235,VD,Chemin des Cuarroz 57,1807,Blonay,,1,1,1557,0,0.0
+K235,VD,Rue Bon-Port 27,1820,Montreux,,0,1,0,0,0.0
+K235,VD,Rue du Lac 142,1815,Clarens,"MRI, CT",1,1,27713,0,0.0
+K235,VD,Avenue de France 15,1004,Lausanne,Angio,1,1,72035,0,0.0
+K112,VS,Avenue du Grand-Champsec 80,1950,Sion,"MRI, CT, PET, CC, LB, Angio, Dia",1,1,379983,5,1443.0
+K112,VS,Pflanzettastrasse 8,3930,Visp,"MRI, CT, Lito, Dia",1,1,140265,3,668.0
+K221,VS,Avenue du Grand­Champsec 90,1950,Sion,,1,1,204391,0,0.0
+K221,VS,Willy­Spühlerstrasse 2,3954,Leukerbad,,1,1,1577,0,0.0
+K231,VS,Rue de Pré­Fleuri 16,1950,Sion,"MRI, CT",1,1,9126,0,0.0
+K231,VS,Route du Léman 29,1907,Saxon,,1,1,5606,0,0.0
+K112,ZG,Landhausstrasse 11,6340,Baar,"MRI, CT, Angio, Dia",1,1,214376,3,907.0
+K122,ZG,Rigistrasse 1,6330,Cham,"MRI, CT",1,1,32862,3,469.0
+K211,ZG,Widenstrasse 55,6317,Oberwil bei Zug,,1,1,75162,0,0.0
+K212,ZG,Meisenbergstrasse 17,6300,Zug,,1,1,878,0,0.0
+K221,ZG,Höhenweg 71,6314,Unterägeri,,1,1,16833,0,0.0
+K111,ZH,Rämistrasse 100,8091,Zürich,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,710457,8,1958.0
+K112,ZH,Brauerstrasse 15,8400,Winterthur,"MRI, CT, PET, CC, LB, Lito, Angio, Dia",1,1,318789,6,1448.0
+K112,ZH,Birmensdorferstrasse 497,8063,Zürich,"MRI, CT, CC, LB, Angio",1,1,185495,7,1983.0
+K112,ZH,Witellikerstrasse 40,8008,Zürich,"MRI, CT, PET, CC, LB, Angio, Dia",1,1,92214,3,837.0
+K112,ZH,Tièchestrasse 99,8037,Zürich,"MRI, CT, CC, Angio, Dia",1,1,43067,0,0.0
+K112,ZH,Trichtenhauserstrasse 20,8125,Zollikerberg,"MRI, CT, Angio, Dia",1,1,57668,6,1962.0
+K112,ZH,Urdorferstrasse 100,8952,Schlieren,"MRI, CT, Lito, Angio",1,1,150282,5,956.0
+K112,ZH,Brunnenstrasse 42,8610,Uster,"CT, Dia",1,1,108040,4,738.0
+K112,ZH,Spitalstrasse 24,8180,Bülach,CT,1,1,119260,4,1283.0
+K112,ZH,Asylstrasse 19,8810,Horgen,"MRI, CT, Dia",1,1,54014,3,649.0
+K112,ZH,Spitalstrasse 66,8620,Wetzikon ZH,"MRI, CT, CC, Lito, Angio, Dia",1,1,114888,4,759.0
+K121,ZH,Asylstrasse 10,8708,Männedorf,CT,1,1,106401,2,515.0
+K121,ZH,Seestrasse 220,8002,Zürich,"MRI, CT, Angio, Dia",1,1,45004,2,465.0
+K122,ZH,Sonnenbergstrasse 27,8910,Affoltern am Albis,CT,1,1,41702,0,0.0
+K122,ZH,Toblerstrasse 51,8044,Zürich,Angio,1,1,663,4,467.0
+K123,ZH,Bergstrasse 16,8805,Richterswil,,1,1,8899,2,340.0
+K211,ZH,Lenggstrasse 31,8032,Zürich,,1,1,151123,0,0.0
+K211,ZH,Schlösslistrasse 8,8618,Oetwil am See,,1,1,37873,0,0.0
+K211,ZH,Wieshofstrasse 102,8408,Winterthur,,1,1,76787,0,0.0
+K211,ZH,Alte Landstrasse 70,8802,Kilchberg ZH,,1,1,22804,0,0.0
+K212,ZH,Islikonerstrasse 5,8548,Ellikon an der Thur,,1,1,5826,0,0.0
+K212,ZH,Hohenegg 1,8706,Meilen,,1,1,7391,0,0.0
+K212,ZH,Emil-Klöti-Strasse 14-18,8037,Zürich,,1,1,1399,0,0.0
+K212,ZH,Zum Park 20,8404,Winterthur,,1,1,97,0,0.0
+K221,ZH,Faltigbergstrasse 7,8636,Wald ZH,,1,1,1626,0,0.0
+K221,ZH,Trichtenhauserstrasse 20,8125,Zollikerberg,,1,1,4933,0,0.0
+K221,ZH,Grütstrasse 60,8802,Kilchberg ZH,,1,1,3057,0,0.0
+K221,ZH,Urdorferstrasse 100,8952,Schlieren,,1,1,45,0,0.0
+K231,ZH,Forchstrasse 340,8008,Zürich,"MRI, CT",1,1,91561,0,0.0
+K231,ZH,Lengghalde 2,8008,Zürich,,1,1,114152,0,0.0
+K231,ZH,Schickstrasse 11,8400,Winterthur,Dia,1,1,2205,0,0.0
+K231,ZH,Zürichstrasse 5,8180,Bülach,,1,1,1230,0,0.0
+K231,ZH,Bellerivestrasse 34,8008,Zürich,,1,1,63,0,0.0
+K231,ZH,Hardturmstrasse 133,8005,Zürich,,1,1,1681,0,0.0
+K231,ZH,Breitestrasse 11,8157,Dielsdorf,,1,1,3634,0,0.0
+K231,ZH,Dammstrasse 29,8702,Zollikon,,1,1,820,0,0.0
+K231,ZH,Brunngasse 6,8400,Winterthur,,1,1,2010,0,
+K232,ZH,Schürlistrasse 3,8344,Bäretswil,,1,1,2964,2,362.0
+K232,ZH,Badenerstrasse 177,8003,Zürich,,1,1,1746,2,240.0
+K233,ZH,Steinwiesstrasse 75,8032,Zürich,"MRI, CT, Angio, Dia",1,1,103181,0,93.0
+K235,ZH,Bleulerstrasse 60,8008,Zürich,,1,1,32143,0,0.0
+K235,ZH,Schreberweg 9,8044,Zürich,,1,1,1223,0,0.0
+K235,ZH,Konradstrasse 62,8005,Zürich,,1,1,18893,0,0.0
+,,,,,,,,19765787,354,77445.0

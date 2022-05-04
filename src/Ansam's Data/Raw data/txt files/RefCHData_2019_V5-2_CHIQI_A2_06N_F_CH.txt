@@ -1,0 +1,17 @@
+
+	A2_06N_F HD Linksherzinsuffizienz (Alter >19) // DP insuffisance ventriculaire gauche (âge >19) // DP insufficienza ventricolare sinistra (età >19)
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	2649	
+	2009	3671	
+	2010	4856	
+	2011	5269	
+	2012	5617	
+	2013	5899	
+	2014	6624	
+	2015	7330	
+	2016	8466	
+	2017	8671	
+	2018	8575	
+	2019	9043	

@@ -1,0 +1,17 @@
+
+	F1_04_F Intrakranielle perkutan­transluminale Gefässinterventionen // Interventions vasculaires percutanées transluminales intracrâniennes // Interventi vascolari percutanei transluminali intracranici
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	37	
+	2009	29	
+	2010	54	
+	2011	536	
+	2012	592	
+	2013	672	
+	2014	765	
+	2015	873	
+	2016	856	
+	2017	946	
+	2018	887	
+	2019	1004	

@@ -1,0 +1,14 @@
+
+	I1_08_M Hüft­Endoprothesen­Erstimplantation bei Koxarthrose und chronischer Arthritis, Mortalität // Première implantation d'endoprothèse de hanche en cas de coxarthrose et arthrite chronique, mortalité // Prima applicazione dell'endoprotesi dell'anca in caso di coxartrosi e artrite cronica, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	23	16445	0.1398601	
+	2012	11	16574	0.06636901	
+	2013	15	16355	0.09171507	
+	2014	8	16732	0.04781257	
+	2015	17	17064	0.09962494	
+	2016	11	17893	0.06147656	
+	2017	12	17878	0.0671216	
+	2018	7	17772	0.0393878	
+	2019	2	18105	0.01104667	

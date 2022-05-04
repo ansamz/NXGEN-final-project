@@ -1,0 +1,17 @@
+
+	B1_15_X Hirninfarkt (ICD­10 I63, Alter >19) ohne Frührehabilitation, Aufenthaltsdauer // Infarctus cérébral (CIM­10 I63, âge >19) sans rééducation précoce, durée de séjour // Infarto cerebrale (ICD­10 I63, età >19) senza riabilitazione precoce, durata della degenza
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	StayCH	CasesCH	pCH	
+	2008	79271	7053	11.23933	
+	2009	82021	7464	10.98888	
+	2010	109713	8624	12.72182	
+	2011	122087	9369	13.03095	
+	2012	124694	10318	12.08509	
+	2013	118460	10767	11.00214	
+	2014	122325	11196	10.92578	
+	2015	131180	12214	10.74013	
+	2016	139763	12993	10.75679	
+	2017	139042	13313	10.44408	
+	2018	138440	13966	9.912645	
+	2019	140606	14672	9.583288	

@@ -1,0 +1,17 @@
+
+	E4_08_M Kolorektale Resektionen bei anderer Diagnose, Mortalität // Résections du côlon pour autre diagnostic, mortalité // Resezioni colorettali per altra diagnosi, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	151	2551	5.919247	
+	2009	164	2409	6.807804	
+	2010	137	2429	5.640181	
+	2011	169	2472	6.83657	
+	2012	151	2394	6.307435	
+	2013	138	2399	5.752397	
+	2014	134	2490	5.381526	
+	2015	139	2237	6.213679	
+	2016	141	2204	6.397459	
+	2017	95	1991	4.771472	
+	2018	113	2122	5.325165	
+	2019	118	2096	5.629771	

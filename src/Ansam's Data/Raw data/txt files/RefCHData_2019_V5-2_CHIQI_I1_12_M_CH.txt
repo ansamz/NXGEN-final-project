@@ -1,0 +1,11 @@
+
+	I1_12_M Hüft­Endoprothesen­Wechsel, ohne Frakturen oder Infektionen, Mortalität // Changement d'endoprothèse de hanche, sans fractures ou infections, mortalité // Sostituzione dell'endoprotesi dell'anca, senza fratture o infezioni, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2012	0	1	0	
+	2015	8	1804	0.443459	
+	2016	9	1764	0.5102041	
+	2017	6	1625	0.3692308	
+	2018	8	1560	0.5128205	
+	2019	7	1611	0.4345127	

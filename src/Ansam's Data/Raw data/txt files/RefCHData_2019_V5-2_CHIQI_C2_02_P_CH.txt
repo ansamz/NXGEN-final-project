@@ -1,0 +1,17 @@
+
+	C2_02_P Anteil Fälle mit enteraler/parenteraler Ernährungstherapie bei erheblicher Mangelernährung/Kachexie ohne Tumor, Alter >64 // Cas avec traitement nutritionnel entérale/parentérale en cas de malnutrition grave/cachexie sans tumeur, âge >64, pourcentage // Casi con terapia dietetica enterale/parenterale con grave malnutrizione/cachessia senza tumore, età >64, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	148	1694	8.736718	
+	2009	235	2203	10.66727	
+	2010	350	2489	14.06187	
+	2011	428	3169	13.50584	
+	2012	712	4489	15.86099	
+	2013	837	5036	16.62033	
+	2014	822	4958	16.57927	
+	2015	937	5498	17.04256	
+	2016	977	6129	15.94061	
+	2017	1096	7183	15.25825	
+	2018	1404	9308	15.0838	
+	2019	1667	10785	15.45665	

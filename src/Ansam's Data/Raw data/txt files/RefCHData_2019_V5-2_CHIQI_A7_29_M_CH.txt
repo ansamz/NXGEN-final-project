@@ -1,0 +1,17 @@
+
+	A7_29_M OP an Koronargefässen mit weiterer OP am Herzen (Alter >19), Mortalität // OP des vaisseaux coronaires avec autre OP du cœur (âge >19), mortalité // OP ai vasi coronarici con altre OP al cuore (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	58	942	6.157113	
+	2009	76	1031	7.371484	
+	2010	67	1043	6.423778	
+	2011	63	1112	5.665468	
+	2012	73	1135	6.431718	
+	2013	92	1216	7.565789	
+	2014	78	1204	6.478405	
+	2015	63	1217	5.176664	
+	2016	59	1177	5.012744	
+	2017	60	1138	5.272408	
+	2018	62	1004	6.175299	
+	2019	69	983	7.019329	

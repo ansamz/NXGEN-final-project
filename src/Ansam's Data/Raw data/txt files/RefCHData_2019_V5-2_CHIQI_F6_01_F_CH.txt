@@ -1,0 +1,14 @@
+
+	F6_01_F Anlegen eines arteriovenösen Shunts (innere AV­Fistel) // Insertion de shunt artério­veineux (fistule AV interne) // Posizionamento di shunt arteriovenoso (fistola AV interna)
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2011	504	
+	2012	599	
+	2013	569	
+	2014	582	
+	2015	553	
+	2016	717	
+	2017	739	
+	2018	683	
+	2019	689	

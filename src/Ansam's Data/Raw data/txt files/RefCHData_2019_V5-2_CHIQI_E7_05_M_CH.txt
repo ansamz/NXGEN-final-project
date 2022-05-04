@@ -1,0 +1,9 @@
+
+	E7_05_M Anatomische Leberresektionen (Alter >19), Mortalität // Résections anatomiques du foie (âge >19), mortalité // Resezioni anatomiche del fegato (età >19), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2016	12	420	2.857143	
+	2017	12	428	2.803738	
+	2018	14	372	3.763441	
+	2019	17	406	4.187192	

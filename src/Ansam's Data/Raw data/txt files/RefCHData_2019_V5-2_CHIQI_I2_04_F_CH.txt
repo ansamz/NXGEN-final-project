@@ -1,0 +1,17 @@
+
+	I2_04_F OP am Rückenmark/Spinalkanal, ohne isolierte lokale Schmerztherapie // OP de la moelle épinière/du canal rachidien, sans traitement local des douleurs isolé // OP al midollo spinale/canale vertebrale, senza terapia locale del dolore isolata
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	4854	
+	2009	4962	
+	2010	5352	
+	2011	6161	
+	2012	5955	
+	2013	5882	
+	2014	6115	
+	2015	5966	
+	2016	5862	
+	2017	5790	
+	2018	6072	
+	2019	5537	

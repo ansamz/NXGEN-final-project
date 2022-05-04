@@ -1,0 +1,17 @@
+
+	L3_03_F Lebertransplantation, partiell/auxiliär/andere // Transplantation hépatique, foie partiel/auxiliaire/autre // Trapianto di fegato parziale/ausiliario/altro
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	95	
+	2009	98	
+	2010	96	
+	2011	20	
+	2012	8	
+	2013	17	
+	2014	4	
+	2015	11	
+	2016	17	
+	2017	20	
+	2018	19	
+	2019	15	

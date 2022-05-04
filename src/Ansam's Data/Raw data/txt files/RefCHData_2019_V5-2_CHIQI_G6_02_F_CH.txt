@@ -1,0 +1,17 @@
+
+	G6_02_F OP bei Genitalprolaps // OP en cas de prolapsus génital // OP per prolasso genitale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	4386	
+	2009	4455	
+	2010	4593	
+	2011	4675	
+	2012	4773	
+	2013	4428	
+	2014	4324	
+	2015	4309	
+	2016	4075	
+	2017	4011	
+	2018	4005	
+	2019	3724	

@@ -1,0 +1,17 @@
+
+	K1_02_F Stationäre Behandlungen wegen HD Dermatitis und Ekzem // Traitements hospitaliers en cas de DP dermatoses et eczémas // Cure ospedaliere in caso di DP dermatite ed eczema
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	1090	
+	2009	1109	
+	2010	1173	
+	2011	1223	
+	2012	1277	
+	2013	1231	
+	2014	1225	
+	2015	1246	
+	2016	1199	
+	2017	1227	
+	2018	1296	
+	2019	1379	

@@ -1,0 +1,17 @@
+
+	D4_02N_F Resektionen von Lunge oder Bronchien bei Bronchialkarzinom // Résections pulmonaires ou bronchiques en cas de carcinome bronchique // Resezioni di polmone o bronchi in caso di carcinoma bronchiale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	1103	
+	2009	1050	
+	2010	1178	
+	2011	1282	
+	2012	1341	
+	2013	1384	
+	2014	1419	
+	2015	1477	
+	2016	1621	
+	2017	1662	
+	2018	1706	
+	2019	1777	

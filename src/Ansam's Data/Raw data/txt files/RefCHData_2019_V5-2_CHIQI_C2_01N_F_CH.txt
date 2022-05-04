@@ -1,0 +1,17 @@
+
+	C2_01N_F Fälle ohne Tumor, Alter >64 // Cas sans tumeur, âge >64 // Casi senza tumore, età >64
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	351864	
+	2009	355144	
+	2010	382326	
+	2011	394352	
+	2012	391686	
+	2013	399135	
+	2014	408269	
+	2015	423932	
+	2016	434143	
+	2017	441782	
+	2018	451643	
+	2019	461388	

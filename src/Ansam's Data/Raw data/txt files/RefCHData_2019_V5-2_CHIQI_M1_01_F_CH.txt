@@ -1,0 +1,14 @@
+
+	M1_01_F Palliativmedizinische Komplexbehandlung // Traitement complexe de médecine palliative // Trattamento medico palliativo complesso
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2011	598	
+	2012	1312	
+	2013	1513	
+	2014	2117	
+	2015	2795	
+	2016	4174	
+	2017	4822	
+	2018	6164	
+	2019	7000	

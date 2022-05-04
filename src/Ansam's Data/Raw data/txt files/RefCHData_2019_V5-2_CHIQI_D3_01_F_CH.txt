@@ -1,0 +1,17 @@
+
+	D3_01_F Stationäre Behandlungen wegen HD Lungenkrebs // Traitements hospitaliers en cas de DP cancer du poumon // Cure ospedaliere in caso di DP cancro polmonare
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	4652	
+	2009	7348	
+	2010	8264	
+	2011	8234	
+	2012	7827	
+	2013	7948	
+	2014	7957	
+	2015	8189	
+	2016	8938	
+	2017	8870	
+	2018	8985	
+	2019	8983	

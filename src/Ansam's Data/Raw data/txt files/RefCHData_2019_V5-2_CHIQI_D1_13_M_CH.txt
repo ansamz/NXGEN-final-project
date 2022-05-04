@@ -1,0 +1,17 @@
+
+	D1_13_M HD Aspirationspneumonie, Mortalität // DP pneumonie par aspiration, mortalité // DP polmonite da aspirazione, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	262	1176	22.27891	
+	2009	263	1200	21.91667	
+	2010	331	1475	22.44068	
+	2011	326	1508	21.61804	
+	2012	278	1444	19.25208	
+	2013	321	1503	21.35729	
+	2014	319	1687	18.90931	
+	2015	329	1789	18.39016	
+	2016	360	1904	18.90756	
+	2017	360	1938	18.57585	
+	2018	347	2004	17.31537	
+	2019	374	2016	18.55159	

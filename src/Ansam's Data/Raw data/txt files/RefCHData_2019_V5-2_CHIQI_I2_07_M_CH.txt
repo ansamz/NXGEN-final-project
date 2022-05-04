@@ -1,0 +1,14 @@
+
+	I2_07_M Komplexe Rekonstruktionen der Wirbelsäule (ohne Tumor, Trauma), Mortalität // Réparations complexes de la colonne vertébrale (sans tumeur, traumatisme), mortalité // Ricostruzioni complesse della colonna vertebrale (senza tumore o trauma), mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	1	211	0.4739336	
+	2012	2	299	0.6688963	
+	2013	0	395	0	
+	2014	1	347	0.2881844	
+	2015	2	432	0.462963	
+	2016	1	447	0.2237136	
+	2017	2	477	0.4192872	
+	2018	1	489	0.204499	
+	2019	0	541	0	

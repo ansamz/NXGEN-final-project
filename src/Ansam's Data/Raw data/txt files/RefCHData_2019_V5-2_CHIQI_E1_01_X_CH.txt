@@ -1,0 +1,17 @@
+
+	E1_01_X Cholezystektomie bei Gallensteinen und Cholezystitis, ohne Tumor, Aufenthaltsdauer // Cholécystectomie en cas de calculs biliaires et cholécystite, sans tumeur, durée de séjour // Colecistectomia in caso di calcoli biliari e colecistite, senza tumore, durata della degenza
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	StayCH	CasesCH	pCH	
+	2008	60949	12012	5.074009	
+	2009	59242	12046	4.917981	
+	2010	58084	12366	4.697073	
+	2011	53369	12077	4.419061	
+	2012	53838	12262	4.390638	
+	2013	53899	12594	4.279736	
+	2014	55252	13050	4.23387	
+	2015	56198	13378	4.200777	
+	2016	55313	13516	4.092409	
+	2017	53026	13429	3.948619	
+	2018	52209	13339	3.914012	
+	2019	52521	13703	3.83281	

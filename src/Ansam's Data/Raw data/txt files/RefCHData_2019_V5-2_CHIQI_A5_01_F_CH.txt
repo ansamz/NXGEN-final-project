@@ -1,0 +1,17 @@
+
+	A5_01_F Schrittmacherversorgung (Implantationen und Wechsel, inkl. Defibrillatoren) // Traitement par pacemaker (implantation et changement, défibrillateur inclus) // Trattamento con pacemaker (impianto e sostituzione, incluso defibrillatore)
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	4881	
+	2009	5193	
+	2010	5745	
+	2011	5746	
+	2012	5726	
+	2013	6057	
+	2014	6626	
+	2015	6998	
+	2016	7149	
+	2017	6772	
+	2018	6874	
+	2019	7287	

@@ -1,0 +1,9 @@
+
+	L6_04_F Transfusion von peripheren hämatopoetischen Stammzellen // Transfusion de cellules souches hématopoïétiques périphériques // Trasfusione di cellule staminali ematopoietiche periferiche
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2016	652	
+	2017	664	
+	2018	706	
+	2019	774	

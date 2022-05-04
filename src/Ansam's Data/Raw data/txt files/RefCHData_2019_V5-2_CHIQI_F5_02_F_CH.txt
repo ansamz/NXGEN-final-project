@@ -1,0 +1,17 @@
+
+	F5_02_F PTA abdominale/Beinarterien (ohne Aorta) mit OP an Becken­/Beinarterien // ATP des artères de l'abdomen/des jambes (hormis aorte) avec OP des artères du bassin/des jambes // PTA di arterie addominali/delle gambe (senza aorta) con OP alle arterie del bacino/delle gambe
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	180	
+	2009	166	
+	2010	188	
+	2011	602	
+	2012	803	
+	2013	816	
+	2014	751	
+	2015	899	
+	2016	883	
+	2017	918	
+	2018	923	
+	2019	958	

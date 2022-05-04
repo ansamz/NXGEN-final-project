@@ -1,0 +1,17 @@
+
+	A1_09_P Anteil akute Infarktformen n.n.bez. (Alter >19) // Infarctus aigu du myocarde non précisé (âge >19), pourcentage // Forme acute di infarto al miocardio NAS (età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	904	12736	7.09799	
+	2009	872	13484	6.466924	
+	2010	623	15332	4.063397	
+	2011	575	16147	3.561033	
+	2012	388	15946	2.433212	
+	2013	361	16013	2.254418	
+	2014	314	16638	1.887246	
+	2015	317	17004	1.864267	
+	2016	299	17633	1.695684	
+	2017	283	17549	1.612628	
+	2018	297	17593	1.688171	
+	2019	303	17753	1.706754	

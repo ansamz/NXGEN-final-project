@@ -1,0 +1,10 @@
+
+	E4_15_M Kolorektale Resektionen (E.4.2.F, E.4.3.F, E.4.4.F, E.4.5.F, E.4.6.F, E.4.13.F) ohne tiefe Rektumresektionen mit Anastomoseninsuffizienz, Mortalität // Résections colorectales (E.4.2.F, E.4.3.F, E.4.4.F, E.4.5.F, E.4.6.F, E.4.13.F) sans résections profondes du rectum avec insuffisance anastomosique, mortalité // Resezione colorettale (E.4.2.F, E.4.3.F, E.4.4.F, E.4.5.F, E.4.6.F, E.4.13.F) senza resezione bassa del retto con deiscenza anastomotica, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2015	28	321	8.722741	
+	2016	18	315	5.714286	
+	2017	34	325	10.46154	
+	2018	25	318	7.861635	
+	2019	30	360	8.333333	

@@ -1,0 +1,17 @@
+
+	C2_01_P Anteil Fälle mit erheblicher Mangelernährung/Kachexie ohne Tumor, Alter >64 // Cas avec malnutrition grave/cachexie sans tumeur, âge >64, pourcentage // Casi con grave malnutrizione/cachessia senza tumore, età >64, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	1694	351864	0.481436	
+	2009	2203	355144	0.6203118	
+	2010	2489	382326	0.6510151	
+	2011	3169	394352	0.8035968	
+	2012	4489	391686	1.146071	
+	2013	5036	399135	1.261728	
+	2014	4958	408269	1.214395	
+	2015	5498	423932	1.296906	
+	2016	6129	434143	1.411747	
+	2017	7183	441782	1.625915	
+	2018	9308	451643	2.06092	
+	2019	10785	461388	2.337512	

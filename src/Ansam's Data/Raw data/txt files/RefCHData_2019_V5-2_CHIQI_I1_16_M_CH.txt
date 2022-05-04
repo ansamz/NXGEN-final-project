@@ -1,0 +1,14 @@
+
+	I1_16_M Knie­Endoprothesen­Erstimplantation bei anderen Diagnosen, Mortalität // Première implantation d'endoprothèse de genou en cas d'autre diagnostic, mortalité // Prima applicazione dell'endoprotesi del ginocchio in caso di altre diagnosi, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2011	3	683	0.4392387	
+	2012	1	640	0.15625	
+	2013	0	660	0	
+	2014	2	480	0.4166667	
+	2015	3	1834	0.1635769	
+	2016	3	1839	0.1631321	
+	2017	4	1961	0.2039776	
+	2018	0	1966	0	
+	2019	2	1876	0.1066098	

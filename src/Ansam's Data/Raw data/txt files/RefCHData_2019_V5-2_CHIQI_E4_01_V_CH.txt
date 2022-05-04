@@ -1,0 +1,17 @@
+
+	E4_01_V Anteil Verlegungen bei kolorektalen Resektionen insgesamt // Transferts avec total des résections colorectales, pourcentage // Trasferimenti con resezioni colorettali, totale, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	470	9644	4.873496	
+	2009	504	9376	5.375427	
+	2010	470	9248	5.08218	
+	2011	365	9502	3.841297	
+	2012	252	9405	2.679426	
+	2013	221	9394	2.352565	
+	2014	257	9249	2.778679	
+	2015	266	8856	3.003613	
+	2016	207	8982	2.304609	
+	2017	193	8586	2.247845	
+	2018	191	8787	2.173666	
+	2019	206	8806	2.339314	

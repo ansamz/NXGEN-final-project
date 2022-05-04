@@ -1,0 +1,17 @@
+
+	G4_05_F Stationäre Behandlungen wegen HD bösartige Neubildungen des Uterus // Traitements hospitaliers en cas de DP tumeurs malignes de l'utérus // Cure ospedaliere in caso di DP tumori maligni dell'utero
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	2273	
+	2009	2741	
+	2010	2875	
+	2011	2991	
+	2012	2819	
+	2013	2802	
+	2014	2847	
+	2015	3002	
+	2016	3110	
+	2017	3201	
+	2018	2863	
+	2019	2490	

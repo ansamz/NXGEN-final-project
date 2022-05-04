@@ -1,0 +1,17 @@
+
+	F2_10_M Resektion/Ersatz der thorakalen/thorakoabdominalen Aorta bei Aneurysma, nicht rupturiert, ohne OP am Herzen, Mortalität // Résection/remplacement de l'aorte thoracique/thoraco­abdominale en cas d'anévrisme, sans rupture, sans OP du cœur, mortalité // Resezione/sostituzione dell'aorta toracica/toracicoaddominale in caso di aneurisma, senza lacerazione, senza OP al cuore, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	3	45	6.666667	
+	2009	5	73	6.849315	
+	2010	5	75	6.666667	
+	2011	13	223	5.829596	
+	2012	18	227	7.929515	
+	2013	18	275	6.545455	
+	2014	11	258	4.263566	
+	2015	11	272	4.044118	
+	2016	13	279	4.659498	
+	2017	20	334	5.988024	
+	2018	13	304	4.276316	
+	2019	18	345	5.217391	

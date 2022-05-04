@@ -1,0 +1,17 @@
+
+	E7_01_M Eingriffe am Pankreas insgesamt (ohne Transplantation, Alter >19), Mortalität // Total des interventions sur le pancréas (sans transplantation, âge >19), mortalité // Interventi al pancreas (senza trapianto, età >19), totale, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	41	720	5.694444	
+	2009	52	758	6.860158	
+	2010	60	777	7.722008	
+	2011	43	727	5.914718	
+	2012	50	802	6.234414	
+	2013	57	852	6.690141	
+	2014	54	922	5.856833	
+	2015	47	934	5.03212	
+	2016	56	1026	5.45809	
+	2017	61	1059	5.760151	
+	2018	70	1068	6.554307	
+	2019	42	1069	3.928906	

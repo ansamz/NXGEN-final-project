@@ -1,0 +1,17 @@
+
+	E4_13_M Kolorektale Resektionen bei Colitis ulcerosa oder Morbus Crohn, Mortalität // Résections colorectales pour colite ulcéreuse ou maladie de Crohn, mortalité // Resezione colorettale per colite ulcerosa o morbo di Crohn, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	5	260	1.923077	
+	2009	5	257	1.945525	
+	2010	5	257	1.945525	
+	2011	8	275	2.909091	
+	2012	11	299	3.67893	
+	2013	9	300	3	
+	2014	6	291	2.061856	
+	2015	6	343	1.749271	
+	2016	5	289	1.730104	
+	2017	5	319	1.567398	
+	2018	2	333	0.6006006	
+	2019	5	337	1.48368	

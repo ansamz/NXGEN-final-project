@@ -1,0 +1,17 @@
+
+	B1_14_M Hirninfarkt (ICD­10 I63, Alter >19) mit Pneumonie, Mortalität // Infarctus cérébral (CIM­10 I63, âge >19) avec pneumonie, mortalité // Infarto cerebrale (ICD­10 I63, età >19) con polmonite, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	174	634	27.44479	
+	2009	170	620	27.41935	
+	2010	201	749	26.83578	
+	2011	181	825	21.93939	
+	2012	198	881	22.47446	
+	2013	238	899	26.47386	
+	2014	226	966	23.39545	
+	2015	250	1038	24.08478	
+	2016	204	1060	19.24528	
+	2017	219	1035	21.15942	
+	2018	220	989	22.24469	
+	2019	211	981	21.50866	

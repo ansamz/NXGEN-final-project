@@ -1,0 +1,17 @@
+
+	G2_05_F Neugeborene 750-999 g // Nouveau­nés 750-999 g // Neonati 750-999 g
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	157	
+	2009	158	
+	2010	185	
+	2011	202	
+	2012	214	
+	2013	209	
+	2014	189	
+	2015	234	
+	2016	236	
+	2017	227	
+	2018	217	
+	2019	161	

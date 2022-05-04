@@ -1,0 +1,17 @@
+
+	I2_16_F Lokale Schmerztherapie an der Wirbelsäule, ohne OP an der Wirbelsäule // Traitement local des douleurs de la colonne vertébrale, sans OP de la colonne vertébrale // Terapia locale del dolore alla colonna vertebrale, senza OP alla colonna vertebrale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	107	
+	2009	90	
+	2010	92	
+	2011	2638	
+	2012	3030	
+	2013	3203	
+	2014	3752	
+	2015	3244	
+	2016	3491	
+	2017	3230	
+	2018	2917	
+	2019	3141	

@@ -1,0 +1,10 @@
+
+	J1_08_F ECLS/ECMO-Herz-/Herz-Lungenunterstützung // Assistance cardio / cardio-pulmonaire ECLS / ECMO // Assistenza cardiaca/cardiopolmonare ECLS/ECMO
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2015	128	
+	2016	139	
+	2017	147	
+	2018	167	
+	2019	140	

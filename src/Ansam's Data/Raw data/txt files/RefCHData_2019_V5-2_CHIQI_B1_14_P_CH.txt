@@ -1,0 +1,17 @@
+
+	B1_14_P Anteil Hirninfarkt (ICD­10 I63, Alter >19) mit Pneumonie // Infarctus cérébral (CIM­10 I63, âge >19) avec pneumonie, pourcentage // Infarto cerebrale (ICD­10 I63, età >19) con polmonite, percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	634	7053	8.989083	
+	2009	620	7482	8.286554	
+	2010	749	8755	8.555111	
+	2011	825	9475	8.707124	
+	2012	881	10568	8.336488	
+	2013	899	11161	8.054834	
+	2014	966	11611	8.319697	
+	2015	1038	12634	8.215925	
+	2016	1060	13496	7.854179	
+	2017	1035	14003	7.391273	
+	2018	989	14608	6.770263	
+	2019	981	15227	6.442503	

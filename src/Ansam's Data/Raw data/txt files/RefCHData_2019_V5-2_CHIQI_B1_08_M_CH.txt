@@ -1,0 +1,17 @@
+
+	B1_08_M Hirninfarkt (ICD­10 I63, Alter >19), Direktaufnahmen, Mortalität // Infarctus cérébral (CIM­10 I63, âge >19), admissions directes, mortalité // Infarto cerebrale (ICD­10 I63, età >19), ammissioni dirette, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2008	550	6442	8.537721	
+	2009	534	6712	7.9559	
+	2010	590	7195	8.200139	
+	2011	514	7563	6.796245	
+	2012	583	8447	6.901859	
+	2013	631	9059	6.965449	
+	2014	605	9451	6.401439	
+	2015	644	10034	6.418178	
+	2016	621	10690	5.809167	
+	2017	643	11421	5.62998	
+	2018	642	12060	5.323383	
+	2019	671	12581	5.333439	

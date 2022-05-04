@@ -1,0 +1,13 @@
+
+	A6_03_M Vorhofablation bei Vorhofflimmern/­flattern, Mortalität // Ablation de l'oreillette en cas de fibrillation auriculaire / de flutter auriculaire, mortalité // Ablazione della fibrillazione atriale in caso di fibrillazione/flutter atriale, mortalità
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	DeathCH	CasesCH	pCH	
+	2012	1	1179	0.08481764	
+	2013	1	1449	0.06901311	
+	2014	1	1655	0.06042296	
+	2015	2	1872	0.1068376	
+	2016	3	2171	0.1381852	
+	2017	2	2396	0.08347245	
+	2018	2	2582	0.07745933	
+	2019	1	3062	0.03265839	

@@ -1,0 +1,17 @@
+
+	A3_05_P Anteil therapeutische Katheter der Koronargefässe ohne HD Herzinfarkt ohne OP am Herzen (Alter >19) // Cathétérisme thérapeutique des vaisseaux coronaires sans DP infarctus du myocarde sans OP du cœur (âge >19), pourcentage // Catetere terapeutico dei vasi coronarici senza DP infarto miocardico senza OP al cuore (età >19), percentuale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	CasesCHDen	pCH	
+	2008	9041	22620	39.96905	
+	2009	8447	22069	38.27541	
+	2010	9310	24101	38.6291	
+	2011	9078	23181	39.16138	
+	2012	7997	21118	37.86817	
+	2013	8080	20994	38.48719	
+	2014	8658	22564	38.37086	
+	2015	8710	22537	38.64756	
+	2016	9558	23753	40.23913	
+	2017	9793	23532	41.61567	
+	2018	10632	23493	45.25603	
+	2019	11061	23679	46.71228	

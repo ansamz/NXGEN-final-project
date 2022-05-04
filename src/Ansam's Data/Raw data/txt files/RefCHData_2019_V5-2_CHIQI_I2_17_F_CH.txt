@@ -1,0 +1,17 @@
+
+	I2_17_F Stationäre Behandlungen bei HD Erkrankung der Wirbelsäule, ohne OP oder lokale Schmerztherapie an der Wirbelsäule // Traitements hospitaliers en cas de HD maladies de la colonne vertébrale, sans OP ou traitement local des douleurs de la colonne // Cure ospedaliere in caso di DP malattia della colonna vertebrale, senza OP o terapia locale del dolore alla colonna vertebrale
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	16426	
+	2009	16427	
+	2010	18889	
+	2011	13613	
+	2012	12513	
+	2013	12215	
+	2014	12487	
+	2015	11977	
+	2016	12223	
+	2017	11827	
+	2018	11613	
+	2019	11649	

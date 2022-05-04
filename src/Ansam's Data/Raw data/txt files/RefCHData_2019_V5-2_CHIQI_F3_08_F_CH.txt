@@ -1,0 +1,17 @@
+
+	F3_08_F OP an Becken­/Beinarterien kombiniert mit Aorten­OP // OP des artères du bassin/des jambes combinée à une OP de l'aorte // OP alle arterie del bacino/delle gambe combinata con OP aortica
+	BAG/OFSP/UFSP - CH-IQI Version V5-2 - Daten 2019 - 21. April 2021
+
+	Jahr	CasesCH	
+	2008	82	
+	2009	104	
+	2010	109	
+	2011	200	
+	2012	231	
+	2013	257	
+	2014	267	
+	2015	262	
+	2016	263	
+	2017	266	
+	2018	273	
+	2019	265	
