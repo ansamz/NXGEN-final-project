@@ -60,7 +60,12 @@ This app will improve the quality of medical treatment, especially in the periph
 
 ## Notebooks
 
-1. Notebook name: explanation on what was done in the notebook
+1. AZ_birth_rates: Birth numbers in 2019 and 2020 as well as rates of births and c-sections analysis 
+2. AZ_Hospitals_data_analysis: Hospital rates, staff, services according to region
+3. AZ_Medico_reading_the_data1: Diagnosis in all of Switzerland according to age and SEX
+4. AZ_read_txt_files: Merging, cleaning and wrangling 650 text files into a dataframe
+5. AZ_Diseases_and_birth_prediction_in_Switzerland: Linear regression to predict the number of patients in each disease group
+6. AZ_maps_and_plots: Plots and choropleth map plots
 
 
 ## Contributing Members
