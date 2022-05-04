@@ -35,7 +35,8 @@ The objective of this project was to create an application which can analyze pat
 The project was carried out in collaboration with NXGEN Medical Services, a startup company that specializes in data collection, machine learning, and predictive analysis. 
 Our workflow included three vital steps: collecting real-world data from various sources, processing them, and uploading them to the company database. The cleaning process was the most challenging and important one for many reasons. The data we acquired contained information in German, French, and Italian, so the first step was to use deep learning to translate them to English. The next step was to extract information from a source which contained multiple types of inputs in one column without a distinct pattern. All these steps were implemented in a pipeline with the aim to allow an easy insertion of future data into the company database. This way, the app can remain up to date with the latest datasets provided. Furthermore, we analyzed the data at hand using statistical tools, visualization, and machine learning. These tools were the essential components of the interactive app we created on Streamlit to make the data we extracted accessible and easy for the hospitals to use.
 
-[Streamlit link:](https://share.streamlit.io/ansamz/hospitals-and-diseases-in-switzerland/main/notebooks/AZ-streamlit.py)
+[Streamlit link](https://share.streamlit.io/ansamz/hospitals-and-diseases-in-switzerland/main/notebooks/AZ-streamlit.py)
+[Streamlit Repository](https://github.com/ansamz/Streamlit-app-hospitals-and-diseases)
 
 For example, the graph below contains the following information: the number of patients per hospital according to the disease category, the city and canton where the hospital is located, and the population number. In our app, you can hover over cities to display more information:
 
